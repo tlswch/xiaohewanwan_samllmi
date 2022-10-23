@@ -11,8 +11,8 @@
     "首页片单是否Jsoup写法": "1",
     "分类起始页码": "1",
     "分类链接": "https://www.bxiutv.com/btop/{cateId}/page/{catePg}.html",
-    "分类名称": "电影&",
-    "分类名称替换词": "dianying&",
+    "分类名称": "电影&电视剧&动漫&综艺&纪录片",
+    "分类名称替换词": "dianying&dianshiju&dongman&zongyi&jilupian",
     "筛选数据": {},
     //"筛选数据": "ext",
     //{cateId}
