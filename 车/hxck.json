@@ -6,7 +6,7 @@
     "图片是否需要代理": "0",
     "是否开启获取首页数据": "1",
     "首页推荐链接": "http://2357ck.cc",
-    "首页列表数组规则": ".stui-vodlist.clearfix&&ul",
+    "首页列表数组规则": "body&&.stui-vodlist.clearfix",
     "首页片单列表数组规则": ".stui-vodlist__box",
     "首页片单是否Jsoup写法": "1",
     "首页片单标题": "h4&&.title&&Text",
