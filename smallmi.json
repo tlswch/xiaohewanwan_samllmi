@@ -10,20 +10,13 @@
 			]
 		}]
 	}],
-	"sites": [{
-			"key": "Zjdr",
-			"name": "追剧达人(爬虫)",
-			"type": 3,
-			"api": "csp_Zjdr",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 1
-		},
+	"sites": [
+		{"key": "T4_douban","name": "影视推荐(首页)","type": 4,"api": "http://top.fuqizhishi.com/vod","searchable": 1,"quickSearch": 1,"filterable": 0},
 		{
-			"key": "Dy555",
-			"name": "555影视(爬虫)",
+			"key": "SP360",
+			"name": "360聚合(爬虫)",
 			"type": 3,
-			"api": "csp_Dy555",
+			"api": "csp_SP360",
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1
@@ -46,6 +39,69 @@
 			"quickSearch": 1,
 			"filterable": 1
 		},
+		{
+			"key": "mtv_pc_简影影视",
+			"name": "简影影视(爬虫)",
+			"type": 3,
+			"api": "csp_JianYing",
+			"filterable": 1,
+			"quickSearch": 1,
+			"searchable": 1,
+			"playerType": "2",
+			"jar": "https://download.kstore.space/download/3450/vob.txt",
+			"ext": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyIjp7IklEIjozNDc4MiwiQ3JlYXRlZEF0IjoiMjAyMi0wOS0yNlQxMTowOTo0Ni43NDkrMDg6MDAiLCJVcGRhdGVkQXQiOiIyMDIyLTEwLTA1VDEwOjAwOjU5LjA3KzA4OjAwIiwiRGVsZXRlZEF0IjpudWxsLCJ1c2VyX2VtYWlsIjoiNTg3ODEzNDlAcXEuY29tIiwidXNlcl9uYW1lIjoiIiwidXNlcl9wd2QiOiIiLCJ1c2VyX2lkIjoiNTkwOWIyYTMtNTUzOS00NWE3LTg2MjUtODIwZmIwM2M5YzUwIiwidXNlcl9hbnN3ZXIiOiIiLCJsb2NrX2lzIjoiRmFsc2UiLCJpc190diI6IiIsImlzX2FkbWluIjoiRmFsc2UiLCJyZWdfdGltZSI6IjIwMjItMTAtMDVUMTA6MDA6NTkuMDcrMDg6MDAiLCJyZWdfa2V5IjoiNzMwODE2MjAiLCJ0dl90aW1lIjpudWxsLCJ0dl9rZXkiOiIifSwiZXhwIjoxNjY2MzIxNzQ3LCJpc3MiOiJBbGZyZWRvIE1lbmRvemEifQ.P2etFz7ILSDaL4AEUs5-z9E7Vlt0LCJE-UZ1hUa5fYg"
+		},
+		{
+			"key": "qiyou",
+			"name": "️奇优影院(H规则)",
+			"type": 3,
+			"api": "csp_XYQHiker",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 0,
+			"ext": "https://ghproxy.com/https://raw.githubusercontent.com/smallmi18/TVB/main/H/qiyou.json",
+			"jar": "https://agit.ai/xiaohewanwan/jar/raw/branch/main/XYQPlugin_0926.jar"
+		},
+		{
+			"key": "csp_剧荒",
+			"name": "剧荒影视(爬虫)",
+			"type": 3,
+			"api": "csp_Juhuang",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+			"jar": "https://download.kstore.space/download/3450/vob.txt"
+		},
+
+		
+		{
+			"key": "Zjdr",
+			"name": "追剧达人(爬虫)",
+			"type": 3,
+			"api": "csp_Zjdr",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1
+		},
+		{
+			"key": "Czsapp",
+			"name": "厂长影视(爬虫)",
+			"type": 3,
+			"api": "csp_Czsapp",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1
+		},
+		{
+			"key": "Dy555",
+			"name": "555影视(爬虫)",
+			"type": 3,
+			"api": "csp_Dy555",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1
+		},
+		
 		{
 			"key": "Auete",
 			"name": "奥特影视(爬虫)",
@@ -83,15 +139,7 @@
 			"quickSearch": 1,
 			"filterable": 1
 		},
-		{
-			"key": "Czsapp",
-			"name": "厂长影视(爬虫)",
-			"type": 3,
-			"api": "csp_Czsapp",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 1
-		},
+		
 		{
 			"key": "If101",
 			"name": "一零一翻(爬虫)",
@@ -155,15 +203,7 @@
 			"quickSearch": 1,
 			"filterable": 1
 		},
-		{
-			"key": "SP360",
-			"name": "360聚合(爬虫)",
-			"type": 3,
-			"api": "csp_SP360",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 1
-		},
+		
 		{
 			"key": "Xiaoh",
 			"name": "泥巴影视(爬虫)",
@@ -210,28 +250,7 @@
 			"api": "https://gitcode.net/fenwe078/dr_py/-/raw/master/libs/drpy.ym.js",
 			"ext": "https://gitcode.net/fenwe078/dr_py/-/raw/master/js/ddys.js"
 		},
-		{
-			"key": "mtv_pc_简影影视",
-			"name": "简影影视(爬虫)",
-			"type": 3,
-			"api": "csp_JianYing",
-			"filterable": 1,
-			"quickSearch": 1,
-			"searchable": 1,
-			"playerType": "2",
-			"jar": "https://download.kstore.space/download/3450/vob.txt",
-			"ext": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyIjp7IklEIjozNDc4MiwiQ3JlYXRlZEF0IjoiMjAyMi0wOS0yNlQxMTowOTo0Ni43NDkrMDg6MDAiLCJVcGRhdGVkQXQiOiIyMDIyLTEwLTA1VDEwOjAwOjU5LjA3KzA4OjAwIiwiRGVsZXRlZEF0IjpudWxsLCJ1c2VyX2VtYWlsIjoiNTg3ODEzNDlAcXEuY29tIiwidXNlcl9uYW1lIjoiIiwidXNlcl9wd2QiOiIiLCJ1c2VyX2lkIjoiNTkwOWIyYTMtNTUzOS00NWE3LTg2MjUtODIwZmIwM2M5YzUwIiwidXNlcl9hbnN3ZXIiOiIiLCJsb2NrX2lzIjoiRmFsc2UiLCJpc190diI6IiIsImlzX2FkbWluIjoiRmFsc2UiLCJyZWdfdGltZSI6IjIwMjItMTAtMDVUMTA6MDA6NTkuMDcrMDg6MDAiLCJyZWdfa2V5IjoiNzMwODE2MjAiLCJ0dl90aW1lIjpudWxsLCJ0dl9rZXkiOiIifSwiZXhwIjoxNjY2MzIxNzQ3LCJpc3MiOiJBbGZyZWRvIE1lbmRvemEifQ.P2etFz7ILSDaL4AEUs5-z9E7Vlt0LCJE-UZ1hUa5fYg"
-		},
-		{
-			"key": "csp_剧荒",
-			"name": "剧荒影视(爬虫)",
-			"type": 3,
-			"api": "csp_Juhuang",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 1,
-			"jar": "https://download.kstore.space/download/3450/vob.txt"
-		},
+		
 		{
 			"key": "csp_Mjxq",
 			"name": "美剧星球(爬虫)",
@@ -315,17 +334,7 @@
 			"ext": "https://ghproxy.com/https://raw.githubusercontent.com/smallmi18/TVB/main/H-1/heihei.json",
 			"jar": "https://agit.ai/xiaohewanwan/jar/raw/branch/main/XYQPlugin_0926.jar"
 		},
-		{
-			"key": "qiyou",
-			"name": "️奇优影院(H规则)",
-			"type": 3,
-			"api": "csp_XYQHiker",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 0,
-			"ext": "https://ghproxy.com/https://raw.githubusercontent.com/smallmi18/TVB/main/H/qiyou.json",
-			"jar": "https://agit.ai/xiaohewanwan/jar/raw/branch/main/XYQPlugin_0926.jar"
-		},
+		
 		{
 			"key": "kankan",
 			"name": "️看看影视(H规则)",
