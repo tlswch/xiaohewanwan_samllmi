@@ -1,5 +1,5 @@
 {
-	"spider": "https://download.kstore.space/download/3450/Pandora.txt",
+	"spider": "https://download.kstore.space/download/3450/cs.txt",
 	"wallpaper": "http://www.kf666888.cn/api/tvbox/img",
 	"lives": [{
 		"group": "redirect",
@@ -11,7 +11,7 @@
 		}]
 	}],
 	"sites": [
-		{"key": "T4_douban","name": "影视推荐(首页)","type": 4,"api": "http://top.fuqizhishi.com/vod","searchable": 1,"quickSearch": 1,"filterable": 0},
+		{"key": "T4_douban","name": "影视推荐(首页)","type": 4,"api": "https://service-la7b1xlw-1308372858.gz.apigw.tencentcs.com/release/vod","searchable": 1,"quickSearch": 1,"filterable": 0},
 		{
 			"key": "SP360",
 			"name": "360聚合(爬虫)",
@@ -52,6 +52,18 @@
 			"ext": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyIjp7IklEIjozNDc4MiwiQ3JlYXRlZEF0IjoiMjAyMi0wOS0yNlQxMTowOTo0Ni43NDkrMDg6MDAiLCJVcGRhdGVkQXQiOiIyMDIyLTEwLTA1VDEwOjAwOjU5LjA3KzA4OjAwIiwiRGVsZXRlZEF0IjpudWxsLCJ1c2VyX2VtYWlsIjoiNTg3ODEzNDlAcXEuY29tIiwidXNlcl9uYW1lIjoiIiwidXNlcl9wd2QiOiIiLCJ1c2VyX2lkIjoiNTkwOWIyYTMtNTUzOS00NWE3LTg2MjUtODIwZmIwM2M5YzUwIiwidXNlcl9hbnN3ZXIiOiIiLCJsb2NrX2lzIjoiRmFsc2UiLCJpc190diI6IiIsImlzX2FkbWluIjoiRmFsc2UiLCJyZWdfdGltZSI6IjIwMjItMTAtMDVUMTA6MDA6NTkuMDcrMDg6MDAiLCJyZWdfa2V5IjoiNzMwODE2MjAiLCJ0dl90aW1lIjpudWxsLCJ0dl9rZXkiOiIifSwiZXhwIjoxNjY2MzIxNzQ3LCJpc3MiOiJBbGZyZWRvIE1lbmRvemEifQ.P2etFz7ILSDaL4AEUs5-z9E7Vlt0LCJE-UZ1hUa5fYg"
 		},
 		{
+			"key": "4K",
+			"name": "4K影视(爬虫)",
+			"type": 3,
+			"api": "csp_xBPQ",
+			"filterable": 1,
+			"quickSearch": 1,
+			"searchable": 1,
+			"playerType": "1",
+			"jar": "http://shuyuan.miaogongzi.net/shuyuan/1666791315.txt",
+			"ext": "https://agit.ai/xiaohewanwan/atest/raw/branch/master/4kvm.json"
+		},
+		{
 			"key": "qiyou",
 			"name": "️奇优影院(H规则)",
 			"type": 3,
@@ -72,7 +84,15 @@
 			"filterable": 1,
 			"jar": "https://download.kstore.space/download/3450/vob.txt"
 		},
-
+        {
+			"key": "Lgyy",
+			"name": "蓝光影院(爬虫)",
+			"type": 3,
+			"api": "csp_Lgyy",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1
+		},
 		
 		{
 			"key": "Zjdr",
@@ -1278,9 +1298,8 @@
 		},
 		{
 			"name": "回响解析",
-			"type": 0,
-			"url": "https://hxys.tv/bfq/?url="
-		},
+			"type": 1,
+			"url": "http://110.42.2.115:880/analysis/json/?uid=2255&my=cdghijkmrtyFHRSU27&url="},
 		{
 			"name": "猫咪解析",
 			"type": 0,
