@@ -6,7 +6,7 @@
 		"channels": [{
 			"name": "redirect",
 			"urls": [
-				"proxy://do=live&type=txt&ext=aHR0cDovL2hvbWUuanVuZGllLnRvcDo4MS9yYXkvdHZsaXZlLnR4dA=="
+				"proxy://do=live&type=txt&ext=http://home.jundie.top:81/ray/tvlive.txt"
 			]
 		}]
 	}],
