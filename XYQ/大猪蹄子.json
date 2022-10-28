@@ -55,7 +55,7 @@
     "proj_year": "", 
     "proj_area": "", 
     "proj_actor": "主演：</span>&&</div>", 
-    "proj_plot": "class=\"show-desc\"&&</div>", 
+    "proj_plot": "class=\"show-desc&&</p>", 
     "tab_arr_rule": ".module-tab-items-box&&span", 
     "tab_title": "span&&Text", 
     "list_arr_rule": "body&&.module-list.sort-list", 
