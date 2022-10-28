@@ -4,7 +4,7 @@
     "Headers": "MOBILE_UA", 
     "PicNeedProxy": "0", 
     "homeContent": "1", 
-    "rcmed_url": "https://plyingshi.com", 
+    "rcmed_url": "https://www.dazhutizi.net", 
     "home_arr_rule": "body&&.module-items", 
     "hmepi_arr_rule": "a", 
     "home_is_jsoup": "1", 
