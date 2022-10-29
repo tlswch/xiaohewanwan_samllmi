@@ -48,7 +48,7 @@
     "简介详情": "class=\"module-info-introduction-content\"&&</p>",
     "线路列表数组规则": "",
     "线路标题": "h3&&Text",
-    "播放列表数组规则": "body&&.play-list",
+    "播放列表数组规则": "body&&.item-box",
     "选集列表数组规则": "a",
     "选集标题链接是否Jsoup写法": "1",
     "选集标题": "Text",
