@@ -9,7 +9,7 @@
     "hmepi_arr_rule": "a", 
     "home_is_jsoup": "1", 
     "firstpage": "1",
-    "class_url": "https://www.dazhutizi.net/index.php/vod/show/area/{area}/id/{cateId}//page/{catePg}/year/{year}.html", 
+    "class_url": "https://www.dazhutizi.net/index.php/vod/show/area/{area}/id/{cateId}/page/{catePg}/year/{year}.html", 
     "class_name": "电影&电视剧&动漫&综艺", 
     "class_value": "1&2&4&3", 
     "筛选数据": "ext", 
