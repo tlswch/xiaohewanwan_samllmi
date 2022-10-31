@@ -11,7 +11,7 @@
 	"首页片单是否Jsoup写法": "1",
 	"分类起始页码": "1",
 	//http://www.tebotv.com/index.php/vod/show/area/%E5%A4%A7%E9%99%86/by/hits/class/%E5%96%9C%E5%89%A7/id/6/lang/%E5%9B%BD%E8%AF%AD/letter/A/year/2018.html
-	"分类链接": "https://zyone.vqyt.cn/index.php/vod/show/area/{area}/by/{by}/class/{class}/id/{cateId}/lang/{lang}/year/{year}/page/{catePg}.html",
+	"分类链接": "https://zyone.vqyt.cn/index.php/vod/show/area/{area}/by/hits/class/{class}/id/{cateId}/lang/{lang}/letter/{letter}/year/{year}/page/{catePg}.html",
 	"分类名称": "电影&电视剧&综艺&动漫",
 	"分类名称替换词": "1&2&3&4",
 	//"筛选数据": {},
