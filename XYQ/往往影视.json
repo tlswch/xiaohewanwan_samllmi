@@ -6,8 +6,8 @@
 	"图片是否需要代理": "否",
 	"是否开启获取首页数据": "1",
 	"首页推荐链接": "https://zyone.vqyt.cn",
-	"首页列表数组规则": ".hl-vod-list&&li",
-	"首页片单列表数组规则": "a",
+	"首页列表数组规则": ".hl-vod-list&&ul",
+	"首页片单列表数组规则": "li",
 	"首页片单是否Jsoup写法": "1",
 	"分类起始页码": "1",
 	//http://www.tebotv.com/index.php/vod/show/area/%E5%A4%A7%E9%99%86/by/hits/class/%E5%96%9C%E5%89%A7/id/6/lang/%E5%9B%BD%E8%AF%AD/letter/A/year/2018.html
