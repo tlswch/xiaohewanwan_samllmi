@@ -11,8 +11,8 @@
     "首页片单是否Jsoup写法": "1",
     "分类起始页码": "1",
     "分类链接": "https://www.kyikan.cc/index.php?m=vod-list-id-{cateId}-pg-{catePg}-order--by--class-0-year-{year}-letter--area-{area}-lang-.html",
-    "分类名称": "国漫&日番&剧场",
-    "分类名称替换词": "1&2&3",
+    "分类名称": "电影&连续剧&动漫&综艺&欧美剧&国产剧&日韩剧&4K电影",
+    "分类名称替换词": "1&2&4&3&14&12&15&40",
     "筛选数据": {},
     //"筛选数据": "ext",
     //{cateId}
