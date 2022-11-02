@@ -114,7 +114,7 @@
 			"filterable": 1
 		},
         {
-			"key": "念影",
+			"key": "ny",
 			"name": "念影影院(爬虫)",
 			"type": 3,
 			"api": "csp_Nianying",
