@@ -269,7 +269,7 @@
     
     
     "ssmoshi": "1", 
-    "sousuoqian": "/search/", 
+    "sousuoqian": "https://tktube.com/search/", 
     "sousuohou": "", 
     "sousuohouzhui": "/", 
     "jspic": "pic", 
