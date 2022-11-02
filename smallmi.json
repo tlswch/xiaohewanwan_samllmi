@@ -82,6 +82,7 @@
 			"jar": "http://shuyuan.miaogongzi.net/shuyuan/1666791315.txt",
 			"ext": "https://agit.ai/xiaohewanwan/atest/raw/branch/master/4kvm.json"
 		},
+
 		{
 			"key": "qiyou",
 			"name": "️奇优影院(H规则)",
@@ -112,7 +113,42 @@
 			"quickSearch": 1,
 			"filterable": 1
 		},
-
+        {
+			"key": "念影",
+			"name": "念影影院(爬虫)",
+			"type": 3,
+			"api": "csp_Nianying",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1
+		},
+		{
+			"key": "饭团",
+			"name": "饭团影院(爬虫)",
+			"type": 3,
+			"api": "csp_Fantuan",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1
+		},
+		{
+			"key": "双十影院",
+			"name": "双十影院(爬虫)",
+			"type": 3,
+			"api": "csp_Dy1010",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1
+		},
+		{
+			"key": "天空影院",
+			"name": "天空影院(爬虫)",
+			"type": 3,
+			"api": "csp_Tkys",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1
+		},
 		{
 			"key": "Zjdr",
 			"name": "追剧达人(爬虫)",
