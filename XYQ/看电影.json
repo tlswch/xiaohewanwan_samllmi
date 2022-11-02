@@ -6,17 +6,18 @@
     "图片是否需要代理": "0",
     "是否开启获取首页数据": "1",
     "首页推荐链接": "https://www.watchdy.top",
-    "首页列表数组规则": "body&&.col-md-4.col-sm-4.col-xs-4.col-lg-2",
+    "首页列表数组规则": "body&&.col-md-4.col-sm-4",
     "首页片单列表数组规则": "a",
     "首页片单是否Jsoup写法": "1",
     "分类起始页码": "1",
     //https://www.watchdy.top/Vod/Index/{catePg}/{cateID}/{year}/{calss}/0?order=0
-    "分类链接": "https://www.watchdy.top/Vod/Index/{catePg}/{cateId}/0?order=0",    
+    //https://www.watchdy.top/Vod/Index/1/1/
+    "分类链接": "https://www.watchdy.top/Vod/Index/{catePg}/{cateId}/0/0/0?order=0",    
     "分类名称": "电影&电视剧&动漫&综艺",
     "分类名称替换词": "1&2&3&4",
     
     "分类截取模式": "1",
-    "分类列表数组规则": "body&&.col-md-4.col-sm-4.col-xs-4.col-lg-2",
+    "分类列表数组规则": "body&&.col-md-4.col-sm-4",
     "分类片单是否Jsoup写法": "1",
     "分类片单标题": "strong&&Text",
     "分类片单链接": "a&&href",
