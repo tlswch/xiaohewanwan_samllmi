@@ -54,7 +54,8 @@
 			"api": "csp_Yanet",
 			"searchable": 1,
 			"quickSearch": 1,
-			"filterable": 1
+			"filterable": 1,
+			"jar":"https://try.gitea.io/lzl19931007/aaaa/raw/branch/main/cs-1.txt"
 		},
 		{
 			"key": "mtv_pc_简影影视",
@@ -156,7 +157,8 @@
 			"api": "csp_Tbook",
 			"searchable": 1,
 			"quickSearch": 1,
-			"filterable": 1
+			"filterable": 1,
+			"jar":"https://try.gitea.io/lzl19931007/aaaa/raw/branch/main/cs-1.txt"
 		},
 		{
 			"key": "Bili",
@@ -185,7 +187,8 @@
 			"api": "csp_If101",
 			"searchable": 1,
 			"quickSearch": 1,
-			"filterable": 1
+			"filterable": 1,
+			"jar":"https://try.gitea.io/lzl19931007/aaaa/raw/branch/main/cs-1.txt"
 		},
 		{
 			"key": "IKan",
@@ -251,7 +254,8 @@
 			"api": "csp_Xiaoh",
 			"searchable": 1,
 			"quickSearch": 1,
-			"filterable": 1
+			"filterable": 1,
+			"jar":"https://try.gitea.io/lzl19931007/aaaa/raw/branch/main/cs-1.txt"
 		},
 		{
 			"key": "Zxzj",
@@ -517,7 +521,7 @@
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1,
-			"ext": "https://gitea.com/Yoursmile99/Yoursmile/raw/branch/main/token.txt"
+			"ext": ""
 		},
 		{
 			"key": "csp_Alist",
