@@ -248,7 +248,7 @@
     "列表显示": "0", 
     "横图显示": "1", 
     "qishiye": "1", 
-    "fenlei": "电视剧$https://tktube.com/latest-updates/?mode=async&function=get_block&block_id=list_videos_latest_videos_list&sort_by=post_date&from=3", 
+    "fenlei": "电视剧$https://tktube.com/latest-updates/?mode=async&function=get_block&block_id=list_videos_latest_videos_list&sort_by=post_date&from=", 
     "houzhui": "&_=1667370296245", 
     "shifouercijiequ": "0", 
     "jiequqian": "空", 
@@ -269,7 +269,7 @@
     
     
     "ssmoshi": "1", 
-    "sousuoqian": "https://tktube.com/search/", 
+    "sousuoqian": "/search/", 
     "sousuohou": "", 
     "sousuohouzhui": "/", 
     "jspic": "pic", 
