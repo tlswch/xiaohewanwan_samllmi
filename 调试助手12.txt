@@ -268,7 +268,7 @@
     "ljhouzhui": "空", 
     "禁用搜索": "0", 
     "搜索请求方式": "1", 
-    "ssmoshi": "0", 
+    "ssmoshi": "1", 
     "sousuoqian": "/search/", 
     "sousuohou": "/", 
     "sousuohouzhui": "", 
