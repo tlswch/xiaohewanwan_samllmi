@@ -339,7 +339,7 @@
 			"key": "T4",
 			"name": "T444搜索(爬虫）",
 			"type": 4,
-			"api": "https://service-la7b1xlw-1308372858.gz.apigw.tencentcs.com/release/vod?sites=all&ali_token=https://gitea.com/Yoursmile99/Yoursmile/raw/branch/main/token.txt",
+			"api": "https://service-la7b1xlw-1308372858.gz.apigw.tencentcs.com/release/vod?sites=all&ali_token=https://gitea.com/Yoursmile2/Yoursmile/raw/branch/main/token.txt",
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1,
@@ -455,6 +455,17 @@
 			"quickSearch": 1,
 			"filterable": 0,
 			"ext": "https://agit.ai/xiaohewanwan/samllmi/raw/branch/master/XYQ/%e7%9c%8b%e7%94%b5%e5%bd%b1.json",
+			"jar": "https://agit.ai/xiaohewanwan/jar/raw/branch/main/XYQPlugin_0926.jar"
+		},
+		{
+			"key": "追剧兔兔",
+			"name": "️追剧兔兔(H规则)",
+			"type": 3,
+			"api": "csp_XYQHiker",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 0,
+			"ext": "https://agit.ai/xiaohewanwan/samllmi/raw/branch/master/XYQ/%e8%bf%bd%e5%89%a7%e5%85%94.json",
 			"jar": "https://agit.ai/xiaohewanwan/jar/raw/branch/main/XYQPlugin_0926.jar"
 		},
 		{
@@ -596,11 +607,12 @@
 			"key": "AliPS",
 			"name": "阿里盘搜(阿里搜索)",
 			"type": 3,
-			"api": "csp_AliPS",
+			"api": "csp_PanSou",
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1,
-			"ext": ""
+			"jar":"https://ghproxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/jar/custom_spider.jar",
+			"ext": "https://gitea.com/Yoursmile2/Yoursmile/raw/branch/main/token.txt"
 		},
 		{
 			"key": "csp_Alist",
@@ -620,7 +632,7 @@
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1,
-			"ext": "https://gitea.com/Yoursmile99/Yoursmile/raw/branch/main/token.txt"
+			"ext": "https://gitea.com/Yoursmile2/Yoursmile/raw/branch/main/token.txt"
 		},
 		{
 			"key": "csp_Yiso",
@@ -630,7 +642,7 @@
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 0,
-			"ext": "https://gitea.com/Yoursmile99/Yoursmile/raw/branch/main/token.txt"
+			"ext": "https://gitea.com/Yoursmile2/Yoursmile/raw/branch/main/token.txt"
 		},
 		{
 			"key": "csp_Upyunso",
@@ -640,7 +652,7 @@
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1,
-			"ext": "https://gitea.com/Yoursmile99/Yoursmile/raw/branch/main/token.txt"
+			"ext": "https://gitea.com/Yoursmile2/Yoursmile/raw/branch/main/token.txt"
 		},
 		{
 			"key": "csp_XYQBiu_疯狗影院",
