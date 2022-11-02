@@ -14,7 +14,7 @@
 			"key": "T4_douban",
 			"name": "影视推荐(首页)",
 			"type": 4,
-			"api": "https://service-la7b1xlw-1308372858.gz.apigw.tencentcs.com/release/vod",
+			"api": "http://top.fuqizhishi.com/vod",
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 0
@@ -32,9 +32,10 @@
 			"key": "Ddys",
 			"name": "低端影视(爬虫)",
 			"type": 3,
-			"api": "csp_Ddys",
+			"api": "csp_Ddrk",
 			"searchable": 1,
 			"quickSearch": 1,
+			"click":"ddys.tv;#vjsp > button",
 			"filterable": 1
 		},
 		{
@@ -98,7 +99,7 @@
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1,
-			"jar": "https://download.kstore.space/download/3450/vob.txt"
+			"jar": ""
 		},
 		{
 			"key": "Lgyy",
@@ -118,7 +119,7 @@
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1,
-			"jar":"https://try.gitea.io/lzl19931007/aaaa/raw/branch/main/cs-1.txt"
+			"jar":""
 		},
 		{
 			"key": "Czsapp",
