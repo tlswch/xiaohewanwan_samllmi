@@ -10,7 +10,7 @@
 "首页片单列表数组规则":"a",
 "首页片单是否Jsoup写法":"1",
 "分类起始页码":"1",
-"分类链接":"http://www.manjie.cc/type/{cateId}------addtime-{catePg}.html",
+"分类链接":"http://www.manjie.cc/type/{cateId}-{calss}--{year}---addtime-{catePg}.html",
 "分类名称":"国漫&日漫&欧漫&动漫电影",
 "分类名称替换词":"2&3&4&5",
 "筛选数据":"ext",
