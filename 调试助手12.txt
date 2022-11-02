@@ -266,12 +266,12 @@
     "lianjiehou": "\"", 
     "ljqianzhui": "空", 
     "ljhouzhui": "空", 
-    "禁用搜索": "0", 
-    "搜索请求方式": "1", 
+    
+    
     "ssmoshi": "1", 
     "sousuoqian": "/search/", 
-    "sousuohou": "/", 
-    "sousuohouzhui": "", 
+    "sousuohou": "", 
+    "sousuohouzhui": "/", 
     "jspic": "pic", 
     "jsname": "name", 
     "jsid": "id", 
