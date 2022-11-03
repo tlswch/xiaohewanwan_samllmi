@@ -46,7 +46,7 @@
 	"搜索链接": "http://www.92shengshi.com/sopian.html?wd={wd}&submit=",
 	"POST请求数据": "",
 	"搜索截取模式": "1",
-	"搜索列表数组规则": "body&&.col-lg-5.col-md-4.col-sm-5",
+	"搜索列表数组规则": "#searchList&&.myui-vodlist__thumb",
 	"搜索片单是否Jsoup写法": "1",
 	"搜索片单图片": "a&&data-original",
 	"搜索片单标题": "a&&title",
