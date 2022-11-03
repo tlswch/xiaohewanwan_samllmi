@@ -7,7 +7,7 @@
     "是否开启获取首页数据": "1",
     "首页推荐链接": "https://www.kyikan.cc",
     "首页列表数组规则": ".index-area.clearfix&&ul",
-    "首页片单列表数组规则": "li",
+    "首页片单列表数组规则": ".p1.m1",
     "首页片单是否Jsoup写法": "1",
     "分类起始页码": "1",
     "分类链接": "https://www.kyikan.cc/index.php?m=vod-list-id-{cateId}-pg-{catePg}-order--by--class-0-year-{year}-letter--area-{area}-lang-.html",
