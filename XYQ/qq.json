@@ -5,7 +5,9 @@
     "分类": "电影&",
     "分类值": "chinese-av-porn&",
     "二次截取": "空",
-    "数组": "class=\"post-item-wrap\">&&</div>",
+   
+    //"数组": "class=\"post-item-wrap\">&&</div>",
+    "数组": "class=\"blog-pic-wrap\">&&</img>",
     "图片": "data-src=\"&&\"",
     "标题": "alt=\"&&\"",
     "链接": "href=\"&&\"",
