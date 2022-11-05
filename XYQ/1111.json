@@ -164,9 +164,9 @@
     //集数数组截取后，必须
     "epi_arr_suf": "}",
     //集数标题，截取前缀&&截取后缀
-    "epi_title": "source_label\":&&\"",
+    "epi_title": "source_label",
     //集数链接，截取前缀&&截取后缀
-    "epi_url": "source_file\":&&\"",
+    "epi_url": "source_file",
     //选集是否反转显示
     "epi_reverse": "0",
     //集数链接补前缀
