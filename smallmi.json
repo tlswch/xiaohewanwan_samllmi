@@ -514,6 +514,17 @@
             "jar": "https://agit.ai/xiaohewanwan/jar/raw/branch/main/XYQPlugin_0926.jar"
         },
         {
+            "key": "1111",
+            "name": "️11111(H规则)",
+            "type": 3,
+            "api": "csp_XYQBiu",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0,
+            "ext": "https://agit.ai/xiaohewanwan/samllmi/raw/branch/master/XYQ/1111.json",
+            "jar": "https://agit.ai/xiaohewanwan/jar/raw/branch/main/XYQPlugin_0926.jar"
+        },
+        {
             "key": "大猪蹄子",
             "name": "️大猪蹄子(H规则)",
             "type": 3,
