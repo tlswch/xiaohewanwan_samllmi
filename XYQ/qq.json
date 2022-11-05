@@ -28,7 +28,7 @@
  "播放链接": "source_file",
  "线路合并": "1",
  "嗅探词": ".m3u8",
- "过滤词": "baidu.com"
+ "过滤词": "baidu.com",
 
 "播放请求头": "",
 "分类url": "https://cableav.tv/category/{cateId}/page/{catePg}/",
