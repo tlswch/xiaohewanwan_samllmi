@@ -143,13 +143,13 @@
     "tab_title": "空",
     
     //列表是否二次截取
-    "list_YN_twice": "0",
+    "list_YN_twice": "1",
     //列表二次截取前
-    "list_twice_pre": "空",
+    "list_twice_pre": "\"admin_ajax\":",
     //列表二次截取后
-    "list_twice_suf": "空",
+    "list_twice_suf": "single_media_sources\":[",
     //列表数组截取前，必须
-    "list_arr_pre": "single_media_sources\":[{",
+    "list_arr_pre": "\"scrollbar_library\":",
     //列表数组截取后，必须
     "list_arr_suf": "\"single_media_vod_metadata\":",
     
