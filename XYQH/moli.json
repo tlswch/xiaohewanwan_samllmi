@@ -51,7 +51,7 @@
 	"sea_pic": "a&&data-original",
 	"sea_title": "a&&title",
 	"sea_url": "a&&href",
-	"sea_subtitle": ".pic-tag.pic-tag-top&&Text",
+	"sea_subtitle": ".pic-text.text-right&&Text",
 	"search_prefix": "https://www.hdmoli.com",
 	"search_suffix": "",
 	"force_play": "0",
