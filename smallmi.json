@@ -37,7 +37,7 @@
 			"click": "ddys.tv;#vjsp > button",
 			"filterable": 1
 		},
-		{"key":"测试","name":"测试(Q规则)","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://agit.ai/xiaohewanwan/samllmi/raw/branch/master/XYQ/qq.json","jar":"https://agit.ai/xiaohewanwan/jar/raw/branch/main/xBPQ_1107_%e4%bf%ae%e5%a4%8d%e5%a4%9a%e7%ba%bfbug.jar"},
+		
 		{
 			"key": "AppTT",
 			"name": "🍺🍺图图(爬虫)",
