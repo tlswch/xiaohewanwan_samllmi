@@ -512,7 +512,7 @@
 			"ext": "https://gitlab.com/duomv/duo/-/raw/main/json/JRS%E7%9C%8B%E7%90%83%E7%BD%91.json"
 		}, {
 			"key": "dr_JRKAN直播",
-			"name": "⚽🏀JRKAN直播(H规则)",
+			"name": "⚽🏀JRK直播(H规则)",
 			"type": 3,
 			"api": "https://gitlab.com/duomv/duo/-/raw/main/js/drpymin.js",
 			"searchable": 0,
