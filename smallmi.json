@@ -312,6 +312,27 @@
 			"filterable": 1
 		},
 		{
+			"key": "BT",
+			"name": "👀👀2BT(爬虫)",
+			"type": 3,
+			"api": "csp_Bttoo",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+			"jar": ""
+		},
+		{
+			"key": "bdys",
+			"name": "🅱🇩哔滴(爬虫)",
+			"type": 3,
+			"api": "csp_Bdys01",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+            "playerType": "1",
+			"jar": ""
+		},
+		{
 			"key": "Smdyy",
 			"name": "🐎🐎神马(爬虫)",
 			"type": 3,
@@ -319,7 +340,7 @@
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1,
-			"jar": "https://try.gitea.io/lzl19931007/aaaa/raw/branch/main/cs-1.txt"
+			"jar": ""
 		},
 		{
 			"key": "Xiaoh",
@@ -474,6 +495,39 @@
 			"quickSearch": 1,
 			"filterable": 0,
 			"ext": "https://agit.ai/xiaohewanwan/samllmi/raw/branch/master/XYQ/%e8%83%96%e8%99%8e%e5%bd%b1%e8%a7%86.json",
+			"jar": "https://agit.ai/xiaohewanwan/jar/raw/branch/main/XYQPlugin_0926.jar"
+		},
+		{
+			"key": "素白白",
+			"name": "️🕹️🕹️素白影视(H规则)",
+			"type": 3,
+			"api": "csp_XYQHiker",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 0,
+			"ext": "https://www.notabug.org/xiaohewanwan/hhh/raw/master/XYQ/%e7%b4%a0%e7%99%bd%e7%99%bd%e5%bd%b1%e8%a7%86.json",
+			"jar": "https://agit.ai/xiaohewanwan/jar/raw/branch/main/XYQPlugin_0926.jar"
+		},
+		{
+			"key": "皮皮泡",
+			"name": "️🕹️🕹️皮泡影视(H规则)",
+			"type": 3,
+			"api": "csp_XYQHiker",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 0,
+			"ext": "https://www.notabug.org/xiaohewanwan/hhh/raw/master/XYQ/%e7%9a%ae%e7%9a%ae%e6%b3%a1.json",
+			"jar": "https://agit.ai/xiaohewanwan/jar/raw/branch/main/XYQPlugin_0926.jar"
+		},
+		{
+			"key": "追剧达人",
+			"name": "️🕹️🕹️追剧影视(H规则)",
+			"type": 3,
+			"api": "csp_XYQHiker",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 0,
+			"ext": "https://www.notabug.org/xiaohewanwan/hhh/raw/master/XYQ/%e8%bf%bd%e5%89%a7%e8%be%be%e4%ba%ba.json",
 			"jar": "https://agit.ai/xiaohewanwan/jar/raw/branch/main/XYQPlugin_0926.jar"
 		},
 		{
@@ -655,16 +709,6 @@
 			"ext": "https://ghproxy.com/https://raw.githubusercontent.com/smallmi18/TVB/main/H/changzhang.json",
 			"jar": "https://agit.ai/xiaohewanwan/jar/raw/branch/main/XYQPlugin_0926.jar"
 		},
-		{
-			"key": "dr_素白白",
-			"name": "🕹️🕹️素白影视(道长)",
-			"type": 3,
-			"api": "https://agit.ai/xiaohewanwan/samllmi/raw/branch/master/js/lib/drpy.min.js",
-			"searchable": 2,
-			"quickSearch": 0,
-			"filterable": 0,
-			"ext": "https://agit.ai/xiaohewanwan/samllmi/raw/branch/master/js/%e7%b4%a0%e7%99%bd%e7%99%bd.js"
-		},
 
 		{
 			"key": "csp_xf_真不卡",
@@ -685,7 +729,7 @@
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 0,
-			"ext": "https://ghproxy.com/https://raw.githubusercontent.com/smallmi18/TVB/main/H/moli.json",
+			"ext": "https://agit.ai/xiaohewanwan/samllmi/raw/branch/master/XYQH/moli.json",
 			"jar": "https://agit.ai/xiaohewanwan/jar/raw/branch/main/XYQPlugin_0926.jar"
 		},
 		{
