@@ -8,7 +8,7 @@
     "数组": "class=\"post-item-wrap\">&&</div>",
     "图片": "data-src=\"&&\"",
     "标题": "alt=\"&&\"",
-    "副标题": "class=\"category-item m-font-size-10\">&&</div>",
+    "副标题": "<span class=\"duration-text font-size-12 meta-font\">&&</span>",
     "链接": "href=\"&&\"",
     "链接前缀": "",
     "搜索url": "https://cableav.tv/?s={wd}",
