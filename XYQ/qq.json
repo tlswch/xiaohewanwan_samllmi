@@ -11,7 +11,6 @@
     "副标题": "",
     "链接": "href=\"&&\"",
     "链接前缀": "",
-   
     "影片类型":"",
     "影片年代":"",
     "影片地区":"",
@@ -19,9 +18,9 @@
     "主演":"",
     "简介":"",
     "播放二次截取": "vm_video_ratio_mobile\":\"16:9\",&&,\"single_media_vod_metadata",
-    "播放列表": "single_media_sources",
-    "播放标题": "source_label",
-    "播放链接": "source_file",
+    "播放列表": "single_media_sources\":[&&]",
+    "播放标题": "source_label\":\"&&\"",
+    "播放链接": "source_file\":\"&&\"",
     "线路合并": "1",
     "嗅探词": ".m3u8",
     "过滤词": "baidu.com"
