@@ -144,7 +144,7 @@
             "quickSearch": 1,
             "searchable": 1,
             "playerType": "2",
-												"ext":"",
+			"ext":"",
             "jar": "https://try.gitea.io/lzl19931007/aaaa/raw/branch/main/sq.txt;md5;4a9bc66551a5a2e4e47cc5c2b2f39004"
         },
         {
@@ -234,11 +234,11 @@
             "key": "Zjdr",
             "name": "🏃‍♂️🏃‍♂️追剧(爬虫)",
             "type": 3,
-            "api": "csp_Zjdr",
+            "api": "csp_Dora",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "jar": "https://try.gitea.io/lzl19931007/aaaa/raw/branch/main/sq.txt;md5;4a9bc66551a5a2e4e47cc5c2b2f39004"
+            "ext":"778e8966ec0e9c0ae0b4682ad3550f40"
         },
         {
             "key": "Auete",
@@ -344,11 +344,11 @@
             "key": "Kunyu",
             "name": "🚀🚀七七(爬虫)",
             "type": 3,
-            "api": "csp_Kunyu77",
+            "api": "csp_Dora",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "jar": "https://try.gitea.io/lzl19931007/aaaa/raw/branch/main/sq.txt;md5;4a9bc66551a5a2e4e47cc5c2b2f39004"
+            "ext":"8b48a0834ee08e5e64977bc9fc8bc3e0"
         },
         {
             "key": "BT",
@@ -375,11 +375,11 @@
             "key": "Smdyy",
             "name": "🐎🐎神马(爬虫)",
             "type": 3,
-            "api": "csp_Smdyy",
+            "api": "csp_Dora",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "jar": "https://try.gitea.io/lzl19931007/aaaa/raw/branch/main/sq.txt;md5;4a9bc66551a5a2e4e47cc5c2b2f39004"
+            "ext":"16705ee9f4764be8499806f52d4bf1e7"
         },
         {
             "key": "csp_Nmys",
@@ -402,6 +402,7 @@
             "filterable": 1,
             "jar": "https://try.gitea.io/lzl19931007/aaaa/raw/branch/main/sq.txt;md5;4a9bc66551a5a2e4e47cc5c2b2f39004"
         },
+        {"key":"Dm84","name":"🌸🌸动漫(爬虫)","type":"3","api":"csp_Dora","searchable":"1","quickSearch":"1","filterable":"1","ext":"572192a9fe2136041a58e7219a46fb2b"},
         {
             "key": "csp_Yj1211",
             "name": "📹📹直播(爬虫)",
