@@ -22,15 +22,6 @@
             "api" : "https://agit.ai/xiaohewanwan/samllmi/raw/branch/master/js/lib/drpy.min.js",
             "ext" : "https://agit.ai/xiaohewanwan/samllmi/raw/branch/master/js/douban.js"
         },
-        /*{
-            "key": "T4_douban",
-            "name": "📽️📽️推荐(首页)",
-            "type": 4,
-            "api": "http://top.fuqizhishi.com/vod",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 0
-        },*/
         {
             "key": "SP360",
             "name": "⭕⭕聚合(爬虫)",
@@ -74,7 +65,7 @@
         },
         {
             "key": "Tian1",
-            "name": "🦢🦢影视(唐三)",
+            "name": "🦢🦢天天(唐三)",
             "type": "3",
             "api": "csp_Dora",
             "searchable": "1",
@@ -471,7 +462,8 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "https://gitea.com/Yoursmile2/Yoursmile/raw/branch/main/token.txt"
+            "ext": "https://gitea.com/Yoursmile2/Yoursmile/raw/branch/main/token.txt",
+            "jar":"https://try.gitea.io/lzl19931007/aaaa/raw/branch/main/sq.txt;md5;4a9bc66551a5a2e4e47cc5c2b2f39004"
         },
         {
             "key": "csp_appysv2_M2_雪人",
@@ -534,16 +526,7 @@
             "filterable": 0,
             "ext": "https://gitlab.com/duomv/duo/-/raw/main/js/JRKAN.js"
         },
-        {
-            "key": "csp_xBPQ_抓饭体育",
-            "name": "️🏅🏅抓饭体育(H规则)",
-            "type": 3,
-            "api": "csp_xBPQ",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 0,
-            "ext": "{\"分类url\":\"https://www.zhuafan.tech/sports-home/category/{cateId}\",\"分类\":\"全部$/all#足球$Football#篮球$Basketball#羽乒$Badminton#台球$Billiards#棒球$Baseball#户外$Outdoors#搏击$Wrestling#综合$Others#棋盘$Boardgame#电竞$Popular#网球$Tennis#排球$Volleyball#聊天$Chat#原声$Acoustic\",\"热门推荐\":\"1\",\"起始页\":\"1\",\"直接播放\":\"1\",\"数组\":\"{&&}\",\"图片\":\"imageUrl\\\":\\\"&&\\\"\",\"标题\":\"cname\\\":\\\"&&\\\"\",\"链接\":\"id\\\":\\\"&&\\\"\",\"链接前缀\":\"https://www.zhuafan.tech/\"}"
-        },
+        
         //--------------自己写
         {
             "key": "007",
