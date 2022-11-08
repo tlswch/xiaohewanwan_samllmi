@@ -17,7 +17,7 @@
     "sites": [
         {
             "key" : "drpy_js_豆瓣",
-            "name" : "📽️📽️推荐(首页)",
+            "name" : "📽️📽推荐(首页)",
             "type" : 3,
             "api" : "https://agit.ai/xiaohewanwan/samllmi/raw/branch/master/js/lib/drpy.min.js",
             "ext" : "https://agit.ai/xiaohewanwan/samllmi/raw/branch/master/js/%e8%b1%86%e7%93%a3.js"
