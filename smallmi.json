@@ -584,6 +584,17 @@
             "jar": "https://agit.ai/xiaohewanwan/jar/raw/branch/main/XYQPlugin_0926.jar"
         },
         {
+            "key": "草民影视",
+            "name": "️🕹️🕹️草民影视(H规则)",
+            "type": 3,
+            "api": "csp_XYQHiker",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0,
+            "ext": "https://agit.ai/xiaohewanwan/samllmi/raw/branch/master/XYQ/%e8%8d%89%e6%b0%91%e5%bd%b1%e8%a7%86.json",
+            "jar": "https://agit.ai/xiaohewanwan/jar/raw/branch/main/XYQPlugin_0926.jar"
+        },
+        {
             "key": "追剧达人",
             "name": "️🕹️🕹️追剧影视(H规则)",
             "type": 3,
