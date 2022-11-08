@@ -107,7 +107,7 @@
             "key": "Kuaikan", 
             "name": "🚈🚈快看(爬虫)", 
             "type": 3, 
-            "api": "csp_Kuaikan", 
+            "api": "csp_Dora", 
             "searchable": 1, 
             "quickSearch": 1, 
             "filterable": 1, 
