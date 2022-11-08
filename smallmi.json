@@ -104,6 +104,16 @@
             "ext": "16705ee9f4764be8499806f52d4bf1e7"
         },
         {
+            "key": "Kuaikan", 
+            "name": "🚈🚈快看(爬虫)", 
+            "type": 3, 
+            "api": "csp_Kuaikan", 
+            "searchable": 1, 
+            "quickSearch": 1, 
+            "filterable": 1, 
+             "ext": "459b1cb892e317546676a2c9dcec2bff"
+        }, 
+        {
             "key": "Zjdr", 
             "name": "🏃‍♂️🏃‍♂️追剧(爬虫)", 
             "type": 3, 
@@ -420,16 +430,7 @@
             "filterable": 1, 
             "jar": "https://try.gitea.io/lzl19931007/aaaa/raw/branch/main/sq.txt;md5;4a9bc66551a5a2e4e47cc5c2b2f39004"
         }, 
-        {
-            "key": "Kuaikan", 
-            "name": "🚈🚈快看(爬虫)", 
-            "type": 3, 
-            "api": "csp_Kuaikan", 
-            "searchable": 1, 
-            "quickSearch": 1, 
-            "filterable": 1, 
-            "jar": "https://try.gitea.io/lzl19931007/aaaa/raw/branch/main/sq.txt;md5;4a9bc66551a5a2e4e47cc5c2b2f39004"
-        }, 
+        
         {
             "key": "BT", 
             "name": "👀👀2BT(爬虫)", 
@@ -451,16 +452,7 @@
             "playerType": "1", 
             "jar": "https://try.gitea.io/lzl19931007/aaaa/raw/branch/main/sq.txt;md5;4a9bc66551a5a2e4e47cc5c2b2f39004"
         }, 
-        {
-          "key":"快看",
-          "name":"👀快看",
-          "type":3,
-          "api":"csp_Kuaikan",
-          "searchable":1,
-          "quickSearch":1,
-          "filterable":1,
-          "jar": "https://try.gitea.io/lzl19931007/aaaa/raw/branch/main/sq.txt;md5;4a9bc66551a5a2e4e47cc5c2b2f39004"
-        },
+        
         {
             "key": "csp_Nmys", 
             "name": "🧑‍🌾🧑‍🌾农民(爬虫)", 
