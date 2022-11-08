@@ -15,7 +15,8 @@
         }
     ],
     "sites": [
-        {
+       
+        /*{
             "key": "T4_douban",
             "name": "📽️📽️推荐(首页)",
             "type": 4,
@@ -23,7 +24,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 0
-        },
+        },*/
         {
             "key": "SP360",
             "name": "⭕⭕聚合(爬虫)",
