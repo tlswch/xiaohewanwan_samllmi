@@ -240,16 +240,8 @@
             "filterable": 1,
             "ext":"778e8966ec0e9c0ae0b4682ad3550f40"
         },
-        {
-            "key": "Auete",
-            "name": "👾👾奥特(爬虫)",
-            "type": 3,
-            "api": "csp_Dora",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "b04b15448ad5bd4312f1fa1fb9aa9b1b"
-        },
+        {"key":"Auete","name":"👾👾奥特","type":"3","api":"csp_Dora","searchable":"1","quickSearch":"1","filterable":"1","ext":"b04b15448ad5bd4312f1fa1fb9aa9b1b"},
+        
         {
             "key": "Cokemv",
             "name": "🧃🧃可乐(爬虫)",
