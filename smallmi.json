@@ -452,6 +452,16 @@
             "jar": "https://try.gitea.io/lzl19931007/aaaa/raw/branch/main/sq.txt;md5;4a9bc66551a5a2e4e47cc5c2b2f39004"
         }, 
         {
+          "key":"快看",
+          "name":"👀快看",
+          "type":3,
+          "api":"csp_Kuaikan",
+          "searchable":1,
+          "quickSearch":1,
+          "filterable":1,
+          "jar": "https://try.gitea.io/lzl19931007/aaaa/raw/branch/main/sq.txt;md5;4a9bc66551a5a2e4e47cc5c2b2f39004"
+        },
+        {
             "key": "csp_Nmys", 
             "name": "🧑‍🌾🧑‍🌾农民(爬虫)", 
             "type": 3, 
