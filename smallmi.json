@@ -1187,16 +1187,7 @@
                 }
             }
         }, 
-        {
-            "name": "GGTV", 
-            "type": 1, 
-            "url": "https://play.fuqizhishi.com/jx1/API.php?appkey=iiiixiaobai&url="
-        }, 
-        {
-            "name": "GGTV聚合", 
-            "type": 1, 
-            "url": "https://play.fuqizhishi.com/juhe/API.php?appkey=caijijuhe220902&url="
-        }, 
+       
         {
             "name": "刘兵解析", 
             "type": 1, 
@@ -1443,22 +1434,7 @@
             "name": "rx2", 
             "type": 1, 
             "url": "http://rxjx.kuanjv.com/allm3u8.php?url="
-        }
-    ], 
-    "flags": [
-        "youku", 
-        "qq", 
-        "iqiyi", 
-        "qiyi", 
-        "letv", 
-        "sohu", 
-        "tudou", 
-        "pptv", 
-        "mgtv", 
-        "wasu", 
-        "bilibili", 
-        "csm3u8"
-    ], 
+        }],
     "ijk": [
         {
             "group": "软解码", 
