@@ -77,13 +77,13 @@
     ], 
     "sites": [
         {"key":"T4_douban","name":"🔍🔍推荐(T4)","type":4,"api":"http://top.fuqizhishi.com/vod","searchable":1,"quickSearch":1,"filterable":1},
-        {
+        /*{
             "key": "drpy_js_豆瓣", 
             "name": "📽️📽推荐(首页)", 
             "type": 3, 
             "api": "https://agit.ai/xiaohewanwan/samllmi/raw/branch/master/js/lib/drpy.min.js", 
             "ext": "https://agit.ai/xiaohewanwan/samllmi/raw/branch/master/js/douban.js"
-        }, 
+        },*/
         {
             "key": "SP360", 
             "name": "⭕⭕聚合(爬虫)", 
