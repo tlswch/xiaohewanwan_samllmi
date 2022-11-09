@@ -76,6 +76,7 @@
         }
     ], 
     "sites": [
+        {"key":"T4_douban","name":"🔍🔍推荐(T4)","type":4,"api":"http://top.fuqizhishi.com/vod","searchable":1,"quickSearch":1,"filterable":1},
         {
             "key": "drpy_js_豆瓣", 
             "name": "📽️📽推荐(首页)", 
@@ -534,33 +535,6 @@
             "filterable": 0, 
             "ext": "米奇妙妙屋$https://anime.mqmmw.ga#9T(Adult)$https://drive.9t.ee#帅盘$https://hi.shuaipeng.wang#资源小站$https://pan.142856.xyz#晴园$https://alist.52qy.repl.co#菊花盘$https://pan.142856.xyz#小江$https://dyj.me#触光$https://pan.ichuguang.com#好汉吧$https://8023.haohanba.cn#轻弹浅唱$https://g.xiang.lol#神器云$https://quanzi.laoxianghuijia.cn"
         }, 
-        {
-  "key": "t4_搜片",
-  "name": "📡搜片(T4)",
-  "type": 4,
-  "api": "https://t4.secan.icu/vod?sites=all&timeout=7",
-  "searchable": 1,
-  "quickSearch": 1,
-  "filterable": 1
-},
-{
-  "key": "t4_合集",
-  "name": "📡合集(T4)",
-  "type": 4,
-  "api": "https://t4.secan.icu/vod?sites=all&ali_token=4acb3ad2f2254ba1b566279f7cd98ba3&timeout=10",
-  "searchable": 1,
-  "quickSearch": 1,
-  "filterable": 0
-},
-{
-  "key": "t4_聚合",
-  "name": "📡聚合(T4)",
-  "type": 4,
-  "api": "https://t4.secan.icu/vod?sites=all&ali_token=4acb3ad2f2254ba1b566279f7cd98ba3&timeout=5",
-  "searchable": 1,
-  "quickSearch": 1,
-  "filterable": 1
-},
         {
             "key": "csp_appysv2_M2_雪人", 
             "name": "☃☃雪人影视(APP)", 
