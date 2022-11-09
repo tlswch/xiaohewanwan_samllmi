@@ -534,17 +534,7 @@
             "filterable": 0, 
             "ext": "米奇妙妙屋$https://anime.mqmmw.ga#9T(Adult)$https://drive.9t.ee#帅盘$https://hi.shuaipeng.wang#资源小站$https://pan.142856.xyz#晴园$https://alist.52qy.repl.co#菊花盘$https://pan.142856.xyz#小江$https://dyj.me#触光$https://pan.ichuguang.com#好汉吧$https://8023.haohanba.cn#轻弹浅唱$https://g.xiang.lol#神器云$https://quanzi.laoxianghuijia.cn"
         }, 
-        {
-            "key": "csp_Upyunso", 
-            "name": "💯💯云搜(阿里搜索)", 
-            "type": 3, 
-            "api": "csp_Upyunso", 
-            "searchable": 1, 
-            "quickSearch": 1, 
-            "filterable": 1, 
-            "ext": "https://gitea.com/Yoursmile2/Yoursmile/raw/branch/main/token.txt", 
-            "jar": "https://try.gitea.io/lzl19931007/aaaa/raw/branch/main/sq.txt;md5;4a9bc66551a5a2e4e47cc5c2b2f39004"
-        }, 
+        
         {
             "key": "csp_appysv2_M2_雪人", 
             "name": "☃☃雪人影视(APP)", 
@@ -564,7 +554,7 @@
             "quickSearch": 1, 
             "filterable": 0, 
             "ext": "https://agit.ai/xiaohewanwan/samllmi/raw/branch/master/XYQ/17kan.json", 
-            "jar": ""
+            "jar": "https://agit.ai/xiaohewanwan/jar/raw/branch/main/XYQPlugin_0926.jar"
         }, 
         {
             "key": "dr_88看球", 
