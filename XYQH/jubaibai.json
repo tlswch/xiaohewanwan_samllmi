@@ -13,7 +13,7 @@
     //"分类链接": "https://www.jubaibaia.com/s/{cateId}/area/{arae}/class/{calss}/page/{catePg}/year/{year}.html",
     "分类链接": "https://www.jubaibaia.com/s/{cateId}/page/{catePg}.html",
     "分类名称": "电影&电视剧&综艺&动漫",
-    "分类名称替换词": "dianying&dianshiju&zongyi&dongman",
+    "分类名称替换词": "dianying&lianxuju&zongyi&dongman",
     "筛选数据": {},
     //"筛选数据": "ext",
     //{cateId}
