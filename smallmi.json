@@ -619,6 +619,17 @@
             "jar": "https://agit.ai/xiaohewanwan/jar/raw/branch/main/XYQPlugin_0926.jar"
         }, 
         {
+            "key": "奈非", 
+            "name": "️🕹️🕹️奈非影视(H规则)", 
+            "type": 3, 
+            "api": "csp_XYQHiker", 
+            "searchable": 1, 
+            "quickSearch": 1, 
+            "filterable": 0, 
+            "ext": "https://agit.ai/xiaohewanwan/samllmi/raw/branch/master/XYQH/naifei.json", 
+            "jar": "https://agit.ai/xiaohewanwan/jar/raw/branch/main/XYQPlugin_0926.jar"
+        },
+        {
             "key": "素白白", 
             "name": "️🕹️🕹️素白影视(H规则)", 
             "type": 3, 
