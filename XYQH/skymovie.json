@@ -5,7 +5,7 @@
     "PicNeedProxy": "0",
     "homeContent": "0",
     "firstpage": "1",
-    "class_url": "http://tkznp.com/vodshow/{area}{by}{catelog}{lang}/id/{cateId}/page/{catePg}{year}.html",
+    "class_url": "http://tkznp.com/vodshow/area/{area}/id/{cateId}/page/{catePg}/year/{year}.html",
     "class_name": "电影&电视剧&综艺&动漫",
     "class_value": "1&2&3&4",
     //"filterdata": {},
