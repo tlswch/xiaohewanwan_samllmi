@@ -1,5 +1,5 @@
 {
-    "spider": "https://try.gitea.io/lzl19931007/aaaa/raw/branch/main/cs.txt;md5;1b7dfc9eaab76ab2aa0da802535dadaf",
+    "spider": "https://agit.ai/xiaohewanwan/jar/raw/branch/main/88%281%29.jar",
     "wallpaper": "http://www.kf666888.cn/api/tvbox/img",
     "lives": [
         {
@@ -580,7 +580,7 @@
             "quickSearch": 1,
             "filterable": 0,
             "ext": "https://www.notabug.org/xiaohewanwan/hhh/raw/master/XYQ/%e7%9a%ae%e7%9a%ae%e6%b3%a1.json",
-            "jar": "https://agit.ai/xiaohewanwan/jar/raw/branch/main/XYQPlugin_0926.jar"
+            "jar": ""
         },
         {
             "key": "追剧达人",
@@ -591,7 +591,7 @@
             "quickSearch": 1,
             "filterable": 0,
             "ext": "https://www.notabug.org/xiaohewanwan/hhh/raw/master/XYQ/%e8%bf%bd%e5%89%a7%e8%be%be%e4%ba%ba.json",
-            "jar": "https://agit.ai/xiaohewanwan/jar/raw/branch/main/XYQPlugin_0926.jar"
+            "jar": ""
         },
         {
             "key": "au",
