@@ -1,6 +1,6 @@
 {
-    //"spider": "https://try.gitea.io/lzl19931007/aaaa/raw/branch/main/cs.txt", 
-     "spider": "https://try.gitea.io/lzl19931007/aaaa/raw/branch/main/jar/cs.txt;md5;e0924826e82aa56b850549b520bfd67f", 
+    "spider": "https://try.gitea.io/lzl19931007/aaaa/src/branch/main/jar/cs01.txt;md5;4c446f22916e5031052f374477ef149e", 
+     //"spider": "https://try.gitea.io/lzl19931007/aaaa/raw/branch/main/jar/cs.txt;md5;e0924826e82aa56b850549b520bfd67f", 
     "wallpaper": "https://picsum.photos/1280/720/?blur=5", 
     "lives": [
         {
@@ -578,7 +578,7 @@
             "quickSearch": 1, 
             "filterable": 0, 
             "ext": "https://agit.ai/xiaohewanwan/samllmi/raw/branch/master/XYQH/007ys.json", 
-            "jar": "https://agit.ai/xiaohewanwan/jar/raw/branch/main/XYQPlugin_0926.jar"
+            "jar": ""
         }, 
         {
             "key": "胖虎", 
@@ -589,7 +589,7 @@
             "quickSearch": 1, 
             "filterable": 0, 
             "ext": "https://agit.ai/xiaohewanwan/samllmi/raw/branch/master/XYQ/%e8%83%96%e8%99%8e%e5%bd%b1%e8%a7%86.json", 
-            "jar": "https://agit.ai/xiaohewanwan/jar/raw/branch/main/XYQPlugin_0926.jar"
+            "jar": ""
         }, 
         {
             "key": "奈非", 
@@ -600,7 +600,7 @@
             "quickSearch": 1, 
             "filterable": 0, 
             "ext": "https://agit.ai/xiaohewanwan/samllmi/raw/branch/master/XYQH/naifei.json", 
-            "jar": "https://agit.ai/xiaohewanwan/jar/raw/branch/main/XYQPlugin_0926.jar"
+            "jar": ""
         },
         {
             "key": "剧白", 
@@ -611,7 +611,7 @@
             "quickSearch": 1, 
             "filterable": 0, 
             "ext": "https://agit.ai/xiaohewanwan/samllmi/raw/branch/master/XYQH/jubaibai.json", 
-            "jar": "https://agit.ai/xiaohewanwan/jar/raw/branch/main/XYQPlugin_0926.jar"
+            "jar": ""
         },
         {
             "key": "素白白", 
@@ -622,7 +622,7 @@
             "quickSearch": 1, 
             "filterable": 0, 
             "ext": "https://www.notabug.org/xiaohewanwan/hhh/raw/master/XYQ/%e7%b4%a0%e7%99%bd%e7%99%bd%e5%bd%b1%e8%a7%86.json", 
-            "jar": "https://agit.ai/xiaohewanwan/jar/raw/branch/main/XYQPlugin_0926.jar"
+            "jar": ""
         }, 
         {
             "key": "皮皮泡", 
@@ -633,7 +633,7 @@
             "quickSearch": 1, 
             "filterable": 0, 
             "ext": "https://www.notabug.org/xiaohewanwan/hhh/raw/master/XYQ/%e7%9a%ae%e7%9a%ae%e6%b3%a1.json", 
-            "jar": "https://agit.ai/xiaohewanwan/jar/raw/branch/main/XYQPlugin_0926.jar"
+            "jar": ""
         }, 
         {
             "key": "草民影视", 
@@ -644,7 +644,7 @@
             "quickSearch": 1, 
             "filterable": 0, 
             "ext": "https://agit.ai/xiaohewanwan/samllmi/raw/branch/master/XYQ/%e8%8d%89%e6%b0%91%e5%bd%b1%e8%a7%86.json", 
-            "jar": "https://agit.ai/xiaohewanwan/jar/raw/branch/main/XYQPlugin_0926.jar"
+            "jar": ""
         }, 
         {
             "key": "追剧达人", 
@@ -655,7 +655,7 @@
             "quickSearch": 1, 
             "filterable": 0, 
             "ext": "https://www.notabug.org/xiaohewanwan/hhh/raw/master/XYQ/%e8%bf%bd%e5%89%a7%e8%be%be%e4%ba%ba.json", 
-            "jar": "https://agit.ai/xiaohewanwan/jar/raw/branch/main/XYQPlugin_0926.jar"
+            "jar": ""
         }, 
         {
             "key": "au", 
@@ -666,7 +666,7 @@
             "quickSearch": 1, 
             "filterable": 0, 
             "ext": "https://ghproxy.com/https://raw.githubusercontent.com/smallmi18/TVB/main/H/au.json", 
-            "jar": "https://agit.ai/xiaohewanwan/jar/raw/branch/main/XYQPlugin_0926.jar"
+            "jar": ""
         }, 
         {
             "key": "csp_xf_heihei", 
@@ -677,7 +677,7 @@
             "quickSearch": 1, 
             "filterable": 0, 
             "ext": "https://ghproxy.com/https://raw.githubusercontent.com/smallmi18/TVB/main/H-1/heihei.json", 
-            "jar": "https://agit.ai/xiaohewanwan/jar/raw/branch/main/XYQPlugin_0926.jar"
+            "jar": ""
         }, 
         {
             "key": "kankan", 
@@ -688,7 +688,7 @@
             "quickSearch": 1, 
             "filterable": 0, 
             "ext": "https://ghproxy.com/https://raw.githubusercontent.com/smallmi18/TVB/main/H/cehsi.json", 
-            "jar": "https://agit.ai/xiaohewanwan/jar/raw/branch/main/XYQPlugin_0926.jar"
+            "jar": ""
         }, 
         {
             "key": "盛世", 
@@ -699,7 +699,7 @@
             "quickSearch": 1, 
             "filterable": 0, 
             "ext": "https://agit.ai/xiaohewanwan/samllmi/raw/branch/master/XYQ/%E7%9B%9B%E4%B8%96%E7%94%B5%E5%BD%B1.json", 
-            "jar": "https://agit.ai/xiaohewanwan/jar/raw/branch/main/XYQPlugin_0926.jar"
+            "jar": ""
         }, 
         {
             "key": "石榴", 
@@ -710,7 +710,7 @@
             "quickSearch": 1, 
             "filterable": 0, 
             "ext": "https://agit.ai/xiaohewanwan/samllmi/raw/branch/master/XYQ/slys.json", 
-            "jar": "https://agit.ai/xiaohewanwan/jar/raw/branch/main/XYQPlugin_0926.jar"
+            "jar": ""
         }, 
         {
             "key": "往往影视", 
@@ -721,7 +721,7 @@
             "quickSearch": 1, 
             "filterable": 0, 
             "ext": "https://agit.ai/xiaohewanwan/samllmi/raw/branch/master/XYQ/%e5%be%80%e5%be%80%e5%bd%b1%e8%a7%86.json", 
-            "jar": "https://agit.ai/xiaohewanwan/jar/raw/branch/main/XYQPlugin_0926.jar"
+            "jar": ""
         }, 
         {
             "key": "特播", 
@@ -732,7 +732,7 @@
             "quickSearch": 1, 
             "filterable": 0, 
             "ext": "https://agit.ai/xiaohewanwan/samllmi/raw/branch/master/XYQ/%e7%89%b9%e6%92%ad%e5%bd%b1%e8%a7%86.json", 
-            "jar": "https://agit.ai/xiaohewanwan/jar/raw/branch/main/XYQPlugin_0926.jar"
+            "jar": ""
         }, 
         {
             "key": "看一看", 
@@ -743,7 +743,7 @@
             "quickSearch": 1, 
             "filterable": 0, 
             "ext": "https://agit.ai/xiaohewanwan/samllmi/raw/branch/master/XYQ/%e7%9c%8b%e4%b8%80%e7%9c%8b%e5%bd%b1%e8%a7%86.json", 
-            "jar": "https://agit.ai/xiaohewanwan/jar/raw/branch/main/XYQPlugin_0926.jar"
+            "jar": ""
         }, 
         {
             "key": "追剧兔兔", 
@@ -754,7 +754,7 @@
             "quickSearch": 1, 
             "filterable": 0, 
             "ext": "https://agit.ai/xiaohewanwan/samllmi/raw/branch/master/XYQ/%e8%bf%bd%e5%89%a7%e5%85%94.json", 
-            "jar": "https://agit.ai/xiaohewanwan/jar/raw/branch/main/XYQPlugin_0926.jar"
+            "jar": ""
         }, 
         {
             "key": "纽约影院", 
@@ -765,7 +765,7 @@
             "quickSearch": 1, 
             "filterable": 0, 
             "ext": "https://agit.ai/xiaohewanwan/samllmi/raw/branch/master/XYQ/%e7%ba%bd%e7%ba%a6%e5%bd%b1%e9%99%a2.json", 
-            "jar": "https://agit.ai/xiaohewanwan/jar/raw/branch/main/XYQPlugin_0926.jar"
+            "jar": ""
         }, 
         {
             "key": "pianku", 
@@ -776,7 +776,7 @@
             "quickSearch": 1, 
             "filterable": 0, 
             "ext": "https://agit.ai/xiaohewanwan/samllmi/raw/branch/master/XYQH/pianku.json", 
-            "jar": "https://agit.ai/xiaohewanwan/jar/raw/branch/main/XYQPlugin_0926.jar"
+            "jar": ""
         }, 
         {
             "key": "40", 
@@ -787,7 +787,7 @@
             "quickSearch": 1, 
             "filterable": 1, 
             "ext": "https://ghproxy.com/https://raw.githubusercontent.com/smallmi18/TVB/main/H/40ys.json", 
-            "jar": "https://agit.ai/xiaohewanwan/jar/raw/branch/main/XYQPlugin_0926.jar"
+            "jar": ""
         }, 
         {
             "key": "csp_XYQBiu_vofix", 
@@ -798,7 +798,7 @@
             "quickSearch": 1, 
             "filterable": 1, 
             "ext": "https://ghproxy.com/https://raw.githubusercontent.com/smallmi18/TVB/main/H-1/voflix.json", 
-            "jar": "https://www.notabug.org/xiaohewanwan/jar/raw/main/XYQPlugin_0925.jar"
+            "jar": ""
         }, 
         {
             "key": "csp_XYQHiker_快播", 
@@ -809,7 +809,7 @@
             "quickSearch": 1, 
             "filterable": 1, 
             "ext": "https://ghproxy.com/https://raw.githubusercontent.com/smallmi18/TVB/main/H/kuaibo1.json", 
-            "jar": "https://agit.ai/xiaohewanwan/jar/raw/branch/main/XYQPlugin_1009%e6%b5%8b%e8%af%95%e7%89%88.jar"
+            "jar": ""
         }, 
         {
             "key": "csp_cookmv2", 
@@ -821,7 +821,7 @@
             "quickSearch": 1, 
             "filterable": 1, 
             "ext": "https://ghproxy.com/https://raw.githubusercontent.com/smallmi18/TVB/main/H/changzhang.json", 
-            "jar": "https://agit.ai/xiaohewanwan/jar/raw/branch/main/XYQPlugin_0926.jar"
+            "jar": ""
         }, 
         {
             "key": "csp_xf_真不卡", 
@@ -832,7 +832,7 @@
             "quickSearch": 1, 
             "filterable": 0, 
             "ext": "https://ghproxy.com/https://raw.githubusercontent.com/smallmi18/TVB/main/H/zhenbuka.json", 
-            "jar": "https://agit.ai/xiaohewanwan/jar/raw/branch/main/XYQPlugin_0926.jar"
+            "jar": ""
         }, 
         {
             "key": "csp_xf_HDmoli", 
@@ -843,7 +843,7 @@
             "quickSearch": 1, 
             "filterable": 0, 
             "ext": "https://agit.ai/xiaohewanwan/samllmi/raw/branch/master/XYQH/moli.json", 
-            "jar": "https://agit.ai/xiaohewanwan/jar/raw/branch/main/XYQPlugin_0926.jar"
+            "jar": ""
         }, 
         {
             "key": "csp_XYQBiu_剧荒", 
@@ -854,7 +854,7 @@
             "quickSearch": 1, 
             "filterable": 0, 
             "ext": "https://ghproxy.com/https://raw.githubusercontent.com/smallmi18/TVB/main/H-1/juhuang.json", 
-            "jar": "https://www.notabug.org/xiaohewanwan/jar/raw/main/XYQPlugin_0925.jar"
+            "jar": ""
         }, 
         {
             "key": "csp_XYQBiu_影视工厂", 
@@ -865,7 +865,7 @@
             "quickSearch": 1, 
             "filterable": 0, 
             "ext": "https://agit.ai/xiaohewanwan/jar/raw/branch/main/xyq/%e5%bd%b1%e8%a7%86%e5%b7%a5%e5%8e%82.json", 
-            "jar": "https://www.notabug.org/xiaohewanwan/jar/raw/main/XYQPlugin_0925.jar"
+            "jar": ""
         }, 
         {
             "key": "csp_imax", 
@@ -876,7 +876,7 @@
             "quickSearch": 1, 
             "filterable": 1, 
             "ext": "https://ghproxy.com/https://raw.githubusercontent.com/smallmi18/TVB/main/H/imaxw.json", 
-            "jar": "https://agit.ai/xiaohewanwan/jar/raw/branch/main/XYQPlugin_0926.jar"
+            "jar": ""
         }, 
         {
             "key": "csp_xf_101视频", 
@@ -887,7 +887,7 @@
             "quickSearch": 1, 
             "filterable": 0, 
             "ext": "https://ghproxy.com/https://raw.githubusercontent.com/smallmi18/TVB/main/H/101.json", 
-            "jar": "https://agit.ai/xiaohewanwan/jar/raw/branch/main/XYQPlugin_0926.jar"
+            "jar": ""
         }, 
         {
             "key": "aifei", 
@@ -898,7 +898,7 @@
             "quickSearch": 1, 
             "filterable": 0, 
             "ext": "https://ghproxy.com/https://raw.githubusercontent.com/smallmi18/TVB/main/H/aifei.json", 
-            "jar": "https://agit.ai/xiaohewanwan/jar/raw/branch/main/XYQPlugin_0926.jar"
+            "jar": ""
         }, 
         {
             "key": "csp_xf_123", 
@@ -909,7 +909,7 @@
             "quickSearch": 1, 
             "filterable": 0, 
             "ext": "https://ghproxy.com/https://raw.githubusercontent.com/smallmi18/TVB/main/H/rp123.json", 
-            "jar": "https://agit.ai/xiaohewanwan/jar/raw/branch/main/XYQPlugin_0926.jar"
+            "jar": ""
         }, 
         {
             "key": "csp_xf_naifeiya", 
@@ -920,7 +920,7 @@
             "quickSearch": 1, 
             "filterable": 0, 
             "ext": "https://ghproxy.com/https://raw.githubusercontent.com/smallmi18/TVB/main/H/yanaifei.json", 
-            "jar": "https://agit.ai/xiaohewanwan/jar/raw/branch/main/XYQPlugin_0926.jar"
+            "jar": ""
         }, 
         {
             "key": "csp_xf_qicui", 
@@ -931,7 +931,7 @@
             "quickSearch": 1, 
             "filterable": 0, 
             "ext": "https://ghproxy.com/https://raw.githubusercontent.com/smallmi18/TVB/main/H/qicui.json", 
-            "jar": "https://agit.ai/xiaohewanwan/jar/raw/branch/main/XYQPlugin_0926.jar"
+            "jar": ""
         }, 
         {
             "key": "影视之光", 
@@ -942,7 +942,7 @@
             "quickSearch": 1, 
             "filterable": 0, 
             "ext": "https://agit.ai/xiaohewanwan/samllmi/raw/branch/master/XYQH/yszg.json", 
-            "jar": "https://agit.ai/xiaohewanwan/jar/raw/branch/main/XYQPlugin_0926.jar"
+            "jar": ""
         }, 
         {
             "key": "csp_xf_kanpain", 
@@ -953,7 +953,7 @@
             "quickSearch": 1, 
             "filterable": 0, 
             "ext": "https://agit.ai/xiaohewanwan/samllmi/raw/branch/master/XYQH/kanpin.json", 
-            "jar": "https://agit.ai/xiaohewanwan/jar/raw/branch/main/XYQPlugin_0926.jar"
+            "jar": ""
         }, 
         {
             "key": "csp_xf_naikan", 
@@ -964,7 +964,7 @@
             "quickSearch": 1, 
             "filterable": 0, 
             "ext": "https://agit.ai/xiaohewanwan/samllmi/raw/branch/master/XYQH/naikan.json", 
-            "jar": "https://agit.ai/xiaohewanwan/jar/raw/branch/main/XYQPlugin_0926.jar"
+            "jar": ""
         }, 
         {
             "key": "csp_xf_ksj", 
@@ -975,7 +975,7 @@
             "quickSearch": 1, 
             "filterable": 0, 
             "ext": "https://ghproxy.com/https://raw.githubusercontent.com/smallmi18/TVB/main/H/kanshijie.json", 
-            "jar": "https://agit.ai/xiaohewanwan/jar/raw/branch/main/XYQPlugin_0926.jar"
+            "jar": ""
         }, 
         {
             "key": "csp_xf_ksj2", 
@@ -986,7 +986,7 @@
             "quickSearch": 1, 
             "filterable": 0, 
             "ext": "https://ghproxy.com/https://raw.githubusercontent.com/smallmi18/TVB/main/H/300kanshijie.json", 
-            "jar": "https://agit.ai/xiaohewanwan/jar/raw/branch/main/XYQPlugin_0926.jar"
+            "jar": ""
         }, 
         {
             "key": "csp_xf_klm11", 
@@ -997,7 +997,7 @@
             "quickSearch": 1, 
             "filterable": 0, 
             "ext": "https://ghproxy.com/https://raw.githubusercontent.com/smallmi18/TVB/main/H/xinxiao.json", 
-            "jar": "https://agit.ai/xiaohewanwan/jar/raw/branch/main/XYQPlugin_0926.jar"
+            "jar": ""
         }, 
         {
             "key": "csp_xf_klm12", 
@@ -1008,7 +1008,7 @@
             "quickSearch": 1, 
             "filterable": 0, 
             "ext": "https://ghproxy.com/https://raw.githubusercontent.com/smallmi18/TVB/main/H/dyxs.json", 
-            "jar": "https://agit.ai/xiaohewanwan/jar/raw/branch/main/XYQPlugin_0926.jar"
+            "jar": ""
         }, 
         {
             "key": "csp_xf_xiangjiao3", 
@@ -1019,7 +1019,7 @@
             "quickSearch": 1, 
             "filterable": 0, 
             "ext": "https://ghproxy.com/https://raw.githubusercontent.com/smallmi18/TVB/main/H/lovekan.json", 
-            "jar": "https://agit.ai/xiaohewanwan/jar/raw/branch/main/XYQPlugin_0926.jar"
+            "jar": ""
         }, 
         {
             "key": "csp_xf_xiangjiao4", 
@@ -1030,7 +1030,7 @@
             "quickSearch": 1, 
             "filterable": 0, 
             "ext": "https://ghproxy.com/https://raw.githubusercontent.com/smallmi18/TVB/main/H/yszj.json", 
-            "jar": "https://agit.ai/xiaohewanwan/jar/raw/branch/main/XYQPlugin_0926.jar"
+            "jar": ""
         }, 
         {
             "key": "csp_xf_xiangjiao5", 
@@ -1041,7 +1041,7 @@
             "quickSearch": 1, 
             "filterable": 0, 
             "ext": "https://ghproxy.com/https://raw.githubusercontent.com/smallmi18/TVB/main/H/freeok.json", 
-            "jar": "https://agit.ai/xiaohewanwan/jar/raw/branch/main/XYQPlugin_0926.jar"
+            "jar": ""
         }, 
         
         {
@@ -1053,7 +1053,7 @@
             "quickSearch": 1, 
             "filterable": 0, 
             "ext": "https://agit.ai/xiaohewanwan/samllmi/raw/branch/master/XYQH/xifang.json", 
-            "jar": "https://agit.ai/xiaohewanwan/jar/raw/branch/main/XYQPlugin_0926.jar"
+            "jar": ""
         }, 
         {
             "key": "新视觉", 
@@ -1064,7 +1064,7 @@
             "quickSearch": 1, 
             "filterable": 0, 
             "ext": "https://agit.ai/xiaohewanwan/samllmi/raw/branch/master/XYQH/newshijue.json", 
-            "jar": "https://agit.ai/xiaohewanwan/jar/raw/branch/main/XYQPlugin_0926.jar"
+            "jar": ""
         }, 
         {
             "key": "多多", 
@@ -1124,7 +1124,7 @@
             "quickSearch": 1, 
             "filterable": 0, 
             "ext": "https://agit.ai/xiaohewanwan/samllmi/raw/branch/master/XYQH/bpzlm.json", 
-            "jar": "https://agit.ai/xiaohewanwan/jar/raw/branch/main/XYQPlugin_0926.jar"
+            "jar": ""
         }, 
         {
             "key": "push_agent", 
