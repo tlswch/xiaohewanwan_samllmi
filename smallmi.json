@@ -263,6 +263,7 @@
             "api": "csp_Dora", 
             "searchable": "1", 
             "quickSearch": "1", 
+            "playerType": "1", 
             "filterable": "1", 
             "ext": "b88de1329655cca1beba45aa9776de70"
         }, 
