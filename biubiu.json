@@ -264,7 +264,7 @@
 "线路名截取后": "空",
 "线路名截取数组前": "<i class=\"ek playerico ico-Azhan\">",
 "线路名截取数组后": "</li>",
-"线路名标题前": "</i>",
+"线路名标题前": ">",
 "线路名标题后": "</li>",
 "bfshifouercijiequ": "0",
 "bfjiequqian": "空",
