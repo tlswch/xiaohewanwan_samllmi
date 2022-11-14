@@ -404,7 +404,7 @@
   "tupianhou": "\"",
   "biaotiqian": "title=\"",
   "biaotihou": "\"",
-  "fubiaotiqian":"<em>",
+  "fubiaotiqian":"<span>",
   "fubiaotihou":"</em>",
   "lianjieqian": "href=\"",
   "lianjiehou": "\"",
