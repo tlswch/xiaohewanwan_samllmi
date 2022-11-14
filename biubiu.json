@@ -499,7 +499,7 @@
 "列表显示": "0",
 "横图显示": "0",
 "列表起始页": "1",
-"列表分类": "电影$index.php/vod/show/id/1/page/",
+"列表分类": "电影$/index.php/vod/show/id/1/page/",
 "列表后缀": ".html",
 "列表二次截取": "class=\"module\">$$id=\"page",
 "列表截取数组": "<a$$no-referrer",
