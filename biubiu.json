@@ -499,7 +499,7 @@
 "列表显示": "0",
 "横图显示": "0",
 "列表起始页": "1",
-"列表分类": "电影$/index.php/vod/show/id/1/page/",
+"列表分类": "$追剧周报/label/week#最新更新$label/new#电影$/index.php/vod/show/id/1/page/#电视剧$/index.php/vod/show/id/2/page/#动漫$/index.php/vod/show/id/3/page/#综艺$/index.php/vod/show/id/4/page/#纪录片$/index.php/vod/show/id/5/page/#电影解说$/index.php/vod/show/id/20/page/",
 "列表后缀": ".html",
 "列表二次截取": "class=\"module\">$$id=\"page",
 "列表截取数组": "<a$$no-referrer",
