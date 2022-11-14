@@ -358,7 +358,7 @@
 "搜索后": ".html",
 "搜索连接后缀": "/Moviedetail/",
 "搜索二次截取": "空",
-"搜索截取数组": "class=\"module-card-item module-item\">$$</div>",
+"搜索截取数组": "class=\"module-items\"$$</div>",
 "搜索图片前缀": "空",
 "搜索图片": "data-original=\"$$\"",
 "搜索标题": "alt=\"$$\"",
