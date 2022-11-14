@@ -1040,7 +1040,8 @@
 {
   "author": "sm",
   "name": "5555电影",
-  "url": "https://www.xawqxh.net",
+  //"url": "https://www.xawqxh.net",
+  "url":"https://555yy1.com",
   "tihuan": "cnzz.com",
   "ua": "Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1",
   //"User": "User-Agent:Dart/2.14 (dart:io)",
