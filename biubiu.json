@@ -310,6 +310,8 @@
   "tupianhou": "\"",
   "biaotiqian": "title=\"",
   "biaotihou": "\"",
+  "fubiaotiqian": "class=\"module-item-note\">",
+  "fubiaotihou": "</div>",
   "lianjieqian": "href=\"",
   "lianjiehou": "\"",
   "sousuoqian": "/index.php/ajax/suggest?mid=1&wd=",
