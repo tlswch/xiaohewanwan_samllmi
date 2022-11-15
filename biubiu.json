@@ -376,7 +376,7 @@
 "线路名截取数组前": "<a data-toggle=\"tab\"",
 "线路名截取数组后": "</a>",
 "线路名标题前": ">",
-"线路名标题后": "</a>",
+"线路名标题后": "<",
 "bfjiequshuzuqian": "class=\"stui-content__playlist clearfix",
 "bfjiequshuzuhou": "</ul>",
 "zhuangtaiqian": "class=\"pic-text text-right\">",
