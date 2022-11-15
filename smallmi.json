@@ -130,6 +130,18 @@
 			"ext": "110c922de7d69804467fb83d3bb664b5"
 		},
 		{
+            "key" : "MiniYs_spider",
+            "name" : "迷你影视",
+            "api" : "csp_MiniYs",
+            "type" : 3,
+            "filterable" : 1,
+            "playerType" : 2,
+            "quickSearch" : 1,
+            "searchable" : 1,
+            "ext" : "",
+			"jar":"https://agit.ai/xiaohewanwan/samllmi/raw/branch/master/jar/qj.jar;md5;8143e4e632646d96364a3ddecb3194a5"
+        },
+		{
 			"key": "Yanet1",
 			"name": "🦆🦆奈非(爬虫)",
 			"type": "3",
@@ -265,6 +277,16 @@
 			"name": "🧚‍♂️🏃‍♂️厂长(爬虫)",
 			"type": "3",
 			"api": "csp_Dora",
+			"searchable": "1",
+			"quickSearch": "1",
+			"filterable": "1",
+			"ext": "8ee655f702d0d21f3643504783babbc3"
+		},
+		{
+			"key": "SKY",
+			"name":"😊😊天空(爬虫)",
+			"type": "3",
+			"api": "csp_Tkys",
 			"searchable": "1",
 			"quickSearch": "1",
 			"filterable": "1",
