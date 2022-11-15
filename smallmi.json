@@ -131,7 +131,7 @@
 		},
 		{
             "key" : "MiniYs_spider",
-            "name" : "😂😂迷你",
+            "name" : "😂😂迷你(爬虫)",
             "api" : "csp_MiniYs",
             "type" : 3,
             "filterable" : 1,
@@ -139,6 +139,52 @@
             "quickSearch" : 1,
             "searchable" : 1,
             "ext" : "",
+			"jar":"https://agit.ai/xiaohewanwan/samllmi/raw/branch/master/jar/qj.jar;md5;8143e4e632646d96364a3ddecb3194a5"
+        },
+		 {
+            "key" : "csp_Wmkk",
+            "name" : "🌹🌹完美(爬虫)",
+            "api" : "csp_Wmkk",
+            "type" : 3,
+            "playerType" : 2,
+            "filterable" : 1,
+            "quickSearch" : 1,
+            "searchable" : 1,
+			"jar":"https://agit.ai/xiaohewanwan/samllmi/raw/branch/master/jar/qj.jar;md5;8143e4e632646d96364a3ddecb3194a5"
+        },
+		{
+            "key" : "mayi_spider",
+            "name" : "🐜🐜蚂蚁(爬虫)",
+            "api" : "csp_Mayiys",
+            "type" : 3,
+            "filterable" : 1,
+            "playerType" : 2,
+            "quickSearch" : 1,
+            "searchable" : 1,
+            "ext" : "",
+			"jar":"https://agit.ai/xiaohewanwan/samllmi/raw/branch/master/jar/qj.jar;md5;8143e4e632646d96364a3ddecb3194a5"
+        },
+		{
+            "key" : "dm77_spider",
+            "name" : "🕳️🕳️齐齐(爬虫)",
+            "api" : "csp_DM77",
+            "type" : 3,
+            "filterable" : 1,
+            "playerType" : 2,
+            "quickSearch" : 1,
+            "searchable" : 1,
+            "ext" : "",
+			"jar":"https://agit.ai/xiaohewanwan/samllmi/raw/branch/master/jar/qj.jar;md5;8143e4e632646d96364a3ddecb3194a5"
+        },
+            {
+            "key" : "棉花影视",
+            "name" : "☁️☁️棉花(爬虫)",
+            "type" : 3,
+            "api" : "csp_MianHua",
+            "searchable" : 1,
+            "playerType" : 2,
+            "quickSearch" : 1,
+            "filterable" : 0,
 			"jar":"https://agit.ai/xiaohewanwan/samllmi/raw/branch/master/jar/qj.jar;md5;8143e4e632646d96364a3ddecb3194a5"
         },
 		{
