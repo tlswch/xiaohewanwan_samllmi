@@ -264,7 +264,7 @@
 			"qishiye": "1",
 			"shifouercijiequ": "1",
 			"jiequqian": "class=\"module-items",
-			"jiequhou": "class=\"fixedGroup",
+			"jiequhou": "id=\"page",
 			"jiequshuzuqian": "<a",
 			"jiequshuzuhou": "alt=\"",
 			"tupianqian": "data-src=\"",
