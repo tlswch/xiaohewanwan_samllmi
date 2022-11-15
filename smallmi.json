@@ -283,17 +283,6 @@
 			"ext": "8ee655f702d0d21f3643504783babbc3"
 		},
 		{
-			"key": "SKY",
-			"name":"😊😊天空(爬虫)",
-			"type": "3",
-			"api": "csp_Tkys",
-			"searchable": "1",
-			"quickSearch": "1",
-			"filterable": "1",
-			"ext": "",
-			"jar":"https://try.gitea.io/lzl19931007/aaaa/raw/branch/main/jar/xo.jar;md5;584cf995e74404a61ca9de91c920ecc3"
-		},
-		{
 			"key": "LiteApple",
 			"name": "🍎🍎苹果(爬虫)",
 			"type": "3",
