@@ -328,7 +328,7 @@
 			"bfqianzhui": ""
 		},
 		{
-			"网站名字": "哔滴影视",
+			"网站名字": "IMAX影视",
 			"网站地址": "https://imaxw.com",
 			"ua": "Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1",
 			"访问请求cookie": "空",
@@ -364,7 +364,7 @@
 			"列表分类": "电影$/vodshow/dianying--------",
 			"列表后缀": "---.html",
 			"列表二次截取": "空",
-			"列表截取数组": "class=\"card\">$$</div>",
+			"列表截取数组": "class=\"card card-sm card-link\">$$</div>",
 			"列表图片前缀": "空",
 			"列表图片": "src=\"$$\"",
 			"列表标题": "<h3 class=\"mb-0 card-title text-truncate\">$$</h3>",
