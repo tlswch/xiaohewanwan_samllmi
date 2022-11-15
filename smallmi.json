@@ -1,5 +1,5 @@
 {
-	"spider": "https://try.gitea.io/lzl19931007/aaaa/raw/branch/main/jar/cs.txt;md5;e0924826e82aa56b850549b520bfd67f",
+	"spider": "https://try.gitea.io/lzl19931007/aaaa/raw/branch/main/jar/cs.jar;md5;f94c21dc84a8461947ac7b11febd5956",
 	"wallpaper": "https://picsum.photos/1280/720/?blur=5",
 	"lives": [{
 		"group": "redirect",
@@ -310,7 +310,7 @@
 			"searchable": 1,
 			"playerType": "2",
 			"ext": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyIjp7IklEIjozNDEwMiwiQ3JlYXRlZEF0IjoiMjAyMi0wOS0xNlQyMTo0Nzo1Ni44NDUrMDg6MDAiLCJVcGRhdGVkQXQiOiIyMDIyLTA5LTE2VDIxOjQ3OjU2Ljg0NSswODowMCIsIkRlbGV0ZWRBdCI6bnVsbCwidXNlcl9lbWFpbCI6IjI0Mjk0OTc3NTZAcXEuY29tIiwidXNlcl9uYW1lIjoiIiwidXNlcl9wd2QiOiIiLCJ1c2VyX2lkIjoiZTI2MmY0NTEtZjE4Ni00OGQwLWE1MjctZjc5M2Q5MjUyYmYyIiwidXNlcl9hbnN3ZXIiOiIiLCJsb2NrX2lzIjoiRmFsc2UiLCJpc190diI6IiIsImlzX2FkbWluIjoiRmFsc2UiLCJyZWdfdGltZSI6bnVsbCwicmVnX2tleSI6IiIsInR2X3RpbWUiOm51bGwsInR2X2tleSI6IiJ9LCJleHAiOjE2NjgzODk0MzcsImlzcyI6IkFsZnJlZG8gTWVuZG96YSJ9.2BnwO03h_AL4CaEYWl5wtToaOo9cNFSlIeTr0zf4Dqs",
-			"jar": "https://try.gitea.io/lzl19931007/aaaa/raw/branch/main/sq.txt;md5;c4ba98711fac35daff17780d0817f5dc"
+			"jar": "https://try.gitea.io/lzl19931007/aaaa/raw/branch/main/jar/xo.jar;md5;584cf995e74404a61ca9de91c920ecc3"
 		},
 		{
 			"key": "4K",
@@ -343,7 +343,7 @@
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1,
-			"jar": "https://try.gitea.io/lzl19931007/aaaa/raw/branch/main/sq.txt;md5;c4ba98711fac35daff17780d0817f5dc"
+			"jar": "https://try.gitea.io/lzl19931007/aaaa/raw/branch/main/jar/xo.jar;md5;584cf995e74404a61ca9de91c920ecc3"
 		},
 		{
 			"key": "Ddys",
@@ -354,7 +354,7 @@
 			"quickSearch": 1,
 			"click": "ddys.tv;#vjsp > button",
 			"filterable": 1,
-			"jar": "https://try.gitea.io/lzl19931007/aaaa/raw/branch/main/sq.txt;md5;c4ba98711fac35daff17780d0817f5dc"
+			"jar": "https://try.gitea.io/lzl19931007/aaaa/raw/branch/main/jar/xo.jar;md5;584cf995e74404a61ca9de91c920ecc3"
 		},
 		{
 			"key": "念影",
@@ -364,7 +364,7 @@
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1,
-			"jar": "https://try.gitea.io/lzl19931007/aaaa/raw/branch/main/sq.txt;md5;c4ba98711fac35daff17780d0817f5dc"
+			"jar": "https://try.gitea.io/lzl19931007/aaaa/raw/branch/main/jar/xo.jar;md5;584cf995e74404a61ca9de91c920ecc3"
 		},
 		{
 			"key": "饭团",
@@ -374,7 +374,7 @@
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1,
-			"jar": "https://try.gitea.io/lzl19931007/aaaa/raw/branch/main/sq.txt;md5;c4ba98711fac35daff17780d0817f5dc"
+			"jar": "https://try.gitea.io/lzl19931007/aaaa/raw/branch/main/jar/xo.jar;md5;584cf995e74404a61ca9de91c920ecc3"
 		},
 		{
 			"key": "双十",
@@ -384,7 +384,7 @@
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1,
-			"jar": "https://try.gitea.io/lzl19931007/aaaa/raw/branch/main/sq.txt;md5;c4ba98711fac35daff17780d0817f5dc"
+			"jar": "https://try.gitea.io/lzl19931007/aaaa/raw/branch/main/jar/xo.jar;md5;584cf995e74404a61ca9de91c920ecc3"
 		},
 		{
 			"key": "Gitcafe",
@@ -414,7 +414,7 @@
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1,
-			"jar": "https://try.gitea.io/lzl19931007/aaaa/raw/branch/main/sq.txt;md5;c4ba98711fac35daff17780d0817f5dc"
+			"jar": "https://try.gitea.io/lzl19931007/aaaa/raw/branch/main/jar/xo.jar;md5;584cf995e74404a61ca9de91c920ecc3"
 		},
 		{
 			"key": "bdys",
@@ -425,7 +425,7 @@
 			"quickSearch": 1,
 			"filterable": 1,
 			"playerType": "1",
-			"jar": "https://try.gitea.io/lzl19931007/aaaa/raw/branch/main/sq.txt;md5;c4ba98711fac35daff17780d0817f5dc"
+			"jar": "https://try.gitea.io/lzl19931007/aaaa/raw/branch/main/jar/xo.jar;md5;584cf995e74404a61ca9de91c920ecc3"
 		},
 		{
 			"key": "csp_Nmys",
@@ -436,7 +436,17 @@
 			"quickSearch": 1,
 			"filterable": 1,
 			"ext": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/sub/Nmys.json",
-			"jar": "https://try.gitea.io/lzl19931007/aaaa/raw/branch/main/sq.txt;md5;c4ba98711fac35daff17780d0817f5dc"
+			"jar": "https://try.gitea.io/lzl19931007/aaaa/raw/branch/main/jar/xo.jar;md5;584cf995e74404a61ca9de91c920ecc3"
+		},
+		{
+			"key": "csp_Vofilx",
+			"name": "🧑‍🌾🧑‍🌾Voflix(爬虫)",
+			"type": 3,
+			"api": "csp_Voflix",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+			"jar": "https://try.gitea.io/lzl19931007/aaaa/raw/branch/main/jar/xo.jar;md5;584cf995e74404a61ca9de91c920ecc3"
 		},
 		{
 			"key": "csp_Mjxq",
@@ -446,7 +456,7 @@
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1,
-			"jar": "https://try.gitea.io/lzl19931007/aaaa/raw/branch/main/sq.txt;md5;c4ba98711fac35daff17780d0817f5dc"
+			"jar": "https://try.gitea.io/lzl19931007/aaaa/raw/branch/main/jar/xo.jar;md5;584cf995e74404a61ca9de91c920ecc3"
 		},
 		{
 			"key": "csp_Yj1211",
@@ -456,7 +466,7 @@
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1,
-			"jar": "https://try.gitea.io/lzl19931007/aaaa/raw/branch/main/sq.txt;md5;c4ba98711fac35daff17780d0817f5dc"
+			"jar": "https://try.gitea.io/lzl19931007/aaaa/raw/branch/main/jar/xo.jar;md5;584cf995e74404a61ca9de91c920ecc3"
 		},
 		{
 			"key": "csp_Anime1",
@@ -466,7 +476,7 @@
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1,
-			"jar": "https://try.gitea.io/lzl19931007/aaaa/raw/branch/main/sq.txt;md5;c4ba98711fac35daff17780d0817f5dc"
+			"jar": "https://try.gitea.io/lzl19931007/aaaa/raw/branch/main/jar/xo.jar;md5;584cf995e74404a61ca9de91c920ecc3"
 		},
 		{
 			"key": "Zhaozy",
