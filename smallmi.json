@@ -131,7 +131,7 @@
 		},
 		{
             "key" : "MiniYs_spider",
-            "name" : "迷你影视",
+            "name" : "😂😂迷你",
             "api" : "csp_MiniYs",
             "type" : 3,
             "filterable" : 1,
@@ -290,7 +290,8 @@
 			"searchable": "1",
 			"quickSearch": "1",
 			"filterable": "1",
-			"ext": "8ee655f702d0d21f3643504783babbc3"
+			"ext": "",
+			"jar":"https://try.gitea.io/lzl19931007/aaaa/raw/branch/main/jar/xo.jar;md5;584cf995e74404a61ca9de91c920ecc3"
 		},
 		{
 			"key": "LiteApple",
