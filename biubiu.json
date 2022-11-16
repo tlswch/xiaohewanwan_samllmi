@@ -493,7 +493,7 @@
 			"列表起始页": "1",
 			"列表分类": "测试$/classify?type=all&region=cn&state=all&filter=%2a&page=",
 			"列表后缀": "",
-			"列表二次截取": "<div class=\"comics-card pure-u-1-3 pure-u-md-1-4 pure-u-lg-1-6\"$$</div>",
+			"列表二次截取": "<div class=\"comics-card pure-u-1-3 pure-u-md-1-4 pure-u-lg-1-6\"$$class=\"tabs fl",
 			"列表截取数组": "<a$$</a>",
 			"列表图片前缀": "空",
 			"列表图片": "src=\"$$\"",
