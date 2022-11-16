@@ -452,7 +452,7 @@
 "播放页演员": "主演：$$</p>",
 "播放页剧情": "<p class=\"col-pd\">$$</p>",
 "播放页二次截取": "空",
-"播放页截取数组": "class=\"row$$class=\"index__overlay",
+"播放页截取数组": "class=\"row\" data-v-a0c9d6ee>$$class=\"index__overlay",
 "播放剧集二次截取": "空",
 "播放剧集截取数组": "<a$$/a>",
 "播放剧集标题": "title=\"$$\"",
