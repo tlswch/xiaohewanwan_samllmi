@@ -1312,7 +1312,34 @@
 		{
 			"name": "回响解析",
 			"type": 0,
-			"url": "https://jinmantv.com/addons/bilibilimaster/player/?key=0&url="
+			"url": "https://jx.aidouer.net/?url=",
+			"ext": {
+				"flag": [
+					"rx",
+					"ltnb",
+					"renrenmi",
+					"rongxing",
+					"bilibili",
+					"哔哩哔哩",
+					"哔哩",
+					"youku",
+					"优酷",
+					"qiyi",
+					"爱奇艺",
+					"奇艺",
+					"qq",
+					"腾讯",
+					"mgtv",
+					"芒果",
+					"sohu",
+					"搜狐",
+					"letv",
+					"乐视",
+					"xigua",
+					"CL4K",
+					"西瓜"
+				]
+			}
 		},
 		{
 			"name": "猫咪解析",
