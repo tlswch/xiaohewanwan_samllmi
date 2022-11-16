@@ -1934,7 +1934,7 @@
 			"播放页跳转看图": "1"
 		},
 		{
-			"网站名字": "漫画示例",
+			"网站名字": "漫画本子",
 			"网站地址": "http://mangabz.com",
 			"访问请求ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36",
 			"访问请求cookie": "空",
@@ -1943,7 +1943,7 @@
 			"图片请求头": "Referer$http://mangabz.com/",
 			"网页编码": "utf-8",
 			"列表起始页": "1",
-			"列表分类": "测试$/manga-list-17-0-0-p",
+			"列表分类": "悬疑$/manga-list-17-0-0-p#热血$/manga-list-31-0-0-p#恋爱$/manga-list-26-0-0-p#校园$/manga-list-1-0-0-p#冒险$/manga-list-2-0-0-p#科幻$/manga-list-25-0-0-p#生活$/manga-list-11-0-0-p#xuan yi#魔法$/manga-list-15-0-0-p#运动$/manga-list-34-0-0-p",
 			"列表后缀": "/",
 			"列表二次截取": "空",
 			"列表截取数组": "class=\"mh-cover\"$$</h2>",
