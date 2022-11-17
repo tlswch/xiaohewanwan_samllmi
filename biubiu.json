@@ -346,7 +346,7 @@
 			"自动点击字符": "空",
 
 			//0：不启用，1：启用
-			"启用js加载源码": "0",
+			"启用js加载源码": "1",
 			"js加载源码时间": "5",
 
 			"嗅探词": "m3u8?#.m3u8#.mp4",
@@ -360,7 +360,7 @@
 			"列表显示": "0",
 			"横图显示": "0",
 			"列表起始页": "1",
-			"列表分类": "丫丫电影$/vodshow/dianying--------#丫丫电视剧$/vodshow/dianshiju--------#丫丫综艺$/vodshow/zongyi--------#丫丫动漫$/vodshow/dongman--------",
+			"列表分类": "丫丫电影$/vodshow/dianying--------#丫丫电视剧$/vodshow/lianxuju--------#丫丫综艺$/vodshow/zongyi--------#丫丫动漫$/vodshow/dongman--------",
 			"列表后缀": "---.html",
 			"列表二次截取": "module-page$$id=\"page",
 			"列表截取数组": "<a$$no-referrer",
