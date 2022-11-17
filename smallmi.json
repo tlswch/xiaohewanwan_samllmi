@@ -92,15 +92,17 @@
 			"ext": "9248c57eb22ace4a3431fbd1a979465f"
 		},
 		{
-			"key": "Smdyy",
-			"name": "🐎🐎神马(爬虫)",
-			"type": 3,
-			"api": "csp_Dora",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 1,
-			"ext": "16705ee9f4764be8499806f52d4bf1e7"
-		},
+            "key" : "MiniYs_spider",
+            "name" : "😂😂迷你(爬虫)",
+            "api" : "csp_MiniYs",
+            "type" : 3,
+            "filterable" : 1,
+            "playerType" : 2,
+            "quickSearch" : 1,
+            "searchable" : 1,
+            "ext" : "",
+			"jar":"https://agit.ai/xiaohewanwan/samllmi/raw/branch/master/jar/qj.jar;md5;8143e4e632646d96364a3ddecb3194a5"
+        },
 		{
 			"key": "Kuaikan",
 			"name": "🚈🚈快看(爬虫)",
@@ -131,64 +133,7 @@
 			"filterable": 1,
 			"ext": "110c922de7d69804467fb83d3bb664b5"
 		},
-		{
-            "key" : "MiniYs_spider",
-            "name" : "😂😂迷你(爬虫)",
-            "api" : "csp_MiniYs",
-            "type" : 3,
-            "filterable" : 1,
-            "playerType" : 2,
-            "quickSearch" : 1,
-            "searchable" : 1,
-            "ext" : "",
-			"jar":"https://agit.ai/xiaohewanwan/samllmi/raw/branch/master/jar/qj.jar;md5;8143e4e632646d96364a3ddecb3194a5"
-        },
-		 {
-            "key" : "csp_Wmkk",
-            "name" : "🌹🌹完美(爬虫)",
-            "api" : "csp_Wmkk",
-            "type" : 3,
-            "playerType" : 2,
-            "filterable" : 1,
-            "quickSearch" : 1,
-            "searchable" : 1,
-			"jar":"https://agit.ai/xiaohewanwan/samllmi/raw/branch/master/jar/qj.jar;md5;8143e4e632646d96364a3ddecb3194a5"
-        },
-		{
-            "key" : "mayi_spider",
-            "name" : "🐜🐜蚂蚁(爬虫)",
-            "api" : "csp_Mayiys",
-            "type" : 3,
-            "filterable" : 1,
-            "playerType" : 2,
-            "quickSearch" : 1,
-            "searchable" : 1,
-            "ext" : "",
-			"jar":"https://agit.ai/xiaohewanwan/samllmi/raw/branch/master/jar/qj.jar;md5;8143e4e632646d96364a3ddecb3194a5"
-        },
-		{
-            "key" : "dm77_spider",
-            "name" : "🕳️🕳️齐齐(爬虫)",
-            "api" : "csp_DM77",
-            "type" : 3,
-            "filterable" : 1,
-            "playerType" : 2,
-            "quickSearch" : 1,
-            "searchable" : 1,
-            "ext" : "",
-			"jar":"https://agit.ai/xiaohewanwan/samllmi/raw/branch/master/jar/qj.jar;md5;8143e4e632646d96364a3ddecb3194a5"
-        },
-            {
-            "key" : "棉花影视",
-            "name" : "☁️☁️棉花(爬虫)",
-            "type" : 3,
-            "api" : "csp_MianHua",
-            "searchable" : 1,
-            "playerType" : 2,
-            "quickSearch" : 1,
-            "filterable" : 0,
-			"jar":"https://agit.ai/xiaohewanwan/samllmi/raw/branch/master/jar/qj.jar;md5;8143e4e632646d96364a3ddecb3194a5"
-        },
+		
 		{
 			"key": "Yanet1",
 			"name": "🦆🦆奈非(爬虫)",
@@ -329,16 +274,6 @@
 			"quickSearch": "1",
 			"filterable": "1",
 			"ext": "8ee655f702d0d21f3643504783babbc3"
-		},
-		{
-			"key": "LiteApple",
-			"name": "🍎🍎苹果(爬虫)",
-			"type": "3",
-			"api": "csp_Dora",
-			"searchable": "1",
-			"quickSearch": "1",
-			"filterable": "1",
-			"ext": "6deed4548c44b18d268a5d828f04d86e"
 		},
 		{
 			"key": "Tbook",
