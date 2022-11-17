@@ -71,7 +71,6 @@
 		}
 	],
 	"sites": [
-		{"key":"dr豆瓣","name":"🅱🅱豆瓣荐片┃首页","type":3,"api":"http://101.34.67.237/libs/drpy.min.js","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://101.34.67.237/admin/view/drpy.js"},
         {"key":"js豆瓣","name":"🅱🅱豆瓣热播┃dr首页","type":3,"api":"http://xn--m7r412advb92j21st65a.tk/dr/影魔.js","ext":"http://xn--m7r412advb92j21st65a.tk/dr/js/豆瓣.js","searchable": 0,"quickSearch": 0,"filterable": 0},
 		{
 			"key": "SP360",
