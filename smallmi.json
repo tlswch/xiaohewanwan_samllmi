@@ -83,7 +83,7 @@
 			"filterable": 1,
 			"ext": "9248c57eb22ace4a3431fbd1a979465f"
 		},
-		{
+		/*{
             "key" : "MiniYs_spider",
             "name" : "迷你影视(爬虫)",
             "api" : "csp_MiniYs",
@@ -94,7 +94,7 @@
             "searchable" : 1,
             "ext" : "",
 			"jar":"https://agit.ai/xiaohewanwan/samllmi/raw/branch/master/jar/qj.jar;md5;8143e4e632646d96364a3ddecb3194a5"
-        },
+        },*/
 		{
 			"key": "Kuaikan",
 			"name": "快看影视(爬虫)",
