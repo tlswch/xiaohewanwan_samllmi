@@ -259,7 +259,7 @@
 			"列表显示": "0",
 			"横图显示": "0",
 			"嗅探词": ".m3u8#.mp4#",
-			"fenlei": "电影$/vodshow/38--------#连续剧$/vodshow/39--------#动漫$/vodshow/40--------#综艺$/vodshow/41--------",
+			"fenlei": "电影$vodshow/38--------#连续剧$/vodshow/39--------#动漫$/vodshow/40--------#综艺$/vodshow/41--------",
 			"houzhui": "---.html",
 			"qishiye": "1",
 			"shifouercijiequ": "1",
@@ -327,7 +327,7 @@
 			"bflianjiehou": "\"",
 			"bfqianzhui": ""
 		},
-		{
+		/*{
 "网站名字": "NIKE影视",
 "网站地址": "https://www.ajeee.com",
 "访问请求ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36",
@@ -389,7 +389,7 @@
 "播放剧集链接": "href=\"$$\"",
 "播放剧集链接前缀": "空",
 "播放剧集链接后缀": "空",
-"播放页跳转看图": "0"},
+"播放页跳转看图": "0"},*/
 		{
 "网站名字": "volifix影视",
 "网站地址": "https://www.voflix.com",
