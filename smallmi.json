@@ -238,7 +238,7 @@
 		},
 		{
 			"key": "Dy5551",
-			"name": "5️55影视(爬虫)",
+			"name": "三五影视(爬虫)",
 			"type": "3",
 			"api": "csp_Dora",
 			"searchable": "1",
@@ -477,7 +477,7 @@
 		},
 		{
 			"key": "YiSo",
-			"name": "阿里易搜(阿里搜索)易搜",
+			"name": "阿里易搜(阿里搜索)",
 			"type": "3",
 			"api": "csp_YiSo",
 			"searchable": "1",
