@@ -1127,6 +1127,38 @@
 			}
 		},
 		{
+			"name": "白嫖解析",
+			"type": 1,
+			"url": "https://m3u8.co/api/?key=iLNLK8zHJa9J2cZRlz&url=",
+			"ext": {
+				"flag": [
+					"rx",
+					"ltnb",
+					"renrenmi",
+					"rongxing",
+					"bilibili",
+					"哔哩哔哩",
+					"哔哩",
+					"youku",
+					"优酷",
+					"qiyi",
+					"爱奇艺",
+					"奇艺",
+					"qq",
+					"腾讯",
+					"mgtv",
+					"芒果",
+					"sohu",
+					"搜狐",
+					"letv",
+					"乐视",
+					"xigua",
+					"CL4K",
+					"西瓜"
+				]
+			}
+		},
+		{
 			"name": "回响解析",
 			"type": 0,
 			"url": "https://jx.aidouer.net/?url=",
