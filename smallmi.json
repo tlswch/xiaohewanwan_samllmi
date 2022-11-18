@@ -307,7 +307,8 @@
 			"quickSearch": 1,
 			"searchable": 1,
 			"playerType": "1",
-			"jar": "http://shuyuan.miaogongzi.net/shuyuan/1666791315.txt",
+			//"jar": "http://shuyuan.miaogongzi.net/shuyuan/1666791315.txt",
+			"jar": "https://try.gitea.io/lzl19931007/aaaa/raw/branch/main/jar/fty1118.jar;md5;17b6fe202bd06833bcf9accf953f8563",
 			"ext": "https://agit.ai/xiaohewanwan/atest/raw/branch/master/4kvm.json"
 		},
 		{
@@ -329,7 +330,7 @@
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1,
-			"jar": "https://try.gitea.io/lzl19931007/aaaa/raw/branch/main/jar/xo.jar;md5;584cf995e74404a61ca9de91c920ecc3"
+			"jar": "https://try.gitea.io/lzl19931007/aaaa/raw/branch/main/jar/fty1118.jar;md5;17b6fe202bd06833bcf9accf953f8563"
 		},
 		{
 			"key": "Ddys",
@@ -340,7 +341,7 @@
 			"quickSearch": 1,
 			"click": "ddys.tv;#vjsp > button",
 			"filterable": 1,
-			"jar": "https://try.gitea.io/lzl19931007/aaaa/raw/branch/main/jar/xo.jar;md5;584cf995e74404a61ca9de91c920ecc3"
+			"jar": "https://try.gitea.io/lzl19931007/aaaa/raw/branch/main/jar/fty1118.jar;md5;17b6fe202bd06833bcf9accf953f8563"
 		},
 		{
 			"key": "念影",
@@ -350,7 +351,7 @@
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1,
-			"jar": "https://try.gitea.io/lzl19931007/aaaa/raw/branch/main/jar/xo.jar;md5;584cf995e74404a61ca9de91c920ecc3"
+			"jar": "https://try.gitea.io/lzl19931007/aaaa/raw/branch/main/jar/fty1118.jar;md5;17b6fe202bd06833bcf9accf953f8563"
 		},
 		{
 			"key": "饭团",
@@ -360,7 +361,7 @@
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1,
-			"jar": "https://try.gitea.io/lzl19931007/aaaa/raw/branch/main/jar/xo.jar;md5;584cf995e74404a61ca9de91c920ecc3"
+			"jar": "https://try.gitea.io/lzl19931007/aaaa/raw/branch/main/jar/fty1118.jar;md5;17b6fe202bd06833bcf9accf953f8563"
 		},
 		{
 			"key": "双十",
@@ -370,7 +371,7 @@
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1,
-			"jar": "https://try.gitea.io/lzl19931007/aaaa/raw/branch/main/jar/xo.jar;md5;584cf995e74404a61ca9de91c920ecc3"
+			"jar": "https://try.gitea.io/lzl19931007/aaaa/raw/branch/main/jar/fty1118.jar;md5;17b6fe202bd06833bcf9accf953f8563"
 		},
 		{
 			"key": "Gitcafe",
@@ -400,7 +401,7 @@
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1,
-			"jar": "https://try.gitea.io/lzl19931007/aaaa/raw/branch/main/jar/xo.jar;md5;584cf995e74404a61ca9de91c920ecc3"
+			"jar": "https://try.gitea.io/lzl19931007/aaaa/raw/branch/main/jar/fty1118.jar;md5;17b6fe202bd06833bcf9accf953f8563"
 		},
 		{
 			"key": "bdys",
@@ -411,7 +412,7 @@
 			"quickSearch": 1,
 			"filterable": 1,
 			"playerType": "1",
-			"jar": "https://try.gitea.io/lzl19931007/aaaa/raw/branch/main/jar/xo.jar;md5;584cf995e74404a61ca9de91c920ecc3"
+			"jar": "https://try.gitea.io/lzl19931007/aaaa/raw/branch/main/jar/fty1118.jar;md5;17b6fe202bd06833bcf9accf953f8563"
 		},
 		{
 			"key": "csp_Nmys",
@@ -422,7 +423,7 @@
 			"quickSearch": 1,
 			"filterable": 1,
 			"ext": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/sub/Nmys.json",
-			"jar": "https://try.gitea.io/lzl19931007/aaaa/raw/branch/main/jar/xo.jar;md5;584cf995e74404a61ca9de91c920ecc3"
+			"jar": "https://try.gitea.io/lzl19931007/aaaa/raw/branch/main/jar/fty1118.jar;md5;17b6fe202bd06833bcf9accf953f8563"
 		},
 		{
 			"key": "csp_Vofilx",
@@ -432,7 +433,7 @@
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1,
-			"jar": "https://try.gitea.io/lzl19931007/aaaa/raw/branch/main/jar/xo.jar;md5;584cf995e74404a61ca9de91c920ecc3"
+			"jar": "https://try.gitea.io/lzl19931007/aaaa/raw/branch/main/jar/fty1118.jar;md5;17b6fe202bd06833bcf9accf953f8563"
 		},
 		{
 			"key": "csp_Mjxq",
@@ -442,7 +443,7 @@
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1,
-			"jar": "https://try.gitea.io/lzl19931007/aaaa/raw/branch/main/jar/xo.jar;md5;584cf995e74404a61ca9de91c920ecc3"
+			"jar": "https://try.gitea.io/lzl19931007/aaaa/raw/branch/main/jar/fty1118.jar;md5;17b6fe202bd06833bcf9accf953f8563"
 		},
 		{
 			"key": "csp_Yj1211",
@@ -452,7 +453,7 @@
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1,
-			"jar": "https://try.gitea.io/lzl19931007/aaaa/raw/branch/main/jar/xo.jar;md5;584cf995e74404a61ca9de91c920ecc3"
+			"jar": "https://try.gitea.io/lzl19931007/aaaa/raw/branch/main/jar/fty1118.jar;md5;17b6fe202bd06833bcf9accf953f8563"
 		},
 		{
 			"key": "csp_Anime1",
@@ -462,7 +463,7 @@
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1,
-			"jar": "https://try.gitea.io/lzl19931007/aaaa/raw/branch/main/jar/xo.jar;md5;584cf995e74404a61ca9de91c920ecc3"
+			"jar": "https://try.gitea.io/lzl19931007/aaaa/raw/branch/main/jar/fty1118.jar;md5;17b6fe202bd06833bcf9accf953f8563"
 		},
 		{
 			"key": "Zhaozy",
