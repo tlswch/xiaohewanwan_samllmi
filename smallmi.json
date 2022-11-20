@@ -26,6 +26,18 @@
       "filterable": 0
     }, 
     {
+      "key": "zhibo", 
+      "name": "电视直播(B规则)", 
+      "type": 3, 
+      "api": "csp_xBPQ", 
+      "filterable": 1, 
+      "quickSearch": 1, 
+      "searchable": 1, 
+      "playerType": "1", 
+      "jar": "https://download.kstore.space/download/3450/xo.jar;md5;50041e58be27b2d9e9f67780b22f1773", 
+      "ext": "https://www.notabug.org/xiaohewanwan/hhh/raw/master/XYQ/zhibo.json"
+    }, 
+    {
       "key": "SP360", 
       "name": "360聚合(爬虫)", 
       "type": 3, 
