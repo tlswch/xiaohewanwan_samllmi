@@ -66,7 +66,7 @@
     "简介详情": "<div class=\"module-info-introduction-content show-desc\" style=\"line-height: 20px;\">&&</p>",
     "线路列表数组规则": "body&&.module-tab-item",
     "线路标题": "span&&Text",
-    "播放列表数组规则": "body&&#paneI1",
+    "播放列表数组规则": "body&&.module-list.sort-list",
     "选集列表数组规则": "a",
     "选集标题链接是否Jsoup写法": "1",
     "选集标题": "a&&Text",
