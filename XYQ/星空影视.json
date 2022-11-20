@@ -12,7 +12,7 @@
     "分类起始页码": "1",
     "分类链接": "https://xkys123.com/vodshow/{cateId}-{area}-{by}-{class}-{lang}----{catePg}---{year}.html",    
 //    "分类链接": "https://www.xbzxk.com/vodtype/{cateId}-{catePg}.html[firstPage=https://www.xbzxk.com/vodtype/{cateId}.html]",
-    "分类名称": "电影&电视剧&综艺&动漫&竞技&日韩剧&欧美剧&港台14&直播",
+    "分类名称": "电影&电视剧&综艺&动漫&日韩剧&欧美剧&港台&直播",
     "分类名称替换词": "1&2&3&4&15&16&14&22",
     "筛选数据": "ext",
     //{cateId}
