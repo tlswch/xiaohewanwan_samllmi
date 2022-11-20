@@ -528,6 +528,17 @@
       "ext": "https://www.notabug.org/xiaohewanwan/hhh/raw/master/XYQ/%e7%b4%a0%e7%99%bd%e7%99%bd%e5%bd%b1%e8%a7%86.json", 
       "jar": "https://agit.ai/xiaohewanwan/jar/raw/branch/main/XYQPlugin_0926.jar;md5;719b26cd9e18610ab8d3be586006ac2a"
     }, 
+     {
+      "key": "星空影视", 
+      "name": "️星空影视(H规则)", 
+      "type": 3, 
+      "api": "csp_XYQHiker", 
+      "searchable": 1, 
+      "quickSearch": 1, 
+      "filterable": 0, 
+      "ext": "https://agit.ai/xiaohewanwan/samllmi/raw/branch/master/XYQ/%E6%98%9F%E7%A9%BA%E5%BD%B1%E8%A7%86.json", 
+      "jar": "https://agit.ai/xiaohewanwan/jar/raw/branch/main/XYQPlugin_0926.jar;md5;719b26cd9e18610ab8d3be586006ac2a"
+    }, 
     {
       "key": "皮皮泡", 
       "name": "️皮泡影视(H规则)", 
