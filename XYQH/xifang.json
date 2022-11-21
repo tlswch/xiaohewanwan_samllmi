@@ -29,7 +29,7 @@
     //首页推荐片单链接补后缀
     "首页片单链接加后缀": "",
     "分类起始页码": "1",
-     "分类链接": "https://www.xifanys.com/yingpianshow/{cateId}--------{catePg}---.html",
+     "分类链接": "https://www.xifanys.com/yingpianshow/{cateId}-{area}--{class}-----{catePg}---{year}.html",
      "分类名称": "电影&连续剧&动漫&综艺",
      "分类名称替换词": "dianying&lianxuju&dongman&zongyi",
      "筛选数据": "ext",
@@ -57,7 +57,7 @@
      "分类片单标题": "a&&title",
     "分类片单链接": "a&&href",
     "分类片单图片": ".lazy&&data-src",
-     "分类片单副标题":".module-item-note&&Text",
+     "分类片单副标题":".module-item-text&&Text",
     "分类片单链接加前缀": "https://www.xifanys.com",
     "分类片单链接加后缀": "",
     "搜索请求头参数":"User-Agent$MOBILE_UA",
