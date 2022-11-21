@@ -703,6 +703,17 @@
       "filterable": 0, 
       "ext": "https://agit.ai/xiaohewanwan/samllmi/raw/branch/master/XYQ/xyqh_333%e5%bd%b1%e8%a7%86.json", 
       "jar": "https://agit.ai/xiaohewanwan/jar/raw/branch/main/XYQPlugin_0926.jar;md5;719b26cd9e18610ab8d3be586006ac2a"
+    },
+    {
+      "key": "fositv影视", 
+      "name": "️猫咪电影(H规则)", 
+      "type": 3, 
+      "api": "csp_XYQHiker", 
+      "searchable": 1, 
+      "quickSearch": 1, 
+      "filterable": 0, 
+      "ext": "https://agit.ai/xiaohewanwan/samllmi/raw/branch/master/fositv.json", 
+      "jar": "https://agit.ai/xiaohewanwan/jar/raw/branch/main/XYQPlugin_0926.jar;md5;719b26cd9e18610ab8d3be586006ac2a"
     }, 
     {
       "key": "追剧兔兔", 
