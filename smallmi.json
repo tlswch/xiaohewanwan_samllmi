@@ -595,6 +595,17 @@
       "jar": "https://agit.ai/xiaohewanwan/jar/raw/branch/main/XYQPlugin_0926.jar;md5;719b26cd9e18610ab8d3be586006ac2a"
     }, 
     {
+      "key": "稀饭", 
+      "name": "️稀饭影视(H规则)", 
+      "type": 3, 
+      "api": "csp_XYQHiker", 
+      "searchable": 1, 
+      "quickSearch": 1, 
+      "filterable": 0, 
+      "ext": "https://agit.ai/xiaohewanwan/samllmi/raw/branch/master/XYQH/xifang.json", 
+      "jar": "https://agit.ai/xiaohewanwan/jar/raw/branch/main/XYQPlugin_0926.jar;md5;719b26cd9e18610ab8d3be586006ac2a"
+    }, 
+    {
       "key": "盛世", 
       "name": "️盛世影视(H规则)", 
       "type": 3, 
