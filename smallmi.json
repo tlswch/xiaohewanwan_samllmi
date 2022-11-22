@@ -1,5 +1,5 @@
  {
-  "spider": "https://download.kstore.space/download/3450/custom_spider.jar;md5;a8681e137280b92e2f44ed70f0017baf", 
+  "spider": "https://download.kstore.space/download/3450/custom_spider.jar;md5;517cbee472fc544a9d629eec245dea63", 
   "wallpaper": "https://picsum.photos/1280/720/?blur=5", 
   "lives": [
     {
@@ -146,6 +146,17 @@
       "quickSearch": 1, 
       "filterable": 1, 
       "ext": "8b48a0834ee08e5e64977bc9fc8bc3e0"
+    },
+    {
+      "key": "Ddys", 
+      "name": "低端美剧(爬虫)", 
+      "type": 3, 
+      "api": "csp_Dora", 
+      "searchable": 1, 
+      "quickSearch": 1, 
+      "click": "ddys.tv;#vjsp > button", 
+      "filterable": 1, 
+      "ext": "1cc92323700909e7d46623bc85b958d6"
     }, 
     {
       "key": "Zxzj", 
@@ -283,17 +294,7 @@
       "filterable": 1, 
       "jar": "https://download.kstore.space/download/3450/xo.jar;md5;50041e58be27b2d9e9f67780b22f1773"
     }, 
-    {
-      "key": "Ddys", 
-      "name": "低端美剧(爬虫)", 
-      "type": 3, 
-      "api": "csp_Ddrk", 
-      "searchable": 1, 
-      "quickSearch": 1, 
-      "click": "ddys.tv;#vjsp > button", 
-      "filterable": 1, 
-      "jar": "https://download.kstore.space/download/3450/xo.jar;md5;50041e58be27b2d9e9f67780b22f1773"
-    }, 
+    
     {
       "key": "念影", 
       "name": "念影视频(爬虫)", 
