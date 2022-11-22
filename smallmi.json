@@ -715,18 +715,7 @@
       "filterable": 0, 
       "ext": "https://agit.ai/xiaohewanwan/samllmi/raw/branch/master/fositv.json", 
       "jar": "https://agit.ai/xiaohewanwan/jar/raw/branch/main/XYQPlugin_0926.jar;md5;719b26cd9e18610ab8d3be586006ac2a"
-    }, 
-    {
-      "key": "追剧兔兔", 
-      "name": "️追剧兔兔(H规则)", 
-      "type": 3, 
-      "api": "csp_XYQHiker", 
-      "searchable": 1, 
-      "quickSearch": 1, 
-      "filterable": 0, 
-      "ext": "https://agit.ai/xiaohewanwan/samllmi/raw/branch/master/XYQ/%e8%bf%bd%e5%89%a7%e5%85%94.json", 
-      "jar": "https://agit.ai/xiaohewanwan/jar/raw/branch/main/XYQPlugin_0926.jar;md5;719b26cd9e18610ab8d3be586006ac2a"
-    }, 
+    },  
     {
       "key": "纽约影院", 
       "name": "纽约影院(H规则)", 
