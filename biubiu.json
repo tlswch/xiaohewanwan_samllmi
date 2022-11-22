@@ -1281,6 +1281,8 @@
             "fenlei": "电影$/new-movie/page/#电视剧$/tv-drama/page/#高分电影$/high-movie/page/#动漫电影$/cartoon-movie/page/#香港经典电影$/hongkong-movie/page/#国产剧$/domestic-drama/page/#欧美剧$/american-drama/page/#韩剧$/korean-drama/page/", 
             "houzhui": "", 
             "嗅探词": ".m3u8", 
+             "启用js加载源码": "1", 
+            "js加载源码时间": "5", 
             "shifouercijiequ": "1", 
             "jiequqian": "class=\"bt_img mi_ne_kd mrb", 
             "jiequhou": "class=\"clear", 
