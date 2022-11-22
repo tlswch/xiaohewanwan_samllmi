@@ -772,18 +772,6 @@
       "jar": "https://agit.ai/xiaohewanwan/jar/raw/branch/main/XYQPlugin_1009%e6%b5%8b%e8%af%95%e7%89%88.jar;md5;719b26cd9e18610ab8d3be586006ac2a"
     }, 
     {
-      "key": "csp_cookmv2", 
-      "name": "厂长资源(H规则)", 
-      "type": 3, 
-      "api": "csp_XYQHiker", 
-      "searchable": 1, 
-      "playerType": "2", 
-      "quickSearch": 1, 
-      "filterable": 1, 
-      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/smallmi18/TVB/main/H/changzhang.json", 
-      "jar": "https://agit.ai/xiaohewanwan/jar/raw/branch/main/XYQPlugin_0926.jar;md5;719b26cd9e18610ab8d3be586006ac2a"
-    }, 
-    {
       "key": "csp_xf_真不卡", 
       "name": "️不卡影视(H规则)", 
       "type": 3, 
@@ -991,31 +979,6 @@
       "filterable": 0, 
       "ext": "https://agit.ai/xiaohewanwan/samllmi/raw/branch/master/XYQH/newshijue.json", 
       "jar": "https://agit.ai/xiaohewanwan/jar/raw/branch/main/XYQPlugin_0926.jar;md5;719b26cd9e18610ab8d3be586006ac2a"
-    }, 
-    {
-      "key": "多多", 
-      "name": "️多多资源(资源站)", 
-      "type": 1, 
-      "api": "https://www.ddzyz1.com/api.php/provide/vod/", 
-      "playUrl": "", 
-      "searchable": 1, 
-      "quickSearch": 1, 
-      "filterable": 1, 
-      "categories": [
-        "国产剧", 
-        "港台剧", 
-        "日韩剧", 
-        "欧美剧", 
-        "综艺", 
-        "动漫", 
-        "动作片", 
-        "喜剧片", 
-        "爱情片", 
-        "科幻片", 
-        "恐怖片", 
-        "剧情片", 
-        "战争片"
-      ]
     }, 
     {
       "key": "XMM", 
