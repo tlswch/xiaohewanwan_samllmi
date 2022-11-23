@@ -299,7 +299,7 @@
             "搜索标题": "alt=\"$$\"", 
             "搜索副标题": "class=\"module-item-note\">$$</div>", 
             "搜索链接": "href=\"$$\"", 
-            "搜索链接前缀": "https://www.bulei.cc/index.php/vod/play/id/", 
+            "搜索链接前缀": "/index.php/vod/play/id/", 
             "搜索链接后缀": "/sid/1/nid/1.html", 
             "启用线路名": "1", 
             "线路名二次截取": "空", 
