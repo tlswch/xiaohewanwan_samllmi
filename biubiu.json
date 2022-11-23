@@ -291,7 +291,7 @@
             "搜索模式": "0", 
             "搜索前": "/index.php/ajax/suggest?mid=1&wd=", 
             "搜索后": "&limit=150", 
-            "搜索连接后缀": "/vod/detail/id/", 
+            "搜索连接后缀": "/vod/detail/", 
             "搜索二次截取": "class=\"module-card-item module-item\">$$class=\"module-card-item-info", 
             "搜索截取数组": "<a$$</a>", 
             "搜索图片前缀": "空", 
