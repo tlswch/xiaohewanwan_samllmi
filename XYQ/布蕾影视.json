@@ -65,7 +65,7 @@
     "epi_reverse": "0", 
     "epiurl_prefix": "https://www.bulei.cc", 
     "epiurl_suffix": "", 
-    "Anal_MacPlayer": "0", 
+    "Anal_MacPlayer": "2", 
     "ManualSniffer": "1", 
     "VideoFormat": ".m3u8#.mp4#.flv#_mp4", 
     "VideoFilter": ".html#=http#"
