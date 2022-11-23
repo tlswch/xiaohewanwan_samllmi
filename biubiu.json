@@ -344,7 +344,7 @@
 "列表分类": "电视剧$/vodshow/1--------",
 "列表后缀": "---/",
 "列表二次截取": "空",
-"列表截取数组": "<div class=\"pack-packcover returl list-top-b\"$$</div>",
+"列表截取数组": "<div class=\"pack-ykpack\"$$</div>",
 "列表图片前缀": "空",
 "列表图片": "original=\"$$\"",
 "列表标题": "title=\"$$\"",
