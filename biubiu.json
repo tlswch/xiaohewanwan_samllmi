@@ -278,7 +278,7 @@
             "列表起始页": "1", 
             "列表分类": "布蕾电影$/index.php/vod/show/id/1/page/#布蕾剧集$/index.php/vod/show/id/2/page/#布蕾综艺$/index.php/vod/show/id/3/page/#布蕾动漫$/index.php/vod/show/id/4/page/#布蕾美剧$/index.php/vod/show/id/16/page/#布蕾韩剧$/index.php/vod/show/id/45/page/", 
             "列表后缀": ".html", 
-            "列表二次截取": "class=\"module-item-box$$id=\"page", 
+            "列表二次截取": "class=\"module-item$$id=\"page", 
             "列表截取数组": "<a$$no-referrer", 
             "列表图片前缀": "空", 
             "列表图片": "original=\"$$\"", 
