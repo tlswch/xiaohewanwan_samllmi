@@ -618,6 +618,17 @@
       "jar": "https://agit.ai/xiaohewanwan/jar/raw/branch/main/xl.jar;md5;0158283d78af000f91f9ad39ce1d1fb4"
     }, 
     {
+      "key": "录影视", 
+      "name": "️录录影视(H规则)", 
+      "type": 3, 
+      "api": "csp_XYQHiker", 
+      "searchable": 1, 
+      "quickSearch": 1, 
+      "filterable": 0, 
+      "ext": "https://agit.ai/xiaohewanwan/samllmi/raw/branch/master/%E5%BD%B1%E8%A7%86%E5%BD%95.json", 
+      "jar": "https://agit.ai/xiaohewanwan/jar/raw/branch/main/xl.jar;md5;0158283d78af000f91f9ad39ce1d1fb4"
+    }, 
+    {
       "key": "盛世", 
       "name": "️盛世影视(H规则)", 
       "type": 3, 
