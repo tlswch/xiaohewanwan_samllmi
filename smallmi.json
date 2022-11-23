@@ -551,6 +551,17 @@
       "ext": "https://www.notabug.org/xiaohewanwan/hhh/raw/master/XYQ/%e7%9a%ae%e7%9a%ae%e6%b3%a1.json", 
       "jar": "https://agit.ai/xiaohewanwan/jar/raw/branch/main/xl.jar;md5;0158283d78af000f91f9ad39ce1d1fb4"
     }, 
+     {
+      "key": "布雷", 
+      "name": "️布蕾影视(H规则)", 
+      "type": 3, 
+      "api": "csp_XYQHiker", 
+      "searchable": 1, 
+      "quickSearch": 1, 
+      "filterable": 0, 
+      "ext": "https://agit.ai/xiaohewanwan/samllmi/raw/branch/master/XYQ/%E5%B8%83%E8%95%BE%E5%BD%B1%E8%A7%86.json", 
+      "jar": "https://agit.ai/xiaohewanwan/jar/raw/branch/main/xl.jar;md5;0158283d78af000f91f9ad39ce1d1fb4"
+    }, 
     {
       "key": "草民影视", 
       "name": "️草民影视(H规则)", 
