@@ -256,7 +256,7 @@
             "bflianjiehou": "\""
         },
         {
-            "网站名字": "布蕾奈飞", 
+            "网站名字": "布蕾影视", 
             "网站地址": "https://www.bulei.cc", 
             "ua": "Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1", 
             "访问请求cookie": "空", 
@@ -276,7 +276,7 @@
             "列表显示": "0", 
             "横图显示": "0", 
             "列表起始页": "1", 
-            "列表分类": "布蕾电影$/index.php/vod/show/id/1/page/", 
+            "列表分类": "布蕾电影$/index.php/vod/show/id/1/page/#布蕾剧集$/index.php/vod/show/id/2/page/#布蕾综艺$/index.php/vod/show/id/3/page/#布蕾动漫$/index.php/vod/show/id/4/page/#布蕾美剧$/index.php/vod/show/id/16/page/#布蕾韩剧$/index.php/vod/show/id/45/page/", 
             "列表后缀": ".html", 
             "列表二次截取": "class=\"module-item-box$$id=\"page", 
             "列表截取数组": "<a$$no-referrer", 
@@ -308,7 +308,7 @@
             "播放页状态": "更新：</span>$$</div>", 
             "播放页导演": "导演：</span>$$</div>", 
             "播放页演员": "主演：</span>$$</div>", 
-            "播放页剧情": "", 
+            "播放页剧情": "<div class=\"module-info-introduction-content show-desc\" style=\"line-height: 20px;\">$$</div>", 
             "播放页二次截取": "空", 
             "播放页截取数组": "<div class=\"module-list sort-list tab-list his-tab-list$$</div>", 
             "播放剧集二次截取": "空", 
