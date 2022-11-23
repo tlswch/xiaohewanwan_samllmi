@@ -67,6 +67,6 @@
     "epiurl_suffix": "", 
     "Anal_MacPlayer": "0", 
     "ManualSniffer": "1", 
-    "VideoFormat": ".m3u8#.mp4#.flv", 
-    "VideoFilter": ".html#=http#titan.mgtv.com#"
+    "VideoFormat": ".m3u8#.mp4#.flv#_mp4", 
+    "VideoFilter": ".html#=http#"
 }
