@@ -350,7 +350,7 @@
 "列表图片": "original=\" $$\"",
 "列表标题": "title=\"$$\"",
 "列表副标题": "class=\"list-remarks hidden\">$$</span>",
-"列表链接": "href=\"project-$$/\"",
+"列表链接": "href=\"/project-$$/\"",
 "列表链接前缀": "https://www.sstv.pw/play-",
 "列表链接后缀": "-1-1/",
 "搜索请求方式": "0",
