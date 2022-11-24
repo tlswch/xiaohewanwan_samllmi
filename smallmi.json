@@ -609,6 +609,17 @@
       "jar": "https://agit.ai/xiaohewanwan/jar/raw/branch/main/xl.jar;md5;0158283d78af000f91f9ad39ce1d1fb4"
     }, 
     {
+      "key": "伊人", 
+      "name": "️伊人影视(H规则)", 
+      "type": 3, 
+      "api": "csp_XYQHiker", 
+      "searchable": 1, 
+      "quickSearch": 1, 
+      "filterable": 0, 
+      "ext": "https://agit.ai/xiaohewanwan/samllmi/raw/branch/master/XYQ/%e4%bc%8a%e4%ba%ba%e8%bf%bd%e5%89%a7.json", 
+      "jar": "https://agit.ai/xiaohewanwan/jar/raw/branch/main/xl.jar;md5;0158283d78af000f91f9ad39ce1d1fb4"
+    },
+    {
       "key": "录影视", 
       "name": "️录录影视(H规则)", 
       "type": 3, 
