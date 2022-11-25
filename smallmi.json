@@ -1311,8 +1311,8 @@
       }
     }, 
     {
-      "name": "7080flv", 
-      "type": 1, 
+      "name": "7080", 
+      "type": 0, 
       "url": "https://h5.freejson.xyz/player/?url=", 
       "ext": {
         "flag": [
