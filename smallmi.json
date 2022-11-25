@@ -426,7 +426,7 @@
       "searchable": "1", 
       "quickSearch": "1", 
       "filterable": "1", 
-      "ext": "http://home.jundie.top:666/token.txt"
+      "ext": "https://agit.ai/xiaohewanwan/jar/raw/branch/main/tvbox/token.txt"
     }, 
     {
       "key": "YiSo", 
@@ -436,7 +436,7 @@
       "searchable": "1", 
       "quickSearch": "1", 
       "filterable": "1", 
-      "ext": "http://home.jundie.top:666/token.txt"
+      "ext": "https://agit.ai/xiaohewanwan/jar/raw/branch/main/tvbox/token.txt"
     }, 
     {
       "key": "AliPS", 
@@ -446,9 +446,9 @@
       "searchable": "1", 
       "quickSearch": "1", 
       "filterable": "1", 
-      "ext": "http://home.jundie.top:666/token.txt"
+      "ext": "https://agit.ai/xiaohewanwan/jar/raw/branch/main/tvbox/token.txt"
     }, 
-    {"key":"Upso","name":"🌹阿里云搜(搜索)","type":"3","api":"csp_Upso","searchable":"1","quickSearch":"1","filterable":"1","ext":"https://zdir.kebedd69.repl.co/public/TVBox/token.json"},
+    {"key":"Upso","name":"🌹阿里云搜(搜索)","type":"3","api":"csp_Upso","searchable":"1","quickSearch":"1","filterable":"1","ext":"https://agit.ai/xiaohewanwan/jar/raw/branch/main/tvbox/token.txt"},
     {
       "key": "AList", 
       "name": "NAS AList", 
