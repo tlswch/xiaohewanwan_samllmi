@@ -363,7 +363,7 @@
             "searchable": "1", 
             "quickSearch": "1", 
             "filterable": "1", 
-            "ext": "https://agit.ai/xiaohewanwan/jar/raw/branch/main/tvbox/token.txt"
+            "ext": "https://ghproxy.com/https://raw.githubusercontent.com/Pandora2277/box/main/token.txt"
         }, 
         {
             "key": "Xiaoh", 
@@ -466,7 +466,7 @@
             "searchable": "1", 
             "quickSearch": "1", 
             "filterable": "1", 
-            "ext": "https://agit.ai/xiaohewanwan/jar/raw/branch/main/tvbox/token.txt"
+            "ext": "https://ghproxy.com/https://raw.githubusercontent.com/Pandora2277/box/main/token.txt"
         }, 
         {
             "key": "YiSo", 
@@ -476,7 +476,7 @@
             "searchable": "1", 
             "quickSearch": "1", 
             "filterable": "1", 
-            "ext": "https://agit.ai/xiaohewanwan/jar/raw/branch/main/tvbox/token.txt"
+            "ext": "https://ghproxy.com/https://raw.githubusercontent.com/Pandora2277/box/main/token.txt"
         }, 
         {
             "key": "AliPS", 
@@ -486,7 +486,7 @@
             "searchable": "1", 
             "quickSearch": "1", 
             "filterable": "1", 
-            "ext": "https://agit.ai/xiaohewanwan/jar/raw/branch/main/tvbox/token.txt"
+            "ext": "https://ghproxy.com/https://raw.githubusercontent.com/Pandora2277/box/main/token.txt"
         }, 
         {
             "key": "Upso", 
@@ -496,7 +496,7 @@
             "searchable": "1", 
             "quickSearch": "1", 
             "filterable": "1", 
-            "ext": "https://agit.ai/xiaohewanwan/jar/raw/branch/main/tvbox/token.txt"
+            "ext": "https://ghproxy.com/https://raw.githubusercontent.com/Pandora2277/box/main/token.txt"
         }, 
         {
             "key": "AList", 
@@ -1107,7 +1107,7 @@
             "searchable": 1, 
             "quickSearch": 1, 
             "filterable": 1, 
-            "ext": "http://刚刚.live/json/alitoken.json"
+            "ext": "https://ghproxy.com/https://raw.githubusercontent.com/Pandora2277/box/main/token.txt"
         }
     ], 
     "parses": [
