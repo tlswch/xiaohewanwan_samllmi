@@ -549,7 +549,7 @@
         }, 
         {
             "key": "007", 
-            "name": "️007影视(H规则)", 
+            "name": "️零七影视(H规则)", 
             "type": 3, 
             "api": "csp_XYQHiker", 
             "searchable": 1, 
@@ -578,17 +578,6 @@
             "quickSearch": 1, 
             "filterable": 0, 
             "ext": "https://agit.ai/xiaohewanwan/samllmi/raw/branch/master/XYQ/%E6%98%9F%E7%A9%BA%E5%BD%B1%E8%A7%86.json", 
-            "jar": "https://agit.ai/xiaohewanwan/jar/raw/branch/main/xl.jar;md5;0158283d78af000f91f9ad39ce1d1fb4"
-        }, 
-        {
-            "key": "皮皮泡", 
-            "name": "️皮泡影视(H规则)", 
-            "type": 3, 
-            "api": "csp_XYQHiker", 
-            "searchable": 1, 
-            "quickSearch": 1, 
-            "filterable": 0, 
-            "ext": "https://www.notabug.org/xiaohewanwan/hhh/raw/master/XYQ/%e7%9a%ae%e7%9a%ae%e6%b3%a1.json", 
             "jar": "https://agit.ai/xiaohewanwan/jar/raw/branch/main/xl.jar;md5;0158283d78af000f91f9ad39ce1d1fb4"
         }, 
         {
@@ -878,7 +867,7 @@
             "jar": "https://agit.ai/xiaohewanwan/jar/raw/branch/main/xl.jar;md5;0158283d78af000f91f9ad39ce1d1fb4"
         }, 
         {
-            "key": "csp_imax", 
+            "key": "imax", 
             "name": "imax影院(H规则)", 
             "type": 3, 
             "api": "csp_XYQHiker", 
@@ -889,8 +878,8 @@
             "jar": "https://agit.ai/xiaohewanwan/jar/raw/branch/main/xl.jar;md5;0158283d78af000f91f9ad39ce1d1fb4"
         }, 
         {
-            "key": "csp_xf_101视频", 
-            "name": "️lol视频(H规则)", 
+            "key": "101视频", 
+            "name": "️噜噜影视(H规则)", 
             "type": 3, 
             "api": "csp_XYQHiker", 
             "searchable": 1, 
@@ -912,7 +901,7 @@
         }, 
         {
             "key": "csp_xf_123", 
-            "name": "️RP123影视(H规则)", 
+            "name": "️RP影视(H规则)", 
             "type": 3, 
             "api": "csp_XYQHiker", 
             "searchable": 1, 
