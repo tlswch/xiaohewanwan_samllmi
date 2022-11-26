@@ -160,7 +160,7 @@
     }, 
     {
 		"key": "py_cctv",
-		"name": "央视(PY版本)",
+		"name": "央广资源(PY)",
 		"type": 3,
 		"api": "py_cctv",
 		"searchable": 0,
@@ -170,7 +170,7 @@
 	  },
   {
 		"key": "py_czspp",
-		"name": "厂长(PY版本)",
+		"name": "厂长资源(PY)",
 		"type": 3,
 		"api": "py_czspp",
 		"searchable": 1,
