@@ -1,4 +1,5 @@
- //----------😃😃😃😃😃😃😃😃😃😃😃😃😃😃😃😃😃😃😃😃😃😃😃😃😃😃😃😃😃😃😃😃😃😃😃😃
+
+
 {
     "spider": "https://download.kstore.space/download/3450/1127.jar;md5;7d0487d3ea16a3a147c91197997a057a", 
     "wallpaper": "https://picsum.photos/1280/720/?blur=5", 
@@ -27,14 +28,14 @@
             "filterable": 0
         }, 
         {
-        "key":"t4豆瓣",
-        "name":"🅱豆瓣荐片┃T首页",
-        "type":4,
-        "api":"http://t4.ganggang.live:3812/vod",
-        "searchable": 0,
-        "quickSearch": 0,
-        "filterable": 0
-        },
+            "key": "t4豆瓣", 
+            "name": "🅱豆瓣荐片┃T首页", 
+            "type": 4, 
+            "api": "http://t4.ganggang.live:3812/vod", 
+            "searchable": 0, 
+            "quickSearch": 0, 
+            "filterable": 0
+        }, 
         {
             "key": "zhibo", 
             "name": "电视直播(B规则)", 
@@ -178,7 +179,16 @@
             "filterable": 1, 
             "ext": "https://ghproxy.com/https://raw.githubusercontent.com/lm317379829/PyramidStore/pyramid/plugin/py_cctv.py"
         }, 
-        {"key":"Czsapp","name":"厂长资源(爬虫)","type":"3","api":"csp_Dora","searchable":"1","quickSearch":"1","filterable":"1","ext":"8ee655f702d0d21f3643504783babbc3"},
+        {
+            "key": "Czsapp", 
+            "name": "厂长资源(爬虫)", 
+            "type": "3", 
+            "api": "csp_Dora", 
+            "searchable": "1", 
+            "quickSearch": "1", 
+            "filterable": "1", 
+            "ext": "8ee655f702d0d21f3643504783babbc3"
+        }, 
         {
             "key": "py_czspp", 
             "name": "厂长资源(PY)", 
@@ -418,26 +428,30 @@
             "filterable": 0, 
             "ext": "https://agit.ai/xiaohewanwan/samllmi/raw/branch/master/XYQ/tiankong.json", 
             "jar": "https://agit.ai/xiaohewanwan/jar/raw/branch/main/xl.jar;md5;0158283d78af000f91f9ad39ce1d1fb4"
-        },
-        {"key":"炫猫",
-        "name":"炫猫影视(H规则)",
-        "type":3,"api":"csp_XYQHiker",
-        "searchable":1, 
-        "click": "xuanmao520.tv;#vjsp > button",
-        "quickSearch":1,"filterable":1,
-        "ext":"https://agit.ai/xiaohewanwan/samllmi/raw/branch/master/XYQH/xuanmao.json",
-        "jar": "https://agit.ai/xiaohewanwan/jar/raw/branch/main/xl.jar;md5;0158283d78af000f91f9ad39ce1d1fb4"},
+        }, 
         {
-            "key": "素白白",
-            "name": "️素白影视(H规则)",
-            "type": 3,
-            "api": "csp_XYQHiker",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 0,
-            "ext": "https://www.notabug.org/xiaohewanwan/hhh/raw/master/XYQ/%e7%b4%a0%e7%99%bd%e7%99%bd%e5%bd%b1%e8%a7%86.json",
+            "key": "炫猫", 
+            "name": "炫猫影视(H规则)", 
+            "type": 3, 
+            "api": "csp_XYQHiker", 
+            "searchable": 1, 
+            "click": "xuanmao520.tv;#vjsp > button", 
+            "quickSearch": 1, 
+            "filterable": 1, 
+            "ext": "https://agit.ai/xiaohewanwan/samllmi/raw/branch/master/XYQH/xuanmao.json", 
             "jar": "https://agit.ai/xiaohewanwan/jar/raw/branch/main/xl.jar;md5;0158283d78af000f91f9ad39ce1d1fb4"
-        },
+        }, 
+        {
+            "key": "素白白", 
+            "name": "️素白影视(H规则)", 
+            "type": 3, 
+            "api": "csp_XYQHiker", 
+            "searchable": 1, 
+            "quickSearch": 1, 
+            "filterable": 0, 
+            "ext": "https://www.notabug.org/xiaohewanwan/hhh/raw/master/XYQ/%e7%b4%a0%e7%99%bd%e7%99%bd%e5%bd%b1%e8%a7%86.json", 
+            "jar": "https://agit.ai/xiaohewanwan/jar/raw/branch/main/xl.jar;md5;0158283d78af000f91f9ad39ce1d1fb4"
+        }, 
         {
             "key": "csp_Vofilx", 
             "name": "Voflix影视(爬虫)", 
@@ -600,7 +614,7 @@
             "ext": "https://agit.ai/xiaohewanwan/samllmi/raw/branch/master/XYQ/TV%e4%ba%91%e6%92%ad.json", 
             "jar": "https://agit.ai/xiaohewanwan/jar/raw/branch/main/xl.jar;md5;0158283d78af000f91f9ad39ce1d1fb4"
         }, 
-         {
+        {
             "key": "星空影视", 
             "name": "️星空影视(H规则)", 
             "type": 3, 
@@ -1464,7 +1478,8 @@
         {
             "name": "猫咪解析", 
             "type": 0, 
-            "url": "https://jx.777jiexi.com/player/?url="
+            "url": "https://jiexi6.xuanmao520.com/?url="
+
         }, 
         {
             "name": "rx2", 
@@ -1775,4 +1790,6 @@
         "cms.qdwght.com"
     ]
 }
+
+
 
