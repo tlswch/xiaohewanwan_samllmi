@@ -419,8 +419,14 @@
             "ext": "https://agit.ai/xiaohewanwan/samllmi/raw/branch/master/XYQ/tiankong.json", 
             "jar": "https://agit.ai/xiaohewanwan/jar/raw/branch/main/xl.jar;md5;0158283d78af000f91f9ad39ce1d1fb4"
         },
-        {"key":"炫猫","name":"炫猫影视","type":3,"api":"csp_XYQHiker","searchable":1, "click": "xuanmao520.tv;#vjsp > button","quickSearch":1,"filterable":1,"ext":"https://agit.ai/xiaohewanwan/samllmi/raw/branch/master/XYQH/xuanmao.json"},
-
+        {"key":"炫猫",
+        "name":"炫猫影视",
+        "type":3,"api":"csp_XYQHiker",
+        "searchable":1, 
+        "click": "xuanmao520.tv;#vjsp > button",
+        "quickSearch":1,"filterable":1,
+        "ext":"https://agit.ai/xiaohewanwan/samllmi/raw/branch/master/XYQH/xuanmao.json",
+        "jar": "https://agit.ai/xiaohewanwan/jar/raw/branch/main/xl.jar;md5;0158283d78af000f91f9ad39ce1d1fb4"},
         {
             "key": "素白白",
             "name": "️素白影视(H规则)",
