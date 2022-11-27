@@ -178,7 +178,7 @@
             "filterable": 1, 
             "ext": "https://ghproxy.com/https://raw.githubusercontent.com/lm317379829/PyramidStore/pyramid/plugin/py_cctv.py"
         }, 
-        {"key":"Czsapp","name":"厂长","type":"3","api":"csp_Dora","searchable":"1","quickSearch":"1","filterable":"1","ext":"8ee655f702d0d21f3643504783babbc3"},
+        {"key":"Czsapp","name":"厂长资源(爬虫)","type":"3","api":"csp_Dora","searchable":"1","quickSearch":"1","filterable":"1","ext":"8ee655f702d0d21f3643504783babbc3"},
         {
             "key": "py_czspp", 
             "name": "厂长资源(PY)", 
@@ -418,7 +418,18 @@
             "filterable": 0, 
             "ext": "https://agit.ai/xiaohewanwan/samllmi/raw/branch/master/XYQ/tiankong.json", 
             "jar": "https://agit.ai/xiaohewanwan/jar/raw/branch/main/xl.jar;md5;0158283d78af000f91f9ad39ce1d1fb4"
-        }, 
+        },
+        {
+            "key": "subaibai", 
+            "name": "️素白影视(H规则)", 
+            "type": 3, 
+            "api": "csp_XYQHiker", 
+            "searchable": 1, 
+            "quickSearch": 1, 
+            "filterable": 0, 
+            "ext": "https://agit.ai/xiaohewanwan/samllmi/src/branch/master/XYQH/subaibai2.json", 
+            "jar": "https://agit.ai/xiaohewanwan/jar/raw/branch/main/xl.jar;md5;0158283d78af000f91f9ad39ce1d1fb4"
+        },  
         {
             "key": "csp_Vofilx", 
             "name": "Voflix影视(爬虫)", 
