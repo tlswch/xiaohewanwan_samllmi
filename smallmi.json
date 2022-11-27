@@ -1,6 +1,6 @@
  //----------😃😃😃😃😃😃😃😃😃😃😃😃😃😃😃😃😃😃😃😃😃😃😃😃😃😃😃😃😃😃😃😃😃😃😃😃
 {
-    "spider": "https://download.kstore.space/download/3450/1126.jar;md5;1fde96a9d26e17edb0b83982e3e44f3e", 
+    "spider": "https://download.kstore.space/download/3450/1127.jar;md5;7d0487d3ea16a3a147c91197997a057a", 
     "wallpaper": "https://picsum.photos/1280/720/?blur=5", 
     "lives": [
         {
@@ -178,6 +178,7 @@
             "filterable": 1, 
             "ext": "https://ghproxy.com/https://raw.githubusercontent.com/lm317379829/PyramidStore/pyramid/plugin/py_cctv.py"
         }, 
+        {"key":"Czsapp","name":"厂长","type":"3","api":"csp_Dora","searchable":"1","quickSearch":"1","filterable":"1","ext":"8ee655f702d0d21f3643504783babbc3"},
         {
             "key": "py_czspp", 
             "name": "厂长资源(PY)", 
