@@ -1,5 +1,4 @@
-
-
+//----------------------有问题微信我
 {
     "spider": "https://download.kstore.space/download/3450/1127.jar;md5;7d0487d3ea16a3a147c91197997a057a", 
     "wallpaper": "https://picsum.photos/1280/720/?blur=5", 
@@ -36,7 +35,7 @@
             "quickSearch": 0, 
             "filterable": 0
         }, 
-        {
+        /*{
             "key": "zhibo", 
             "name": "电视直播(B规则)", 
             "type": 3, 
@@ -47,7 +46,7 @@
             "playerType": "1", 
             "jar": "https://download.kstore.space/download/3450/xo.jar;md5;50041e58be27b2d9e9f67780b22f1773", 
             "ext": "https://agit.ai/xiaohewanwan/samllmi/raw/branch/master/XYQ/zhibo.json"
-        }, 
+        }, */
         {
             "key": "SP360", 
             "name": "360聚合(爬虫)", 
@@ -430,18 +429,6 @@
             "jar": "https://agit.ai/xiaohewanwan/jar/raw/branch/main/xl.jar;md5;0158283d78af000f91f9ad39ce1d1fb4"
         }, 
         {
-            "key": "炫猫", 
-            "name": "炫猫影视(H规则)", 
-            "type": 3, 
-            "api": "csp_XYQHiker", 
-            "searchable": 1, 
-            "click": "xuanmao520.tv;#vjsp > button", 
-            "quickSearch": 1, 
-            "filterable": 1, 
-            "ext": "https://agit.ai/xiaohewanwan/samllmi/raw/branch/master/XYQH/xuanmao.json", 
-            "jar": "https://agit.ai/xiaohewanwan/jar/raw/branch/main/xl.jar;md5;0158283d78af000f91f9ad39ce1d1fb4"
-        }, 
-        {
             "key": "素白白", 
             "name": "️素白影视(H规则)", 
             "type": 3, 
@@ -534,7 +521,7 @@
         }, 
         {
             "key": "AList", 
-            "name": "NAS AList", 
+            "name": "AList(网盘)", 
             "type": "3", 
             "api": "csp_AList", 
             "searchable": "1", 
