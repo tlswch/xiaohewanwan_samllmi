@@ -395,16 +395,17 @@
             "jar": "https://download.kstore.space/download/3450/xo.jar;md5;50041e58be27b2d9e9f67780b22f1773"
         }, 
         {
-            "key": "sky", 
-            "name": "️天空影视(规则)", 
+            "key": "Aifan", 
+            "name": "️Aifan影视(规则)", 
             "type": 3, 
             "api": "csp_XYQHiker", 
             "searchable": 1, 
             "quickSearch": 1, 
             "filterable": 0, 
-            "ext": "https://agit.ai/xiaohewanwan/samllmi/raw/branch/master/XYQ/tiankong.json", 
+            "ext": "https://agit.ai/xiaohewanwan/samllmi/raw/branch/master/XYQ/Aifan.json", 
             "jar": "https://agit.ai/xiaohewanwan/jar/raw/branch/main/xl.jar;md5;0158283d78af000f91f9ad39ce1d1fb4"
         }, 
+
         {
             "key": "素白白", 
             "name": "️素白影视(规则)", 
