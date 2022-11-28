@@ -1226,6 +1226,10 @@
                 ]
             }
         }, 
+{"name":"懒懒2","type":1,"url":"http://lanlan.ckflv.cn/?url=","ext":{"flag":["qiyi","qq","letv","sohu","youku","mgtv","bilibili","wasu","xigua","1905"]}},
+{"name": "阿飞","type": 0,"url": "https://jx.bozrc.com:4433/player/?url="},
+{"name": "OKjx综合","type": 0,"url": "http://jx.gbxy.net.cn/?url="},
+
         {
             "name": "xifanys", 
             "type": 1, 
