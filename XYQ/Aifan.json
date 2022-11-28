@@ -11,7 +11,6 @@
     "首页片单是否Jsoup写法": "1",
     "分类起始页码": "1",
     "分类链接": "https://www.aifan.me/vodshow/{cateId}-{area}-{by}-{class}-{lang}----{catePg}---{year}.html",    
-//    "分类链接": "https://www.xbzxk.com/vodtype/{cateId}-{catePg}.html[firstPage=https://www.xbzxk.com/vodtype/{cateId}.html]",
     "分类名称": "电影&电视剧&动漫&综艺",
     "分类名称替换词": "1&2&3&4",
     "筛选数据": "ext",
@@ -34,7 +33,7 @@
     "筛选排序名称": "最新排序&人气排序&评分排序",
     "筛选排序替换词": "time&hits&score",
     "分类截取模式": "1",
-    "分类列表数组规则": "body&&.module-items",
+    "分类列表数组规则": ".module-items&&a",
     "分类片单是否Jsoup写法": "1",
     "分类片单标题": "a&&title",
     "分类片单链接": "a&&href",
@@ -74,8 +73,8 @@
     "是否反转选集序列": "0",
     "选集链接加前缀": "https://www.aifan.me",
     "选集链接加后缀": "",
-    "分析MacPlayer": "2",
-    "是否开启手动嗅探": "0",
+    "分析MacPlayer": "0",
+    "是否开启手动嗅探": "1",
     "手动嗅探视频链接关键词": ".mp4#.m3u8#.flv",
     "手动嗅探视频链接过滤词": ".html#=http"
 }
