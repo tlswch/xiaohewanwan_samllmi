@@ -55,28 +55,27 @@
     "SHeaders":"User-Agent$PC_UA",
     //搜索链接，搜索关键字用{wd}表示，post请求的最后面加;post
     //POST链接示例 http://www.lezhutv.com/index.php?m=vod-search;post
-    "search_url": "https://www.ikyy.cc/index.php/ajax/suggest?mid=1&wd={wd}&limit=50",
+    "search_url": "https://www.ikyy.cc/search/-------------.html;post",
     //POST搜索body，填写搜索关键字的键值，一般常见的是searchword和wd，不是POST搜索的可留空或删除。
     "sea_PtBody":"wd={wd}&search=",
     
     //搜索截取模式,0为json搜索，只支持列表在list数组里的，其它数字为网页截取。
-    "search_mode": "0",
+    "search_mode": "1",
     //搜索列表数组定位，不填默认内置list，最多支持3层，能力有限，不是所有页面都能支持。
-    "sea_arr_rule": "list",
+    "sea_arr_rule": "body&&.stui-vodlist__item",
     //搜索片单信息jsoup与xb截取写法切换，只作用于html网页，1为jsoup写法(默认)，0为xb写法
     "sea_is_jsoup":"1",
     //搜索片单图片，支持自定义图片链接
-    "sea_pic": "pic",
-    //搜索片单标题
-    "sea_title": "name",
+    "sea_pic": "a&&data-original",
+    "sea_title": "a&&title",
     //搜索片单链接
-    "sea_url": "id",
+    "sea_url": "a&&href",
     //搜索片单副标题
     "sea_subtitle":".pic-text&&Text",
     //搜索片单链接补前缀
-    "search_prefix": "https://www.ikyy.cc/voddetail/",
+    "search_prefix": "https://www.ikyy.cc",
     //搜索片单链接补后缀，这个一般json搜索的需要
-    "search_suffix": ".html",
+    "search_suffix": "",
     
     //片单链接是否直接播放，0否，1分类片单链接直接播放，2详情选集链接直接播放。
     //设置成直接播放后，后面3个参数请注意该留空的请务必留空。
