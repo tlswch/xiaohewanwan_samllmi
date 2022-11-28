@@ -39,7 +39,7 @@
 	"cat_title": "a&&title",
 	"cat_url": "a&&href",
 	"cat_pic": ".lazyload&&data-original",
-	"cat_subtitle": "pic-text.text-right&&Text",
+	"cat_subtitle": ".pic-text.text-right&&Text",
 	"cat_prefix": "https://www.jiaozi.me",
 	"cat_suffix": "",
 	"SHeaders": "User-Agent$MOBILE_UA",
