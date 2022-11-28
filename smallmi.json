@@ -405,7 +405,17 @@
             "ext": "https://agit.ai/xiaohewanwan/samllmi/raw/branch/master/XYQ/Aifan.json", 
             "jar": "https://agit.ai/xiaohewanwan/jar/raw/branch/main/xl.jar;md5;0158283d78af000f91f9ad39ce1d1fb4"
         }, 
-
+        {
+            "key": "吼吼", 
+            "name": "️吼吼影视(规则)", 
+            "type": 3, 
+            "api": "csp_XYQHiker", 
+            "searchable": 1, 
+            "quickSearch": 1, 
+            "filterable": 0, 
+            "ext": "https://agit.ai/xiaohewanwan/samllmi/raw/branch/master/%E5%90%BC%E5%90%BC%E8%A7%86%E9%A2%91.json", 
+            "jar": "https://agit.ai/xiaohewanwan/jar/raw/branch/main/xl.jar;md5;0158283d78af000f91f9ad39ce1d1fb4"
+        }, 
         {
             "key": "素白白", 
             "name": "️素白影视(规则)", 
@@ -499,7 +509,7 @@
         }, 
         {
             "key": "AList", 
-            "name": "AList(网盘)", 
+            "name": "NASAList(网盘)", 
             "type": "3", 
             "api": "csp_AList", 
             "searchable": "1", 
