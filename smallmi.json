@@ -36,7 +36,7 @@
         }, 
         {
             "key": "SP360", 
-            "name": "影视聚合(爬虫)", 
+            "name": "影视聚合┃360", 
             "type": 3, 
             "api": "csp_Dora", 
             "searchable": 1, 
