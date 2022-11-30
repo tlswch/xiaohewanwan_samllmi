@@ -276,7 +276,7 @@
       "列表显示": "0", 
       "横图显示": "0", 
       "列表起始页": "1", 
-      "列表分类": "TVB电影$/vod/type/id/1/page/#TVB剧集$/vod/type/id/2/page/#TVB综艺$/vod/type/id/3/page/#TVB动漫$/vod/type/id/4/page/", 
+      "列表分类": "TVB电影$/vod/show/id/1/page/#TVB剧集$/vod/show/id/2/page/#TVB综艺$/vod/show/id/3/page/#TVB动漫$/vod/show/id/4/page/", 
       "列表后缀": ".html", 
       "列表二次截取": "空", 
       "列表截取数组": "class=\"myui-vodlist__thumb lazyload\"$$</a>", 
