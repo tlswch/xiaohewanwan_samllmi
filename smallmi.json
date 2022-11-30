@@ -44,7 +44,16 @@
             "filterable": 1, 
             "ext": "9248c57eb22ace4a3431fbd1a979465f"
         }, 
-        {"key":"一起看","name":"🌹一起看｜APP","type":"3","api":"csp_Dora","searchable":"1","quickSearch":"1","filterable":"1","ext":"8e3aefcba838d8dc5102ac786719d837"},
+        {
+            "key": "一起看", 
+            "name": "一起看｜APP", 
+            "type": "3", 
+            "api": "csp_Dora", 
+            "searchable": "1", 
+            "quickSearch": "1", 
+            "filterable": "1", 
+            "ext": "8e3aefcba838d8dc5102ac786719d837"
+        }, 
         {
             "key": "Zjdr", 
             "name": "🌹追剧达人(爬虫)", 
@@ -957,7 +966,11 @@
             "type": 2, 
             "url": "Parallel"
         }, 
-        {"name":"Web解析聚合","type":3,"url":"Web"},
+        {
+            "name": "Web解析聚合", 
+            "type": 3, 
+            "url": "Web"
+        }, 
         {
             "name": "Json轮询", 
             "type": 2, 
@@ -1079,9 +1092,35 @@
                 ]
             }
         }, 
-{"name":"懒懒2","type":1,"url":"http://lanlan.ckflv.cn/?url=","ext":{"flag":["qiyi","qq","letv","sohu","youku","mgtv","bilibili","wasu","xigua","1905"]}},
-{"name": "阿飞","type": 0,"url": "https://jx.bozrc.com:4433/player/?url="},
-{"name": "OKjx综合","type": 0,"url": "http://jx.gbxy.net.cn/?url="},
+        {
+            "name": "懒懒2", 
+            "type": 1, 
+            "url": "http://lanlan.ckflv.cn/?url=", 
+            "ext": {
+                "flag": [
+                    "qiyi", 
+                    "qq", 
+                    "letv", 
+                    "sohu", 
+                    "youku", 
+                    "mgtv", 
+                    "bilibili", 
+                    "wasu", 
+                    "xigua", 
+                    "1905"
+                ]
+            }
+        }, 
+        {
+            "name": "阿飞", 
+            "type": 0, 
+            "url": "https://jx.bozrc.com:4433/player/?url="
+        }, 
+        {
+            "name": "OKjx综合", 
+            "type": 0, 
+            "url": "http://jx.gbxy.net.cn/?url="
+        }, 
         {
             "name": "xifanys", 
             "type": 1, 
