@@ -1164,7 +1164,7 @@
       "搜索前": "/vodsearch/-------------.html?wd=", 
       "搜索后": "&submit=", 
       "搜索连接后缀": "/voddetail/", 
-      "搜索二次截取": "空", 
+      "搜索二次截取": "<ul class=\"myui-vodlist__media clearfix\"$$</ul", 
       "搜索截取数组": "class=\"thumb$$</a>", 
       "搜索图片前缀": "空", 
       "搜索图片": "data-original=\"$$\"", 
