@@ -845,6 +845,7 @@
             "ext": "http://w.g9.pub:66/2251087869/smallmi/xyq/bpzlm.json", 
             "jar": "http://w.g9.pub:66/2251087869/smallmi/jar/xl.jar;md5;2c31d1eb526abdd120ff3c5de9662c1a"
         }, 
+        {"key":"优质资源","name":"优质资源(切)","type":1,"api":"https://api.1080zyku.com/inc/apijson.php/provide/vod/","searchable":1,"quickSearch":1},
         {
             "key": "push_agent", 
             "name": "推送影视(网页)", 
