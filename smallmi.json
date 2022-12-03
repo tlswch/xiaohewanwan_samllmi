@@ -1,5 +1,5 @@
 {
-   "spider": "http://w.g9.pub:66/2251087869/smallmi/jar/custom_spider.jar;md5;eda8d81e3787f76dff0ee7723df8bfba", 
+    "spider": "http://w.g9.pub:66/2251087869/smallmi/jar/custom_spider.jar;md5;06f0ed3f899b90ffd7947c5d215a36cc",
     "wallpaper": "https://picsum.photos/1280/720/?blur=5", 
     "lives": [
         {
@@ -331,17 +331,7 @@
             "playerType": "1", 
             "jar": "https://download.kstore.space/download/3450/xo.jar;md5;50041e58be27b2d9e9f67780b22f1773", 
             "ext": "https://agit.ai/xiaohewanwan/atest/raw/branch/master/4kvm.json"
-        }, 
-        {
-            "key": "念影", 
-            "name": "念影视频(爬虫)", 
-            "type": 3, 
-            "api": "csp_Nianying", 
-            "searchable": 1, 
-            "quickSearch": 1, 
-            "filterable": 1, 
-            "jar": "https://download.kstore.space/download/3450/xo.jar;md5;50041e58be27b2d9e9f67780b22f1773"
-        }, 
+        },  
         {
             "key": "双十", 
             "name": "双十影视(爬虫)", 
