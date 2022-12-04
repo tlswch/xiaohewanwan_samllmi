@@ -36,7 +36,7 @@
     "分类列表数组规则": "body&&.vodlist_item",
     "分类片单是否Jsoup写法": "1",
     "分类片单标题": "a&&title",
-    "分类片单链接": "a&&href",
+    "分类片单链接": "a&&href[替换:/voddetail/=>/vodplay/||.html=>-1-1.html]",
     "分类片单图片": "a&&data-original",
     "分类片单副标题": ".vszxj.text_right&&Text",
     "分类片单链接加前缀": "https://meijuchong.cc",
