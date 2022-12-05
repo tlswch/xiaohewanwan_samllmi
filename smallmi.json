@@ -324,7 +324,7 @@
             "key": "南柯", 
             "name": "南柯视频(爬虫)", 
             "type": 3, 
-            "api": "csp_Nkys", 
+            "api": "csp_Nkdy", 
             "searchable": 1, 
             "quickSearch": 1, 
             "filterable": 1, 
