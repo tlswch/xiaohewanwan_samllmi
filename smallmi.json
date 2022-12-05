@@ -319,6 +319,16 @@
             "quickSearch": 1, 
             "filterable": 1, 
             "jar": "http://ys-c.ysepan.com/622543221/713331582/gvTKRKp75363K1KK6N3La2/xo%20(1).jar;md5;edaac605b8f6c297b19d34464721f869"
+        },
+        {
+            "key": "南柯", 
+            "name": "南柯视频(爬虫)", 
+            "type": 3, 
+            "api": "csp_Nkys", 
+            "searchable": 1, 
+            "quickSearch": 1, 
+            "filterable": 1, 
+            "jar": "http://ys-c.ysepan.com/622543221/713331582/gvTKRKp75363K1KK6N3La2/xo%20(1).jar;md5;edaac605b8f6c297b19d34464721f869"
         }, 
         {
             "key": "4K", 
