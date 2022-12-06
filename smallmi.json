@@ -1138,6 +1138,11 @@
             "type": 0, 
             "url": "https://jx.bozrc.com:4433/player/?url="
         }, 
+         {
+            "name": "青年", 
+            "type": 0, 
+            "url": "https://qnyoke.top/qnjson.php?url="
+        },
         {
             "name": "OKjx综合", 
             "type": 0, 
