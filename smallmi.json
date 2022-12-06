@@ -43,7 +43,8 @@
             "quickSearch": 1, 
             "filterable": 1, 
             "ext": "9248c57eb22ace4a3431fbd1a979465f"
-        }, 
+        },
+        {"key": "爱看乐看","name": "爱看乐看(CMS)","type": 1,"api": "https://ikan6.vip/api.php/provide/vod","playerType":1,"playUrl": "https://cms.ikan6.vip/nidasicaibudaowozaina/nicaibudaowozaina.php?url=","searchable": 1,"quickSearch": 1,"filterable": 1,"categories": ["国产剧","综艺频道","动漫频道","日韩剧","港台剧","欧美剧","动作片","科幻片","战争片","喜剧片","爱情片","恐怖片","剧情片"]}, 
         {
             "key": "一起看", 
             "name": "一起看｜APP", 
