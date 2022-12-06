@@ -98,7 +98,7 @@
     //演员数据，截取前缀&&截取后缀
     "proj_actor": "主演：</span>&&</p>",
     //简介内容，截取前缀&&截取后缀
-    "proj_plot": "豆瓣：</span>&&</p>",
+    "proj_plot": "<div class=\"stui-content__desc col-pd clearfix\">&&</div>",
     
     //线路截取区域，如果不需要请把tab_title或tab_arr_rule置空或者全部不要填。
     //线路截取数组
