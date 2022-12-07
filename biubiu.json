@@ -375,7 +375,7 @@
       "搜索链接后缀": ".html", 
       "启用线路名": "1", 
       "线路名二次截取": "0", 
-      "线路名截取数组": "class=\"module-tab-item tab-item$$/div>", 
+      "线路名截取数组": "class=\"module-tab-item tab-item$$</div>", 
       "线路名标题": "<span>$$</span>", 
       "播放页状态": "更新：</span>$$</p>", 
       "播放页导演": "导演：</span>$$</p>", 
