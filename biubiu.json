@@ -3006,7 +3006,7 @@
             "daoyanhou": "</div>", 
             "zhuyanqian": "主演：</span>", 
             "zhuyanhou": "</div>", 
-            "juqingqian": "n-content\"><p>", 
+            "juqingqian": "<div class=\"module-info-introduction-content show-desc\" style=\"line-height: 20px;\">", 
             "juqinghou": "</p>", 
             "bfyshifouercijiequ": "0", 
             "bfyjiequqian": "空", 
