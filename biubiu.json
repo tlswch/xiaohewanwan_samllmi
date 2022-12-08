@@ -703,7 +703,7 @@
             "搜索标题": "title=\"$$\"", 
             "搜索副标题": "状态：</span>$$</li>", 
             "搜索链接": "href=\"$$\"", 
-            "搜索链接前缀": "https://qnyoke.top/index.php/detail/id/", 
+            "搜索链接前缀": "https://qnyoke.top/index.php/vod/detail/id/", 
             "搜索链接后缀": ".html", 
             "启用线路名": "1", 
             "线路名二次截取": "空", 
