@@ -12,7 +12,7 @@
 	}],
 	"sites": [{
 			"key": "js豆瓣",
-			"name": "豆瓣热播┃dr首页",
+			"name": "豆瓣热播┃首页",
 			"type": 3,
 			"api": "http://xn--m7r412advb92j21st65a.tk/dr/影魔.js",
 			"ext": "http://xn--m7r412advb92j21st65a.tk/dr/js/豆瓣.js",
@@ -22,7 +22,7 @@
 		},
 		{
 			"key": "t4豆瓣",
-			"name": "豆瓣荐片┃T首页",
+			"name": "豆瓣荐片┃首页",
 			"type": 4,
 			"api": "http://t4.ganggang.live:3812/vod",
 			"searchable": 0,
