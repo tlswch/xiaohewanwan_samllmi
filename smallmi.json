@@ -350,8 +350,6 @@
 			"ext": "https://agit.ai/xiaohewanwan/samllmi/raw/branch/master/bb/maidou.json",
 			"jar": "http://w.g9.pub:66/2251087869/smallmi/jar/128.jar;md5;6fc17c97e76823a606bc00cea00c2ab5"
 		},
-		
-
 		{
 			"key": "双十",
 			"name": "双十影视(爬虫)",
@@ -720,8 +718,6 @@
 			"ext": "https://agit.ai/xiaohewanwan/samllmi/raw/branch/master/XYQ/rxwuye.json",
 			"jar": "https://agit.ai/xiaohewanwan/samllmi/raw/branch/master/jar/xl.jar;md5;2c31d1eb526abdd120ff3c5de9662c1a"
 		},
-		
-
 		{
 			"key": "干饭影视",
 			"name": "干饭影视(规则)",
@@ -771,28 +767,6 @@
 			"quickSearch": 1,
 			"filterable": 0,
 			"ext": "https://agit.ai/xiaohewanwan/samllmi/raw/branch/master/XYQ/zizi.json",
-			"jar": "https://agit.ai/xiaohewanwan/samllmi/raw/branch/master/jar/xl.jar;md5;2c31d1eb526abdd120ff3c5de9662c1a"
-		},
-		{
-			"key": "3333影视",
-			"name": "️3333影视(规则)",
-			"type": 3,
-			"api": "csp_XYQHiker",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 0,
-			"ext": "https://agit.ai/xiaohewanwan/samllmi/raw/branch/master/XYQ/xyqh_333%e5%bd%b1%e8%a7%86.json",
-			"jar": "https://agit.ai/xiaohewanwan/samllmi/raw/branch/master/jar/xl.jar;md5;2c31d1eb526abdd120ff3c5de9662c1a"
-		},
-		{
-			"key": "fositv影视",
-			"name": "️猫咪电影(规则)",
-			"type": 3,
-			"api": "csp_XYQHiker",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 0,
-			"ext": "https://agit.ai/xiaohewanwan/samllmi/raw/branch/master/fositv.json",
 			"jar": "https://agit.ai/xiaohewanwan/samllmi/raw/branch/master/jar/xl.jar;md5;2c31d1eb526abdd120ff3c5de9662c1a"
 		},
 		{
@@ -862,17 +836,6 @@
 			"jar": "https://agit.ai/xiaohewanwan/samllmi/raw/branch/master/jar/xl.jar;md5;2c31d1eb526abdd120ff3c5de9662c1a"
 		},
 		{
-			"key": "101视频",
-			"name": "️噜噜影视(H规则)",
-			"type": 3,
-			"api": "csp_XYQHiker",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 0,
-			"ext": "https://ghproxy.com/https://raw.githubusercontent.com/smallmi18/TVB/main/H/101.json",
-			"jar": "https://agit.ai/xiaohewanwan/samllmi/raw/branch/master/jar/xl.jar;md5;2c31d1eb526abdd120ff3c5de9662c1a"
-		},
-		{
 			"key": "aifei",
 			"name": "️艾菲影院(规则)",
 			"type": 3,
@@ -884,14 +847,14 @@
 			"jar": "https://agit.ai/xiaohewanwan/samllmi/raw/branch/master/jar/xl.jar;md5;2c31d1eb526abdd120ff3c5de9662c1a"
 		},
 		{
-			"key": "123",
-			"name": "️R P影视(规则)",
+			"key": "霹雳",
+			"name": "️霹雳影院(规则)",
 			"type": 3,
 			"api": "csp_XYQHiker",
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 0,
-			"ext": "https://ghproxy.com/https://raw.githubusercontent.com/smallmi18/TVB/main/H/rp123.json",
+			"ext": "https://agit.ai/xiaohewanwan/samllmi/src/branch/master/XYQH/%e9%9c%b9%e9%9b%b3%e5%bd%b1%e8%a7%86.json",
 			"jar": "https://agit.ai/xiaohewanwan/samllmi/raw/branch/master/jar/xl.jar;md5;2c31d1eb526abdd120ff3c5de9662c1a"
 		},
 		{
@@ -991,7 +954,6 @@
 			"quickSearch": 1,
 			"categories": ["国产剧", "韩国剧", "香港剧", "台湾剧", "欧美剧", "动作片", "科幻片", "战争片", "奇幻片", "喜剧片", "爱情片", "恐怖片", "犯罪片", "悬疑片", "惊悚片", "剧情片", "冒险片", "记录片", "综艺", "动漫"]
 		},
-
 		{
 			"key": "白嫖者联盟",
 			"name": "️白嫖联盟(规则)",
