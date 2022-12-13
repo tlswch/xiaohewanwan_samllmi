@@ -51,16 +51,6 @@
 			"ext": "8e3aefcba838d8dc5102ac786719d837"
 		},
 		{
-			"key": "Zjdr",
-			"name": "🌹追剧达人(爬虫)",
-			"type": 3,
-			"api": "csp_Dora",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 1,
-			"ext": "778e8966ec0e9c0ae0b4682ad3550f40"
-		},
-		{
 			"key": "Lgyy",
 			"name": "🌹蓝光影院(爬虫)",
 			"type": "3",
@@ -422,6 +412,17 @@
 			"quickSearch": 1,
 			"filterable": 0,
 			"ext": "https://agit.ai/xiaohewanwan/samllmi/raw/branch/master/XYQ/Aifan.json",
+			"jar": "http://ys-c.ysepan.com/622543221/713331582/gvTKRKp75363K1KK6N3La2/xo%20(1).jar;md5;edaac605b8f6c297b19d34464721f869"
+		},
+		{
+			"key": "kannaifei",
+			"name": "️看看奈飞(规则)",
+			"type": 3,
+			"api": "csp_XYQHiker",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 0,
+			"ext": "https://agit.ai/xiaohewanwan/samllmi/raw/branch/master/XYQ/kannaifei.json",
 			"jar": "http://ys-c.ysepan.com/622543221/713331582/gvTKRKp75363K1KK6N3La2/xo%20(1).jar;md5;edaac605b8f6c297b19d34464721f869"
 		},
 		{
