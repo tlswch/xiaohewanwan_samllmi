@@ -143,6 +143,16 @@
 			"ext": "bdc1c75081e5e477189a463baa47e392"
 		},
 		{
+			"key": "追剧",
+			"name": "追剧达人(爬虫)",
+			"type": 3,
+			"api": "csp_Zjdr",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+			"jar": "http://w.g9.pub:66/2251087869/smallmi/jar/128.jar;md5;6fc17c97e76823a606bc00cea00c2ab5"
+		},
+		{
 			"key": "LiteApple",
 			"name": "苹果影视(爬虫)",
 			"type": "3",
