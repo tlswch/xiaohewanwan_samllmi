@@ -10,16 +10,17 @@
 			]
 		}]
 	}],
-	"sites": [{
-			"key": "js豆瓣",
-			"name": "豆瓣热播┃首页",
-			"type": 3,
-			"api": "http://xn--m7r412advb92j21st65a.tk/dr/影魔.js",
-			"ext": "http://xn--m7r412advb92j21st65a.tk/dr/js/豆瓣.js",
-			"searchable": 0,
-			"quickSearch": 0,
-			"filterable": 0
-		},
+	"sites": [
+		 {
+            "key": "js豆瓣", 
+            "name": "豆瓣热播┃首页", 
+            "type": 3, 
+            "api": "https://agit.ai/767820774/TVBOXZY/raw/branch/main/JS/lib/drpy.min.js", 
+            "ext": "http://w.g9.pub:66/2251087869/smallmi/js/drpy.js", 
+            "searchable": 0, 
+            "quickSearch": 0, 
+            "filterable": 0
+        }, 
 		{
 			"key": "t4豆瓣",
 			"name": "豆瓣荐片┃首页",
@@ -30,16 +31,15 @@
 			"filterable": 0
 		},
 		{
-			"key": "SP360",
-			"name": "影视聚合┃360",
-			"type": 3,
-			"api": "csp_Dora",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 1,
-			"ext": "9248c57eb22ace4a3431fbd1a979465f"
-		},
-
+            "key": "js360", 
+            "name": "影视聚合┃361", 
+            "type": 3, 
+            "api": "https://agit.ai/767820774/TVBOXZY/raw/branch/main/JS/lib/drpy.min.js", 
+            "ext": "http://w.g9.pub:66/2251087869/smallmi/js/360%E5%BD%B1%E8%A7%86.js", 
+            "searchable": 1, 
+            "quickSearch": 1, 
+            "filterable": 1
+        }, 
 		{
 			"key": "一起看",
 			"name": "一起看电影┃APP",
@@ -184,6 +184,13 @@
 			"filterable": "1",
 			"ext": "78d057e4d03e47cb62dce13d69b41d6f"
 		},
+		{
+            "key": "jszhuiju", 
+            "name": "追剧达人(规则)", 
+            "type": 3, 
+            "api": "https://agit.ai/767820774/TVBOXZY/raw/branch/main/JS/lib/drpy.min.js", 
+            "ext": "http://w.g9.pub:66/2251087869/smallmi/js/%E8%BF%BD%E5%89%A7%E8%BE%BE%E4%BA%BA.js"
+        }, 
 		{
 			"key": "Kunyu",
 			"name": "酷云七七(爬虫)",
