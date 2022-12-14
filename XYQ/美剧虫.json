@@ -49,7 +49,7 @@
     "搜索片单是否Jsoup写法": "1",
     "搜索片单图片": "a&&data-original",
     "搜索片单标题": "a&&title",
-    "搜索片单链接": "a&&href[替换:/voddetail/=>/vodplay/||.html=>-1-1.html]",
+    "搜索片单链接": "a&&href[替换:/voddetail/=>/vodplay/]",
     "搜索片单副标题": ".pic_text.text_right&&Text",
     "搜索片单链接加前缀": "https://meijuchong.cc",
     "搜索片单链接加后缀": "",
