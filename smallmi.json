@@ -112,6 +112,50 @@
 			"ext": "459b1cb892e317546676a2c9dcec2bff"
 		},
 		{
+			"key": "Pang1",
+			"name": "🍓胖虎影视(爬虫)",
+			"type": "3",
+			"api": "csp_Panghu",
+			"searchable": "1",
+			"quickSearch": "1",
+			"filterable": "1",
+			"jar": "https://download.kstore.space/download/3450/xo.jar;md5;161bad042c5d23c995a89c80f2ca627c"
+		},
+		{
+			"key": "csp_Nmys",
+			"name": "🍓农民影视(爬虫)",
+			"type": 3,
+			"api": "csp_Nmys",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+			"ext": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/sub/Nmys.json",
+			"jar": "https://download.kstore.space/download/3450/xo.jar;md5;161bad042c5d23c995a89c80f2ca627c"
+		},
+		{
+			"key": "4K",
+			"name": "🍓4K资源网(规则)",
+			"type": 3,
+			"api": "csp_xBPQ",
+			"filterable": 1,
+			"quickSearch": 1,
+			"searchable": 1,
+			"playerType": "1",
+			"ext": "https://agit.ai/xiaohewanwan/atest/raw/branch/master/4kvm.json",
+			"jar": "https://download.kstore.space/download/3450/xo.jar;md5;161bad042c5d23c995a89c80f2ca627c"
+		},
+		{
+			"key": "青年影院",
+			"name": "️🍓青年影视(规则)",
+			"type": 3,
+			"api": "csp_XYQHiker",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 0,
+			"ext": "https://agit.ai/xiaohewanwan/samllmi/raw/branch/master/XYQ/%e9%9d%92%e5%b9%b4%e5%bd%b1%e8%a7%86.json",
+			"jar": "https://agit.ai/xiaohewanwan/samllmi/raw/branch/master/jar/xl.jar;md5;2c31d1eb526abdd120ff3c5de9662c1a"
+		},
+		{
 			"key": "AppTT",
 			"name": "图图影视(爬虫)",
 			"type": 3,
@@ -132,6 +176,17 @@
 			"ext": "a369b1f623fe86605f1b029f0cf66349"
 		},
 		{
+			"key": "南柯",
+			"name": "南柯视频(爬虫)",
+			"type": 3,
+			"api": "csp_Nkdy",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+			"jar": "https://download.kstore.space/download/3450/xo.jar;md5;161bad042c5d23c995a89c80f2ca627c"
+		},
+
+		{
 			"key": "Tian1",
 			"name": "天天视频(爬虫)",
 			"type": "3",
@@ -141,27 +196,18 @@
 			"filterable": "1",
 			"ext": "bdc1c75081e5e477189a463baa47e392"
 		},
+
 		{
-			"key": "Pang1",
-			"name": "胖虎影视(爬虫)",
-			"type": "3",
-			"api": "csp_Panghu",
-			"searchable": "1",
-			"quickSearch": "1",
-			"filterable": "1",
-			"jar": "https://download.kstore.space/download/3450/xo.jar;md5;161bad042c5d23c995a89c80f2ca627c"
+			"key": "PANGU1之光",
+			"name": "️胖虎影视(规则)",
+			"type": 3,
+			"api": "csp_XYQHiker",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 0,
+			"ext": "https://agit.ai/xiaohewanwan/samllmi/raw/branch/master/XYQ/%e8%83%96%e8%99%8e%e5%bd%b1%e8%a7%86.json",
+			"jar": "http://w.g9.pub:66/2251087869/smallmi/jar/xl.jar;md5;2c31d1eb526abdd120ff3c5de9662c1a"
 		},
-		{
-            "key": "PANGU1之光", 
-            "name": "️胖虎影视(规则)", 
-            "type": 3, 
-            "api": "csp_XYQHiker", 
-            "searchable": 1, 
-            "quickSearch": 1, 
-            "filterable": 0, 
-            "ext": "https://agit.ai/xiaohewanwan/samllmi/raw/branch/master/XYQ/%e8%83%96%e8%99%8e%e5%bd%b1%e8%a7%86.json", 
-            "jar": "http://w.g9.pub:66/2251087869/smallmi/jar/xl.jar;md5;2c31d1eb526abdd120ff3c5de9662c1a"
-        }, 
 		{
 			"key": "Auete",
 			"name": "奥特影视(爬虫)",
@@ -321,29 +367,8 @@
 			"filterable": "1",
 			"ext": "a4ce9a4ba7d4f4bced2ff9dfc4ab4e50"
 		},
-		
-		{
-			"key": "南柯",
-			"name": "南柯视频(爬虫)",
-			"type": 3,
-			"api": "csp_Nkdy",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 1,
-			"jar": "https://download.kstore.space/download/3450/xo.jar;md5;161bad042c5d23c995a89c80f2ca627c"
-		},
-		{
-			"key": "4K",
-			"name": "4K资源网(规则)",
-			"type": 3,
-			"api": "csp_xBPQ",
-			"filterable": 1,
-			"quickSearch": 1,
-			"searchable": 1,
-			"playerType": "1",
-			"ext": "https://agit.ai/xiaohewanwan/atest/raw/branch/master/4kvm.json",
-			"jar": "https://download.kstore.space/download/3450/xo.jar;md5;161bad042c5d23c995a89c80f2ca627c"
-		},
+
+
 		{
 			"key": "maidou",
 			"name": "麦豆影视(规则)",
@@ -397,17 +422,7 @@
 			"playerType": "1",
 			"jar": "https://download.kstore.space/download/3450/xo.jar;md5;161bad042c5d23c995a89c80f2ca627c"
 		},
-		{
-			"key": "csp_Nmys",
-			"name": "农民影视(爬虫)",
-			"type": 3,
-			"api": "csp_Nmys",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 1,
-			"ext": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/sub/Nmys.json",
-			"jar": "https://download.kstore.space/download/3450/xo.jar;md5;161bad042c5d23c995a89c80f2ca627c"
-		},
+
 		{
 			"key": "诺讯",
 			"name": "️诺讯影视(规则)",
@@ -452,17 +467,17 @@
 			"ext": "https://agit.ai/xiaohewanwan/samllmi/raw/branch/master/XYQH/%E9%A5%BA%E5%AD%90.json",
 			"jar": "https://agit.ai/xiaohewanwan/samllmi/raw/branch/master/jar/xl.jar;md5;2c31d1eb526abdd120ff3c5de9662c1a"
 		},
-		 {
-            "key": "kanju", 
-            "name": "看剧影视(规则)", 
-            "type": 3, 
-            "api": "csp_XYQHiker", 
-            "searchable": 1, 
-            "quickSearch": 1, 
-            "filterable": 0, 
-            "ext": "http://w.g9.pub:66/2251087869/smallmi/xyq/%E7%9C%8B%E5%89%A7%E7%BD%91.json", 
-            "jar": "http://w.g9.pub:66/2251087869/smallmi/jar/xl.jar;md5;2c31d1eb526abdd120ff3c5de9662c1a"
-        }, 
+		{
+			"key": "kanju",
+			"name": "看剧影视(规则)",
+			"type": 3,
+			"api": "csp_XYQHiker",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 0,
+			"ext": "http://w.g9.pub:66/2251087869/smallmi/xyq/%E7%9C%8B%E5%89%A7%E7%BD%91.json",
+			"jar": "http://w.g9.pub:66/2251087869/smallmi/jar/xl.jar;md5;2c31d1eb526abdd120ff3c5de9662c1a"
+		},
 		{
 			"key": "dmxq",
 			"name": "大米星球(规则)",
@@ -627,17 +642,7 @@
 			"ext": "https://agit.ai/xiaohewanwan/samllmi/raw/branch/master/XYQH/007ys.json",
 			"jar": "https://agit.ai/xiaohewanwan/samllmi/raw/branch/master/jar/xl.jar;md5;2c31d1eb526abdd120ff3c5de9662c1a"
 		},
-		{
-			"key": "青年影院",
-			"name": "️青年影视(规则)",
-			"type": 3,
-			"api": "csp_XYQHiker",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 0,
-			"ext": "https://agit.ai/xiaohewanwan/samllmi/raw/branch/master/XYQ/%e9%9d%92%e5%b9%b4%e5%bd%b1%e8%a7%86.json",
-			"jar": "https://agit.ai/xiaohewanwan/samllmi/raw/branch/master/jar/xl.jar;md5;2c31d1eb526abdd120ff3c5de9662c1a"
-		},
+
 		{
 			"key": "剧白",
 			"name": "️剧白影视(规则)",
