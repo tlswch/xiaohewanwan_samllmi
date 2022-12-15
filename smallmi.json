@@ -78,7 +78,7 @@
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1,
-			"jar": "http://w.g9.pub:66/2251087869/smallmi/jar/2.jar;md5;85774c9c66cfbd22f24273cd82a1101d"
+			"jar": "https://download.kstore.space/download/3450/xo.jar;md5;161bad042c5d23c995a89c80f2ca627c"
 		},
 		{
 			"key": "饭团",
@@ -88,7 +88,7 @@
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1,
-			"jar": "http://w.g9.pub:66/2251087869/smallmi/jar/2.jar;md5;85774c9c66cfbd22f24273cd82a1101d"
+			"jar": "https://download.kstore.space/download/3450/xo.jar;md5;161bad042c5d23c995a89c80f2ca627c"
 		},
 		{
 			"key": "1pianku",
@@ -141,28 +141,16 @@
 			"filterable": "1",
 			"ext": "bdc1c75081e5e477189a463baa47e392"
 		},
-
 		{
-			"key": "LiteApple",
-			"name": "苹果影视(爬虫)",
-			"type": "3",
-			"api": "csp_Dora",
-			"searchable": "1",
-			"quickSearch": "1",
-			"playerType": "1",
-			"filterable": "1",
-			"ext": "6deed4548c44b18d268a5d828f04d86e"
-		},
-		/*{
 			"key": "Pang1",
 			"name": "胖虎影视(爬虫)",
 			"type": "3",
-			"api": "csp_Dora",
+			"api": "csp_Panghu",
 			"searchable": "1",
 			"quickSearch": "1",
 			"filterable": "1",
-			"ext": "c41fdb671b20925c76fa9b6ff8bad027"
-		},*/
+			"jar": "https://download.kstore.space/download/3450/xo.jar;md5;161bad042c5d23c995a89c80f2ca627c"
+		},
 		{
             "key": "PANGU1之光", 
             "name": "️胖虎影视(规则)", 
@@ -219,7 +207,7 @@
 			"searchable": "1",
 			"quickSearch": "1",
 			"filterable": "1",
-			"jar": "http://w.g9.pub:66/2251087869/smallmi/jar/2.jar;md5;85774c9c66cfbd22f24273cd82a1101d"
+			"jar": "https://download.kstore.space/download/3450/xo.jar;md5;161bad042c5d23c995a89c80f2ca627c"
 		},
 		{
 			"key": "Ddys",
@@ -273,6 +261,26 @@
 			"ext": "85b2986381a134ba3ebbaf25ae8138e7#https://ghproxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/json/bili.json"
 		},
 		{
+			"key": "Apple",
+			"name": "苹果影视(爬虫)",
+			"type": "3",
+			"api": "csp_LiteApple",
+			"searchable": "1",
+			"quickSearch": "1",
+			"filterable": "1",
+			"jar": "https://download.kstore.space/download/3450/xo.jar;md5;161bad042c5d23c995a89c80f2ca627c"
+		},
+		{
+			"key": "lezhu",
+			"name": "乐猪影视(爬虫)",
+			"type": "3",
+			"api": "csp_Lezhu",
+			"searchable": "1",
+			"quickSearch": "1",
+			"filterable": "1",
+			"jar": "https://download.kstore.space/download/3450/xo.jar;md5;161bad042c5d23c995a89c80f2ca627c"
+		},
+		{
 			"key": "Dy5551",
 			"name": "5555影视(爬虫)",
 			"type": "3",
@@ -322,7 +330,7 @@
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1,
-			"jar": "http://w.g9.pub:66/2251087869/smallmi/jar/2.jar;md5;85774c9c66cfbd22f24273cd82a1101d"
+			"jar": "https://download.kstore.space/download/3450/xo.jar;md5;161bad042c5d23c995a89c80f2ca627c"
 		},
 		{
 			"key": "4K",
@@ -334,7 +342,7 @@
 			"searchable": 1,
 			"playerType": "1",
 			"ext": "https://agit.ai/xiaohewanwan/atest/raw/branch/master/4kvm.json",
-			"jar": "http://w.g9.pub:66/2251087869/smallmi/jar/2.jar;md5;85774c9c66cfbd22f24273cd82a1101d"
+			"jar": "https://download.kstore.space/download/3450/xo.jar;md5;161bad042c5d23c995a89c80f2ca627c"
 		},
 		{
 			"key": "maidou",
@@ -346,7 +354,7 @@
 			"searchable": 1,
 			"playerType": "1",
 			"ext": "https://agit.ai/xiaohewanwan/samllmi/raw/branch/master/bb/maidou.json",
-			"jar": "http://w.g9.pub:66/2251087869/smallmi/jar/2.jar;md5;85774c9c66cfbd22f24273cd82a1101d"
+			"jar": "https://download.kstore.space/download/3450/xo.jar;md5;161bad042c5d23c995a89c80f2ca627c"
 		},
 		{
 			"key": "双十",
@@ -356,7 +364,7 @@
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1,
-			"jar": "http://w.g9.pub:66/2251087869/smallmi/jar/2.jar;md5;85774c9c66cfbd22f24273cd82a1101d"
+			"jar": "https://download.kstore.space/download/3450/xo.jar;md5;161bad042c5d23c995a89c80f2ca627c"
 		},
 		{
 			"key": "Gitcafe",
@@ -376,7 +384,7 @@
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1,
-			"jar": "http://w.g9.pub:66/2251087869/smallmi/jar/2.jar;md5;85774c9c66cfbd22f24273cd82a1101d"
+			"jar": "https://download.kstore.space/download/3450/xo.jar;md5;161bad042c5d23c995a89c80f2ca627c"
 		},
 		{
 			"key": "bdys",
@@ -387,7 +395,7 @@
 			"quickSearch": 1,
 			"filterable": 1,
 			"playerType": "1",
-			"jar": "http://w.g9.pub:66/2251087869/smallmi/jar/2.jar;md5;85774c9c66cfbd22f24273cd82a1101d"
+			"jar": "https://download.kstore.space/download/3450/xo.jar;md5;161bad042c5d23c995a89c80f2ca627c"
 		},
 		{
 			"key": "csp_Nmys",
@@ -398,7 +406,7 @@
 			"quickSearch": 1,
 			"filterable": 1,
 			"ext": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/sub/Nmys.json",
-			"jar": "http://w.g9.pub:66/2251087869/smallmi/jar/2.jar;md5;85774c9c66cfbd22f24273cd82a1101d"
+			"jar": "https://download.kstore.space/download/3450/xo.jar;md5;161bad042c5d23c995a89c80f2ca627c"
 		},
 		{
 			"key": "诺讯",
@@ -506,7 +514,7 @@
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1,
-			"jar": "http://w.g9.pub:66/2251087869/smallmi/jar/2.jar;md5;85774c9c66cfbd22f24273cd82a1101d"
+			"jar": "https://download.kstore.space/download/3450/xo.jar;md5;161bad042c5d23c995a89c80f2ca627c"
 		},
 		{
 			"key": "csp_Mjxq",
@@ -516,7 +524,7 @@
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1,
-			"jar": "http://w.g9.pub:66/2251087869/smallmi/jar/2.jar;md5;85774c9c66cfbd22f24273cd82a1101d"
+			"jar": "https://download.kstore.space/download/3450/xo.jar;md5;161bad042c5d23c995a89c80f2ca627c"
 		},
 		{
 			"key": "csp_Yj1211",
@@ -526,7 +534,7 @@
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1,
-			"jar": "http://w.g9.pub:66/2251087869/smallmi/jar/2.jar;md5;85774c9c66cfbd22f24273cd82a1101d"
+			"jar": "https://download.kstore.space/download/3450/xo.jar;md5;161bad042c5d23c995a89c80f2ca627c"
 		},
 		{
 			"key": "csp_Anime1",
@@ -536,7 +544,7 @@
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1,
-			"jar": "http://w.g9.pub:66/2251087869/smallmi/jar/2.jar;md5;85774c9c66cfbd22f24273cd82a1101d"
+			"jar": "https://download.kstore.space/download/3450/xo.jar;md5;161bad042c5d23c995a89c80f2ca627c"
 		},
 		{
 			"key": "Zhaozy",
