@@ -53,11 +53,11 @@
 			"key": "Lgyy",
 			"name": "🌹蓝光影院(爬虫)",
 			"type": "3",
-			"api": "csp_Dora",
+			"api": "csp_Lgyy",
 			"searchable": "1",
 			"quickSearch": "1",
 			"filterable": "1",
-			"ext": "b2e573ff040fcd54b50475660ee1a7d1"
+			"jar": "https://download.kstore.space/download/3450/xo.jar;md5;161bad042c5d23c995a89c80f2ca627c"
 		},
 		{
 			"key": "qiyou",
