@@ -57,7 +57,7 @@
 			"searchable": "1",
 			"quickSearch": "1",
 			"filterable": "1",
-			"jar": "https://download.kstore.space/download/3450/xo.jar;md5;161bad042c5d23c995a89c80f2ca627c"
+			"jar": "https://agit.ai/xiaohewanwan/samllmi/raw/branch/master/jar/xo.jar"
 		},
 		{
 			"key": "qiyou",
