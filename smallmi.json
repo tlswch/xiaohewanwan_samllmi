@@ -1183,6 +1183,11 @@
 			"url": "https://jx.bozrc.com:4433/player/?url="
 		},
 		{
+			"name": "jiuku",
+			"type": 0,
+			"url": "https://jiuku.site/addons/dp/player/dp.php?key=0&from=&id=104818&api=&url="
+		},
+		{
 			"name": "青年qq",
 			"type": 0,
 			"url": "https://qnyoke.top/addons/dp/player/index.php?key=0&id=60565&from=qq&url="
