@@ -78,7 +78,7 @@
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1,
-			"jar": "http://w.g9.pub:66/2251087869/smallmi/jar/128.jar;md5;6fc17c97e76823a606bc00cea00c2ab5"
+			"jar": "http://w.g9.pub:66/2251087869/smallmi/jar/2.jar;md5;85774c9c66cfbd22f24273cd82a1101d"
 		},
 		{
 			"key": "饭团",
@@ -88,7 +88,7 @@
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1,
-			"jar": "http://w.g9.pub:66/2251087869/smallmi/jar/128.jar;md5;6fc17c97e76823a606bc00cea00c2ab5"
+			"jar": "http://w.g9.pub:66/2251087869/smallmi/jar/2.jar;md5;85774c9c66cfbd22f24273cd82a1101d"
 		},
 		{
 			"key": "1pianku",
@@ -219,7 +219,7 @@
 			"searchable": "1",
 			"quickSearch": "1",
 			"filterable": "1",
-			"jar": "http://w.g9.pub:66/2251087869/smallmi/jar/128.jar;md5;6fc17c97e76823a606bc00cea00c2ab5"
+			"jar": "http://w.g9.pub:66/2251087869/smallmi/jar/2.jar;md5;85774c9c66cfbd22f24273cd82a1101d"
 		},
 		{
 			"key": "Ddys",
@@ -313,16 +313,7 @@
 			"filterable": "1",
 			"ext": "a4ce9a4ba7d4f4bced2ff9dfc4ab4e50"
 		},
-		{
-			"key": "乐猪",
-			"name": "乐猪视频(爬虫)",
-			"type": 3,
-			"api": "csp_Lezhu",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 1,
-			"jar": "http://w.g9.pub:66/2251087869/smallmi/jar/128.jar;md5;6fc17c97e76823a606bc00cea00c2ab5"
-		},
+		
 		{
 			"key": "南柯",
 			"name": "南柯视频(爬虫)",
@@ -331,7 +322,7 @@
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1,
-			"jar": "http://w.g9.pub:66/2251087869/smallmi/jar/128.jar;md5;6fc17c97e76823a606bc00cea00c2ab5"
+			"jar": "http://w.g9.pub:66/2251087869/smallmi/jar/2.jar;md5;85774c9c66cfbd22f24273cd82a1101d"
 		},
 		{
 			"key": "4K",
@@ -343,7 +334,7 @@
 			"searchable": 1,
 			"playerType": "1",
 			"ext": "https://agit.ai/xiaohewanwan/atest/raw/branch/master/4kvm.json",
-			"jar": "http://w.g9.pub:66/2251087869/smallmi/jar/128.jar;md5;6fc17c97e76823a606bc00cea00c2ab5"
+			"jar": "http://w.g9.pub:66/2251087869/smallmi/jar/2.jar;md5;85774c9c66cfbd22f24273cd82a1101d"
 		},
 		{
 			"key": "maidou",
@@ -355,7 +346,7 @@
 			"searchable": 1,
 			"playerType": "1",
 			"ext": "https://agit.ai/xiaohewanwan/samllmi/raw/branch/master/bb/maidou.json",
-			"jar": "http://w.g9.pub:66/2251087869/smallmi/jar/128.jar;md5;6fc17c97e76823a606bc00cea00c2ab5"
+			"jar": "http://w.g9.pub:66/2251087869/smallmi/jar/2.jar;md5;85774c9c66cfbd22f24273cd82a1101d"
 		},
 		{
 			"key": "双十",
@@ -365,7 +356,7 @@
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1,
-			"jar": "http://w.g9.pub:66/2251087869/smallmi/jar/128.jar;md5;6fc17c97e76823a606bc00cea00c2ab5"
+			"jar": "http://w.g9.pub:66/2251087869/smallmi/jar/2.jar;md5;85774c9c66cfbd22f24273cd82a1101d"
 		},
 		{
 			"key": "Gitcafe",
@@ -385,7 +376,7 @@
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1,
-			"jar": "http://w.g9.pub:66/2251087869/smallmi/jar/128.jar;md5;6fc17c97e76823a606bc00cea00c2ab5"
+			"jar": "http://w.g9.pub:66/2251087869/smallmi/jar/2.jar;md5;85774c9c66cfbd22f24273cd82a1101d"
 		},
 		{
 			"key": "bdys",
@@ -396,7 +387,7 @@
 			"quickSearch": 1,
 			"filterable": 1,
 			"playerType": "1",
-			"jar": "http://w.g9.pub:66/2251087869/smallmi/jar/128.jar;md5;6fc17c97e76823a606bc00cea00c2ab5"
+			"jar": "http://w.g9.pub:66/2251087869/smallmi/jar/2.jar;md5;85774c9c66cfbd22f24273cd82a1101d"
 		},
 		{
 			"key": "csp_Nmys",
@@ -407,7 +398,7 @@
 			"quickSearch": 1,
 			"filterable": 1,
 			"ext": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/sub/Nmys.json",
-			"jar": "http://w.g9.pub:66/2251087869/smallmi/jar/128.jar;md5;6fc17c97e76823a606bc00cea00c2ab5"
+			"jar": "http://w.g9.pub:66/2251087869/smallmi/jar/2.jar;md5;85774c9c66cfbd22f24273cd82a1101d"
 		},
 		{
 			"key": "诺讯",
@@ -505,7 +496,7 @@
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1,
-			"jar": "http://ys-n.ysepan.com/622543243/713335850/hwRJWWm54555I2XKJMLJ46/xo.jar;md5;6fc17c97e76823a606bc00cea00c2ab5"
+			"jar": "http://w.g9.pub:66/2251087869/smallmi/jar/2.jar;md5;85774c9c66cfbd22f24273cd82a1101d"
 		},
 		{
 			"key": "csp_Xinsj",
@@ -515,7 +506,7 @@
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1,
-			"jar": "http://w.g9.pub:66/2251087869/smallmi/jar/128.jar;md5;6fc17c97e76823a606bc00cea00c2ab5"
+			"jar": "http://w.g9.pub:66/2251087869/smallmi/jar/2.jar;md5;85774c9c66cfbd22f24273cd82a1101d"
 		},
 		{
 			"key": "csp_Mjxq",
@@ -525,7 +516,7 @@
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1,
-			"jar": "http://w.g9.pub:66/2251087869/smallmi/jar/128.jar;md5;6fc17c97e76823a606bc00cea00c2ab5"
+			"jar": "http://w.g9.pub:66/2251087869/smallmi/jar/2.jar;md5;85774c9c66cfbd22f24273cd82a1101d"
 		},
 		{
 			"key": "csp_Yj1211",
@@ -535,7 +526,7 @@
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1,
-			"jar": "http://w.g9.pub:66/2251087869/smallmi/jar/128.jar;md5;6fc17c97e76823a606bc00cea00c2ab5"
+			"jar": "http://w.g9.pub:66/2251087869/smallmi/jar/2.jar;md5;85774c9c66cfbd22f24273cd82a1101d"
 		},
 		{
 			"key": "csp_Anime1",
@@ -545,7 +536,7 @@
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1,
-			"jar": "http://w.g9.pub:66/2251087869/smallmi/jar/128.jar;md5;6fc17c97e76823a606bc00cea00c2ab5"
+			"jar": "http://w.g9.pub:66/2251087869/smallmi/jar/2.jar;md5;85774c9c66cfbd22f24273cd82a1101d"
 		},
 		{
 			"key": "Zhaozy",
