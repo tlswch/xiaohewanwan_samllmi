@@ -63,7 +63,7 @@
 	"年代详情": "",
 	"地区详情": "",
 	"演员详情": "主演：</span>&&</div>",
-	"简介详情": "剧情：</span>&&</div>",
+	"简介详情": "<div class=\"show-desc\" style=\"line-height: 20px;\">&&</p>",
 	"线路列表数组规则": "body&&.module-tab-item.tab-item",
 	"线路标题": "Text",
 	"播放列表数组规则": "body&&.module-play-list",
@@ -74,8 +74,8 @@
 	"是否反转选集序列": "否",
 	"选集链接加前缀": "https://yrzj.vip",
 	"选集链接加后缀": "",
-	"分析MacPlayer": "2",
-	"是否开启手动嗅探": "1",
+	"分析MacPlayer": "0",
+	"是否开启手动嗅探": "0",
 	"手动嗅探视频链接关键词": ".mp4#.m3u8#.flv",
 	"手动嗅探视频链接过滤词": ".html#=http"
 }
