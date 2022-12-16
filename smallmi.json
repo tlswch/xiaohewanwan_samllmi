@@ -22,7 +22,7 @@
 		},
 		{
 			"key": "t4豆瓣",
-			"name": "豆瓣荐片┃首页",
+			"name": "豆瓣荐片┃首页（请升级最新版tvbox)",
 			"type": 4,
 			"api": "http://t4.ganggang.live:3812/vod",
 			"searchable": 0,
