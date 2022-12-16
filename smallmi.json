@@ -1,5 +1,5 @@
 {
-	"spider": "http://w.g9.pub:66/2251087869/smallmi/jar/custom_spider.jar;md5;7573e5dee052b6b1661a0bc400f190cc",
+	"spider": "http://w.g9.pub:66/2251087869/smallmi/jar/xo.jar;md5;161bad042c5d23c995a89c80f2ca627c",
 	"wallpaper": "http://www.kf666888.cn/api/tvbox/img",
 	"lives": [{
 		"group": "redirect",
@@ -47,7 +47,8 @@
 			"searchable": "1",
 			"quickSearch": "1",
 			"filterable": "1",
-			"ext": "8e3aefcba838d8dc5102ac786719d837"
+			"ext": "8e3aefcba838d8dc5102ac786719d837",
+			"jar":"http://w.g9.pub:66/2251087869/smallmi/jar/custom_spider.jar;md5;7573e5dee052b6b1661a0bc400f190cc"
 		},
 		{
 			"key": "Lgyy",
@@ -56,8 +57,7 @@
 			"api": "csp_Lgyy",
 			"searchable": "1",
 			"quickSearch": "1",
-			"filterable": "1",
-			"jar": "https://download.kstore.space/download/3450/xo.jar;md5;2f28d8885c3f9978fb90ad2aeb1fb8c9"
+			"filterable": "1"
 		},
 		{
 			"key": "qiyou",
@@ -77,8 +77,7 @@
 			"api": "csp_Juhuang",
 			"searchable": 1,
 			"quickSearch": 1,
-			"filterable": 1,
-			"jar": "https://download.kstore.space/download/3450/xo.jar;md5;2f28d8885c3f9978fb90ad2aeb1fb8c9"
+			"filterable": 1
 		},
 		{
 			"key": "饭团",
@@ -87,8 +86,7 @@
 			"api": "csp_Fantuan",
 			"searchable": 1,
 			"quickSearch": 1,
-			"filterable": 1,
-			"jar": "https://download.kstore.space/download/3450/xo.jar;md5;2f28d8885c3f9978fb90ad2aeb1fb8c9"
+			"filterable": 1
 		},
 		{
 			"key": "1pianku",
@@ -105,11 +103,10 @@
 			"key": "Kuaikan",
 			"name": "🌹快看影视(爬虫)",
 			"type": 3,
-			"api": "csp_Dora",
+			"api": "csp_Kuaikan",
 			"searchable": 1,
 			"quickSearch": 1,
-			"filterable": 1,
-			"ext": "459b1cb892e317546676a2c9dcec2bff"
+			"filterable": 1
 		},
 		{
 			"key": "Pang1",
@@ -118,8 +115,7 @@
 			"api": "csp_Panghu",
 			"searchable": "1",
 			"quickSearch": "1",
-			"filterable": "1",
-			"jar": "https://download.kstore.space/download/3450/xo.jar;md5;2f28d8885c3f9978fb90ad2aeb1fb8c9"
+			"filterable": "1"
 		},
 		{
 			"key": "csp_Nmys",
@@ -129,8 +125,7 @@
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1,
-			"ext": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/sub/Nmys.json",
-			"jar": "https://download.kstore.space/download/3450/xo.jar;md5;2f28d8885c3f9978fb90ad2aeb1fb8c9"
+			"ext": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/sub/Nmys.json"
 		},
 		{
 			"key": "4K",
@@ -141,8 +136,7 @@
 			"quickSearch": 1,
 			"searchable": 1,
 			"playerType": "1",
-			"ext": "https://agit.ai/xiaohewanwan/atest/raw/branch/master/4kvm.json",
-			"jar": "https://download.kstore.space/download/3450/xo.jar;md5;2f28d8885c3f9978fb90ad2aeb1fb8c9"
+			"ext": "https://agit.ai/xiaohewanwan/atest/raw/branch/master/4kvm.json"
 		},
 		{
 			"key": "青年影院",
@@ -156,14 +150,15 @@
 			"jar": "https://agit.ai/xiaohewanwan/samllmi/raw/branch/master/jar/xl.jar;md5;2c31d1eb526abdd120ff3c5de9662c1a"
 		},
 		{
-			"key": "AppTT",
-			"name": "图图影视(爬虫)",
-			"type": 3,
+			"key": "Dy5551",
+			"name": "5555影视(爬虫)",
+			"type": "3",
 			"api": "csp_Dora",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 1,
-			"ext": "110c922de7d69804467fb83d3bb664b5"
+			"searchable": "1",
+			"quickSearch": "1",
+			"filterable": "1",
+			"ext": "f41992bd740145ed58cb212dc0876582",
+			"jar":"http://w.g9.pub:66/2251087869/smallmi/jar/custom_spider.jar;md5;7573e5dee052b6b1661a0bc400f190cc"
 		},
 		{
 			"key": "Yanet1",
@@ -173,7 +168,39 @@
 			"searchable": "1",
 			"quickSearch": "1",
 			"filterable": "1",
-			"ext": "a369b1f623fe86605f1b029f0cf66349"
+			"ext": "a369b1f623fe86605f1b029f0cf66349",
+			"jar":"http://w.g9.pub:66/2251087869/smallmi/jar/custom_spider.jar;md5;7573e5dee052b6b1661a0bc400f190cc"
+		},
+		{
+			"key": "Hei1",
+			"name": "石榴影视(爬虫)",
+			"type": "3",
+			"api": "csp_Dora",
+			"searchable": "1",
+			"quickSearch": "1",
+			"filterable": "1",
+			"ext": "3bff500c8b1e06c052a1b0f1f7a62b45",
+			"jar":"http://w.g9.pub:66/2251087869/smallmi/jar/custom_spider.jar;md5;7573e5dee052b6b1661a0bc400f190cc"
+		},
+		{
+			"key": "Dm84",
+			"name": "动漫巴士(爬虫)",
+			"type": "3",
+			"api": "csp_Dora",
+			"searchable": "1",
+			"quickSearch": "1",
+			"filterable": "1",
+			"ext": "572192a9fe2136041a58e7219a46fb2b",
+			"jar":"http://w.g9.pub:66/2251087869/smallmi/jar/custom_spider.jar;md5;7573e5dee052b6b1661a0bc400f190cc"
+		},
+		{
+			"key": "AppTT",
+			"name": "图图影视(爬虫)",
+			"type": 3,
+			"api": "csp_AppTT",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1
 		},
 		{
 			"key": "南柯",
@@ -182,21 +209,8 @@
 			"api": "csp_Nkdy",
 			"searchable": 1,
 			"quickSearch": 1,
-			"filterable": 1,
-			"jar": "https://download.kstore.space/download/3450/xo.jar;md5;2f28d8885c3f9978fb90ad2aeb1fb8c9"
+			"filterable": 1
 		},
-
-		{
-			"key": "Tian1",
-			"name": "天天视频(爬虫)",
-			"type": "3",
-			"api": "csp_Dora",
-			"searchable": "1",
-			"quickSearch": "1",
-			"filterable": "1",
-			"ext": "bdc1c75081e5e477189a463baa47e392"
-		},
-
 		{
 			"key": "PANGU1之光",
 			"name": "️胖虎影视(规则)",
@@ -212,21 +226,19 @@
 			"key": "Auete",
 			"name": "奥特影视(爬虫)",
 			"type": "3",
-			"api": "csp_Dora",
+			"api": "csp_Auete",
 			"searchable": "1",
 			"quickSearch": "1",
-			"filterable": "1",
-			"ext": "b04b15448ad5bd4312f1fa1fb9aa9b1b"
+			"filterable": "1"
 		},
 		{
 			"key": "Lib",
 			"name": "利奥影视(爬虫)",
 			"type": "3",
-			"api": "csp_Dora",
+			"api": "csp_Lib",
 			"searchable": "1",
 			"quickSearch": "1",
-			"filterable": "1",
-			"ext": "78d057e4d03e47cb62dce13d69b41d6f"
+			"filterable": "1"
 		},
 		{
 			"key": "jszhuiju",
@@ -239,11 +251,10 @@
 			"key": "Kunyu",
 			"name": "酷云七七(爬虫)",
 			"type": 3,
-			"api": "csp_Dora",
+			"api": "csp_Kunyu77",
 			"searchable": 1,
 			"quickSearch": 1,
-			"filterable": 1,
-			"ext": "8b48a0834ee08e5e64977bc9fc8bc3e0"
+			"filterable": 1
 		},
 		{
 			"key": "Czsapp",
@@ -252,59 +263,36 @@
 			"api": "csp_Czsapp",
 			"searchable": "1",
 			"quickSearch": "1",
-			"filterable": "1",
-			"jar": "https://download.kstore.space/download/3450/xo.jar;md5;2f28d8885c3f9978fb90ad2aeb1fb8c9"
+			"filterable": "1"	
 		},
 		{
 			"key": "Ddys",
 			"name": "低端美剧(爬虫)",
 			"type": 3,
-			"api": "csp_Dora",
+			"api": "csp_Ddrk",
 			"searchable": 1,
 			"quickSearch": 1,
 			"click": "ddys.tv;#vjsp > button",
-			"filterable": 1,
-			"ext": "1cc92323700909e7d46623bc85b958d6"
+			"filterable": 1
 		},
 		{
 			"key": "Zxzj",
 			"name": "在线之家(爬虫)",
 			"type": "3",
-			"api": "csp_Dora",
+			"api": "csp_Zxzj",
 			"searchable": "1",
 			"quickSearch": "1",
-			"filterable": "1",
-			"ext": "23a412dda32885ae2bcb97b956cd7ad4"
-		},
-		{
-			"key": "Hei1",
-			"name": "石榴影视(爬虫)",
-			"type": "3",
-			"api": "csp_Dora",
-			"searchable": "1",
-			"quickSearch": "1",
-			"filterable": "1",
-			"ext": "3bff500c8b1e06c052a1b0f1f7a62b45"
-		},
-		{
-			"key": "Dm84",
-			"name": "动漫巴士(爬虫)",
-			"type": "3",
-			"api": "csp_Dora",
-			"searchable": "1",
-			"quickSearch": "1",
-			"filterable": "1",
-			"ext": "572192a9fe2136041a58e7219a46fb2b"
+            "filterable": 1
 		},
 		{
 			"key": "Bili1",
 			"name": "哔哩哔哩(爬虫)",
 			"type": "3",
-			"api": "csp_Dora",
+			"api": "csp_Bili",
 			"searchable": "1",
 			"quickSearch": "1",
 			"filterable": "1",
-			"ext": "85b2986381a134ba3ebbaf25ae8138e7#https://ghproxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/json/bili.json"
+			"ext": "https://ghproxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/json/bili.json"
 		},
 		{
 			"key": "Apple",
@@ -313,8 +301,8 @@
 			"api": "csp_LiteApple",
 			"searchable": "1",
 			"quickSearch": "1",
-			"filterable": "1",
-			"jar": "https://download.kstore.space/download/3450/xo.jar;md5;2f28d8885c3f9978fb90ad2aeb1fb8c9"
+			"playerType": "1",
+			"filterable": "1"
 		},
 		{
 			"key": "lezhu",
@@ -323,52 +311,18 @@
 			"api": "csp_Lezhu",
 			"searchable": "1",
 			"quickSearch": "1",
-			"filterable": "1",
-			"jar": "https://download.kstore.space/download/3450/xo.jar;md5;2f28d8885c3f9978fb90ad2aeb1fb8c9"
-		},
-		{
-			"key": "Dy5551",
-			"name": "5555影视(爬虫)",
-			"type": "3",
-			"api": "csp_Dora",
-			"searchable": "1",
-			"quickSearch": "1",
-			"filterable": "1",
-			"ext": "f41992bd740145ed58cb212dc0876582"
+			"filterable": "1"
 		},
 		{
 			"key": "Cokemv",
 			"name": "可乐影视(爬虫)",
 			"type": "3",
-			"api": "csp_Dora",
+			"api": "csp_Cokemv",
 			"searchable": "1",
 			"quickSearch": "1",
 			"playerType": "1",
-			"filterable": "1",
-			"ext": "b88de1329655cca1beba45aa9776de70"
+			"filterable": "1"
 		},
-		{
-			"key": "Tbook",
-			"name": "小说听书(爬虫)",
-			"type": "3",
-			"api": "csp_Dora",
-			"searchable": "1",
-			"quickSearch": "1",
-			"filterable": "1",
-			"ext": "d16d1517e9eaad9909cb35c55ba0b784"
-		},
-		{
-			"key": "IKan",
-			"name": "爱看影视(爬虫)",
-			"type": "3",
-			"api": "csp_Dora",
-			"searchable": "1",
-			"quickSearch": "1",
-			"filterable": "1",
-			"ext": "a4ce9a4ba7d4f4bced2ff9dfc4ab4e50"
-		},
-
-
 		{
 			"key": "maidou",
 			"name": "麦豆影视(规则)",
@@ -378,8 +332,7 @@
 			"quickSearch": 1,
 			"searchable": 1,
 			"playerType": "1",
-			"ext": "https://agit.ai/xiaohewanwan/samllmi/raw/branch/master/bb/maidou.json",
-			"jar": "https://download.kstore.space/download/3450/xo.jar;md5;2f28d8885c3f9978fb90ad2aeb1fb8c9"
+			"ext": "https://agit.ai/xiaohewanwan/samllmi/raw/branch/master/bb/maidou.json"
 		},
 		{
 			"key": "双十",
@@ -388,8 +341,7 @@
 			"api": "csp_Dy1010",
 			"searchable": 1,
 			"quickSearch": 1,
-			"filterable": 1,
-			"jar": "https://download.kstore.space/download/3450/xo.jar;md5;2f28d8885c3f9978fb90ad2aeb1fb8c9"
+			"filterable": 1
 		},
 		{
 			"key": "Gitcafe",
@@ -408,8 +360,7 @@
 			"api": "csp_Bttoo",
 			"searchable": 1,
 			"quickSearch": 1,
-			"filterable": 1,
-			"jar": "https://download.kstore.space/download/3450/xo.jar;md5;2f28d8885c3f9978fb90ad2aeb1fb8c9"
+			"filterable": 1
 		},
 		{
 			"key": "bdys",
@@ -419,10 +370,8 @@
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1,
-			"playerType": "1",
-			"jar": "https://download.kstore.space/download/3450/xo.jar;md5;2f28d8885c3f9978fb90ad2aeb1fb8c9"
+			"playerType": "1"
 		},
-
 		{
 			"key": "诺讯",
 			"name": "️诺讯影视(规则)",
@@ -518,8 +467,7 @@
 			"api": "csp_Voflix",
 			"searchable": 1,
 			"quickSearch": 1,
-			"filterable": 1,
-			"jar": "https://download.kstore.space/download/3450/xo.jar;md5;2f28d8885c3f9978fb90ad2aeb1fb8c9"
+			"filterable": 1
 		},
 		{
 			"key": "csp_Xinsj",
@@ -528,8 +476,7 @@
 			"api": "csp_Xinsj",
 			"searchable": 1,
 			"quickSearch": 1,
-			"filterable": 1,
-			"jar": "https://download.kstore.space/download/3450/xo.jar;md5;2f28d8885c3f9978fb90ad2aeb1fb8c9"
+			"filterable": 1
 		},
 		{
 			"key": "csp_Mjxq",
@@ -538,8 +485,7 @@
 			"api": "csp_Mjxq",
 			"searchable": 1,
 			"quickSearch": 1,
-			"filterable": 1,
-			"jar": "https://download.kstore.space/download/3450/xo.jar;md5;2f28d8885c3f9978fb90ad2aeb1fb8c9"
+			"filterable": 1
 		},
 		{
 			"key": "csp_Yj1211",
@@ -548,8 +494,7 @@
 			"api": "csp_Yj1211",
 			"searchable": 1,
 			"quickSearch": 1,
-			"filterable": 1,
-			"jar": "https://download.kstore.space/download/3450/xo.jar;md5;2f28d8885c3f9978fb90ad2aeb1fb8c9"
+			"filterable": 1
 		},
 		{
 			"key": "csp_Anime1",
@@ -558,8 +503,7 @@
 			"api": "csp_Anime1",
 			"searchable": 1,
 			"quickSearch": 1,
-			"filterable": 1,
-			"jar": "https://download.kstore.space/download/3450/xo.jar;md5;2f28d8885c3f9978fb90ad2aeb1fb8c9"
+			"filterable": 1
 		},
 		{
 			"key": "Zhaozy",
@@ -569,7 +513,7 @@
 			"searchable": "1",
 			"quickSearch": "1",
 			"filterable": "1",
-			"ext": "https://ghproxy.com/https://raw.githubusercontent.com/Pandora2277/box/main/token.txt",
+			"ext": "http://ali.饭太硬.ml/tok",
 			"jar":"https://ghproxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/jar/custom_spider.jar;md5;0253ba01e6a8e8f11716139823b8baab"
 		},
 		{
@@ -580,27 +524,29 @@
 			"searchable": "1",
 			"quickSearch": "1",
 			"filterable": "1",
-			"ext": "https://ghproxy.com/https://raw.githubusercontent.com/Pandora2277/box/main/token.txt"
+			"ext": "http://ali.饭太硬.ml/tok",
+			"jar":"https://ghproxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/jar/custom_spider.jar;md5;0253ba01e6a8e8f11716139823b8baab"
 		},
 		{
 			"key": "AliPS",
 			"name": "🌹阿里盘搜(搜索)",
 			"type": "3",
-			"api": "csp_AliPS",
+			"api": "csp_PanSou",
 			"searchable": "1",
 			"quickSearch": "1",
 			"filterable": "1",
-			"ext": "https://ghproxy.com/https://raw.githubusercontent.com/Pandora2277/box/main/token.txt"
+			"ext": "http://ali.饭太硬.ml/tok",
+			"jar":"https://ghproxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/jar/custom_spider.jar;md5;0253ba01e6a8e8f11716139823b8baab"
 		},
 		{
 			"key": "Upso",
 			"name": "🌹阿里云搜(搜索)",
 			"type": "3",
-			"api": "csp_Upso",
+			"api": "csp_Upyunso",
 			"searchable": "1",
 			"quickSearch": "1",
 			"filterable": "1",
-			"ext": "https://ghproxy.com/https://raw.githubusercontent.com/Pandora2277/box/main/token.txt"
+			"ext": "http://ali.饭太硬.ml/tok"
 		},
 		{
 			"key": "AList",
@@ -631,7 +577,6 @@
 			"filterable": 0,
 			"ext": "https://gitlab.com/duomv/duo/-/raw/main/js/88%E7%9C%8B%E7%90%83.js"
 		},
-
 		{
 			"key": "007",
 			"name": "️零七影视(规则)",
@@ -643,7 +588,6 @@
 			"ext": "https://agit.ai/xiaohewanwan/samllmi/raw/branch/master/XYQH/007ys.json",
 			"jar": "https://agit.ai/xiaohewanwan/samllmi/raw/branch/master/jar/xl.jar;md5;2c31d1eb526abdd120ff3c5de9662c1a"
 		},
-
 		{
 			"key": "剧白",
 			"name": "️剧白影视(规则)",
@@ -1020,7 +964,7 @@
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1,
-			"ext": "https://ghproxy.com/https://raw.githubusercontent.com/Pandora2277/box/main/token.txt"
+			"ext": "http://ali.饭太硬.ml/tok"
 		}
 	],
 	"parses": [{
