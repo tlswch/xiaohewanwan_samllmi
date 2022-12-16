@@ -171,6 +171,17 @@
 			"jar": "http://w.g9.pub:66/2251087869/smallmi/jar/custom_spider.jar;md5;7573e5dee052b6b1661a0bc400f190cc"
 		},
 		{
+			"key": "IKan",
+			"name": "爱看影视(爬虫)",
+			"type": "3",
+			"api": "csp_Dora",
+			"searchable": "1",
+			"quickSearch": "1",
+			"filterable": "1",
+			"ext": "a4ce9a4ba7d4f4bced2ff9dfc4ab4e50",
+			"jar": "http://w.g9.pub:66/2251087869/smallmi/jar/custom_spider.jar;md5;7573e5dee052b6b1661a0bc400f190cc"
+		},
+		{
 			"key": "Yanet1",
 			"name": "鸭鸭奈非(爬虫)",
 			"type": "3",
