@@ -139,6 +139,10 @@
         {
             "name": "爱看影视", 
             "url": "https://ikan6.vip/api.php"
+        },
+        {
+            "name": "运镜影视", 
+            "url": "https://v.t-ui.cn/index.php/api/vod"
         }, 
         {
             "name": "优质资源", 
