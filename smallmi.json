@@ -51,17 +51,18 @@
 			"jar": "http://w.g9.pub:66/2251087869/smallmi/jar/custom_spider.jar;md5;7573e5dee052b6b1661a0bc400f190cc"
 		},
 		{
-			"key": "Lgyy",
-			"name": "🌹蓝光影院(爬虫)",
-			"type": "3",
-			"api": "csp_Lgyy",
-			"searchable": "1",
-			"quickSearch": "1",
-			"filterable": "1"
+			"key": "csp_Xinsj",
+			"name": "💯视觉电影(爬虫)",
+			"type": 3,
+			"api": "csp_Xinsj",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1
 		},
+		
 		{
 			"key": "qiyou",
-			"name": "️🌹奇优影院(规则)",
+			"name": "️💯奇优影院(规则)",
 			"type": 3,
 			"api": "csp_XYQHiker",
 			"searchable": 1,
@@ -72,7 +73,7 @@
 		},
 		{
 			"key": "csp_剧荒",
-			"name": "🌹剧荒美剧(爬虫)",
+			"name": "💯剧荒美剧(爬虫)",
 			"type": 3,
 			"api": "csp_Juhuang",
 			"searchable": 1,
@@ -81,7 +82,7 @@
 		},
 		{
 			"key": "饭团",
-			"name": "🌹饭团高清(爬虫)",
+			"name": "💯饭团高清(爬虫)",
 			"type": 3,
 			"api": "csp_Fantuan",
 			"searchable": 1,
@@ -90,7 +91,7 @@
 		},
 		{
 			"key": "1pianku",
-			"name": "️🌹假片库网(规则)",
+			"name": "️💯假片库网(规则)",
 			"type": 3,
 			"api": "csp_XYQHiker",
 			"searchable": 1,
@@ -101,7 +102,7 @@
 		},
 		{
 			"key": "Kuaikan",
-			"name": "🌹快看影视(爬虫)",
+			"name": "🍓快看影视(爬虫)",
 			"type": 3,
 			"api": "csp_Kuaikan",
 			"searchable": 1,
@@ -148,6 +149,15 @@
 			"filterable": 0,
 			"ext": "https://agit.ai/xiaohewanwan/samllmi/raw/branch/master/XYQ/%e9%9d%92%e5%b9%b4%e5%bd%b1%e8%a7%86.json",
 			"jar": "https://agit.ai/xiaohewanwan/samllmi/raw/branch/master/jar/xl.jar;md5;2c31d1eb526abdd120ff3c5de9662c1a"
+		},
+		{
+			"key": "Lgyy",
+			"name": "蓝光影院(爬虫)",
+			"type": "3",
+			"api": "csp_Lgyy",
+			"searchable": "1",
+			"quickSearch": "1",
+			"filterable": "1"
 		},
 		{
 			"key": "Dy5551",
@@ -469,15 +479,7 @@
 			"quickSearch": 1,
 			"filterable": 1
 		},
-		{
-			"key": "csp_Xinsj",
-			"name": "视觉电影(爬虫)",
-			"type": 3,
-			"api": "csp_Xinsj",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 1
-		},
+		
 		{
 			"key": "csp_Mjxq",
 			"name": "美剧星球(爬虫)",
