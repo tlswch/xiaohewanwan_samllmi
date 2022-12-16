@@ -569,7 +569,8 @@
 			"searchable": "1",
 			"quickSearch": "1",
 			"filterable": "1",
-			"ext": "https://ghproxy.com/https://raw.githubusercontent.com/Pandora2277/box/main/token.txt"
+			"ext": "https://ghproxy.com/https://raw.githubusercontent.com/Pandora2277/box/main/token.txt",
+			"jar":"https://ghproxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/jar/custom_spider.jar;md5;0253ba01e6a8e8f11716139823b8baab"
 		},
 		{
 			"key": "YiSo",
