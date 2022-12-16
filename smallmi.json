@@ -12,7 +12,7 @@
 	}],
 	"sites": [{
 			"key": "js豆瓣",
-			"name": "豆瓣热播┃首页",
+			"name": "豆瓣热播┃首页（请升级最新版tvbox)",
 			"type": 3,
 			"api": "https://agit.ai/767820774/TVBOXZY/raw/branch/main/JS/lib/drpy.min.js",
 			"ext": "http://w.g9.pub:66/2251087869/smallmi/js/drpy.js",
