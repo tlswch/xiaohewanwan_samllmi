@@ -9,7 +9,7 @@
     "hmepi_arr_rule": "a", 
     "home_is_jsoup": "1", 
     "firstpage": "1",
-    "class_url": "https://www.yingzhazha.com/vodshow/area/{area}/class/{class}/id/{cateId}/lang/{lang}/page/{catePg}/year/{year}.html", 
+    "class_url": "https://www.yingzhazha.com/vodshow/{cateId}-{area}-{by}-{class}-{lang}----{catePg}---{year}.html", 
     "class_name": "电影&电视剧&动漫&综艺&体育赛事&电视直播", 
     "class_value": "1&2&4&3&22&28",  
     "筛选数据": "ext", 
