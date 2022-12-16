@@ -986,7 +986,7 @@
 			"key": "push_agent",
 			"name": "推送影视(网页)",
 			"type": 3,
-			"api": "csp_PushAgent",
+			"api": "csp_Push",
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1,
