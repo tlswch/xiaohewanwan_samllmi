@@ -347,6 +347,17 @@
 			"filterable": "1"
 		},
 		{
+			"key": "云镜",
+			"name": "云镜影视(规则)",
+			"type": 3,
+			"api": "csp_xBPQ",
+			"filterable": 1,
+			"quickSearch": 1,
+			"searchable": 1,
+			"playerType": "1",
+			"ext": "https://agit.ai/xiaohewanwan/samllmi/raw/branch/master/XYQ/yunjing.json"
+		},
+		{
 			"key": "maidou",
 			"name": "麦豆影视(规则)",
 			"type": 3,
