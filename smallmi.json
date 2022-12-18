@@ -20,10 +20,19 @@
 			"quickSearch": 0,
 			"filterable": 0
 		},
-		
+		{
+            "key": "js豆瓣", 
+            "name": "豆瓣热播┃dr首页(老版本可以)", 
+            "type": 3, 
+            "api": "http://xn--m7r412advb92j21st65a.tk/dr/影魔.js", 
+            "ext": "http://xn--m7r412advb92j21st65a.tk/dr/js/豆瓣.js", 
+            "searchable": 0, 
+            "quickSearch": 0, 
+            "filterable": 0
+        }, 
 		{
 			"key": "js360",
-			"name": "影视聚合(360)",
+			"name": "🐼影视聚(360)",
 			"type": 3,
 			"api": "https://agit.ai/767820774/TVBOXZY/raw/branch/main/JS/lib/drpy.min.js",
 			"ext": "http://w.g9.pub:66/2251087869/smallmi/js/360%E5%BD%B1%E8%A7%86.js",
@@ -33,7 +42,7 @@
 		},
 		{
 			"key": "一起看",
-			"name": "一起看 (APP)",
+			"name": "🐼一起看(APP)",
 			"type": "3",
 			"api": "csp_Dora",
 			"searchable": "1",
