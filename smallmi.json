@@ -236,17 +236,6 @@
 			"filterable": 1
 		},
 		{
-			"key": "PANGU1之光",
-			"name": "️胖虎影视(规则)",
-			"type": 3,
-			"api": "csp_XYQHiker",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 0,
-			"ext": "https://agit.ai/xiaohewanwan/samllmi/raw/branch/master/XYQ/%e8%83%96%e8%99%8e%e5%bd%b1%e8%a7%86.json",
-			"jar": "https://download.kstore.space/download/3450/xl1218.jar;md5;2af04bf70706ec613778c46dcafb8abe"
-		},
-		{
 			"key": "Auete",
 			"name": "奥特影视(爬虫)",
 			"type": "3",
