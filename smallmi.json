@@ -11,7 +11,7 @@
 		}]
 	}],
 	"sites": [{
-			"key": "js豆瓣",
+			"key": "js豆瓣1",
 			"name": "豆瓣热播┃首页（升级最新版)",
 			"type": 3,
 			"api": "https://agit.ai/767820774/TVBOXZY/raw/branch/main/JS/lib/drpy.min.js",
@@ -21,7 +21,7 @@
 			"filterable": 0
 		},
 		{
-            "key": "js豆瓣", 
+            "key": "js豆瓣2", 
             "name": "豆瓣热播┃dr首页(老版本可以)", 
             "type": 3, 
             "api": "http://xn--m7r412advb92j21st65a.tk/dr/影魔.js", 
