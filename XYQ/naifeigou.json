@@ -1,4 +1,4 @@
-
+{
     "规则名": "奈飞狗",
     "规则作者": "tx",
     "请求头参数": "User-Agent$PC_UA#Referer$WebView",
