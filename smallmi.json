@@ -12,7 +12,7 @@
 	}],
 	"sites": [{
 			"key": "js豆瓣",
-			"name": "豆瓣热播┃首页（请升级最新版tvbox)",
+			"name": "豆瓣热播┃首页（升级最新版)",
 			"type": 3,
 			"api": "https://agit.ai/767820774/TVBOXZY/raw/branch/main/JS/lib/drpy.min.js",
 			"ext": "http://w.g9.pub:66/2251087869/smallmi/js/drpy.js",
@@ -20,18 +20,10 @@
 			"quickSearch": 0,
 			"filterable": 0
 		},
-		{
-			"key": "t4豆瓣",
-			"name": "豆瓣荐片┃首页（请升级最新版tvbox)",
-			"type": 4,
-			"api": "http://t4.ganggang.live:3812/vod",
-			"searchable": 0,
-			"quickSearch": 0,
-			"filterable": 0
-		},
+		
 		{
 			"key": "js360",
-			"name": "影视聚合┃361",
+			"name": "影视聚合(360)",
 			"type": 3,
 			"api": "https://agit.ai/767820774/TVBOXZY/raw/branch/main/JS/lib/drpy.min.js",
 			"ext": "http://w.g9.pub:66/2251087869/smallmi/js/360%E5%BD%B1%E8%A7%86.js",
@@ -41,7 +33,7 @@
 		},
 		{
 			"key": "一起看",
-			"name": "一起看电影┃APP",
+			"name": "一起看 (APP)",
 			"type": "3",
 			"api": "csp_Dora",
 			"searchable": "1",
@@ -489,7 +481,7 @@
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 0,
-			"ext": "https://agit.ai/xiaohewanwan/samllmi/raw/branch/master/naifeigou.json",
+			"ext": "https://agit.ai/xiaohewanwan/samllmi/raw/branch/master/XYQ/naifeigou.json",
 			"jar": "https://download.kstore.space/download/3450/xl1218.jar;md5;2af04bf70706ec613778c46dcafb8abe"
 		},
 		{
@@ -500,7 +492,7 @@
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 0,
-			"ext": "https://agit.ai/xiaohewanwan/samllmi/raw/branch/master/yunjing1.json",
+			"ext": "https://agit.ai/xiaohewanwan/samllmi/raw/branch/master/XYQ/yunjing1.json",
 			"jar": "https://download.kstore.space/download/3450/xl1218.jar;md5;2af04bf70706ec613778c46dcafb8abe"
 		},
 		{
