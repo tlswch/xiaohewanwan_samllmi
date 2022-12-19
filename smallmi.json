@@ -357,17 +357,6 @@
 			"ext": "https://agit.ai/xiaohewanwan/samllmi/raw/branch/master/bb/maidou.json"
 		},
 		{
-			"key": "2",
-			"name": "2(规则)",
-			"type": 3,
-			"api": "csp_xBPQ",
-			"filterable": 1,
-			"quickSearch": 1,
-			"searchable": 1,
-			"playerType": "1",
-			"ext": "https://agit.ai/xiaohewanwan/samllmi/raw/branch/master/bb/2.json"
-		},
-		{
 			"key": "双十",
 			"name": "双十影视(爬虫)",
 			"type": 3,
