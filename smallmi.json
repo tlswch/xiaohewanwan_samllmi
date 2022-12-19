@@ -1158,9 +1158,9 @@
 			}
 		},
 		{
-			"name": "回响解析",
+			"name": "兰花解析",
 			"type": 0,
-			"url": "https://jx.aidouer.net/?url=",
+			"url": "https://video.lanhua.tv/player/?url=",
 			"ext": {
 				"flag": [
 					"rx",
@@ -1248,7 +1248,7 @@
 		},
 		{
 			"name": "青年qq",
-			"type": 0,
+			"type": 1,
 			"url": "https://qnyoke.top/addons/dp/player/index.php?key=0&id=60565&from=qq&url="
 		},
 		{
@@ -1257,9 +1257,9 @@
 			"url": "http://jx.gbxy.net.cn/?url="
 		},
 		{
-			"name": "Q1解析",
+			"name": "时光解析",
 			"type": 1,
-			"url": "https://parse.ikunfk.cc/parse/sign/7859e0a8dc5af097c2df1294786a3456?url=",
+			"url": "https://v.shigys.com/addons/dp/player/index.php?url=",
 			"ext": {
 				"flag": [
 					"qq",
