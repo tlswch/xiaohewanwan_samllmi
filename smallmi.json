@@ -1100,35 +1100,7 @@
 			"name": "Json轮询",
 			"type": 2,
 			"url": "Sequence"
-		},
-		{
-			"name": "酷享影视",
-			"type": 1,
-			"url": "http://pandown.pro/app/kxjx.php?url=",
-			"ext": {
-				"flag": [
-					"qq",
-					"腾讯",
-					"qiyi",
-					"爱奇艺",
-					"奇艺",
-					"youku",
-					"优酷",
-					"sohu",
-					"搜狐",
-					"letv",
-					"乐视",
-					"mgtv",
-					"芒果",
-					"CL4K",
-					"renrenmi",
-					"ltnb",
-					"bilibili",
-					"1905",
-					"xigua"
-				]
-			}
-		},
+		},		
 		{
 			"name": "左岸",
 			"type": 1,
@@ -1190,6 +1162,43 @@
 			}
 		},
 		{
+            "name": "青年",
+            "url": "https://qnyoke.top/addons/dp/player/index.php?key=0&id=60565&from=qq&url=",
+            "type": 0,
+            "ext": {
+                "flag": [
+                    "qiyi",
+                    "imgo",
+                    "爱奇艺",
+                    "奇艺",
+                    "qq",
+                    "腾讯",
+                    "youku",
+                    "优酷",
+                    "pptv",
+                    "PPTV",
+                    "letv",
+                    "乐视",
+                    "leshi",
+                    "bilibili",
+                    "哔哩哔哩",
+                    "哔哩",
+                    "mgtv",
+                    "芒果",
+                    "sohu",
+                    "xigua",
+                    "fun",
+                    "风行"
+                ],
+                "header": {
+                    "User-Agent": "Mozilla/5.0"
+                }
+            },
+            "header": {
+                "User-Agent": "Mozilla/5.0"
+            }
+        },
+		{
 			"name": "7080",
 			"type": 0,
 			"url": "https://h5.freejson.xyz/player/?url=",
@@ -1242,14 +1251,41 @@
 			"url": "https://jx.bozrc.com:4433/player/?url="
 		},
 		{
-			"name": "jiuku",
+			"name": "天空",
 			"type": 0,
-			"url": "https://jiuku.site/addons/dp/player/dp.php?key=0&from=&id=104818&api=&url="
-		},
-		{
-			"name": "青年qq",
-			"type": 1,
-			"url": "https://qnyoke.top/addons/dp/player/index.php?key=0&id=60565&from=qq&url="
+			"url": "https://it.bt5v.com/?url=",
+			"ext": {
+                "flag": [
+                    "qiyi",
+                    "imgo",
+                    "爱奇艺",
+                    "奇艺",
+                    "qq",
+                    "腾讯",
+                    "youku",
+                    "优酷",
+                    "pptv",
+                    "PPTV",
+                    "letv",
+                    "乐视",
+                    "leshi",
+                    "bilibili",
+                    "哔哩哔哩",
+                    "哔哩",
+                    "mgtv",
+                    "芒果",
+                    "sohu",
+                    "xigua",
+                    "fun",
+                    "风行"
+                ],
+                "header": {
+                    "User-Agent": "Mozilla/5.0"
+                }
+            },
+            "header": {
+                "User-Agent": "Mozilla/5.0"
+            }
 		},
 		{
 			"name": "OKjx综合",
@@ -1258,7 +1294,7 @@
 		},
 		{
 			"name": "时光解析",
-			"type": 1,
+			"type": 0,
 			"url": "https://v.shigys.com/addons/dp/player/index.php?url=",
 			"ext": {
 				"flag": [
