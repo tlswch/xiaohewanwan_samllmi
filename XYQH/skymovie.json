@@ -47,7 +47,7 @@
     "play_suffix": "#isVideo=true#",
     "play_header": "authority$ku.peizq.online#Referer$https://play.peizq.online",
     "proj_is_jsoup": "0",
-    "proj_actor": "主演：</span>&&</P",
+    "proj_actor": "主演：</span>&&</div>",
     "proj_plot": "<div class=\"module-info-introduction-content show-desc\" style=\"line-height: 20px;\">&&</p>",
     "tab_arr_rule": "body&&.module-tab-item.tab-item",
     "tab_title": "Text",
