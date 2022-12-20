@@ -32,7 +32,7 @@ var rule = {
 		"content":"#height_limit&&Text",
 		"tabs":".anthology.wow.fadeInUp.animated&&.swiper-wrapper",
 		"tab_text":"a&&Text",
-		"lists":".anthology-list-play&&ul&&li"
+		"lists":"body&&.anthology-list-play&&li"
 	},
     搜索:'json:list;name;pic;;id',
 }
