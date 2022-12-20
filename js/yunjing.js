@@ -32,7 +32,7 @@ var rule = {
 		"content":"#height_limit&&Text",
 		"tabs":".swiper-wrapper&&.swiper-slide",
 		"tab_text":"a&&Text",
-		"lists":"body&&.anthology-list-play li"
+		"lists":".anthology-list-play&&ul&&li"
 	},
     搜索:'json:list;name;pic;;id',
 }
