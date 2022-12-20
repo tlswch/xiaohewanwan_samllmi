@@ -275,6 +275,13 @@
 			"ext": "https://agit.ai/xiaohewanwan/samllmi/raw/branch/master/js/shiguang.json"
 		},
 		{
+			"key": "九库1",
+			"name": "九酷影视(规则)",
+			"type": 3,
+			"api": "https://agit.ai/767820774/TVBOXZY/raw/branch/main/JS/lib/drpy.min.js",
+			"ext": "https://agit.ai/xiaohewanwan/samllmi/raw/branch/master/js/jiuku.json"
+		},
+		{
 			"key": "Kunyu",
 			"name": "酷云七七(爬虫)",
 			"type": 3,
@@ -494,17 +501,6 @@
 			"quickSearch": 1,
 			"filterable": 0,
 			"ext": "https://agit.ai/xiaohewanwan/samllmi/raw/branch/master/XYQ/naifeigou.json",
-			"jar": "https://download.kstore.space/download/3450/xl1218.jar;md5;2af04bf70706ec613778c46dcafb8abe"
-		},
-		{
-			"key": "云镜",
-			"name": "️云镜影视(规则)",
-			"type": 3,
-			"api": "csp_XYQHiker",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 0,
-			"ext": "https://agit.ai/xiaohewanwan/samllmi/raw/branch/master/XYQ/yunjing1.json",
 			"jar": "https://download.kstore.space/download/3450/xl1218.jar;md5;2af04bf70706ec613778c46dcafb8abe"
 		},
 		{
