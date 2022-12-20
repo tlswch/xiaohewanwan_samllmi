@@ -286,7 +286,7 @@
 			"name": "弹幕动漫(规则)",
 			"type": 3,
 			"api": "https://agit.ai/767820774/TVBOXZY/raw/branch/main/JS/lib/drpy.min.js",
-			"ext": "https://agit.ai/xiaohewanwan/samllmi/src/branch/master/js/aidanmu.js"
+			"ext": "https://agit.ai/xiaohewanwan/samllmi/raw/branch/master/js/aidanmu.js"
 		},
 		{
 			"key": "Kunyu",
