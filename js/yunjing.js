@@ -31,7 +31,7 @@ var rule = {
 		"desc":".fraction&&Text;.slide-info-remarks:eq(1)&&Text;.slide-info-remarks:eq(2)&&Text;.slide-info:eq(2)--strong&&Text;.slide-info:eq(1)--strong&&Text",
 		"content":"#height_limit&&Text",
 		"tabs":".swiper-wrapper&&.swiper-slide",
-		"tab_text":"span&&Text",
+		"tab_text":"a&&Text",
 		"lists":"body&&.anthology-list-play;li"
 	},
     搜索:'json:list;name;pic;;id',
