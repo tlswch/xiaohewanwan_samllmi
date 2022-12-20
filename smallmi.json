@@ -257,35 +257,35 @@
 			"key": "jszhuiju",
 			"name": "追剧达人(规则)",
 			"type": 3,
-			"api": "https://agit.ai/767820774/TVBOXZY/raw/branch/main/JS/lib/drpy.min.js",
+			"api": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/libs/drpy2.min.js",
 			"ext": "http://w.g9.pub:66/2251087869/smallmi/js/%E8%BF%BD%E5%89%A7%E8%BE%BE%E4%BA%BA.js"
 		},
 		{
 			"key": "云锦",
 			"name": "云镜电影(规则)",
 			"type": 3,
-			"api": "https://agit.ai/767820774/TVBOXZY/raw/branch/main/JS/lib/drpy.min.js",
+			"api": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/libs/drpy2.min.js",
 			"ext": "https://agit.ai/xiaohewanwan/samllmi/raw/branch/master/js/yunjing.js"
 		},
 		{
 			"key": "时光1",
 			"name": "拾光影视(规则)",
 			"type": 3,
-			"api": "https://agit.ai/767820774/TVBOXZY/raw/branch/main/JS/lib/drpy.min.js",
+			"api": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/libs/drpy2.min.js",
 			"ext": "https://agit.ai/xiaohewanwan/samllmi/raw/branch/master/js/shiguang.json"
 		},
 		{
 			"key": "九库1",
 			"name": "九酷影视(规则)",
 			"type": 3,
-			"api": "https://agit.ai/767820774/TVBOXZY/raw/branch/main/JS/lib/drpy.min.js",
+			"api": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/libs/drpy2.min.js",
 			"ext": "https://agit.ai/xiaohewanwan/samllmi/raw/branch/master/js/jiuku.json"
 		},
 		{
 			"key": "弹幕1",
 			"name": "弹幕动漫(规则)",
 			"type": 3,
-			"api": "https://agit.ai/767820774/TVBOXZY/raw/branch/main/JS/lib/drpy.min.js",
+			"api": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/libs/drpy2.min.js",
 			"ext": "https://agit.ai/xiaohewanwan/samllmi/raw/branch/master/js/aidanmu.js"
 		},
 		{
