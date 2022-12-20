@@ -269,10 +269,10 @@
 		},
 		{
 			"key": "时光1",
-			"name": "时光电影(规则)",
+			"name": "拾光影视(规则)",
 			"type": 3,
 			"api": "https://agit.ai/767820774/TVBOXZY/raw/branch/main/JS/lib/drpy.min.js",
-			"ext": "https://agit.ai/xiaohewanwan/samllmi/raw/branch/master/js/shiguang.js"
+			"ext": "https://agit.ai/xiaohewanwan/samllmi/raw/branch/master/js/shiguang.json"
 		},
 		{
 			"key": "Kunyu",
