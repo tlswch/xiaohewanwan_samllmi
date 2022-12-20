@@ -7,7 +7,7 @@ var rule = {
     searchUrl: '/index.php/ajax/suggest?mid=1&wd=**',
     searchable: 2,
     quickSearch: 0,
-    headers:{'User-Agent':'MOBILE_UA'},
+    headers:{'User-Agent':'Mozilla/5.0 (iPad; CPU OS 10_3_1 like Mac OS X) AppleWebKit/603.1.30 (KHTML, like Gecko) Version/10.0 Mobile/14E304 Safari/602.1'},
     // 分类链接fypage参数支持1个()表达式
     // url: '/index.php/api/vod#type=fyclass&page=fypage',
 	url: '/index.php/api/vod#type=fyfilter&page=fypage',
@@ -20,7 +20,7 @@ var rule = {
 		45:{cateId:'45'},
 		43:{cateId:'43'}
 	},
-    detailUrl:'/index.php/vod/detail/id/fyid.html',
+    detailUrl:'/index.php/vod/play/id/fyid.html',
     图片来源:'@Referer=https://v.t-ui.cn/',
     推荐:'.list-vod.flex .public-list-box;a&&title;.lazy&&data-original;.public-list-prb&&Text;a&&href',
     一级:'',
@@ -31,7 +31,7 @@ var rule = {
 		"desc":".fraction&&Text;.slide-info-remarks:eq(1)&&Text;.slide-info-remarks:eq(2)&&Text;.slide-info:eq(2)--strong&&Text;.slide-info:eq(1)--strong&&Text",
 		"content":"#height_limit&&Text",
 		"tabs":".anthology.wow.fadeInUp.animated&&.anthology-tab",
-		"tab_text":"span&&Text",
+		"tab_text":"a&&Text",
 		"lists":"body&&.anthology-list-play;li"
 	},
     搜索:'json:list;name;pic;;id',
