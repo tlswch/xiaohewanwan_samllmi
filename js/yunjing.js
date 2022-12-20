@@ -20,7 +20,7 @@ var rule = {
 		45:{cateId:'45'},
 		43:{cateId:'43'}
 	},
-    detailUrl:'/index.php/vod/play/id/fyid.html',
+    detailUrl:'/index.php/vod/detail/id/fyid.html',
     图片来源:'@Referer=https://v.t-ui.cn/',
     推荐:'.list-vod.flex .public-list-box;a&&title;.lazy&&data-original;.public-list-prb&&Text;a&&href',
     一级:'',
@@ -30,8 +30,8 @@ var rule = {
 		"img":".detail-pic&&data-original",
 		"desc":".fraction&&Text;.slide-info-remarks:eq(1)&&Text;.slide-info-remarks:eq(2)&&Text;.slide-info:eq(2)--strong&&Text;.slide-info:eq(1)--strong&&Text",
 		"content":"#height_limit&&Text",
-		"tabs":".anthology.wow.fadeInUp.animated&&.anthology-tab",
-		"tab_text":"a&&Text",
+		"tabs":".anthology-tab.nav-swiper.b-b.br&&.swiper-wrapper",
+		"tab_text":"i&&.fa&&Text",
 		"lists":"body&&.anthology-list-play;li"
 	},
     搜索:'json:list;name;pic;;id',
