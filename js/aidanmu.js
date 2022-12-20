@@ -28,7 +28,7 @@ var rule = {
     二级:{
 		"title":".slide-info-title&&Text;.slide-info:eq(3)--strong&&Text",
 		"img":"body&&.wow.fadeInLeft;a&&data-original",
-		"desc":".fraction&&Text;.gen-search-form.search-show&&li;li:eq(1)&&Text;li:eq(2)&&Text;.slide-info:eq(2)--strong&&Text;.slide-info:eq(1)--strong&&Text",
+		"desc":".fraction&&Text;.detail-info.rel.flex-auto&&slide-info;slide-info:eq(1)&&Text;li:eq(2)&&Text;.slide-info:eq(2)--strong&&Text;.slide-info:eq(1)--strong&&Text",
 		"content":"#height_limit&&Text",
 		"tabs":".anthology.wow.fadeInUp.animated&&.swiper-wrapper&&a",
 		"tab_text":".swiper-slide&&Text",
