@@ -30,8 +30,8 @@ var rule = {
 		"img":".detail-pic&&data-original",
 		"desc":".fraction&&Text;.slide-info-remarks:eq(1)&&Text;.slide-info-remarks:eq(2)&&Text;.slide-info:eq(2)--strong&&Text;.slide-info:eq(1)--strong&&Text",
 		"content":"#height_limit&&Text",
-		"tabs":"body&&.vod-playerUrl.swiper-slide",
-		"tab_text":"a&&Text",
+		"tabs":".anthology.wow.fadeInUp.animated&&.swiper-silde",
+		"tab_text":"Text",
 		"lists":"body&&.anthology-list-play;li"
 	},
     搜索:'json:list;name;pic;;id',
