@@ -282,6 +282,13 @@
 			"ext": "https://agit.ai/xiaohewanwan/samllmi/raw/branch/master/js/jiuku.json"
 		},
 		{
+			"key": "弹幕1",
+			"name": "弹幕动漫(规则)",
+			"type": 3,
+			"api": "https://agit.ai/767820774/TVBOXZY/raw/branch/main/JS/lib/drpy.min.js",
+			"ext": "https://agit.ai/xiaohewanwan/samllmi/raw/branch/master/js/aidanmu.json"
+		},
+		{
 			"key": "Kunyu",
 			"name": "酷云七七(爬虫)",
 			"type": 3,
