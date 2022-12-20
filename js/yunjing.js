@@ -7,7 +7,7 @@ var rule = {
     searchUrl: '/index.php/ajax/suggest?mid=1&wd=**',
     searchable: 2,
     quickSearch: 0,
-    headers:{'User-Agent':'Mozilla/5.0 (iPad; CPU OS 10_3_1 like Mac OS X) AppleWebKit/603.1.30 (KHTML, like Gecko) Version/10.0 Mobile/14E304 Safari/602.1'},
+    headers:{'User-Agent':'PC_UA'},
     // 分类链接fypage参数支持1个()表达式
     // url: '/index.php/api/vod#type=fyclass&page=fypage',
 	url: '/index.php/api/vod#type=fyfilter&page=fypage',
@@ -30,8 +30,8 @@ var rule = {
 		"img":".detail-pic&&data-original",
 		"desc":".fraction&&Text;.slide-info-remarks:eq(1)&&Text;.slide-info-remarks:eq(2)&&Text;.slide-info:eq(2)--strong&&Text;.slide-info:eq(1)--strong&&Text",
 		"content":"#height_limit&&Text",
-		"tabs":".anthology-tab.nav-swiper.b-b.br&&.swiper-wrapper",
-		"tab_text":".vod-playerUrl.swiper-slide&&Text",
+		"tabs":"body&&.vod-playerUrl.swiper-slide",
+		"tab_text":".fa&&Text",
 		"lists":"body&&.anthology-list-play;li"
 	},
     搜索:'json:list;name;pic;;id',
