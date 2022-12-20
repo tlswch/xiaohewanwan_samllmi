@@ -30,7 +30,7 @@ var rule = {
 		"img":".detail-pic&&data-original",
 		"desc":".fraction&&Text;.slide-info-remarks:eq(1)&&Text;.slide-info-remarks:eq(2)&&Text;.slide-info:eq(2)--strong&&Text;.slide-info:eq(1)--strong&&Text",
 		"content":"#height_limit&&Text",
-		"tabs":".swiper-wrapper&&.swiper-slide",
+		"tabs":".anthology.wow.fadeInUp.animated&&.swiper-wrapper",
 		"tab_text":"a&&Text",
 		"lists":".anthology-list-play&&ul&&li"
 	},
