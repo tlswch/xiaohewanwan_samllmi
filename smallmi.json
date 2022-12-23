@@ -21,15 +21,15 @@
 			"filterable": 0
 		},
 		{
-            "key": "js豆瓣2", 
-            "name": "豆瓣热播┃dr首页(老版本可以)", 
-            "type": 3, 
-            "api": "http://xn--m7r412advb92j21st65a.tk/dr/影魔.js", 
-            "ext": "http://xn--m7r412advb92j21st65a.tk/dr/js/豆瓣.js", 
-            "searchable": 0, 
-            "quickSearch": 0, 
-            "filterable": 0
-        }, 
+			"key": "js豆瓣2",
+			"name": "豆瓣热播┃dr首页(老版本可以)",
+			"type": 3,
+			"api": "http://xn--m7r412advb92j21st65a.tk/dr/影魔.js",
+			"ext": "http://xn--m7r412advb92j21st65a.tk/dr/js/豆瓣.js",
+			"searchable": 0,
+			"quickSearch": 0,
+			"filterable": 0
+		},
 		{
 			"key": "js360",
 			"name": "🐼影视聚(360)",
@@ -139,7 +139,7 @@
 			"playerType": "1",
 			"ext": "https://agit.ai/xiaohewanwan/atest/raw/branch/master/4kvm.json"
 		},
-		
+
 		{
 			"key": "青年影院",
 			"name": "️🍓青年影视(规则)",
@@ -1117,7 +1117,7 @@
 			"name": "Json轮询",
 			"type": 2,
 			"url": "Sequence"
-		},		
+		},
 		{
 			"name": "左岸",
 			"type": 1,
@@ -1179,42 +1179,42 @@
 			}
 		},
 		{
-            "name": "青年",
-            "url": "https://qnyoke.top/addons/dp/player/index.php?key=0&id=60565&from=qq&url=",
-            "type": 0,
-            "ext": {
-                "flag": [
-                    "qiyi",
-                    "imgo",
-                    "爱奇艺",
-                    "奇艺",
-                    "qq",
-                    "腾讯",
-                    "youku",
-                    "优酷",
-                    "pptv",
-                    "PPTV",
-                    "letv",
-                    "乐视",
-                    "leshi",
-                    "bilibili",
-                    "哔哩哔哩",
-                    "哔哩",
-                    "mgtv",
-                    "芒果",
-                    "sohu",
-                    "xigua",
-                    "fun",
-                    "风行"
-                ],
-                "header": {
-                    "User-Agent": "Mozilla/5.0"
-                }
-            },
-            "header": {
-                "User-Agent": "Mozilla/5.0"
-            }
-        },
+			"name": "青年",
+			"url": "https://qnyoke.top/addons/dp/player/index.php?key=0&id=60565&from=qq&url=",
+			"type": 0,
+			"ext": {
+				"flag": [
+					"qiyi",
+					"imgo",
+					"爱奇艺",
+					"奇艺",
+					"qq",
+					"腾讯",
+					"youku",
+					"优酷",
+					"pptv",
+					"PPTV",
+					"letv",
+					"乐视",
+					"leshi",
+					"bilibili",
+					"哔哩哔哩",
+					"哔哩",
+					"mgtv",
+					"芒果",
+					"sohu",
+					"xigua",
+					"fun",
+					"风行"
+				],
+				"header": {
+					"User-Agent": "Mozilla/5.0"
+				}
+			},
+			"header": {
+				"User-Agent": "Mozilla/5.0"
+			}
+		},
 		{
 			"name": "7080",
 			"type": 0,
@@ -1268,79 +1268,79 @@
 			"url": "https://jx.bozrc.com:4433/player/?url="
 		},
 		{
-            "name": "255解析",
-            "url": "http://47.108.39.237:55/api/?key=01g4LZuWQpF9pLfWRX&url=",
-            "type": 1,
-            "ext": {
-                "flag": [
-                    "qiyi",
-                    "imgo",
-                    "爱奇艺",
-                    "奇艺",
-                    "qq",
-                    "腾讯",
-                    "youku",
-                    "优酷",
-                    "pptv",
-                    "PPTV",
-                    "letv",
-                    "乐视",
-                    "leshi",
-                    "bilibili",
-                    "哔哩哔哩",
-                    "哔哩",
-                    "mgtv",
-                    "芒果",
-                    "sohu",
-                    "xigua",
-                    "fun",
-                    "风行"
-                ],
-                "header": {
-                    "User-Agent": "Mozilla/5.0"
-                }
-            },
-            "header": {
-                "User-Agent": "Mozilla/5.0"
-            }
-        },
+			"name": "255解析",
+			"url": "http://47.108.39.237:55/api/?key=01g4LZuWQpF9pLfWRX&url=",
+			"type": 1,
+			"ext": {
+				"flag": [
+					"qiyi",
+					"imgo",
+					"爱奇艺",
+					"奇艺",
+					"qq",
+					"腾讯",
+					"youku",
+					"优酷",
+					"pptv",
+					"PPTV",
+					"letv",
+					"乐视",
+					"leshi",
+					"bilibili",
+					"哔哩哔哩",
+					"哔哩",
+					"mgtv",
+					"芒果",
+					"sohu",
+					"xigua",
+					"fun",
+					"风行"
+				],
+				"header": {
+					"User-Agent": "Mozilla/5.0"
+				}
+			},
+			"header": {
+				"User-Agent": "Mozilla/5.0"
+			}
+		},
 		{
-            "name": "ok解析",
-            "url": "https://okjx.cc/?url=",
-            "type": 0,
-            "ext": {
-                "flag": [
-                    "qiyi",
-                    "imgo",
-                    "爱奇艺",
-                    "奇艺",
-                    "qq",
-                    "腾讯",
-                    "youku",
-                    "优酷",
-                    "pptv",
-                    "PPTV",
-                    "letv",
-                    "乐视",
-                    "leshi",
-                    "bilibili",
-                    "哔哩哔哩",
-                    "哔哩",
-                    "mgtv",
-                    "芒果",
-                    "sohu",
-                    "xigua",
-                    "fun",
-                    "风行"
-                ],
-                "header": {
-                    "User-Agent": "Mozilla/5.0"
-                }
-            },
-            "header": {
-                "User-Agent": "Mozilla/5.0"
-            }
-        },
+			"name": "ok解析",
+			"url": "https://okjx.cc/?url=",
+			"type": 0,
+			"ext": {
+				"flag": [
+					"qiyi",
+					"imgo",
+					"爱奇艺",
+					"奇艺",
+					"qq",
+					"腾讯",
+					"youku",
+					"优酷",
+					"pptv",
+					"PPTV",
+					"letv",
+					"乐视",
+					"leshi",
+					"bilibili",
+					"哔哩哔哩",
+					"哔哩",
+					"mgtv",
+					"芒果",
+					"sohu",
+					"xigua",
+					"fun",
+					"风行"
+				],
+				"header": {
+					"User-Agent": "Mozilla/5.0"
+				}
+			},
+			"header": {
+				"User-Agent": "Mozilla/5.0"
+			}
+		},
 		{
 			"name": "OKjx综合",
 			"type": 0,
