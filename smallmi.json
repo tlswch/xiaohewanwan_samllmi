@@ -139,17 +139,7 @@
 			"playerType": "1",
 			"ext": "https://agit.ai/xiaohewanwan/atest/raw/branch/master/4kvm.json"
 		},
-		{
-			"key": "98",
-			"name": "98资源网(规则)",
-			"type": 3,
-			"api": "csp_xBPQ",
-			"filterable": 1,
-			"quickSearch": 1,
-			"searchable": 1,
-			"playerType": "1",
-			"ext": "https://agit.ai/xiaohewanwan/jar/raw/branch/main/xb/98.json"
-		},
+		
 		{
 			"key": "青年影院",
 			"name": "️🍓青年影视(规则)",
@@ -794,6 +784,17 @@
 			"filterable": 0,
 			"ext": "https://agit.ai/xiaohewanwan/samllmi/raw/branch/master/XYQ/siguzhuiju.json",
 			"jar": "https://download.kstore.space/download/3450/xl1218.jar;md5;2af04bf70706ec613778c46dcafb8abe"
+		},
+		{
+			"key": "98",
+			"name": "酒吧影院(规则)",
+			"type": 3,
+			"api": "csp_xBPQ",
+			"filterable": 1,
+			"quickSearch": 1,
+			"searchable": 1,
+			"playerType": "1",
+			"ext": "https://agit.ai/xiaohewanwan/jar/raw/branch/main/xb/98.json"
 		},
 		{
 			"key": "特播",
