@@ -139,7 +139,6 @@
 			"playerType": "1",
 			"ext": "https://agit.ai/xiaohewanwan/atest/raw/branch/master/4kvm.json"
 		},
-
 		{
 			"key": "青年影院",
 			"name": "️🍓青年影视(规则)",
@@ -253,34 +252,7 @@
 			"quickSearch": "1",
 			"filterable": "1"
 		},
-		{
-			"key": "云锦",
-			"name": "云镜电影(规则)",
-			"type": 3,
-			"api": "https://agit.ai/xiaohewanwan/samllmi/raw/branch/master/js/lib/drpy.min.js",
-			"ext": "https://agit.ai/xiaohewanwan/samllmi/raw/branch/master/js/yunjing.js"
-		},
-		{
-			"key": "时光1",
-			"name": "拾光影视(规则)",
-			"type": 3,
-			"api": "https://agit.ai/xiaohewanwan/samllmi/raw/branch/master/js/lib/drpy.min.js",
-			"ext": "https://agit.ai/xiaohewanwan/samllmi/raw/branch/master/js/shiguang.json"
-		},
-		{
-			"key": "九库1",
-			"name": "九酷影视(规则)",
-			"type": 3,
-			"api": "https://agit.ai/xiaohewanwan/samllmi/raw/branch/master/js/lib/drpy.min.js",
-			"ext": "https://agit.ai/xiaohewanwan/samllmi/raw/branch/master/js/jiuku.json"
-		},
-		{
-			"key": "弹幕1",
-			"name": "弹幕动漫(规则)",
-			"type": 3,
-			"api": "https://agit.ai/xiaohewanwan/samllmi/raw/branch/master/js/lib/drpy.min.js",
-			"ext": "https://agit.ai/xiaohewanwan/samllmi/raw/branch/master/js/aidanmu.js"
-		},
+		
 		{
 			"key": "Kunyu",
 			"name": "酷云七七(爬虫)",
@@ -387,6 +359,27 @@
 			"searchable": 1,
 			"playerType": "1",
 			"ext": "https://agit.ai/xiaohewanwan/jar/raw/branch/main/xb/xiongdi.json"
+		},
+		{
+			"key": "云锦",
+			"name": "云镜电影(规则)",
+			"type": 3,
+			"api": "https://agit.ai/xiaohewanwan/samllmi/raw/branch/master/js/lib/drpy.min.js",
+			"ext": "https://agit.ai/xiaohewanwan/samllmi/raw/branch/master/js/yunjing.js"
+		},
+		{
+			"key": "九库1",
+			"name": "九酷影视(规则)",
+			"type": 3,
+			"api": "https://agit.ai/xiaohewanwan/samllmi/raw/branch/master/js/lib/drpy.min.js",
+			"ext": "https://agit.ai/xiaohewanwan/samllmi/raw/branch/master/js/jiuku.json"
+		},
+		{
+			"key": "弹幕1",
+			"name": "弹幕动漫(规则)",
+			"type": 3,
+			"api": "https://agit.ai/xiaohewanwan/samllmi/raw/branch/master/js/lib/drpy.min.js",
+			"ext": "https://agit.ai/xiaohewanwan/samllmi/raw/branch/master/js/aidanmu.js"
 		},
 		{
 			"key": "双十",
@@ -711,6 +704,39 @@
 			"filterable": 0,
 			"ext": "https://agit.ai/xiaohewanwan/samllmi/raw/branch/master/XYQH/um.json",
 			"jar": "https://download.kstore.space/download/3450/xl1218.jar;md5;2af04bf70706ec613778c46dcafb8abe"
+		},
+		{
+			"key": "a哔哩",
+			"name": "看看哔哩(规则)",
+			"type": 3,
+			"api": "csp_XYQHiker",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 0,
+			"ext": "http://w.g9.pub:66/2251087869/smallmi/xyq/kanbibi.json",
+			"jar": "http://w.g9.pub:66/2251087869/smallmi/jar/xl.jar;md5;2c31d1eb526abdd120ff3c5de9662c1a"
+		},
+		{
+			"key": "shizhongxin",
+			"name": "中心影院(规则)",
+			"type": 3,
+			"api": "csp_XYQHiker",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 0,
+			"ext": "http://w.g9.pub:66/2251087869/smallmi/xyq/shizhongxin.json",
+			"jar": "http://w.g9.pub:66/2251087869/smallmi/jar/xl.jar;md5;2c31d1eb526abdd120ff3c5de9662c1a"
+		},
+		{
+			"key": "电影100",
+			"name": "100 影视(规则)",
+			"type": 3,
+			"api": "csp_XYQHiker",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 0,
+			"ext": "http://w.g9.pub:66/2251087869/smallmi/xyq/dianying100.json",
+			"jar": "http://w.g9.pub:66/2251087869/smallmi/jar/xl.jar;md5;2c31d1eb526abdd120ff3c5de9662c1a"
 		},
 		{
 			"key": "u188k",
