@@ -32,7 +32,8 @@
 			"host": "kanb.tv",
 			"rule": [
 				".m3u8",
-				".m3u8?vkey="
+				".m3u8?",
+				".mp4"
 			]
 		},
 		{
