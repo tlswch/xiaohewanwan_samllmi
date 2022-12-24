@@ -354,7 +354,6 @@
 			"quickSearch": "1",
 			"filterable": "1"
 		},
-		
 		{
 			"key": "Kunyu",
 			"name": "酷云七七(爬虫)",
@@ -448,7 +447,6 @@
 			"filterable": 1,
 			"quickSearch": 1,
 			"searchable": 1,
-			"playerType": "1",
 			"ext": "https://agit.ai/xiaohewanwan/samllmi/raw/branch/master/bb/maidou.json"
 		},
 		{
@@ -459,7 +457,6 @@
 			"filterable": 1,
 			"quickSearch": 1,
 			"searchable": 1,
-			"playerType": "1",
 			"ext": "https://agit.ai/xiaohewanwan/jar/raw/branch/main/xb/xiongdi.json"
 		},
 		{
