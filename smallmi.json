@@ -834,13 +834,6 @@
 			"jar": "https://download.kstore.space/download/3450/xl1218.jar;md5;2af04bf70706ec613778c46dcafb8abe"
 		},
 		{
-			"key": "干饭影视",
-			"name": "干饭影视(规则)",
-			"type": 3,
-			"api": "https://gitee.com/qizhen169xt/cool_white/raw/master/videos-tool/lib/drpy.min.js",
-			"ext": "https://notabug.org/qizhen15800/My9394/raw/master/js/%e5%b9%b2%e9%a5%ad%e5%bd%b1%e8%a7%86.js"
-		},
-		{
 			"key": "大猪蹄子",
 			"name": "️大猪蹄子(规则)",
 			"type": 3,
