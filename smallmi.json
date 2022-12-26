@@ -340,7 +340,7 @@
 			"key": "BULEI1",
 			"name": "布蕾蓝光(爬虫)",
 			"type": 3,
-			"api": "csp_Bulei",
+			"api": "csp_BuLei",
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1
