@@ -1,5 +1,5 @@
 {
-	"spider": "http://w.g9.pub:66/2251087869/smallmi/jar/1222.jar;md5;5a5533ae3a7b0b48fe6543d376c0b577",
+	"spider": "http://w.g9.pub:66/2251087869/smallmi/jar/1226.jar;md5;495446499f410f80f17e3555cbe3db15",
 	"wallpaper": "http://www.kf666888.cn/api/tvbox/img",
 	"lives": [{
 		"group": "redirect",
@@ -332,6 +332,15 @@
 			"name": "南柯视频(爬虫)",
 			"type": 3,
 			"api": "csp_Nkdy",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1
+		},
+		{
+			"key": "BULEI1",
+			"name": "布蕾蓝光(爬虫)",
+			"type": 3,
+			"api": "csp_Bulei",
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1
