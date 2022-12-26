@@ -1025,12 +1025,11 @@
 			"key": "奈飞影视",
 			"name": "️奈飞影视(规则)",
 			"type": 3,
-			"api": "csp_XYQHiker",
+			"api": "csp_xBPQ",
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 0,
-			"ext": "https://agit.ai/xiaohewanwan/samllmi/raw/branch/master/XYQH/naifei.json",
-			"jar": "https://download.kstore.space/download/3450/xl1218.jar;md5;2af04bf70706ec613778c46dcafb8abe"
+			"ext": "https://agit.ai/xiaohewanwan/jar/raw/branch/main/xb/netflytv.json",
 		},
 		{
 			"key": "天空",
