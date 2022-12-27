@@ -762,8 +762,7 @@
 			"searchable": "1",
 			"quickSearch": "1",
 			"filterable": "1",
-			"ext": "http://ali.饭太硬.ml/tok",
-			"jar": "http://w.g9.pub:66/2251087869/smallmi/jar/ali.jar;md5;e3b236416ca6f34b41aeca2c83809837"
+			"ext": "http://ali.饭太硬.ml/tok"
 		},
 		{
 			"key": "AList",
