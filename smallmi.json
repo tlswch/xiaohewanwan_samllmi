@@ -730,7 +730,7 @@
 			"quickSearch": "1",
 			"filterable": "1",
 			"ext": "http://ali.饭太硬.ml/tok",
-			"jar": "https://ghproxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/jar/custom_spider.jar;md5;0253ba01e6a8e8f11716139823b8baab"
+			"jar": "http://w.g9.pub:66/2251087869/smallmi/jar/ali.jar;md5;e3b236416ca6f34b41aeca2c83809837"
 		},
 		{
 			"key": "YiSo",
@@ -741,7 +741,7 @@
 			"quickSearch": "1",
 			"filterable": "1",
 			"ext": "http://ali.饭太硬.ml/tok",
-			"jar": "https://ghproxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/jar/custom_spider.jar;md5;0253ba01e6a8e8f11716139823b8baab"
+			"jar": "http://w.g9.pub:66/2251087869/smallmi/jar/ali.jar;md5;e3b236416ca6f34b41aeca2c83809837"
 		},
 		{
 			"key": "AliPS",
@@ -752,7 +752,7 @@
 			"quickSearch": "1",
 			"filterable": "1",
 			"ext": "http://ali.饭太硬.ml/tok",
-			"jar": "https://ghproxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/jar/custom_spider.jar;md5;0253ba01e6a8e8f11716139823b8baab"
+			"jar": "http://w.g9.pub:66/2251087869/smallmi/jar/ali.jar;md5;e3b236416ca6f34b41aeca2c83809837"
 		},
 		{
 			"key": "Upso",
@@ -762,7 +762,8 @@
 			"searchable": "1",
 			"quickSearch": "1",
 			"filterable": "1",
-			"ext": "http://ali.饭太硬.ml/tok"
+			"ext": "http://ali.饭太硬.ml/tok",
+			"jar": "http://w.g9.pub:66/2251087869/smallmi/jar/ali.jar;md5;e3b236416ca6f34b41aeca2c83809837"
 		},
 		{
 			"key": "AList",
