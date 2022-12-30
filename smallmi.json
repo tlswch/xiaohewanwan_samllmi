@@ -440,7 +440,7 @@
 			"quickSearch": 1,
 			"filterable": 1
 		},
-
+{"key":"Cokemv","name":"可乐","type":"3","api":"csp_Dora","searchable":"1","quickSearch":"1","filterable":"1","ext":"b88de1329655cca1beba45aa9776de70","jar": "http://w.g9.pub:66/2251087869/smallmi/jar/custom_spider.jar;md5;97ee205764c3c737804f48f97b3f7be6"},
 		{
 			"key": "Ddys",
 			"name": "低端美剧(爬虫)",
