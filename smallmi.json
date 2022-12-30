@@ -1416,8 +1416,8 @@
 			"url": "https://jx.bozrc.com:4433/player/?url="
 		},
 		{
-			"name": "255解析",
-			"url": "http://47.108.39.237:55/api/?key=01g4LZuWQpF9pLfWRX&url=",
+			"name": "ikun解析",
+			"url": "https://parse.ikunfk.cc/parse/sign/8698eafb816d87f28262c8e280c71078?url=",
 			"type": 1,
 			"ext": {
 				"flag": [
