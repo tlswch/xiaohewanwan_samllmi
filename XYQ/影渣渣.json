@@ -44,7 +44,7 @@
     "sea_title": "name", 
     "sea_url": "id", 
     "sea_subtitle": "", 
-    "search_prefix": "https://www.yingzhazha.com/voddetail/id/", 
+    "search_prefix": "https://www.yingzhazha.com/voddetail/", 
     "search_suffix": ".html", 
     "force_play": "0", 
     "play_prefix": "https://live.52sf.ga/huya/", 
