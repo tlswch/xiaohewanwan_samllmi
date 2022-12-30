@@ -235,6 +235,15 @@
 			"filterable": "1"
 		},
 		{
+			"key": "Czsapp",
+			"name": "🍓厂长资源(爬虫)",
+			"type": "3",
+			"api": "csp_Czsapp",
+			"searchable": "1",
+			"quickSearch": "1",
+			"filterable": "1"
+		},
+		{
 			"key": "csp_Nmys",
 			"name": "🍓农民影视(爬虫)",
 			"type": 3,
@@ -377,15 +386,7 @@
 			"quickSearch": 1,
 			"filterable": 1
 		},
-		{
-			"key": "Czsapp",
-			"name": "厂长资源(爬虫)",
-			"type": "3",
-			"api": "csp_Czsapp",
-			"searchable": "1",
-			"quickSearch": "1",
-			"filterable": "1"
-		},
+		
 		{
 			"key": "Ddys",
 			"name": "低端美剧(爬虫)",
