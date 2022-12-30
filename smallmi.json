@@ -1057,6 +1057,7 @@
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 0,
+			"playerType": "1",
 			"ext": "https://agit.ai/xiaohewanwan/samllmi/raw/branch/master/XYQ/%e5%be%80%e5%be%80%e5%bd%b1%e8%a7%86.json",
 			"jar": "https://download.kstore.space/download/3450/xl1218.jar;md5;2af04bf70706ec613778c46dcafb8abe"
 		},
