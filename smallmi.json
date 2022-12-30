@@ -51,6 +51,14 @@
 			]
 		},
 		{
+			"host": "zyone.vqyt.cn",
+			"rule": [
+				".m3u8",
+				"m3u8?",
+				"http"	
+			]
+		},
+		{
 			"host": "v.t-ui.cn",
 			"rule": [
 				".m3u8",
