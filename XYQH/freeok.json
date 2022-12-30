@@ -48,7 +48,7 @@
     "搜索截取模式": "1",
     "搜索列表数组规则": ".module-items&&.module-card-item",
     "搜索片单是否Jsoup写法":"1",
-    "搜索片单图片": "img&&&&data-original",
+    "搜索片单图片": "img&&data-original",
     "搜索片单标题": "img&&alt",
     "搜索片单链接": "a&&href",
     "搜索片单副标题":".module-item-note&&Text",
