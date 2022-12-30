@@ -6,7 +6,7 @@
     "homeContent": "1", 
     "rcmed_url": "https://www.yingzhazha.com", 
     "home_arr_rule": "body&&.module-items", 
-    "hmepi_arr_rule": "a", 
+    "hmepi_arr_rule": ".module-item", 
     "home_is_jsoup": "1", 
     "firstpage": "1",
     "class_url": "https://www.yingzhazha.com/vodshow/{cateId}-{area}-{by}-{class}-{lang}----{catePg}---{year}.html", 
