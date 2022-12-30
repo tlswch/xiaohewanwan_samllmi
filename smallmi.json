@@ -1,5 +1,5 @@
 {
-	"spider": "http://w.g9.pub:66/2251087869/smallmi/jar/1227.jar;md5;3d5449be538f8d4350db441fd41cfd14",
+	"spider": "https://download.kstore.space/download/3450/xo1227.jar;md5;ef70803f784c625d8d449609eaeb630c",
 	"wallpaper": "http://www.kf666888.cn/api/tvbox/img",
 	"lives": [{
 		"group": "redirect",
@@ -842,14 +842,13 @@
 			"jar": "https://download.kstore.space/download/3450/xl1218.jar;md5;2af04bf70706ec613778c46dcafb8abe"
 		},
 		{
-			"key": "克拉",
+			"key": "可乐",
 			"name": "️可乐影视(规则)",
 			"type": 3,
-			"api": "csp_xBPQ",
+			"api": "csp_Cokemv",
 			"searchable": 1,
 			"quickSearch": 1,
-			"filterable": 0,
-			"ext": "https://agit.ai/xiaohewanwan/jar/raw/branch/main/xb/cokemv.json"
+			"filterable": 0
 		},
 		{
 			"key": "um",
