@@ -492,16 +492,6 @@
 			"filterable": 1
 		},
 		{
-			"key": "Cokemv",
-			"name": "可乐影视(爬虫)",
-			"type": "3",
-			"api": "csp_Cokemv",
-			"searchable": "1",
-			"quickSearch": "1",
-			"playerType": "1",
-			"filterable": "1"
-		},
-		{
 			"key": "maidou",
 			"name": "麦豆影视(规则)",
 			"type": 3,
@@ -1048,6 +1038,17 @@
 			"quickSearch": 1,
 			"filterable": 0,
 			"ext": "https://agit.ai/xiaohewanwan/samllmi/raw/branch/master/XYQH/90rc.json",
+			"jar": "https://download.kstore.space/download/3450/xl1218.jar;md5;2af04bf70706ec613778c46dcafb8abe"
+		},
+		{
+			"key": "往往影视",
+			"name": "️往往影视(规则)",
+			"type": 3,
+			"api": "csp_XYQHiker",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 0,
+			"ext": "https://agit.ai/xiaohewanwan/samllmi/raw/branch/master/XYQ/%e5%be%80%e5%be%80%e5%bd%b1%e8%a7%86.json",
 			"jar": "https://download.kstore.space/download/3450/xl1218.jar;md5;2af04bf70706ec613778c46dcafb8abe"
 		},
 		{
