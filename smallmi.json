@@ -128,7 +128,7 @@
 	],
 	"sites": [{
 			"key": "js豆瓣1",
-			"name": "豆瓣热播┃首页（升级最新版)",
+			"name": "豆瓣热播┃首页（新版)",
 			"type": 3,
 			"api": "https://agit.ai/767820774/TVBOXZY/raw/branch/main/JS/lib/drpy.min.js",
 			"ext": "http://w.g9.pub:66/2251087869/smallmi/js/drpy.js",
@@ -138,7 +138,7 @@
 		},
 		{
 			"key": "js豆瓣2",
-			"name": "豆瓣热播┃dr首页(老版本可以)",
+			"name": "豆瓣热播┃dr首页(老版)",
 			"type": 3,
 			"api": "http://xn--m7r412advb92j21st65a.tk/dr/影魔.js",
 			"ext": "http://xn--m7r412advb92j21st65a.tk/dr/js/豆瓣.js",
@@ -197,10 +197,10 @@
 			"filterable": 1
 		},
 		{
-			"key": "饭团",
-			"name": "💯饭团高清(爬虫)",
+			"key": "BULEI1",
+			"name": "💯布蕾蓝光(爬虫)",
 			"type": 3,
-			"api": "csp_Fantuan",
+			"api": "csp_BuLei",
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1
@@ -346,15 +346,6 @@
 			"name": "南柯视频(爬虫)",
 			"type": 3,
 			"api": "csp_Nkdy",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 1
-		},
-		{
-			"key": "BULEI1",
-			"name": "布蕾蓝光(爬虫)",
-			"type": 3,
-			"api": "csp_BuLei",
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1
@@ -518,6 +509,15 @@
 			"name": "双十影视(爬虫)",
 			"type": 3,
 			"api": "csp_Dy1010",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1
+		},
+		{
+			"key": "饭团",
+			"name": "饭团高清(爬虫)",
+			"type": 3,
+			"api": "csp_Fantuan",
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1
