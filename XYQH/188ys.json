@@ -134,15 +134,9 @@
     //集数链接补后缀
     "epiurl_suffix": "",
     
-    //下面几个参数请勿乱用。否则可能会有副作用。
-    //分析网页源码中有<script type="text/javascript">var player_aaaa={"flag":"play","encrypt这种源码的链接解析
-    //如果网页源码里没有这种请设置为0
-    "Anal_MacPlayer":"2",
-    //是否开启手动嗅探，只对网页嗅探有效，0否，1是
-    "ManualSniffer":"1",
-    //手动嗅探视频链接关键字，每个用#隔开
-    "VideoFormat":".m3u8#.mp4#.m3u8",
-    //手动嗅探视频链接过滤关键词,每个用#隔开
-    "VideoFilter":".html#=http"
+   "分析MacPlayer": "1",
+    "是否开启手动嗅探": "1",
+    "手动嗅探视频链接关键词": ".m3u8#.mp4#.flv",
+    "手动嗅探视频链接过滤词": ".html#=http#=https"
 }
 
