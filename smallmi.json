@@ -540,16 +540,6 @@
             "ext": "https://agit.ai/xiaohewanwan/jar/raw/branch/main/xb/91free.json"
         },
         {
-            "key": "即可",
-            "name": "极客影院(规则)",
-            "type": 3,
-            "api": "csp_xBPQ",
-            "filterable": 1,
-            "quickSearch": 1,
-            "searchable": 1,
-            "ext": "https://agit.ai/xiaohewanwan/jar/raw/branch/main/xb/jike.json"
-        },
-        {
             "key": "云锦",
             "name": "云镜电影(规则)",
             "type": 3,
@@ -647,6 +637,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 0,
+            "click":"i8k.cc;.vjs-big-play-button",
             "ext": "https://agit.ai/xiaohewanwan/samllmi/raw/branch/master/XYQH/jike.json",
             "jar": "https://download.kstore.space/download/3450/xl1218.jar;md5;2af04bf70706ec613778c46dcafb8abe"
         },
