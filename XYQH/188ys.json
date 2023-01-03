@@ -107,7 +107,7 @@
     //年代数据，截取前缀&&截取后缀
     "proj_year": "class=\"module-info-tag-link\">&&</div>",
     //地区数据，截取前缀&&截取后缀
-    "proj_area": "备注：</span>&&</div>",
+    "proj_area": "集数：</span>&&</div>",
     //演员数据，截取前缀&&截取后缀
     "proj_actor": "主演：</span>&&</div>",
     //简介内容，截取前缀&&截取后缀
