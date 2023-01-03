@@ -202,6 +202,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 0,
+            "playerType": "2",
             "ext": "https://agit.ai/xiaohewanwan/samllmi/raw/branch/master/XYQH/renren.json",
             "jar": "https://download.kstore.space/download/3450/xl1218.jar;md5;2af04bf70706ec613778c46dcafb8abe"
         },
