@@ -6,7 +6,7 @@
     //请求头UA,键名$键值，每一组用#分开，不填则默认okhttp/3.12.11，可填MOBILE_UA或PC_UA使用内置的手机版或电脑版UA
     //多个请求头参数写法示例，"User-Agent$PC_UA#Referer$http://ww.baidu.com#Cookie$ser=ok",每一组用#分开。
     //习惯查看手机源码写建议用手机版UA，习惯查看PC版源码写建议用电脑版UA
-    "Headers":"MOBILE_UA",
+    "Headers":"User-Agent$MOBILE_UA#Referer$https://7k789.com",
     //图片是否需要代理
     "PicNeedProxy":"0",
     //是否开启获取首页数据，0关闭，1开启
@@ -111,7 +111,7 @@
     //演员数据，截取前缀&&截取后缀
     "proj_actor": "主演：</span>&&</div>",
     //简介内容，截取前缀&&截取后缀
-    "proj_plot": "<div class=\"show-desc\" style=\"line-height: 20px;\">&&</div>",
+    "proj_plot": "<div class=\"show-desc\" style=\"line-height: 20px;\">&&</p>",
     
     //线路截取区域，如果不需要请把tab_title或tab_arr_rule置空或者全部不要填。
     //线路截取数组
