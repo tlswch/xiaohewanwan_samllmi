@@ -139,16 +139,7 @@
         "csm3u8"
     ],
     "sites": [
-        {
-            "key": "广告",
-            "name": "提醒下不要相信接口源里的任何广告，被骗请打110！！！",
-            "type": 3,
-            "api": "",
-            "ext": "",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
-        },
+        
         {
             "key": "js豆瓣1",
             "name": "豆瓣热播┃首页（新版)",
@@ -1316,6 +1307,16 @@
                 "综艺",
                 "动漫"
             ]
+        },
+        {
+            "key": "广告",
+            "name": "提醒下不要相信接口源里的任何广告，被骗请打110！！！",
+            "type": 3,
+            "api": "",
+            "ext": "",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
         },
         {
             "key": "push_agent",
