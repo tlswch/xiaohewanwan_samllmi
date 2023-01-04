@@ -51,7 +51,7 @@
     "play_suffix": "#isVideo=true#", 
     "play_header": "authority$ku.peizq.online#Referer$https://play.peizq.online", 
     "proj_is_jsoup": "0", 
-    "proj_cate": "class=\"module-info-tag\">&&class=\"module-mobile-play", 
+    "proj_cate": "class=\"module-info-tag\">&&<div class=\"module-mobile-play", 
     "proj_year": "更新：</span>&&</div>", 
     "proj_actor": "主演：</span>&&</div>", 
     "proj_plot": "style=\"line-height: 20px;\">&&</p>", 
