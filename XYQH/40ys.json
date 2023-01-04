@@ -13,26 +13,8 @@
     "分类链接": "http://www.40yb.com/{cateId}/index{catePg}.html[firstPage=http://www.40yb.com/{cateId}/index.html]",
     "分类名称": "电影&电视剧&综艺&动漫",
     "分类名称替换词": "dianying&dianshiju&zongyi&dongman",
-    "筛选数据": {},
-    //"筛选数据": "ext",
-    //{cateId}
-    "筛选子分类名称": "",
-    "筛选子分类替换词": "",
-    //{class}
-    "筛选类型名称": "",
-    "筛选类型替换词": "*",
-    //{area}
-    "筛选地区名称": "",
-    "筛选地区替换词": "*",
-    //{year}
-    "筛选年份名称": "",
-    "筛选年份替换词": "*",
-    //{lang}
-    "筛选语言名称": "",
-    "筛选语言替换词": "*",
-    //{by}
-    "筛选排序名称": "时间&人气&评分",
-    "筛选排序替换词": "time&hits&score",
+    "筛选子分类名称": "动作片&爱情片&科幻片&恐怖片&喜剧片&剧情片&在线直播&国产剧&港台剧&欧美剧&日韩剧&",
+    "筛选子分类替换词": "dongzuopian&aiqingpian&kehuanpian&kubupian&xijupian&juqingpian&zaixianzhibo&guochanju&gangtaiju&oumeiju&rihanju",
     "分类截取模式": "1",
     "分类列表数组规则": "body&&.col-md-5.col-sm-4.col-xs-3",
     "分类片单是否Jsoup写法": "1",
@@ -42,9 +24,8 @@
     "分类片单副标题": ".pic-text.text-right&&Text",
     "分类片单链接加前缀": "http://www.40yb.com",
     "分类片单链接加后缀": "",
-    
     "搜索请求头参数": "User-Agent$MOBILE_UA",
-   "搜索链接":"http://www.40yb.com/search.php;post",
+    "搜索链接":"http://www.40yb.com/search.php;post",
     "POST请求数据": "searchword={wd}",
     "搜索截取模式": "1",
     "搜索列表数组规则": "body&&.thumb",
@@ -60,9 +41,9 @@
     "直接播放链接加后缀": "#isVideo=true#",
     "直接播放直链视频请求头": "",
     "详情是否Jsoup写法": "0",
-    "类型详情": "",
-    "年代详情": "",
-    "地区详情": "",
+    "类型详情": "类型：</span>&&</p",
+    "年代详情": "年份：</span>&&</p",
+    "地区详情": "地区：</span>&&</p",
     "演员详情": "主演：</span>&&</p",
     "简介详情": "简介：</span>&&</p",
     "线路列表数组规则": ".stui-pannel__head&&h3",
