@@ -307,7 +307,7 @@
             "quickSearch": "1",
             "filterable": "1",
             "ext": "http://ali.饭太硬.ml/tok",
-            "jar": "http://w.g9.pub:66/2251087869/smallmi/jar/ali.jar;md5;e3b236416ca6f34b41aeca2c83809837"
+            "jar": "http://w.g9.pub:66/2251087869/smallmi/jar/ali.jar;md5;b6cec380ddab899d275cf2fec2ed676a"
         },
         {
             "key": "YiSo",
@@ -318,7 +318,7 @@
             "quickSearch": "1",
             "filterable": "1",
             "ext": "http://ali.饭太硬.ml/tok",
-            "jar": "http://w.g9.pub:66/2251087869/smallmi/jar/ali.jar;md5;e3b236416ca6f34b41aeca2c83809837"
+            "jar": "http://w.g9.pub:66/2251087869/smallmi/jar/ali.jar;md5;b6cec380ddab899d275cf2fec2ed676a"
         },
         {
             "key": "AliPS",
@@ -329,17 +329,18 @@
             "quickSearch": "1",
             "filterable": "1",
             "ext": "http://ali.饭太硬.ml/tok",
-            "jar": "http://w.g9.pub:66/2251087869/smallmi/jar/ali.jar;md5;e3b236416ca6f34b41aeca2c83809837"
+            "jar": "http://w.g9.pub:66/2251087869/smallmi/jar/ali.jar;md5;b6cec380ddab899d275cf2fec2ed676a"
         },
         {
             "key": "Upso",
             "name": " 💮阿里云搜(搜索)",
             "type": "3",
-            "api": "csp_Upyunso",
+            "api": "csp_UpYun",
             "searchable": "1",
             "quickSearch": "1",
             "filterable": "1",
-            "ext": "http://ali.饭太硬.ml/tok"
+            "ext": "http://ali.饭太硬.ml/tok",
+            "jar":"http://w.g9.pub:66/2251087869/smallmi/jar/ali.jar;md5;b6cec380ddab899d275cf2fec2ed676a"
         },
         {
             "key": "青年影院",
