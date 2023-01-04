@@ -10,7 +10,7 @@
 	"首页片单列表数组规则": ".myui-vodlist__box",
 	"首页片单是否Jsoup写法": "1",
 	"firstpage": "1",
-	"class_url": "https://www.jiaozi.me/search.php?page={catePg}&searchtype={cateId}&order=douban&tid=2&area={area}&year={year}&letter=&yuyan=&state=&money=&ver=&jq=",
+	"class_url": "https://www.jiaozi.me/search.php?page={catePg}&searchtype=5&tid={cateId}&order=douban&tid=2&area={area}&year={year}&letter=&yuyan=&state=&money=&ver=&jq=",
 	"class_name": "电影&剧集&动画&综艺&美剧&韩剧&国产剧&泰剧",
 	"class_value": "1&2&41&44&15&16&14&29",
 	"筛选数据": "ext",
