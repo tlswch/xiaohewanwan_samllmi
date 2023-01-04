@@ -666,15 +666,14 @@
             "jar": "https://download.kstore.space/download/3450/xl1218.jar;md5;2af04bf70706ec613778c46dcafb8abe"
         },
         {
-            "key": "jike",
-            "name": "️极客影视(规则)",
+            "key": "katu",
+            "name": "️卡兔影视(规则)",
             "type": 3,
             "api": "csp_XYQHiker",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 0,
-            "click":"i8k.cc;.vjs-big-play-button",
-            "ext": "https://agit.ai/xiaohewanwan/samllmi/raw/branch/master/XYQH/jike.json",
+            "ext": "https://agit.ai/xiaohewanwan/samllmi/raw/branch/master/XYQ/katyya.json",
             "jar": "https://download.kstore.space/download/3450/xl1218.jar;md5;2af04bf70706ec613778c46dcafb8abe"
         },
         {
