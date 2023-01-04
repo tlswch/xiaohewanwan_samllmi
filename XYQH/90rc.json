@@ -10,7 +10,7 @@
     "首页片单列表数组规则": "li",
     "首页片单是否Jsoup写法": "1",
     "分类起始页码": "1",
-    "分类链接": "https://www.90r.cc/vodtype/{cateId}-{area}---{lang}----{catePg}---{year}.html",
+    "分类链接": "https://www.90r.cc/vodshow/{cateId}-{area}---{lang}----{catePg}---{year}.html",
     "分类名称": "美剧&国产剧&综艺&动漫&动作片&爱情片&恐怖片&科幻片&剧情片&战争片&纪录片",
     "分类名称替换词": "oumeiju&guochanju&zongyi&dongman&dongzuopian&aiqingpian&kongbupian&kehuanpian&juqingpian&zhanzhengpian&jilupian",
     "筛选数据":"ext",
