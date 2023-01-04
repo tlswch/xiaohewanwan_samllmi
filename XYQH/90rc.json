@@ -13,7 +13,7 @@
     "分类链接": "https://www.90r.cc/vodtype/{cateId}-{class}--{area}--------{catePg}---{year}.html",
     "分类名称": "美剧&国产剧&综艺&动漫&",
     "分类名称替换词": "oumeiju&guochanju&zongyi&dongman&",
-    "筛选数据": {},
+    "筛选数据":"ext",
     "筛选子分类名称": "动作片&爱情片&恐怖片&科幻片&剧情片&战争片&纪录片",
     "筛选子分类替换词": "dongzuopian&aiqingpian&kongbupian&kehuanpian&juqingpian&zhanzhengpian&jilupian",
     "筛选类型名称": "",
