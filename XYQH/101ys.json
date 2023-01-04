@@ -50,7 +50,7 @@
     "类型详情": "class=\"buttom\">&&</h2>",
     "年代详情": "class=\"play-news cor4\">&&</div>",
     "地区详情": "class=\"fraction\">&&</div>",
-    "演员详情": "演员：</span>&&</p>",
+    "演员详情": "<span>演员：&&</span>",
     "简介详情": "class=\"play-m-box cor4&&</p>",
     "线路列表数组规则": "#tag&&a",
     "线路标题": "a&&alt",
