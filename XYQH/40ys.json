@@ -1,6 +1,6 @@
 {
-    "规则名": "module-item模板2",
-    "规则作者": "",
+    "规则名": "星辰影院",
+    "规则作者": "sm",
     "请求头参数": "User-Agent$MOBILE_UA#Referer$WebView",
     "网页编码格式": "UTF-8",
     "图片是否需要代理": "0",
@@ -11,7 +11,7 @@
     "首页片单是否Jsoup写法": "1",
     "分类起始页码": "1",
     "分类链接": "http://www.40yb.com/{cateId}/index{catePg}.html[firstPage=http://www.40yb.com/{cateId}/index.html]",
-    "分类名称": "电影&电视剧&综艺&动漫动作片&爱情片&科幻片&恐怖片&喜剧片&剧情片&在线直播&国产剧&港台剧&欧美剧&日韩剧&",
+    "分类名称": "电影&电视剧&综艺&动漫&动作片&爱情片&科幻片&恐怖片&喜剧片&剧情片&在线直播&国产剧&港台剧&欧美剧&日韩剧&",
     "分类名称替换词": "dianying&dianshiju&zongyi&dongman&dongzuopian&aiqingpian&kehuanpian&kubupian&xijupian&juqingpian&zaixianzhibo&guochanju&gangtaiju&oumeiju&rihanju",
     "筛选数据": {},
     "筛选子分类名称": "动作片&爱情片&科幻片&恐怖片&喜剧片&剧情片&在线直播&国产剧&港台剧&欧美剧&日韩剧&",
