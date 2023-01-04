@@ -54,7 +54,7 @@
     "直接播放链接加后缀": "#isVideo=true#",
     "直接播放直链视频请求头": "authority$ku.peizq.online#Referer$https://play.peizq.online",
     "详情是否Jsoup写法": "0",
-    "类型详情": "<p class=\"data\"状态：&&</p",
+    "类型详情": "<p class=\"data\">状态：&&</p",
     "年代详情": "<p class=\"data visible-xs\">年份：&&</p",
     "地区详情": "<p class=\"data visible-xs\">地区：&&</p",
     "演员详情": "class=\"data\">主演：&&</p>",
@@ -69,8 +69,8 @@
     "是否反转选集序列": "0",
     "选集链接加前缀": "https://www.007ts.me",
     "选集链接加后缀": "",
-    "分析MacPlayer": "0",
-    "是否开启手动嗅探": "1",
+    "分析MacPlayer": "2",
+    "是否开启手动嗅探": "0",
     "手动嗅探视频链接关键词": ".mp4#.m3u8#.flv",
     "手动嗅探视频链接过滤词": ".html#=http"
 }
