@@ -21,7 +21,7 @@
     //首页推荐片单链接
     "首页片单链接": "a&&href",
     //首页推荐片单图片，支持自定义图片链接
-    "首页片单图片": ".lazyload&&data-original",
+    "首页片单图片": ".ls-is-cached&&data-src",
     //首页推荐片单副标题
     "首页片单副标题":".module-item-note&&Text",
     //首页推荐片单链接补前缀  
@@ -72,13 +72,13 @@
     "搜索片单链接加前缀": "https://www.xg588.cn",
     "搜索片单链接加后缀": "",
     "详情是否Jsoup写法":"0",
-    "类型详情": "class=\"module-info-tag\">&&<div class=\"module-mobile-play",
+    "类型详情": "class=\"tag-link\">&&</div",
     "年代详情": "更新：</span>&&</div>",
     "演员详情": "主演：</span>&&</div>",
-    "简介详情": "introduction-content\">&&</p>",
-    "线路列表数组规则": "#y-playList&&.module-tab-item",
-    "线路标题": "Text",
-    "播放列表数组规则": "body&&.module-play-list-content",
+    "简介详情": "剧情：</span>&&</div>",
+    "线路列表数组规则": "body&&.module-tab-item.tab-item",
+    "线路标题": "span&&Text",
+    "播放列表数组规则": "body&&.sort-item",
     "选集列表数组规则": "a",
     "选集标题链接是否Jsoup写法":"1",
     "选集标题": "a&&Text",
