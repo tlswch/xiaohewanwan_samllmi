@@ -208,16 +208,15 @@
             "jar": "https://download.kstore.space/download/3450/xl1218.jar;md5;2af04bf70706ec613778c46dcafb8abe"
         },
         {
-            "key": "renren",
-            "name": "️ 🌸人人影视(规则)",
+            "key": "renren1",
+            "name": "🌸人人影视(规则)",
             "type": 3,
-            "api": "csp_XYQHiker",
-            "searchable": 1,
+            "api": "csp_xBPQ",
+            "filterable": 1,
             "quickSearch": 1,
-            "filterable": 0,
+            "searchable": 1,
             "playerType": "2",
-            "ext": "https://agit.ai/xiaohewanwan/samllmi/raw/branch/master/XYQH/renren.json",
-            "jar": "https://download.kstore.space/download/3450/xl1218.jar;md5;2af04bf70706ec613778c46dcafb8abe"
+            "ext": "https://agit.ai/xiaohewanwan/jar/raw/branch/main/xb/renren.json"
         },
         {
             "key": "csp_剧荒",
@@ -545,16 +544,7 @@
             "searchable": 1,
             "ext": "https://agit.ai/xiaohewanwan/samllmi/raw/branch/master/bb/maidou.json"
         },
-        {
-            "key": "renren1",
-            "name": "cehsi影视(规则)",
-            "type": 3,
-            "api": "csp_xBPQ",
-            "filterable": 1,
-            "quickSearch": 1,
-            "searchable": 1,
-            "ext": "https://agit.ai/xiaohewanwan/jar/raw/branch/main/xb/renren.json"
-        },
+        
         {
             "key": "兄弟",
             "name": "兄弟影视(规则)",
