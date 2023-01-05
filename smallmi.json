@@ -546,14 +546,14 @@
             "ext": "https://agit.ai/xiaohewanwan/samllmi/raw/branch/master/bb/maidou.json"
         },
         {
-            "key": "renren",
+            "key": "renren1",
             "name": "cehsi影视(规则)",
             "type": 3,
             "api": "csp_xBPQ",
             "filterable": 1,
             "quickSearch": 1,
             "searchable": 1,
-            "ext": "https://agit.ai/xiaohewanwan/samllmi/raw/branch/master/bb/renren.json"
+            "ext": "https://agit.ai/xiaohewanwan/jar/raw/branch/main/xb/renren.json"
         },
         {
             "key": "兄弟",
