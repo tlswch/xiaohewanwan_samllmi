@@ -249,6 +249,17 @@
             "jar": "https://download.kstore.space/download/3450/xl1218.jar;md5;2af04bf70706ec613778c46dcafb8abe"
         },
         {
+            "key": "renren1",
+            "name": "🌸人人2影视(规则)",
+            "type": 3,
+            "api": "csp_xBPQ",
+            "filterable": 1,
+            "quickSearch": 1,
+            "searchable": 1,
+            "playerType": "2",
+            "ext": "https://agit.ai/xiaohewanwan/jar/raw/branch/main/xb/renren.json"
+        },
+        {
             "key": "Kuaikan",
             "name": " 🌸快看影视(爬虫)",
             "type": 3,
