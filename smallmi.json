@@ -572,6 +572,13 @@
             "api": "https://agit.ai/xiaohewanwan/samllmi/raw/branch/master/js/lib/drpy.min.js",
             "ext": "https://agit.ai/xiaohewanwan/samllmi/raw/branch/master/js/yunjing.js"
         },
+         {
+            "key": "大豆",
+            "name": "大豆电影(规则)",
+            "type": 3,
+            "api": "https://agit.ai/xiaohewanwan/samllmi/raw/branch/master/js/lib/drpy.min.js",
+            "ext": "https://agit.ai/xiaohewanwan/samllmi/raw/branch/master/js/dadou.js"
+        },
         {
             "key": "九库1",
             "name": "九酷影视(规则)",
