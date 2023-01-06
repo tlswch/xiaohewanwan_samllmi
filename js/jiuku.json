@@ -31,7 +31,7 @@ var rule = {
 		"content":"#height_limit&&Text",
 		"tabs":".anthology.wow.fadeInUp.animated&&.swiper-wrapper&&a",
 		"tab_text":".swiper-slide&&Text",
-		"lists":".anthology-list-box:eq(#id)&&.anthology-list-play&&li"
+		"lists":".anthology-list-play.size&&li"
 	},
     搜索:'json:list;name;pic;;id',
 }
