@@ -768,6 +768,7 @@
             "ext": "https://agit.ai/xiaohewanwan/samllmi/raw/branch/master/XYQH/maifeiyingshi.json",
             "jar": "https://download.kstore.space/download/3450/xl1218.jar;md5;2af04bf70706ec613778c46dcafb8abe"
         },
+        {"key":"4k极客","name":"️4k极客","type":3,"api":"xBPQ","ext":"免嗅:1,分类url:https://www.i8k.cc/index.php/show/{cateId}/area/{area}/by/{by}/class/{class}/lang/{lang}/page/{catePg}year/{year}.html"},
         {
             "key": "naifeigou",
             "name": "️奈狗影视(规则)",
