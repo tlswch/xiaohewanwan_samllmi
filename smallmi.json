@@ -305,6 +305,17 @@
             "ext": "https://agit.ai/xiaohewanwan/atest/raw/branch/master/4kvm.json"
         },
         {
+            "key": "348",
+            "name": " 🌸348蓝光(规则)",
+            "type": 3,
+            "api": "csp_xBPQ",
+            "filterable": 1,
+            "quickSearch": 1,
+            "searchable": 1,
+            "playerType": "1",
+            "ext": "https://agit.ai/xiaohewanwan/samllmi/raw/branch/master/bb/348languang.json"
+        },
+        {
             "key": "Zhaozy",
             "name": " 💮阿里资源(搜索)",
             "type": "3",
