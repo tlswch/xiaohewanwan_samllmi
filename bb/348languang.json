@@ -13,6 +13,7 @@
 "线路数组":"class=\"channelname&&</a>",
 "线路标题":"&nbsp;&&(",
 "播放数组":"class=\"content_playlist&&</ul>",
+"播放链接前缀":"https://www.348z.com",
 "搜索url":"https://www.348z.com/vodsearch/wd/",
 "搜索模式":"1",
 "搜索二次截取":"",
