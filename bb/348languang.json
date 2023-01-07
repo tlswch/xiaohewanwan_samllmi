@@ -1,6 +1,6 @@
 {
 "作者":"sm",
-"头部集合": "User-Agent$Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1",
+"头部集合": "",
 "站名":"348电影网",
 "主页url":"https://www.348z.com",
 "免嗅":"1",
@@ -13,7 +13,7 @@
 "标题":"title=\"&&\"",
 "线路数组":"class=\"channelname&&</a>",
 "线路标题":"&nbsp;&&(",
-"播放请求头": "User-Agent$Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1#Referer$https://www.348z.com/",
+"播放请求头": "#Referer$https://www.348z.com/",
 "播放数组":"class=\"content_playlist&&</ul>",
 "播放链接前缀":"https://www.348z.com",
 "搜索url":"https://www.348z.com/vodsearch/wd/",
