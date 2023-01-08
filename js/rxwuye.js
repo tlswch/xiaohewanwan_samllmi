@@ -8,6 +8,7 @@ var rule = {
     searchable: 2,
     quickSearch: 0,
     headers:{'User-Agent':'PC_UA'},
+	图片来源:'@Referer=http://rxwuye.com/',
     // 分类链接fypage参数支持1个()表达式
     // url: '/index.php/api/vod#type=fyclass&page=fypage',
 	url: '/index.php/api/vod#type=fyfilter&page=fypage',
