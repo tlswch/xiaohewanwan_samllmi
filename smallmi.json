@@ -607,6 +607,13 @@
             "ext": "https://agit.ai/xiaohewanwan/samllmi/raw/branch/master/js/dadou.js"
         },
         {
+            "key": "wuyw",
+            "name": "午夜影院(规则)",
+            "type": 3,
+            "api": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/libs/drpy2.min.js",
+            "ext": "https://agit.ai/xiaohewanwan/samllmi/raw/branch/master/js/rxwuye.js"
+        },
+        {
             "key": "九库1",
             "name": "九酷影视(规则)",
             "type": 3,
@@ -1150,17 +1157,6 @@
             "quickSearch": 1,
             "filterable": 0,
             "ext": "https://agit.ai/xiaohewanwan/samllmi/raw/branch/master/XYQ/%e7%9c%8b%e4%b8%80%e7%9c%8b%e5%bd%b1%e8%a7%86.json",
-            "jar": "https://download.kstore.space/download/3450/xl1218.jar;md5;2af04bf70706ec613778c46dcafb8abe"
-        },
-        {
-            "key": "rxwuye",
-            "name": "️午夜影院(规则)",
-            "type": 3,
-            "api": "csp_XYQHiker",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 0,
-            "ext": "https://agit.ai/xiaohewanwan/samllmi/raw/branch/master/XYQ/rxwuye.json",
             "jar": "https://download.kstore.space/download/3450/xl1218.jar;md5;2af04bf70706ec613778c46dcafb8abe"
         },
         {
