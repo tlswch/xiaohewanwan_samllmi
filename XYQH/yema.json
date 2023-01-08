@@ -1,7 +1,7 @@
 {
     "规则名": "野马影院",
     "规则作者": "sm",
-    "请求头参数": "手机",
+    "请求头参数": "User-Agent$Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.107 Safari/537.36#Referer$http://v.yemays.tk/",
     "网页编码格式": "UTF-8",
     "图片是否需要代理": "0",
     "是否开启获取首页数据": "1",
@@ -21,7 +21,7 @@
     "分类名称替换词": "1&2&3&4&14&15&16",
     
     "分类截取模式": "1",
-    "分类列表数组规则": "body&&.stui-vodlist__box",
+    "分类列表数组规则": "body&&.col-lg-8.col-md-6.col-sm-4.col-xs-3",
     "分类片单是否Jsoup写法": "1",
     "分类片单标题": "a&&title",
     "分类片单链接": "a&&href",
