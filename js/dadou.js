@@ -20,7 +20,7 @@ var rule = {
 		3:{cateId:'3'},
 		4:{cateId:'4'}
 	},
-    detailUrl:'/index.php/vod/detail/id/fyid.html',
+    detailUrl:'/vod/fyid.html',
 	 图片来源:'@Referer=https://dadou.pro/',
     推荐:'.list-vod.flex .public-list-box;a&&title;.lazy&&data-original;.public-list-prb&&Text;a&&href',
     一级:'',
