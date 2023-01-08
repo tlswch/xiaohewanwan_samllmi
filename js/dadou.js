@@ -7,7 +7,7 @@ var rule = {
     searchUrl: '/index.php/ajax/suggest?mid=1&wd=**',
     searchable: 2,
     quickSearch: 0,
-    headers:{'User-Agent':'MOBILE_UA'},
+    headers:{'User-Agent':'PC_UA'},
     // 分类链接fypage参数支持1个()表达式
     // url: '/index.php/api/vod#type=fyclass&page=fypage',
 	url: '/index.php/api/vod#type=fyfilter&page=fypage',
