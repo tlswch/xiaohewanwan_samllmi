@@ -24,10 +24,10 @@ var rule = {
 	图片来源:'@Referer=http://rxwuye.com/',
     推荐:'.list-vod.flex .public-list-box;a&&title;.lazy&&data-original;.public-list-prb&&Text;a&&href',
     一级:'',
-    一级:'js:let body=input.split("#")[1];let t=Math.round(new Date/1e3).toString();let key=md5("DS"+t+"DCC147D11943AF75");let url=input.split("#")[0];body=body+"&time="+t+"&key="+key;print(body);fetch_params.body=body;let html=post(url,fetch_params);let data=JSON.parse(html);VODS=data.list;',
+    一级:'js:let body=input.split("#")[1];let t=Math.round(new Date/1e3).toString();let key=md5("DS"+t+"DCC147D11943AF75");let url=input.split("#")[0];body=body+"&time="+t+"&key="+key;print(body);fetch_params.body=body;let html=post(url,fetch_params);let data=JSON.parse(html);VODS=data.list.map(function(it){it.vod_pic=urljoin2(input.split("/i")[0],it.vod_pic);return it})',
     二级:{
 		"title":".slide-info-title&&Text;.slide-info:eq(3)--strong&&Text",
-		"img":".wow.fadeInLeft&&.detail-pic&&data-original",
+		"img":".detail-pic&&data-original",
 		"desc":".fraction&&Text;.slide-info-remarks:eq(1)&&Text;.slide-info-remarks:eq(2)&&Text;.slide-info:eq(2)--strong&&Text;.slide-info:eq(1)--strong&&Text",
 		"content":"#height_limit&&Text",
 		"tabs":".anthology.wow.fadeInUp.animated&&.swiper-wrapper&&a",
