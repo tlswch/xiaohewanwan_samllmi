@@ -718,11 +718,6 @@
             "ext": "https://agit.ai/xiaohewanwan/samllmi/raw/branch/master/XYQ/katyya.json",
             "jar": "https://download.kstore.space/download/3450/xl1218.jar;md5;2af04bf70706ec613778c46dcafb8abe"
         },
-        
-{"key":"csp_XBPQ新大米","name":"大米影视(规则)","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":{"分类":"电影$20#连续剧$21#综艺$22#动漫$23#福利$35","分类url":"https://www.lkfrp.com/vodshow/{cateId}-{area}-{by}-{class}-{lang}----{catePg}---{year}/pjax/YES.html"}},
-
-{"key":"云播影视","name":"云播影视(规则)","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"免嗅:1,分类url:http://www.tvyb03.com/vod/show/area/{area}/by/{by}/class/{class}/id/{cateId}/year/{year}.html"},
-
         {
             "key": "xingge",
             "name": "️星哥影视(规则)",
