@@ -1,9 +1,9 @@
 var rule = {
     title: '大豆',
-    host: 'https://dadou.pro',
+    host: 'dadou.pro',
     class_name:'电影&电视剧&综艺&动漫',
     class_url:'1&2&3&4',
-    homeUrl: 'https://dadou.pro',
+    homeUrl: '',
     searchUrl: '/index.php/ajax/suggest?mid=1&wd=**',
     searchable: 2,
     quickSearch: 0,
@@ -11,7 +11,7 @@ var rule = {
     // 分类链接fypage参数支持1个()表达式
     // url: '/index.php/api/vod#type=fyclass&page=fypage',
 	url: '/index.php/api/vod#type=fyfilter&page=fypage',
-	filterable:1,//是否启用分类筛选,
+	filterable:0,//是否启用分类筛选,
 	filter_url:'{{fl.cateId}}',
 	filter: {"1":[{"key":"cateId","name":"分类","value":[{"n":"全部","v":"1"},{"n":"动作片","v":"6"},{"n":"喜剧片","v":"7"},{"n":"爱情片","v":"8"},{"n":"科幻片","v":"11"},{"n":"恐怖片","v":"33"},{"n":"剧情片","v":"30"},{"n":"战争片","v":"39"}]}],"2":[{"key":"cateId","name":"分类","value":[{"n":"全部","v":"2"},{"n":"国产剧","v":"13"},{"n":"港台剧","v":"15"},{"n":"日韩剧","v":"16"},{"n":"动画剧","v":"21"},{"n":"记录剧","v":"22"},{"n":"欧美剧","v":"14"}]}]},
 	filter_def:{
