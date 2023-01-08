@@ -66,7 +66,7 @@
     "简介详情": ".module-info-content&&.module-info-item&&Text!故事简介：",
     "线路列表数组规则": ".module-tab-items-box&&.module-tab-item",
     "线路标题": "Text",
-    "播放列表数组规则": "body&&.module-play-list-content",
+    "播放列表数组规则": "body&&.sort-item",
     "选集列表数组规则": "a",
     "选集标题链接是否Jsoup写法": "是",
     "选集标题": "a&&Text",
