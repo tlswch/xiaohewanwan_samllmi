@@ -1,6 +1,6 @@
 var rule = {
     title: '大豆',
-    host: 'dadou.pro',
+    host: 'https://dadou.pro',
     class_name:'电影&电视剧&综艺&动漫',
     class_url:'1&2&3&4',
     homeUrl: '',
