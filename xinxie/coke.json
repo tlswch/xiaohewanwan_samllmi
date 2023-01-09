@@ -5,6 +5,7 @@
   "主页url": "https://cokemv.me",
   "免嗅":"0",
   "嗅探词":"",
+  "过滤词":"url=#baidu#_COKEMV",
   "分类": "电影&电视剧&动漫&综艺",
   "分类值": "1&2&3&29",
   "分类url": "https://cokemv.me/vodshow/{cateId}-{area}-{by}-{class}-----{catePg}---{year}.html",
