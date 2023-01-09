@@ -204,17 +204,6 @@
             "filterable": 1
         },
         {
-            "key": "qiyou",
-            "name": "️💭奇优影院(规则)",
-            "type": 3,
-            "api": "csp_XYQHiker",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 0,
-            "ext": "https://ghproxy.com/https://raw.githubusercontent.com/smallmi18/TVB/main/H/qiyou.json",
-            "jar": "https://download.kstore.space/download/3450/xl1218.jar;md5;2af04bf70706ec613778c46dcafb8abe"
-        },
-        {
             "key": "csp_剧荒",
             "name": "💭剧荒美剧(爬虫)",
             "type": 3,
@@ -231,6 +220,17 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1
+        },
+        {
+            "key": "qiyou",
+            "name": "️💭奇优影院(规则)",
+            "type": 3,
+            "api": "csp_XYQHiker",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0,
+            "ext": "https://ghproxy.com/https://raw.githubusercontent.com/smallmi18/TVB/main/H/qiyou.json",
+            "jar": "https://download.kstore.space/download/3450/xl1218.jar;md5;2af04bf70706ec613778c46dcafb8abe"
         },
         {
             "key": "1pianku",
@@ -369,17 +369,6 @@
             "filterable": "1",
             "ext": "http://我不是.肥猫.love:63/token.php",
             "jar":"http://w.g9.pub:66/2251087869/smallmi/jar/ali.jar;md5;b6cec380ddab899d275cf2fec2ed676a"
-        },
-        {
-            "key": "青年影院",
-            "name": "️青年影视(规则)",
-            "type": 3,
-            "api": "csp_XYQHiker",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 0,
-            "ext": "https://agit.ai/xiaohewanwan/samllmi/raw/branch/master/XYQ/%e9%9d%92%e5%b9%b4%e5%bd%b1%e8%a7%86.json",
-            "jar": "https://download.kstore.space/download/3450/xl1218.jar;md5;2af04bf70706ec613778c46dcafb8abe"
         },
         {
             "key": "Lgyy",
@@ -532,6 +521,55 @@
             "filterable": 1
         },
         {
+            "key": "饭团",
+            "name": "饭团高清(爬虫)",
+            "type": 3,
+            "api": "csp_Fantuan",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },
+        {
+            "key": "Gitcafe",
+            "name": "阿里纸条(网盘)",
+            "type": "3",
+            "api": "csp_Paper",
+            "searchable": "1",
+            "quickSearch": "1",
+            "filterable": "1",
+            "ext": "http://我不是.肥猫.love:63/token.php"
+        },
+        {
+            "key": "BT",
+            "name": "2BT影视(爬虫)",
+            "type": 3,
+            "api": "csp_Bttoo",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },
+        {
+            "key": "bdys",
+            "name": "哔滴影视(爬虫)",
+            "type": 3,
+            "api": "csp_Bdys01",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "playerType": "1"
+        },
+        {
+            "key": "青年影院",
+            "name": "️青年影视(规则)",
+            "type": 3,
+            "api": "csp_XYQHiker",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0,
+            "ext": "https://agit.ai/xiaohewanwan/samllmi/raw/branch/master/XYQ/%e9%9d%92%e5%b9%b4%e5%bd%b1%e8%a7%86.json",
+            "jar": "https://download.kstore.space/download/3450/xl1218.jar;md5;2af04bf70706ec613778c46dcafb8abe"
+        },
+        {
             "key": "maidou",
             "name": "麦豆影视(规则)",
             "type": 3,
@@ -553,7 +591,7 @@
         },
         {
             "key": "91free",
-            "name": "91free影视(规则)",
+            "name": "九一影视(规则)",
             "type": 3,
             "api": "csp_xBPQ",
             "filterable": 1,
@@ -599,44 +637,6 @@
             "filterable": 0,
             "ext": "https://agit.ai/xiaohewanwan/samllmi/raw/branch/master/XYQH/188ys.json",
             "jar": "https://download.kstore.space/download/3450/xl1218.jar;md5;2af04bf70706ec613778c46dcafb8abe"
-        },
-        {
-            "key": "饭团",
-            "name": "饭团高清(爬虫)",
-            "type": 3,
-            "api": "csp_Fantuan",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
-        },
-        {
-            "key": "Gitcafe",
-            "name": "阿里纸条(网盘)",
-            "type": "3",
-            "api": "csp_Paper",
-            "searchable": "1",
-            "quickSearch": "1",
-            "filterable": "1",
-            "ext": "http://我不是.肥猫.love:63/token.php"
-        },
-        {
-            "key": "BT",
-            "name": "2BT影视(爬虫)",
-            "type": 3,
-            "api": "csp_Bttoo",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
-        },
-        {
-            "key": "bdys",
-            "name": "哔滴影视(爬虫)",
-            "type": 3,
-            "api": "csp_Bdys01",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "playerType": "1"
         },
         {
             "key": "诺讯",
@@ -765,7 +765,7 @@
         },
         {
             "key": "17kan",
-            "name": "17看直播(体育)",
+            "name": "一起看直播(体育)",
             "type": 3,
             "api": "csp_XYQBiu",
             "searchable": 1,
@@ -775,19 +775,8 @@
             "jar": "https://download.kstore.space/download/3450/xl1218.jar;md5;2af04bf70706ec613778c46dcafb8abe"
         },
         {
-            "key": "qiaokeli",
-            "name": "体育点播(体育)",
-            "type": 3,
-            "api": "csp_XYQHiker",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 0,
-            "ext": "https://agit.ai/xiaohewanwan/samllmi/raw/branch/master/XYQ/tiyudianbo.json",
-            "jar": "https://download.kstore.space/download/3450/xl1218.jar;md5;2af04bf70706ec613778c46dcafb8abe"
-        },
-        {
             "key": "dr_88看球",
-            "name": "88看球(体育)",
+            "name": "八八看球(体育)",
             "type": 3,
             "api": "https://gitlab.com/duomv/duo/-/raw/main/js/drpymin.js",
             "searchable": 0,
@@ -829,7 +818,7 @@
             "jar": "https://download.kstore.space/download/3450/xl1218.jar;md5;2af04bf70706ec613778c46dcafb8abe"
         },
         {
-            "key": "a哔哩",
+            "key": "看哔哩",
             "name": "看看哔哩(规则)",
             "type": 3,
             "api": "csp_XYQHiker",
@@ -1155,63 +1144,7 @@
             "type": 2,
             "url": "Sequence"
         },
-        {
-            "name": "左岸",
-            "type": 1,
-            "url": "http://110.42.2.115:880/analysis/json/?uid=2100&my=cqrtwyACDGLOXY0249&mgtv=app&url=",
-            "ext": {
-                "flag": [
-                    "qq",
-                    "腾讯",
-                    "qiyi",
-                    "爱奇艺",
-                    "奇艺",
-                    "youku",
-                    "优酷",
-                    "sohu",
-                    "搜狐",
-                    "letv",
-                    "乐视",
-                    "mgtv",
-                    "芒果",
-                    "CL4K",
-                    "renrenmi",
-                    "ltnb",
-                    "bilibili",
-                    "1905",
-                    "xigua"
-                ]
-            }
-        },
         {"name":"dy6g","type":0,"url":"https://vip.lianfaka.com/vip/?url=","ext":{"flag":["qq","qiyi","mgtv","youku","letv","sohu","xigua","1905"],"header":{"User-Agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1","Referer": "https://www.dy6g.com/"}}},
-        {
-            "name": "青年",
-            "type": 1,
-            "url": "https://qnyoke.top/addons/dp/player/index.php?key=0&id=60565&from=qq&url=",
-            "ext": {
-                "flag": [
-                    "qq",
-                    "腾讯",
-                    "qiyi",
-                    "爱奇艺",
-                    "奇艺",
-                    "youku",
-                    "优酷",
-                    "sohu",
-                    "搜狐",
-                    "letv",
-                    "乐视",
-                    "mgtv",
-                    "芒果",
-                    "CL4K",
-                    "renrenmi",
-                    "ltnb",
-                    "bilibili",
-                    "1905",
-                    "xigua"
-                ]
-            }
-        },
         {
             "name": "兰花解析",
             "type": 0,
@@ -1295,33 +1228,6 @@
             "name": "阿飞",
             "type": 0,
             "url": "https://jx.bozrc.com:4433/player/?url="
-        },
-        {
-            "name": "ikun",
-            "type": 0,
-            "url": "https://parse.ikunfk.cc/parse/sign/8698eafb816d87f28262c8e280c71078?url=",
-            "ext": {
-                "flag": [
-                    "qq",
-                    "腾讯",
-                    "qiyi",
-                    "爱奇艺",
-                    "奇艺",
-                    "youku",
-                    "优酷",
-                    "sohu",
-                    "搜狐",
-                    "letv",
-                    "乐视",
-                    "mgtv",
-                    "芒果",
-                    "rx",
-                    "ltnb",
-                    "bilibili",
-                    "1905",
-                    "xigua"
-                ]
-            }
         },
         {
             "name": "ok解析",
