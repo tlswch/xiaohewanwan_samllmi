@@ -184,6 +184,14 @@
             "filterable": 1
         },
         {
+            "key": "AList",
+            "name": "🐼网盘聚(网盘)",
+            "type": "3",
+            "api": "csp_AList",
+            "searchable": "1",
+            "ext": "https://ghproxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/json/alist.json"
+        },
+        {
             "key": "一起看",
             "name": "🐼一起看(APP)",
             "type": "3",
@@ -434,8 +442,8 @@
             "ext": "572192a9fe2136041a58e7219a46fb2b",
             "jar": "http://w.g9.pub:66/2251087869/smallmi/jar/custom_spider.jar;md5;97ee205764c3c737804f48f97b3f7be6"
         },
-       {
-	   "key": "csp_AppTT",
+        {
+	      "key": "csp_AppTT",
 		  "name": "图图影视(爬虫)",
 		  "type": 3,
 		  "api": "csp_AppTT",
@@ -443,7 +451,7 @@
 		  "quickSearch": 1,
 		  "filterable": 1,
 		  "ext": "http://124.248.66.107:9911"
-	},
+	    },
         {
             "key": "南柯",
             "name": "南柯视频(爬虫)",
@@ -559,6 +567,53 @@
             "playerType": "1"
         },
         {
+            "key": "17kan",
+            "name": "17看直播(体育)",
+            "type": 3,
+            "api": "csp_XYQBiu",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0,
+            "ext": "https://agit.ai/xiaohewanwan/samllmi/raw/branch/master/XYQ/17kan.json",
+            "jar": "https://download.kstore.space/download/3450/xl1218.jar;md5;2af04bf70706ec613778c46dcafb8abe"
+        },
+        {
+            "key": "csp_Yj1211",
+            "name": "网游直播(网游)",
+            "type": 3,
+            "api": "csp_Yj1211",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },
+        {
+            "key": "csp_Anime1",
+            "name": "日本动漫(动漫)",
+            "type": 3,
+            "api": "csp_Anime1",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },
+        {
+            "key": "弹幕",
+            "name": "弹幕动漫(动漫)",
+            "type": 3,
+            "api": "https://agit.ai/xiaohewanwan/samllmi/raw/branch/master/js/lib/drpy.min.js",
+            "ext": "https://agit.ai/xiaohewanwan/samllmi/raw/branch/master/js/aidanmu.js"
+        },
+        {
+            "key": "fanqie",
+            "name": "️番茄动漫(动漫)",
+            "type": 3,
+            "api": "csp_XYQHiker",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0,
+            "ext": "https://agit.ai/xiaohewanwan/samllmi/raw/branch/master/XYQ/%E7%95%AA%E8%8C%84%E5%8A%A8%E6%BC%AB.json",
+            "jar": "https://download.kstore.space/download/3450/xl1218.jar;md5;2af04bf70706ec613778c46dcafb8abe"
+        },
+        {
             "key": "青年影院",
             "name": "️青年影视(规则)",
             "type": 3,
@@ -619,13 +674,6 @@
             "type": 3,
             "api": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/libs/drpy2.min.js",
             "ext": "https://agit.ai/xiaohewanwan/samllmi/raw/branch/master/js/wuye.js"
-        },
-        {
-            "key": "弹幕",
-            "name": "弹幕动漫(规则)",
-            "type": 3,
-            "api": "https://agit.ai/xiaohewanwan/samllmi/raw/branch/master/js/lib/drpy.min.js",
-            "ext": "https://agit.ai/xiaohewanwan/samllmi/raw/branch/master/js/aidanmu.js"
         },
         {
             "key": "188kan",
@@ -736,53 +784,6 @@
             "filterable": 0,
             "ext": "https://agit.ai/xiaohewanwan/samllmi/raw/branch/master/XYQ/lingdu.json",
             "jar": "https://download.kstore.space/download/3450/xl1218.jar;md5;2af04bf70706ec613778c46dcafb8abe"
-        },
-        {
-            "key": "csp_Yj1211",
-            "name": "网游直播(爬虫)",
-            "type": 3,
-            "api": "csp_Yj1211",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
-        },
-        {
-            "key": "csp_Anime1",
-            "name": "日本动漫(爬虫)",
-            "type": 3,
-            "api": "csp_Anime1",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
-        },
-        {
-            "key": "AList",
-            "name": "NASAList(网盘)",
-            "type": "3",
-            "api": "csp_AList",
-            "searchable": "1",
-            "ext": "https://ghproxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/json/alist.json"
-        },
-        {
-            "key": "17kan",
-            "name": "一起看直播(体育)",
-            "type": 3,
-            "api": "csp_XYQBiu",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 0,
-            "ext": "https://agit.ai/xiaohewanwan/samllmi/raw/branch/master/XYQ/17kan.json",
-            "jar": "https://download.kstore.space/download/3450/xl1218.jar;md5;2af04bf70706ec613778c46dcafb8abe"
-        },
-        {
-            "key": "dr_88看球",
-            "name": "八八看球(体育)",
-            "type": 3,
-            "api": "https://gitlab.com/duomv/duo/-/raw/main/js/drpymin.js",
-            "searchable": 0,
-            "quickSearch": 0,
-            "filterable": 0,
-            "ext": "https://gitlab.com/duomv/duo/-/raw/main/js/88%E7%9C%8B%E7%90%83.js"
         },
         {
             "key": "007",
@@ -992,17 +993,6 @@
             "quickSearch": 1,
             "filterable": 0,
             "ext": "https://agit.ai/xiaohewanwan/samllmi/raw/branch/master/XYQ/%e7%ba%bd%e7%ba%a6%e5%bd%b1%e9%99%a2.json",
-            "jar": "https://download.kstore.space/download/3450/xl1218.jar;md5;2af04bf70706ec613778c46dcafb8abe"
-        },
-        {
-            "key": "fanqie",
-            "name": "️番茄动漫(规则)",
-            "type": 3,
-            "api": "csp_XYQHiker",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 0,
-            "ext": "https://agit.ai/xiaohewanwan/samllmi/raw/branch/master/XYQ/%E7%95%AA%E8%8C%84%E5%8A%A8%E6%BC%AB.json",
             "jar": "https://download.kstore.space/download/3450/xl1218.jar;md5;2af04bf70706ec613778c46dcafb8abe"
         },
         {
