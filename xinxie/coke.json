@@ -4,6 +4,7 @@
   "头部集合": "User-Agent$Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.107 Safari/537.36#Referer$https://cokemv.me/",
   "主页url": "https://cokemv.me",
   "免嗅":"0",
+  "嗅探词":".m3u8#cokemv.me#?name=1",
   "分类": "电影&电视剧&动漫&综艺",
   "分类值": "1&2&3&29",
   "分类url": "https://cokemv.me/vodshow/{cateId}-{area}-{by}-{class}-----{catePg}---{year}.html",
