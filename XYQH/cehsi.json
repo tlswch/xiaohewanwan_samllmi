@@ -6,7 +6,7 @@
     "图片是否需要代理":"0",
     "是否开启获取首页数据":"1",
     "分类起始页码": "1",
-    "分类链接": "https://www.kkdy.live/vod-type-id-{cateId}-page-{catePg}.html",
+    "分类链接": "https://www.kkdy.live/vod-show-area-{area}-by-{by}-id-{cateId}-lang-{lang}-page-{catePg}-year-{year}.html",
     "分类名称": "电影&电视剧&综艺&动漫&纪录片&高清直播", 
     "分类名称替换词": "movie&tvplay&zongyi&dongman&documentary&live",
     "筛选数据": "ext",
