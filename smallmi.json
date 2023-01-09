@@ -275,7 +275,7 @@
         },
         {
             "key": "Kuaikan",
-            "name": "💭快看影视(爬虫)",
+            "name": "🌸快看影视(爬虫)",
             "type": 3,
             "api": "csp_Kuaikan",
             "searchable": 1,
@@ -643,6 +643,16 @@
             "quickSearch": 1,
             "searchable": 1,
             "ext": "https://agit.ai/xiaohewanwan/jar/raw/branch/main/xb/xiongdi.json"
+        },
+        {
+            "key": "可乐",
+            "name": "可乐影视(规则)",
+            "type": 3,
+            "api": "csp_xBPQ",
+            "filterable": 1,
+            "quickSearch": 1,
+            "searchable": 1,
+            "ext": "https://agit.ai/xiaohewanwan/samllmi/raw/branch/master/xinxie/coke.json"
         },
         {
             "key": "91free",
