@@ -1165,27 +1165,7 @@
             "quickSearch": 1,
             "filterable": 1,
             "ext": "http://我不是.肥猫.love:63/token.php"
-        },
-        {
-            "key": "广告",
-            "name": "😡提醒下不要相信接口源里的任何广告，被骗请打110！！！",
-            "type": 3,
-            "api": "csp_guanggao",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
-        },
-        {
-            "key": "广告2",
-            "name": "😡提醒下不要相信接口源里的任何广告!!!!!!!!!!!!!!!!!",
-            "type": 3,
-            "api": "csp_guanggao",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
-        }
-
-       
+        }  
     ],
     "parses": [
         {
