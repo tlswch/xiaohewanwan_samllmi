@@ -13,13 +13,7 @@ var rule = {
 	url: '/index.php/api/vod#type=fyfilter&page=fypage',
 	filterable:1,//是否启用分类筛选,
 	filter_url:'{{fl.cateId}}',
-	filter: {"20":[{"key":"cateId","name":"分类","value":[{"n":"全部","v":"20"},{"n":"动作片","v":"21"},{"n":"喜剧片","v":"22"},{"n":"爱情片","v":"23"},{"n":"科幻片","v":"24"},{"n":"恐怖片","v":"25"},{"n":"剧情片","v":"26"},{"n":"战争片","v":"27"},{"n":"惊悚片","v":"28"},{"n":"犯罪片","v":"29"},{"n":"冒险篇","v":"30"},{"n":"动画片","v":"31"},{"n":"悬疑片","v":"32"},{"n":"武侠片","v":"33"},{"n":"奇幻片","v":"34"},{"n":"纪录片","v":"35"},{"n":"其他片","v":"36"}]}],"37":[{"key":"cateId","name":"分类","value":[{"n":"全部","v":"37"},{"n":"国产剧","v":"38"},{"n":"港台剧","v":"39"},{"n":"欧美剧","v":"40"},{"n":"日韩剧","v":"41"},{"n":"其他剧","v":"42"}]}]},
-	filter_def:{
-		20:{cateId:'20'},
-		37:{cateId:'37'},
-		45:{cateId:'45'},
-		43:{cateId:'43'}
-	},
+	filter: {"20":[{"key":"cateId","name":"分类","value":[{"n":"全部","v":"20"},{"n":"动作片","v":"6"},{"n":"喜剧片","v":"7"},{"n":"爱情片","v":"8"},{"n":"科幻片","v":"9"},{"n":"恐怖片","v":"10"},{"n":"剧情片","v":"11"},{"n":"战争片","v":"12"},{"n":"记录片","v":"13"},{"n":"动画","v":"14"},{"n":"1080电影","v":"46"},{"n":"其他片","v":"36"}]}],"37":[{"key":"cateId","name":"分类","value":[{"n":"全部","v":"37"},{"n":"国产剧","v":"13"},{"n":"港剧","v":"14"},{"n":"欧美剧","v":"16"},{"n":"日韩剧","v":"15"},{"n":"高清剧","v":"50"}]}]},
     detailUrl:'/index.php/vod/detail/id/fyid.html',
     图片来源:'@Referer=http://rxwuye.com/',
     推荐:'.list-vod.flex .public-list-box;a&&title;.lazy&&data-original;.public-list-prb&&Text;a&&href',
@@ -32,7 +26,7 @@ var rule = {
 		"desc":".fraction&&Text;.slide-info-remarks:eq(1)&&Text;.slide-info-remarks:eq(2)&&Text;.slide-info:eq(2)--strong&&Text;.slide-info:eq(1)--strong&&Text",
 		"content":"#height_limit&&Text",
 		"tabs":".anthology.wow.fadeInUp.animated&&.swiper-wrapper&&a",
-		"tab_text":".swiper-slide&&Text!&nbsp:",
+		"tab_text":".swiper-slide&&Text",
 		"lists":".anthology-list-box:eq(#id)&&.anthology-list-play&&li"
 	},
     搜索:'json:list;name;pic;;id',
