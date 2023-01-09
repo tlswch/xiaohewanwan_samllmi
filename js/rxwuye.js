@@ -1,13 +1,13 @@
 var rule = {
     title: 'wuye',
     host: 'http://rxwuye.com',
-    class_name:'电影&电视剧&综艺&动漫',
-    class_url:'1&2&3&4',
+    class_name:'电影&电视剧&综艺&动漫&短片',
+    class_url:'1&2&3&4&42',
     homeUrl: 'http://rxwuye.com',
     searchUrl: '/index.php/ajax/suggest?mid=1&wd=**',
     searchable: 2,
     quickSearch: 0,
-    headers:{'User-Agent':'MOBILE_UA'},
+    headers:{'User-Agent':'PC_UA'},
     // 分类链接fypage参数支持1个()表达式
     // url: '/index.php/api/vod#type=fyclass&page=fypage',
 	url: '/index.php/api/vod#type=fyfilter&page=fypage',
