@@ -1,27 +1,22 @@
 {
-  "作者": "菜妮丝https://cainisi.cf",
+  "作者": "sm",
   "站名": "COKEMV",
+  "头部集合": "User-Agent$Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.107 Safari/537.36#Referer$https://cokemv.me/",
   "主页url": "https://cokemv.me",
-  
+  "免嗅":"0",
   "分类": "电影&电视剧&动漫&综艺",
   "分类值": "1&2&3&29",
-  
   "分类url": "https://cokemv.me/vodshow/{cateId}-{area}-{by}-{class}-----{catePg}---{year}.html",
-  
   "副标题": "module-item-note\">&&</div>",
-  
   "搜索模式": "0",
   "搜索后缀":"/voddetail/",
-  
   "导演": "导演：&&</div>",
   "主演": "主演：&&</div>",
   "简介": "<p>&&</p>",
-  
   "线路数组": "data-dropdown-value=&&</div>",
+  "播放请求头": "User-Agent$Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.107 Safari/537.36#Referer$https://cokemv.me/",
   "线路标题": "<span>&&</small>[替换:</span><small>>>👉]+集♥",
-  
   "播放数组": "module-play-list\">&&</div>",
-  
   "筛选":{
 "1":[
   {"key":"cateId","name":"类型","value":[
