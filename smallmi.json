@@ -1205,7 +1205,7 @@
 		{
 			"name": "兰花解析",
 			"type": 0,
-			"url": "https://video.lanhua.tv/player/?url=",
+			"url": "http://pandown.pro/app/ysmjx.php?url=",
 			"ext": {
 				"flag": [
 					"rx",
