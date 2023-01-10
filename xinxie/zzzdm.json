@@ -30,9 +30,9 @@
   "主演": "主演：&&</li>",
   "简介": "<p>&&</p>",
   "线路名二次截取": "",
-  "线路数组": "class=\"swiper-slide\">&&/li>",
+  "线路数组": "class=\"swiper-slide&&/li>",
   "播放请求头": "User-Agent$Mozilla/5.0 (iPad; CPU OS 10_3_1 like Mac OS X) AppleWebKit/603.1.30 (KHTML, like Gecko) Version/10.0 Mobile/14E304 Safari/602.1#Referer$http://www.zzzfun.com/",
-  "线路标题": "</span>&nbsp;&&</li>",
+  "线路标题": "</span>&nbsp;&&<",
   "播放链接前缀":"http://www.zzzfun.com",
   "播放数组": "<ul class=\"swiper-wrapper leo-play-num\"&&</ul>",
   "筛选":{}
