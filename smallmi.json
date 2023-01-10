@@ -692,13 +692,6 @@
 			"ext": "https://agit.ai/xiaohewanwan/samllmi/raw/branch/master/js/yunjing.js"
 		},
 		{
-			"key": "大豆",
-			"name": "大豆电影(规则)",
-			"type": 3,
-			"api": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/libs/drpy2.min.js",
-			"ext": "https://agit.ai/xiaohewanwan/samllmi/raw/branch/master/js/dadou.js"
-		},
-		{
 			"key": "wuyw",
 			"name": "午夜影院(规则)",
 			"type": 3,
