@@ -20,7 +20,7 @@
 
   "搜索url": "http://www.zzzfun.com/vod_search_page_1_wd_{wd}.html",
   "搜索二次截取": "",
-  "搜索数组": "class=\"leo-detail-img leo-left leo-po-re\">&&</div>,",
+  "搜索数组": "class=\"leo-detail-img leo-left leo-po-re\">&&</a>,",
   "搜索图片": "data-original=\"&&\"",
   "搜索标题": "alt=\"&&\"",
   "搜索副标题": "",
