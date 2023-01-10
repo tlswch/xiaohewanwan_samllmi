@@ -184,7 +184,7 @@
 			"type": "3",
 			"api": "csp_AList",
 			"searchable": "1",
-			"ext": "https://ghproxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/json/alist.json"
+			"ext": "https://agit.ai/xiaohewanwan/samllmi/raw/branch/master/xinxie/alist.json"
 		},
 		{
 			"key": "一起看",
@@ -456,7 +456,7 @@
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1,
-			"ext": "http://124.248.66.107:9911"
+			"ext": "http://124.248.66.89:7788"
 		},
 		{
 			"key": "南柯",
