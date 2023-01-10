@@ -593,6 +593,17 @@
 			"filterable": 1
 		},
 		{
+			"key": "NT动漫",
+			"name": "🌸NT 动漫(规则)",
+			"type": 3,
+			"api": "csp_xBPQ",
+			"filterable": 1,
+			"quickSearch": 1,
+			"searchable": 1,
+			"playerType": "2",
+			"ext": "https://agit.ai/xiaohewanwan/samllmi/raw/branch/master/xinxie/dongman.json"
+		},
+		{
 			"key": "csp_Anime1",
 			"name": "日本动漫(动漫)",
 			"type": 3,
