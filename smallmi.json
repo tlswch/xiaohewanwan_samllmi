@@ -672,16 +672,6 @@
 			"ext": "https://agit.ai/xiaohewanwan/jar/raw/branch/main/xb/91free.json"
 		},
 		{
-			"key": "cehsi1",
-			"name": "ceshi影视(规则)",
-			"type": 3,
-			"api": "csp_xBPQ",
-			"filterable": 1,
-			"quickSearch": 1,
-			"searchable": 1,
-			"ext": "https://agit.ai/xiaohewanwan/samllmi/raw/branch/master/bb/honglinjin.json"
-		},
-		{
 			"key": "云锦",
 			"name": "云镜电影(规则)",
 			"type": 3,
