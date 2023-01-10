@@ -13,7 +13,7 @@
   "数组": "默认--<a&&<div class=\"d-descr||首页--<a&&</li>",
   "图片": "src=\"&&\"",
   "标题": "默认--alt=\"&&\"||首页--<span class=\"name\">&&</span>",
-  "副标题": "<div class=\"title-sub\">&&</div",
+  "副标题": "默认--<div class=\"title-sub\">&&</div||首页--<em class=\"note_text\">&&</em>",
   "链接": "href=\"&&\"",
   "链接前缀": "http://www.zzzfun.com",
   
@@ -28,9 +28,9 @@
   "搜索链接前缀": "http://www.zzzfun.com",
   "搜索后缀":"",
 
-  "导演": "导演：&&</li>",
-  "主演": "主演：&&</li>",
-  "简介": "<p>&&</p>",
+  "导演": "小米",
+  "主演": "CV:</div>&&</div>",
+  "简介": "简介:</div>&&</div>",
   "线路名二次截取": "",
   "线路数组": "class=\"slider-list&&/ul>",
   "播放请求头": "",
