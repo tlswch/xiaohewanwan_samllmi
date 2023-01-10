@@ -651,15 +651,15 @@
 			"ext": "https://agit.ai/xiaohewanwan/jar/raw/branch/main/xb/xiongdi.json"
 		},
 		{
-			"key": "可乐",
-			"name": "可乐影视(规则)",
+			"key": "AB",
+			"name": "AB 影视(规则)",
 			"type": 3,
 			"api": "csp_xBPQ",
 			"filterable": 1,
 			"quickSearch": 1,
 			"searchable": 1,
 			"playerType": "2",
-			"ext": "https://agit.ai/xiaohewanwan/samllmi/raw/branch/master/xinxie/coke.json"
+			"ext": "https://agit.ai/xiaohewanwan/samllmi/raw/branch/master/xinxie/abyingyuan.json"
 		},
 		{
 			"key": "91free",
