@@ -18,9 +18,9 @@
   "链接前缀": "http://www.zzzfun.com",
 
   "搜索模式": "1",
-  "搜索url": "http://www.zzzfun.com/vod_search_page_1_wd_{wd}.html",
-  "搜索二次截取": "<ul class=\"show-list\">&&</ul",
-  "搜索数组": "<a&&</a>,",
+  "搜索url": "http://www.zzzfun.com/vod_search.html?wd={wd}",
+  "搜索二次截取": "<ul class=\"show-list&&</ul",
+  "搜索数组": "<a&&<div class=\"play-tx",
   "搜索图片": "src=\"&&\"",
   "搜索标题": "alt=\"&&\"",
   "搜索副标题": "",
