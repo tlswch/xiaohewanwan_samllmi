@@ -6,7 +6,7 @@
 		"channels": [{
 			"name": "redirect",
 			"urls": [
-				"proxy://do=live&type=txt&ext=aHR0cDovL2hvbWUuanVuZGllLnRvcDo4MS9yYXkvdHZsaXZlLnR4dA=="
+				"proxy://do=live&type=txt&ext=aHR0cDovL21hb3lpbmdzaGkuY2MvdHZib3gvemhpYm8vMS50eHQ="
 			]
 		}]
 	}],
