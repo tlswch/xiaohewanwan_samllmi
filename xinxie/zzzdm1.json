@@ -9,7 +9,7 @@
   "分类": "日本动漫&新番&剧场",
   "分类值": "1&42&3",
   "分类url": "http://www.zzzfun.com/vod_show_class_{class}_id_{cateId}_lang_{lang}_page_{catePg}_year_{year}.html",
-  "二次截取": "<ul class=\"search-result\">&&</ul>",
+  "二次截取": "默认--<ul class=\"search-result\">&&</ul>||首页-- <ul class=\"v_list\">&&</span",
   "数组": "<a&&<div class=\"d-descr",
   "图片": "src=\"&&\"",
   "标题": "alt=\"&&\"",
