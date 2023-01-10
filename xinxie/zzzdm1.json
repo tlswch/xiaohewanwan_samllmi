@@ -12,7 +12,7 @@
   "二次截取": "默认--<ul class=\"search-result\">&&</ul>||首页--<ul class=\"v_list\">&&</ul",
   "数组": "默认--<a&&<div class=\"d-descr||首页--<a&&</span>",
   "图片": "src=\"&&\"",
-  "标题": "alt=\"&&\"",
+  "标题": "默认--alt=\"&&\"||首页--<span class=\"name\">&&</span>",
   "副标题": "<div class=\"title-sub\">&&</div",
   "链接": "href=\"&&\"",
   "链接前缀": "http://www.zzzfun.com",
