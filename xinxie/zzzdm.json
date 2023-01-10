@@ -5,7 +5,7 @@
   "主页url": "http://www.zzzfun.com",
   "免嗅":"0",
   "嗅探词":".m3u8#pay",
-  "过滤词":"baidu#",
+  "过滤词":"baidu#www.zzzfun.com",
   "分类": "日本动漫&新番&剧场",
   "分类值": "1&42&3",
   "分类url": "http://www.zzzfun.com/vod_show_class_{class}_id_{cateId}_lang_{lang}_page_{catePg}_year_{year}.html",
