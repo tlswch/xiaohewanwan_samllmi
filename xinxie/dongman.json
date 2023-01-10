@@ -13,7 +13,7 @@
   "过滤词":"url=#baidu#",
   "分类": "日本动漫&国产动漫&欧美动漫",
   "分类值": "riben&zhongguo&omei",
-  "分类url": "http://www.ntyou.cc/type/{cateId}-{catePg}.html",
+  "分类url": "http://www.ntyou.cc/type/{cateId}-{catePg}.html&page=1",
   "二次截取": "",
   "数组": "<div class=\"cell blockdif2&&</a>",
   "图片": "src=\"&&\"",
