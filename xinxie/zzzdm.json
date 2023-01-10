@@ -18,9 +18,9 @@
   "链接前缀": "http://www.zzzfun.com",
   "搜索模式": "1",
 
-  "搜索url": "http://www.zzzfun.com/vod_search.html?wd={wd}",
+  "搜索url": "http://www.zzzfun.com/vod_search_page_1_wd_{wd}.html",
   "搜索二次截取": "",
-  "搜索数组": "<div class=\"leo-detail-img leo-left leo-po-re\">&&</div>,",
+  "搜索数组": "class=\"leo-detail-img leo-left leo-po-re\">&&</div>,",
   "搜索图片": "data-original=\"&&\"",
   "搜索标题": "alt=\"&&\"",
   "搜索副标题": "",
