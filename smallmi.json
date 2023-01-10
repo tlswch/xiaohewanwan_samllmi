@@ -623,6 +623,16 @@
 			"ext": "https://agit.ai/xiaohewanwan/samllmi/raw/branch/master/xinxie/dongman.json"
 		},
 		{
+			"key": "zzz动漫",
+			"name": "zzz动漫(动漫)",
+			"type": 3,
+			"api": "csp_xBPQ",
+			"filterable": 1,
+			"quickSearch": 1,
+			"searchable": 1,
+			"ext": "https://agit.ai/xiaohewanwan/samllmi/raw/branch/master/xinxie/zzzdm.json"
+		},
+		{
 			"key": "青年影院",
 			"name": "️青年影视(规则)",
 			"type": 3,
