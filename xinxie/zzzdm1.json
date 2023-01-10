@@ -16,7 +16,7 @@
   "副标题": "<div class=\"title-sub\">&&</div",
   "链接": "href=\"&&\"",
   "链接前缀": "http://www.zzzfun.com",
-
+  
   "搜索模式": "1",
   "搜索url": "http://www.zzzfun.com/vod_search.html?wd={wd}",
   "搜索二次截取": "<ul class=\"show-list&&</ul",
@@ -26,7 +26,7 @@
   "搜索副标题": "",
   "搜索链接": "href=\"&&\"",
   "搜索链接前缀": "http://www.zzzfun.com",
-  "搜索后缀":"",
+  "搜索后缀":"/vod_detail_id_",
   "导演": "导演：&&</li>",
   "主演": "主演：&&</li>",
   "简介": "<p>&&</p>",
