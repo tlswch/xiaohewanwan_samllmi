@@ -602,13 +602,6 @@
 			"filterable": 1
 		},
 		{
-			"key": "弹幕",
-			"name": "弹幕动漫(动漫)",
-			"type": 3,
-			"api": "https://agit.ai/xiaohewanwan/samllmi/raw/branch/master/js/lib/drpy.min.js",
-			"ext": "https://agit.ai/xiaohewanwan/samllmi/raw/branch/master/js/aidanmu.js"
-		},
-		{
 			"key": "fanqie",
 			"name": "️番茄动漫(动漫)",
 			"type": 3,
