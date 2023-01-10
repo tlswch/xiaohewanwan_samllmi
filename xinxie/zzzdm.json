@@ -8,7 +8,7 @@
   "过滤词":"url=#baidu#",
   "分类": "日本动漫&新番&剧场",
   "分类值": "1&42&3",
-  "分类url": "http://www.zzzfun.com/vod_show_class_{class}_id_{cateId}_lang_{lang}_page_{catePg}.html",
+  "分类url": "http://www.zzzfun.com/vod_type_id_{cateId}_page_{catePg}.html",
   "二次截取": "",
   "数组": "<a class=\"leo-show\"&&</a",
   "图片": "data-original=\"&&\"",
