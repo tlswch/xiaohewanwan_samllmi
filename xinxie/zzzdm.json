@@ -1,7 +1,7 @@
 {
   "作者": "zzzdongman",
   "站名": "",
-  "头部集合": "手机",
+  "头部集合": "Mozilla/5.0 (iPad; CPU OS 10_3_1 like Mac OS X) AppleWebKit/603.1.30 (KHTML, like Gecko) Version/10.0 Mobile/14E304 Safari/602.1",
   "主页url": "http://www.zzzfun.com",
   "免嗅":"0",
   "嗅探词":"",
@@ -10,7 +10,7 @@
   "分类值": "1&42&3",
   "分类url": "http://www.zzzfun.com/vod_show_class_{class}_id_{cateId}_lang_{lang}_page_{catePg}.html",
   "二次截取": "",
-  "数组": "leo-show\"&&</a",
+  "数组": "<a class=\"leo-show\"&&</a",
   "图片": "data-original=\"&&\"",
   "标题": "title=\"&&\"",
   "副标题": "leo-ellipsis-1\">&&</div",
