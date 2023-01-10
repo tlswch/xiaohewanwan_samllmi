@@ -20,7 +20,7 @@
 "搜索url":"https://www.348z.com/vodsearch.html?wd={wd}",
 "搜索模式":"1",
 "搜索二次截取":"class=\"ec-search&&class=\"l",
-"搜索数组":"<a&&</a>",
+"搜索数组":"<a&&class=\"right cor3",
 "搜索图片":"data-original=\"&&\"",
 "搜索标题":"title=\"&&\"",
 "搜索副标题":"<span class=\"pack-prb&&</span",
