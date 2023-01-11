@@ -179,6 +179,26 @@
 			"filterable": 1
 		},
 		{
+            "key": "csp_Alist2",
+            "name": "🐼小丫盘(网盘)",
+            "type": 3,
+            "api": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/libs/alist.min.js",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0,
+            "ext": "http://101.34.67.237/txt/json/alist.json"
+        },
+		{
+            "key": "csp_Alist2",
+            "name": "🐼freeok盘(网盘)",
+            "type": 3,
+            "api": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/libs/alist.min.js",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0,
+            "ext": "https://agit.ai/xiaohewanwan/samllmi/raw/branch/master/js/freeok.json"
+		},
+		{
 			"key": "AList",
 			"name": "🐼网盘聚(网盘)",
 			"type": "3",
