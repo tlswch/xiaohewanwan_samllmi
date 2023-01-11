@@ -208,6 +208,15 @@
 			"jar": "http://w.g9.pub:66/2251087869/smallmi/jar/custom_spider.jar;md5;97ee205764c3c737804f48f97b3f7be6"
 		},
 		{
+			"key": "Kunyu",
+			"name": "🐇七七(手机看剧)",
+			"type": 3,
+			"api": "csp_Kunyu77",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1
+		},
+		{
 			"key": "兔兔",
 			"name": "🐇追兔影视(规则)",
 			"type": 3,
@@ -362,6 +371,27 @@
 			"ext": "https://agit.ai/xiaohewanwan/samllmi/raw/branch/master/xinxie/dami.json"
 		},
 		{
+			"key": "🌸NT动漫",
+			"name": "NT 动漫(动漫)",
+			"type": 3,
+			"api": "csp_xBPQ",
+			"filterable": 1,
+			"quickSearch": 1,
+			"searchable": 1,
+			"ext": "https://agit.ai/xiaohewanwan/samllmi/raw/branch/master/xinxie/dongman.json"
+		},
+		{
+			"key": "bilisousuo",
+			"name": "🌸哔哩搜索(规则)",
+			"type": 3,
+			"api": "csp_xBPQ",
+			"filterable": 1,
+			"quickSearch": 1,
+			"searchable": 1,
+			"ext": "https://agit.ai/xiaohewanwan/samllmi/raw/branch/master/xinxie/bilisousuo.json"
+		},
+		
+		{
 			"key": "Zhaozy",
 			"name": "🍀阿里资源(搜索)",
 			"type": "3",
@@ -507,15 +537,6 @@
 			"filterable": "1"
 		},
 		{
-			"key": "Kunyu",
-			"name": "酷云七七(爬虫)",
-			"type": 3,
-			"api": "csp_Kunyu77",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 1
-		},
-		{
 			"key": "Ddys",
 			"name": "低端美剧(爬虫)",
 			"type": 3,
@@ -632,16 +653,6 @@
 			"filterable": 0,
 			"ext": "https://agit.ai/xiaohewanwan/samllmi/raw/branch/master/XYQ/%E7%95%AA%E8%8C%84%E5%8A%A8%E6%BC%AB.json",
 			"jar": "https://download.kstore.space/download/3450/xl1218.jar;md5;2af04bf70706ec613778c46dcafb8abe"
-		},
-		{
-			"key": "NT动漫",
-			"name": "NT 动漫(动漫)",
-			"type": 3,
-			"api": "csp_xBPQ",
-			"filterable": 1,
-			"quickSearch": 1,
-			"searchable": 1,
-			"ext": "https://agit.ai/xiaohewanwan/samllmi/raw/branch/master/xinxie/dongman.json"
 		},
 		{
 			"key": "zzz动漫",
