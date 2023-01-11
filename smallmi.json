@@ -299,6 +299,16 @@
 			"ext": "https://agit.ai/xiaohewanwan/jar/raw/branch/main/xb/renren.json"
 		},
 		{
+			"key": "🌸NT动漫",
+			"name": "💭NT 动漫(动漫)",
+			"type": 3,
+			"api": "csp_xBPQ",
+			"filterable": 1,
+			"quickSearch": 1,
+			"searchable": 1,
+			"ext": "https://agit.ai/xiaohewanwan/samllmi/raw/branch/master/xinxie/dongman.json"
+		},
+		{
 			"key": "Kuaikan",
 			"name": "🌸快看影视(爬虫)",
 			"type": 3,
@@ -371,16 +381,6 @@
 			"ext": "https://agit.ai/xiaohewanwan/samllmi/raw/branch/master/xinxie/dami.json"
 		},
 		{
-			"key": "🌸NT动漫",
-			"name": "🌸NT 动漫(动漫)",
-			"type": 3,
-			"api": "csp_xBPQ",
-			"filterable": 1,
-			"quickSearch": 1,
-			"searchable": 1,
-			"ext": "https://agit.ai/xiaohewanwan/samllmi/raw/branch/master/xinxie/dongman.json"
-		},
-		{
 			"key": "bilisousuo",
 			"name": "🌸哔哩搜索(规则)",
 			"type": 3,
@@ -390,7 +390,6 @@
 			"searchable": 1,
 			"ext": "https://agit.ai/xiaohewanwan/samllmi/raw/branch/master/xinxie/bilisousuo.json"
 		},
-
 		{
 			"key": "Zhaozy",
 			"name": "🍀阿里资源(搜索)",
