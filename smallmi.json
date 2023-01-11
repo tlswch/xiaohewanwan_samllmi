@@ -189,8 +189,8 @@
             "ext": "http://101.34.67.237/txt/json/alist.json"
         },
 		{
-            "key": "csp_Alist2",
-            "name": "🐼freeok盘(网盘)",
+            "key": "csp_Alist3",
+            "name": "🐼free盘(网盘)",
             "type": 3,
             "api": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/libs/alist.min.js",
             "searchable": 1,
