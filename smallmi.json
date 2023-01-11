@@ -372,7 +372,7 @@
 		},
 		{
 			"key": "🌸NT动漫",
-			"name": "NT 动漫(动漫)",
+			"name": "🌸NT 动漫(动漫)",
 			"type": 3,
 			"api": "csp_xBPQ",
 			"filterable": 1,
@@ -1138,36 +1138,6 @@
 			"jar": "https://download.kstore.space/download/3450/xl1218.jar;md5;2af04bf70706ec613778c46dcafb8abe"
 		},
 		{
-			"key": "优质资源",
-			"name": "优质资源(切片)",
-			"type": 1,
-			"api": "https://api.1080zyku.com/inc/apijson.php/provide/vod/",
-			"searchable": 1,
-			"quickSearch": 1,
-			"categories": [
-				"国产剧",
-				"韩国剧",
-				"香港剧",
-				"台湾剧",
-				"欧美剧",
-				"动作片",
-				"科幻片",
-				"战争片",
-				"奇幻片",
-				"喜剧片",
-				"爱情片",
-				"恐怖片",
-				"犯罪片",
-				"悬疑片",
-				"惊悚片",
-				"剧情片",
-				"冒险片",
-				"记录片",
-				"综艺",
-				"动漫"
-			]
-		},
-		{
 			"key": "push_agent",
 			"name": "推送影视(网页)",
 			"type": 3,
@@ -1198,15 +1168,7 @@
 			"type": 2,
 			"url": "Sequence"
 		},
-		{
-			"name": "Q1解析",
-			"type": 1,
-			"url": "https://parse.ikunfk.cc/parse/sign/c092dfdaea71d857e79a3738b5ada748?url=",
-			"header": {
-				"User-Agent": "Mozilla/5.0"
-			}
-		}, {
-			"name": "Q1官解",
+		{	"name": "Q1官解",
 			"type": 1,
 			"url": "https://parse.ikunfk.cc/parse/sign/20221230?url=",
 			"header": {
