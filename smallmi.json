@@ -3,9 +3,9 @@
 	"wallpaper": "http://www.kf666888.cn/api/tvbox/img",
 	"lives": [ 
 	{ "name": "肥羊", "type": 0, "url": "https://ghproxy.com/https://raw.githubusercontent.com/shenhuash01/IPTV/main/IPTV.m3u" }, 
-	{ "name": "足球", "type": 0, "url": "https://football.v1.mk" }, 
+	{ "name": "体育", "type": 0, "url": "https://football.v1.mk" }, 
 	{ "name": "云星", "type": 0, "url": "http://maoyingshi.cc/tvbox/zhibo/1.txt", "epg": "https://epg.112114.xyz/?ch={name}&date={date}", "logo": "https://epg.112114.xyz/logo/{name}.png" }, 
-	{ "name": "CQXX", "type": 1, "url": "https://ghproxy.com/https://raw.githubusercontent.com/youshandefeiyang/IPTV/main/main/cqyx.m3u"} ],
+	{ "name": "范明明", "type": 1, "url": "https://ghproxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/m3u/ipv6.m3u"} ],
 	"rules": [{
 			"host": "*",
 			"rule": [
