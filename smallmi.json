@@ -189,16 +189,6 @@
             "ext": "http://101.34.67.237/txt/json/alist.json"
         },
 		{
-            "key": "csp_Alist3",
-            "name": "🐼free盘(网盘)",
-            "type": 3,
-            "api": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/libs/alist.min.js",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 0,
-            "ext": "https://agit.ai/xiaohewanwan/samllmi/raw/branch/master/js/freeok.json"
-		},
-		{
 			"key": "AList",
 			"name": "🐼网盘聚(网盘)",
 			"type": "3",
@@ -216,6 +206,17 @@
 			"filterable": "1",
 			"ext": "8e3aefcba838d8dc5102ac786719d837",
 			"jar": "http://w.g9.pub:66/2251087869/smallmi/jar/custom_spider.jar;md5;97ee205764c3c737804f48f97b3f7be6"
+		},
+		{
+			"key": "兔兔",
+			"name": "追兔影视(规则)",
+			"type": 3,
+			"api": "csp_XYQHiker",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 0,
+			"ext": "https://agit.ai/xiaohewanwan/samllmi/raw/branch/master/XYQ/%e8%bf%bd%e5%89%a7%e5%85%94.json",
+			"jar": "https://download.kstore.space/download/3450/xl1218.jar;md5;2af04bf70706ec613778c46dcafb8abe"
 		},
 		{
 			"key": "csp_Xinsj",
@@ -674,6 +675,16 @@
 			"ext": "https://agit.ai/xiaohewanwan/samllmi/raw/branch/master/bb/maidou.json"
 		},
 		{
+			"key": "lingdu",
+			"name": "零度影院(规则)",
+			"type": 3,
+			"api": "csp_xBPQ",
+			"filterable": 1,
+			"quickSearch": 1,
+			"searchable": 1,
+			"ext": "https://agit.ai/xiaohewanwan/samllmi/raw/branch/master/XYQ/lingdu.json"
+		},
+		{
 			"key": "兄弟",
 			"name": "兄弟影视(规则)",
 			"type": 3,
@@ -804,17 +815,6 @@
 			"quickSearch": 1,
 			"filterable": 0,
 			"ext": "https://agit.ai/xiaohewanwan/samllmi/raw/branch/master/XYQ/dadagui.json",
-			"jar": "https://download.kstore.space/download/3450/xl1218.jar;md5;2af04bf70706ec613778c46dcafb8abe"
-		},
-		{
-			"key": "兔兔",
-			"name": "追兔影视(规则)",
-			"type": 3,
-			"api": "csp_XYQHiker",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 0,
-			"ext": "https://agit.ai/xiaohewanwan/samllmi/raw/branch/master/XYQ/%e8%bf%bd%e5%89%a7%e5%85%94.json",
 			"jar": "https://download.kstore.space/download/3450/xl1218.jar;md5;2af04bf70706ec613778c46dcafb8abe"
 		},
 		{
