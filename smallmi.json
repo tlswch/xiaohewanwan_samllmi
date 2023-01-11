@@ -1,15 +1,7 @@
 {
 	"spider": "http://smallmi.xiaohewanwan.love:63/jar/xo.jar;md5;a4a90401116d9f1f6a3358c63167ff1f",
 	"wallpaper": "http://www.kf666888.cn/api/tvbox/img",
-	"lives": [{
-		"group": "redirect",
-		"channels": [{
-			"name": "redirect",
-			"urls": [
-				"proxy://do=live&type=txt&ext=aHR0cHM6Ly9hZ2l0LmFpL3hpYW9oZXdhbndhbi9zYW1sbG1pL3Jhdy9icmFuY2gvbWFzdGVyL2xpdmUvbGl2ZS50eHQ="
-			]
-		}]
-	}],
+	"lives": [ { "name": "肥羊", "type": 0, "url": "https://ghproxy.com/https://raw.githubusercontent.com/YueChan/Live/main/IPTV.m3u" }, { "name": "直播", "type": 0, "url": "http://home.jundie.top:81/Cat/tv/live.txt", "epg": "https://epg.112114.xyz/?ch={name}&date={date}", "logo": "https://epg.112114.xyz/logo/{name}.png" }, { "name": "測試", "type": 1, "url": "https://ghproxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/json/live.json", "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={epg}&date={date}", "logo": "http://epg.51zmt.top:8000/{logo}" } ],
 	"rules": [{
 			"host": "*",
 			"rule": [
