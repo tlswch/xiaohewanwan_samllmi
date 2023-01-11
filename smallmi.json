@@ -6,7 +6,7 @@
 		"channels": [{
 			"name": "redirect",
 			"urls": [
-				"proxy://do=live&type=txt&ext=https://ghproxy.com/https://raw.githubusercontent.com/youshandefeiyang/IPTV/main/main/bestv.m3u"
+				"proxy://do=live&type=txt&ext=aHR0cHM6Ly9naHByb3h5LmNvbS9odHRwczovL3Jhdy5naXRodWJ1c2VyY29udGVudC5jb20veW91c2hhbmRlZmVpeWFuZy9JUFRWL21haW4vbWFpbi9iZXN0di5tM3U="
 			]
 		}]
 	}],
