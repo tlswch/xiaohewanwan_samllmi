@@ -4,8 +4,8 @@
 	"lives": [ 
 	{ "name": "肥羊", "type": 0, "url": "https://ghproxy.com/https://raw.githubusercontent.com/shenhuash01/IPTV/main/IPTV.m3u" }, 
 	{ "name": "足球", "type": 0, "url": "https://football.v1.mk" }, 
-	{ "name": "直播", "type": 0, "url": "https://ghproxy.com/https://raw.githubusercontent.com/youshandefeiyang/IPTV/main/main/bestv.m3u", "epg": "https://epg.112114.xyz/?ch={name}&date={date}", "logo": "https://epg.112114.xyz/logo/{name}.png" }, 
-	{ "name": "CQXX", "type": 1, "url": "https://ghproxy.com/https://raw.githubusercontent.com/youshandefeiyang/IPTV/main/main/cqyx.m3u", "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={epg}&date={date}", "logo": "http://epg.51zmt.top:8000/{logo}" } ],
+	{ "name": "云星", "type": 0, "url": "http://maoyingshi.cc/tvbox/zhibo/1.txt", "epg": "https://epg.112114.xyz/?ch={name}&date={date}", "logo": "https://epg.112114.xyz/logo/{name}.png" }, 
+	{ "name": "CQXX", "type": 1, "url": "https://ghproxy.com/https://raw.githubusercontent.com/youshandefeiyang/IPTV/main/main/cqyx.m3u"} ],
 	"rules": [{
 			"host": "*",
 			"rule": [
