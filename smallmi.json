@@ -179,15 +179,15 @@
 			"filterable": 1
 		},
 		{
-            "key": "csp_Alist2",
-            "name": "🐼小丫盘(网盘)",
-            "type": 3,
-            "api": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/libs/alist.min.js",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 0,
-            "ext": "http://101.34.67.237/txt/json/alist.json"
-        },
+			"key": "csp_Alist2",
+			"name": "🐼小丫盘(网盘)",
+			"type": 3,
+			"api": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/libs/alist.min.js",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 0,
+			"ext": "http://101.34.67.237/txt/json/alist.json"
+		},
 		{
 			"key": "AList",
 			"name": "🐼网盘聚(网盘)",
@@ -390,7 +390,7 @@
 			"searchable": 1,
 			"ext": "https://agit.ai/xiaohewanwan/samllmi/raw/branch/master/xinxie/bilisousuo.json"
 		},
-		
+
 		{
 			"key": "Zhaozy",
 			"name": "🍀阿里资源(搜索)",
@@ -1168,7 +1168,8 @@
 			"type": 2,
 			"url": "Sequence"
 		},
-		{	"name": "Q1官解",
+		{
+			"name": "Q1官解",
 			"type": 1,
 			"url": "https://parse.ikunfk.cc/parse/sign/20221230?url=",
 			"header": {
@@ -1261,9 +1262,39 @@
 				]
 			}
 		},
-		{"name":"诺迅","type":0,"url":"http://www.nxflv.com/?url=","ext":{"flag":["qq","qiyi","mgtv","youku","letv","sohu","xigua","1905"],"header":{"User-Agent":"Mozilla/5.0"}}},
-{"name":"云解","type":0,"url":"https://yparse.jn1.cc/index.php?url=","ext":{"flag":["qq","qiyi","mgtv","youku","letv","sohu","xigua","1905"],"header":{"User-Agent":"Mozilla/5.0"}}},
-{"name":"MAO","type":0,"url":"https://www.mtosz.com/erzi.php?url=","ext":{"flag":["qq","qiyi","mgtv","youku","letv","sohu","xigua","1905"],"header":{"User-Agent":"Mozilla/5.0"}}},
+		{
+			"name": "诺迅",
+			"type": 0,
+			"url": "http://www.nxflv.com/?url=",
+			"ext": {
+				"flag": ["qq", "qiyi", "mgtv", "youku", "letv", "sohu", "xigua", "1905"],
+				"header": {
+					"User-Agent": "Mozilla/5.0"
+				}
+			}
+		},
+		{
+			"name": "云解",
+			"type": 0,
+			"url": "https://yparse.jn1.cc/index.php?url=",
+			"ext": {
+				"flag": ["qq", "qiyi", "mgtv", "youku", "letv", "sohu", "xigua", "1905"],
+				"header": {
+					"User-Agent": "Mozilla/5.0"
+				}
+			}
+		},
+		{
+			"name": "MAO",
+			"type": 0,
+			"url": "https://www.mtosz.com/erzi.php?url=",
+			"ext": {
+				"flag": ["qq", "qiyi", "mgtv", "youku", "letv", "sohu", "xigua", "1905"],
+				"header": {
+					"User-Agent": "Mozilla/5.0"
+				}
+			}
+		},
 		{
 			"name": "懒懒2",
 			"type": 1,
