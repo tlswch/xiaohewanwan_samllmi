@@ -435,15 +435,6 @@
 			"jar": "http://w.g9.pub:66/2251087869/smallmi/jar/ali.jar;md5;b6cec380ddab899d275cf2fec2ed676a"
 		},
 		{
-			"key": "Lgyy",
-			"name": "蓝光影院(爬虫)",
-			"type": "3",
-			"api": "csp_Lgyy",
-			"searchable": "1",
-			"quickSearch": "1",
-			"filterable": "1"
-		},
-		{
 			"key": "Dy5551",
 			"name": "5555影视(爬虫)",
 			"type": "3",
@@ -667,8 +658,8 @@
 			"ext": "https://agit.ai/xiaohewanwan/samllmi/raw/branch/master/xinxie/zzzdm1.json"
 		},
 		{
-			"key": "ceshi1",
-			"name": "ceshi(langu)",
+			"key": "蓝光",
+			"name": "蓝光影视(规则)",
 			"type": 3,
 			"api": "csp_xBPQ",
 			"filterable": 1,
