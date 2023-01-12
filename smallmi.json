@@ -667,6 +667,16 @@
 			"ext": "https://agit.ai/xiaohewanwan/samllmi/raw/branch/master/xinxie/zzzdm1.json"
 		},
 		{
+			"key": "ceshi1",
+			"name": "ceshi(langu)",
+			"type": 3,
+			"api": "csp_xBPQ",
+			"filterable": 1,
+			"quickSearch": 1,
+			"searchable": 1,
+			"ext": "https://agit.ai/xiaohewanwan/samllmi/raw/branch/master/xinxie/languang.json"
+		},
+		{
 			"key": "青年影院",
 			"name": "️青年影视(规则)",
 			"type": 3,
