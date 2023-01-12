@@ -1,0 +1,55 @@
+{
+    "站名": "贝贝",
+    "主页url": "http://mkuku2.gotka.top",
+    "请求头": "手机",
+    "热门推荐": "0",
+    "起始页": "1",
+    "直接播放": "0",
+    "倒序播放": "0",
+    "强制解析": "0",
+    
+    "二次截取": "",
+    "数组": "data.list",
+    "图片": "vod_pic",
+    "标题": "vod_name",
+    "副标题": "vod_remarks",
+    "链接": "vod_id",
+    "链接前缀": "http://mkuku2.gotka.top/api.php/v1.vod/detail?vod_id=",
+    
+    "线路二次截取": "",
+    "线路数组": "\"status\"&&\"des",
+    "线路标题": "\"show\":\"&&\"",
+    
+    "影片类型":"data.vod_lang",
+    "影片年代":"data.vod_year",
+    "影片地区":"data.vod_area",
+    "导演":"data.vod_director",
+    "主演":"data.vod_actor",
+    "简介":"data.vod_content",
+    
+    "播放二次截取": "",
+    "播放数组": "urls\":&&]",
+    "列表二次截取": "",
+    "播放列表": "{&&}",
+    "播放标题": "name\":\"&&\"",
+    "播放链接": "url\":\"&&\"",
+    "播放链接前缀": "parse\":\"&&\"",
+    "播放链接后缀": "",
+    "播放链接二次截取":"url",
+    "免嗅": "0",
+    "播放请求头": "User-Agent$Dalvik/2.1.0",
+
+    "搜索url": "http://mkuku2.gotka.top/api.php/v1.vod?wd={wd}&page={pg}",
+    "搜索模式": "1",
+    "搜索二次截取": "",
+    "搜索数组": "data.list",
+    "搜索图片": "vod_pic",
+    "搜索标题": "vod_name",
+    "搜索副标题": "vod_remarks",
+    "搜索链接": "vod_id",
+    "搜索链接前缀": "http://mkuku2.gotka.top/api.php/v1.vod/detail?vod_id=",
+
+    "分类url": "http://mkuku2.gotka.top/api.php/v1.vod?type={cateId}&page={catePg};;k",
+
+    "分类": "电影$1#电视剧$2#动漫$3#综艺$4"
+    }
