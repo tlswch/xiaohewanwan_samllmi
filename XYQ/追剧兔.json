@@ -268,7 +268,7 @@
     "搜索链接": "https://yz.m.sm.cn/s?q={wd}+zjtu.cc在线观看",
     "POST请求数据": "",
     "搜索截取模式": "1",
-    "搜索列表数组规则": "body&&.c-header--v1_0_0.c-title.c-flex",
+    "搜索列表数组规则": "body&&.c-flex.c-margin-top-m",
     "搜索片单是否Jsoup写法": "1",
     "搜索片单图片": "https://agit.ai/xiaohewanwan/samllmi/raw/branch/master/1.jpg",
     "搜索片单标题": "a&&Text",
