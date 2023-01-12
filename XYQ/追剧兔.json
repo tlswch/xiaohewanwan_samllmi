@@ -265,7 +265,7 @@
     "分类片单链接加前缀": "https://www.zjtu.cc",
     "分类片单链接加后缀": "",
     "搜索请求头参数": "电脑",
-    "搜索链接": "https://yz.m.sm.cn/s?q={wd}+zjtu.cc在线观看",
+    "搜索链接": "https://yz.m.sm.cn/s?q={wd}+zjtu.cc",
     "POST请求数据": "",
     "搜索截取模式": "1",
     "搜索列表数组规则": "body&&.c-flex.c-margin-top-m",
