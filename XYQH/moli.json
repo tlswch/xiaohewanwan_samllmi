@@ -19,7 +19,7 @@
 	"cat_title": "a&&title",
 	"cat_url": "a&&href",
 	"cat_pic": ".lazyload&&data-original",
-	"cat_subtitle": ".pic-text.text-righ&&Text",
+	"cat_subtitle": ".pic-text.text-right&&Text",
 	"cat_prefix": "https://www.hdmoli.com",
 	"cat_suffix": "",
 	"SHeaders": "User-Agent$MOBILE_UA",
