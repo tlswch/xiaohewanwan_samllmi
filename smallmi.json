@@ -170,7 +170,7 @@
 		},
 		{
 			"key": "一起看",
-			"name": "🐼一起看(APP)",
+			"name": "🤖一起看",
 			"type": "3",
 			"api": "csp_Dora",
 			"searchable": "1",
@@ -180,8 +180,26 @@
 			"jar": "http://w.g9.pub:66/2251087869/smallmi/jar/custom_spider.jar;md5;97ee205764c3c737804f48f97b3f7be6"
 		},
 		{
+            "key": "mangguo",
+            "name": "🥭芒果(官源)",
+            "type": 3,
+            "api": "csp_Mgtv",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },
+        {
+            "key": "jiguang",
+            "name": "🐧腾讯(官源)",
+            "type": 3,
+            "api": "csp_QQ",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },
+		{
 			"key": "js360",
-			"name": "🐼影聚(360)",
+			"name": "🎟️影聚(360)",
 			"type": 3,
 			"api": "https://agit.ai/767820774/TVBOXZY/raw/branch/main/JS/lib/drpy.min.js",
 			"ext": "http://w.g9.pub:66/2251087869/smallmi/js/360%E5%BD%B1%E8%A7%86.js",
