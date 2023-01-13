@@ -2,7 +2,7 @@
 {
     "规则名": "https://www.piaku.cc/p/DY-2/",
     "规则作者": "sm",
-    "请求头参数": "User-Agent$Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.107 Safari/537.36#Referer$User-Agent$Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.107 Safari/537.36#Referer$https://www.348z.pro/",
+    "请求头参数": "User-Agent$Mozilla/5.0 (iPad; CPU OS 10_3_1 like Mac OS X) AppleWebKit/603.1.30 (KHTML, like Gecko) Version/10.0 Mobile/14E304 Safari/602.1#Referer$https://www.piaku.cc/",
     "网页编码格式": "UTF-8",
     "图片是否需要代理": "否",
     "是否开启获取首页数据": "1",
@@ -11,7 +11,7 @@
     "首页片单列表数组规则": "a",
     "首页片单是否Jsoup写法": "1",
     "分类起始页码": "1",
-    "分类链接": "https://www.piaku.cc/p/{cateId}-{catePg}/",
+    "分类链接": "https://www.piaku.cc/list/{cateId}-{area}-{by}--{lang}------{catePg}---{year}/",
     "分类名称": "电影&电视剧&综艺&动漫&少儿",
     "分类名称替换词": "DY&DSJ&ZY&DM&SR",
     "筛选数据": "ext",
@@ -22,10 +22,10 @@
 	"筛选类型名称": "",
 	"筛选类型替换词": "*",
 	//{area}
-	"筛选地区名称": "",
+	"筛选地区名称": "大陆&香港&美国&台湾&日本&美国&泰国&英国&新加坡&其他",
 	"筛选地区替换词": "*",
 	//{year}
-	"筛选年份名称": "",
+	"筛选年份名称": "2022&2021&2020&2019&2018&2017&2016&2015&2014&2013&2012&2011&2010",
 	"筛选年份替换词": "*",
 	//{lang}
 	"筛选语言名称": "",
@@ -46,7 +46,7 @@
     "搜索链接": "https://www.piaku.cc/s/-------------/?wd={wd}",
     "POST请求数据": "",
     "搜索截取模式": "1",
-    "搜索列表数组规则": ".content&&li",
+    "搜索列表数组规则": "body&&.sr_lists",
     "搜索片单是否Jsoup写法": "是",
     "搜索片单图片": "img&&src",
     "搜索片单标题": "h3&&Text",
