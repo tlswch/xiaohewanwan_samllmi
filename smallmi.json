@@ -246,6 +246,18 @@
 			"jar": "https://download.kstore.space/download/3450/xl1218.jar;md5;2af04bf70706ec613778c46dcafb8abe"
 		},
 		{
+			"key": "r饭团",
+			"name": "💭饭团(规则)",
+			"type": 3,
+			"api": "csp_xBPQ",
+			"filterable": 1,
+			"quickSearch": 1,
+			"searchable": 1,
+			"playerType": "2",
+			"ext": "https://agit.ai/xiaohewanwan/samllmi/raw/branch/master/xinxie/fantuan.json"
+		
+		},
+		{
 			"key": "csp_Xinsj",
 			"name": "💭视觉(爬虫)",
 			"type": 3,
@@ -283,17 +295,7 @@
 			"ext": "https://ghproxy.com/https://raw.githubusercontent.com/smallmi18/TVB/main/H/qiyou.json",
 			"jar": "https://download.kstore.space/download/3450/xl1218.jar;md5;2af04bf70706ec613778c46dcafb8abe"
 		},
-		{
-			"key": "1pianku",
-			"name": "️💭片库(规则)",
-			"type": 3,
-			"api": "csp_XYQHiker",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 0,
-			"ext": "https://agit.ai/xiaohewanwan/samllmi/raw/branch/master/XYQH/pianku.json",
-			"jar": "https://download.kstore.space/download/3450/xl1218.jar;md5;2af04bf70706ec613778c46dcafb8abe"
-		},
+		
 		{
 			"key": "野马",
 			"name": "️💭野马(规则)",
@@ -654,18 +656,6 @@
 			"jar": "https://download.kstore.space/download/3450/xl1218.jar;md5;2af04bf70706ec613778c46dcafb8abe"
 		},
 		{
-			"key": "r饭团",
-			"name": "饭团(规则)",
-			"type": 3,
-			"api": "csp_xBPQ",
-			"filterable": 1,
-			"quickSearch": 1,
-			"searchable": 1,
-			"playerType": "2",
-			"ext": "https://agit.ai/xiaohewanwan/samllmi/raw/branch/master/xinxie/fantuan.json"
-		
-		},
-		{
 			"key": "zzz动漫",
 			"name": "zzz(动漫)",
 			"type": 3,
@@ -753,6 +743,17 @@
 			"type": 3,
 			"api": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/libs/drpy2.min.js",
 			"ext": "https://agit.ai/xiaohewanwan/samllmi/raw/branch/master/js/yunjing.js"
+		},
+		{
+			"key": "1pianku",
+			"name": "️片库(规则)",
+			"type": 3,
+			"api": "csp_XYQHiker",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 0,
+			"ext": "https://agit.ai/xiaohewanwan/samllmi/raw/branch/master/XYQH/pianku.json",
+			"jar": "https://download.kstore.space/download/3450/xl1218.jar;md5;2af04bf70706ec613778c46dcafb8abe"
 		},
 		{
 			"key": "wuyw",
