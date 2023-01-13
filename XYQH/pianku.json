@@ -43,7 +43,7 @@
     "分类片单链接加前缀": "https://www.piaku.cc",
     "分类片单链接加后缀": "",
     "搜索请求头参数": "User-Agent$Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3451.0 Safari/537.36#Referer$WebView",
-    "搜索链接": "https://www.piaku.cc/s/-------------/?wd={wd}",
+    "搜索链接": "https://www.piaku.cc/s/{wd}----------1---/",
     "POST请求数据": "",
     "搜索截取模式": "1",
     "搜索列表数组规则": "body&&.sr_lists",
