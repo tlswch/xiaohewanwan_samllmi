@@ -169,6 +169,17 @@
 			"filterable": 0
 		},
 		{
+			"key": "一起看",
+			"name": "🐼一起看(APP)",
+			"type": "3",
+			"api": "csp_Dora",
+			"searchable": "1",
+			"quickSearch": "1",
+			"filterable": "1",
+			"ext": "8e3aefcba838d8dc5102ac786719d837",
+			"jar": "http://w.g9.pub:66/2251087869/smallmi/jar/custom_spider.jar;md5;97ee205764c3c737804f48f97b3f7be6"
+		},
+		{
 			"key": "js360",
 			"name": "🐼影聚(360)",
 			"type": 3,
@@ -180,7 +191,7 @@
 		},
 		{
 			"key": "csp_Alist2",
-			"name": "🐼小丫盘(网盘)",
+			"name": "🐼小丫(网盘)",
 			"type": 3,
 			"api": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/libs/alist.min.js",
 			"searchable": 1,
@@ -190,22 +201,11 @@
 		},
 		{
 			"key": "AList",
-			"name": "🐼网盘聚(网盘)",
+			"name": "🐼网盘(聚合)",
 			"type": "3",
 			"api": "csp_AList",
 			"searchable": "1",
 			"ext": "https://agit.ai/xiaohewanwan/samllmi/raw/branch/master/xinxie/alist.json"
-		},
-		{
-			"key": "一起看",
-			"name": "🐼一起看(APP)",
-			"type": "3",
-			"api": "csp_Dora",
-			"searchable": "1",
-			"quickSearch": "1",
-			"filterable": "1",
-			"ext": "8e3aefcba838d8dc5102ac786719d837",
-			"jar": "http://w.g9.pub:66/2251087869/smallmi/jar/custom_spider.jar;md5;97ee205764c3c737804f48f97b3f7be6"
 		},
 		{
 			"key": "Kunyu",
@@ -1087,7 +1087,7 @@
 		},
 		{
 			"key": "90影视",
-			"name": "️90影视(规则)",
+			"name": "️90rc(规则)",
 			"type": 3,
 			"api": "csp_XYQHiker",
 			"searchable": 1,
@@ -1096,7 +1096,6 @@
 			"ext": "https://agit.ai/xiaohewanwan/samllmi/raw/branch/master/XYQH/90rc.json",
 			"jar": "https://download.kstore.space/download/3450/xl1218.jar;md5;2af04bf70706ec613778c46dcafb8abe"
 		},
-		
 		{
 			"key": "40",
 			"name": "星辰(规则)",
@@ -1110,7 +1109,7 @@
 		},
 		{
 			"key": "真不卡",
-			"name": "️真不卡(规则)",
+			"name": "️不卡(规则)",
 			"type": 3,
 			"api": "csp_XYQHiker",
 			"searchable": 1,
@@ -1121,7 +1120,7 @@
 		},
 		{
 			"key": "看一看",
-			"name": "️看一看(规则)",
+			"name": "️看看(影视)",
 			"type": 3,
 			"api": "csp_XYQHiker",
 			"searchable": 1,
@@ -1132,7 +1131,7 @@
 		},
 		{
 			"key": "大猪蹄子",
-			"name": "️猪蹄子(规则)",
+			"name": "️猪蹄(规则)",
 			"type": 3,
 			"api": "csp_XYQHiker",
 			"searchable": 1,
@@ -1143,7 +1142,7 @@
 		},
 		{
 			"key": "push_agent",
-			"name": "手机推(链接)",
+			"name": "推送(链接)",
 			"type": 3,
 			"api": "csp_Push",
 			"searchable": 1,
