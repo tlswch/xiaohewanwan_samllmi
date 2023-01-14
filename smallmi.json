@@ -169,37 +169,8 @@
 			"filterable": 0
 		},
 		{
-			"key": "一起看",
-			"name": "🤖一起看",
-			"type": "3",
-			"api": "csp_Dora",
-			"searchable": "1",
-			"quickSearch": "1",
-			"filterable": "1",
-			"ext": "8e3aefcba838d8dc5102ac786719d837",
-			"jar": "http://w.g9.pub:66/2251087869/smallmi/jar/custom_spider.jar;md5;97ee205764c3c737804f48f97b3f7be6"
-		},
-		{
-            "key": "mangguo",
-            "name": "🥭芒果(官源)",
-            "type": 3,
-            "api": "csp_Mgtv",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
-        },
-        {
-            "key": "jiguang",
-            "name": "🐧腾讯(官源)",
-            "type": 3,
-            "api": "csp_QQ",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
-        },
-		{
 			"key": "js360",
-			"name": "🎟️影聚(360)",
+			"name": "🐼影视聚(360)",
 			"type": 3,
 			"api": "https://agit.ai/767820774/TVBOXZY/raw/branch/main/JS/lib/drpy.min.js",
 			"ext": "http://w.g9.pub:66/2251087869/smallmi/js/360%E5%BD%B1%E8%A7%86.js",
@@ -208,8 +179,20 @@
 			"filterable": 1
 		},
 		{
+			"key": "一起看",
+			"name": "🐼一起看(APP)",
+			"type": "3",
+			"api": "csp_Dora",
+			"searchable": "1",
+			"quickSearch": "1",
+			"filterable": "1",
+			"ext": "8e3aefcba838d8dc5102ac786719d837",
+			"jar": "http://smallmi.xiaohewanwan.love:63/jar/ts.txt;md5;6a9c7cc928036c39dba1ff98400ffa52"
+		},
+		
+		{
 			"key": "csp_Alist2",
-			"name": "🐼小丫(网盘)",
+			"name": "🐼小丫盘(网盘)",
 			"type": 3,
 			"api": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/libs/alist.min.js",
 			"searchable": 1,
@@ -219,7 +202,7 @@
 		},
 		{
 			"key": "AList",
-			"name": "🐼网盘(聚合)",
+			"name": "🐼网盘聚(网盘)",
 			"type": "3",
 			"api": "csp_AList",
 			"searchable": "1",
@@ -227,9 +210,60 @@
 		},
 		{
 			"key": "Kunyu",
-			"name": "🐇七七(手机)",
+			"name": "👹七七(手机)",
 			"type": 3,
 			"api": "csp_Kunyu77",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1
+		},
+		{
+			"key": "饭团",
+			"name": "👹饭团(规则)",
+			"type": 3,
+			"api": "csp_xBPQ",
+			"filterable": 1,
+			"quickSearch": 1,
+			"searchable": 1,
+			"playerType": "2",
+			"ext": "https://agit.ai/xiaohewanwan/samllmi/raw/branch/master/xinxie/fantuan.json"
+		},
+		{
+			"key": "mangguo",
+			"name": "🥭芒果(官源)",
+			"type": 3,
+			"api": "csp_Mgtv",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1
+		},
+		{
+			"key": "AppTT",
+			"name": "🐼图图(APP)",
+			"type": "3",
+			"api": "csp_Dora",
+			"searchable": "1",
+			"quickSearch": "1",
+			"filterable": "1",
+			"ext": "110c922de7d69804467fb83d3bb664b5",
+			"jar": "http://smallmi.xiaohewanwan.love:63/jar/ts.txt;md5;6a9c7cc928036c39dba1ff98400ffa52"
+		},
+		{
+			"key": "LiteApple",
+			"name": "🍎苹果(APP)",
+			"type": "3",
+			"api": "csp_Dora",
+			"searchable": "1",
+			"quickSearch": "1",
+			"filterable": "1",
+			"ext": "6deed4548c44b18d268a5d828f04d86e",
+			"jar": "http://smallmi.xiaohewanwan.love:63/jar/ts.txt;md5;6a9c7cc928036c39dba1ff98400ffa52"
+		},
+		{
+			"key": "jiguang",
+			"name": "🐧腾讯(官源)",
+			"type": 3,
+			"api": "csp_QQ",
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1
@@ -246,20 +280,8 @@
 			"jar": "https://download.kstore.space/download/3450/xl1218.jar;md5;2af04bf70706ec613778c46dcafb8abe"
 		},
 		{
-			"key": "r饭团",
-			"name": "💭饭团(规则)",
-			"type": 3,
-			"api": "csp_xBPQ",
-			"filterable": 1,
-			"quickSearch": 1,
-			"searchable": 1,
-			"playerType": "2",
-			"ext": "https://agit.ai/xiaohewanwan/samllmi/raw/branch/master/xinxie/fantuan.json"
-		
-		},
-		{
 			"key": "csp_Xinsj",
-			"name": "💭视觉(爬虫)",
+			"name": "🐇视觉(爬虫)",
 			"type": 3,
 			"api": "csp_Xinsj",
 			"searchable": 1,
@@ -267,26 +289,8 @@
 			"filterable": 1
 		},
 		{
-			"key": "csp_剧荒",
-			"name": "💭剧荒(美剧)",
-			"type": 3,
-			"api": "csp_Juhuang",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 1
-		},
-		{
-			"key": "BULEI1",
-			"name": "💭布蕾(爬虫)",
-			"type": 3,
-			"api": "csp_BuLei",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 1
-		},
-		{
 			"key": "qiyou",
-			"name": "️💭奇优(规则)",
+			"name": "️🐇奇优(规则)",
 			"type": 3,
 			"api": "csp_XYQHiker",
 			"searchable": 1,
@@ -295,7 +299,182 @@
 			"ext": "https://ghproxy.com/https://raw.githubusercontent.com/smallmi18/TVB/main/H/qiyou.json",
 			"jar": "https://download.kstore.space/download/3450/xl1218.jar;md5;2af04bf70706ec613778c46dcafb8abe"
 		},
-		
+		{
+			"key": "csp_剧荒",
+			"name": "🐇剧荒(爬虫)",
+			"type": 3,
+			"api": "csp_Juhuang",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1
+		},
+		{
+			"key": "BULEI1",
+			"name": "🐇布蕾(爬虫)",
+			"type": 3,
+			"api": "csp_BuLei",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1
+		},
+		{
+			"key": "r饭团",
+			"name": "🐇饭团(规则)",
+			"type": 3,
+			"api": "csp_xBPQ",
+			"filterable": 1,
+			"quickSearch": 1,
+			"searchable": 1,
+			"playerType": "2",
+			"ext": "https://agit.ai/xiaohewanwan/samllmi/raw/branch/master/xinxie/fantuan.json"
+		},
+		{
+			"key": "renren1",
+			"name": "🐇人人(规则)",
+			"type": 3,
+			"api": "csp_xBPQ",
+			"filterable": 1,
+			"quickSearch": 1,
+			"searchable": 1,
+			"playerType": "2",
+			"ext": "https://agit.ai/xiaohewanwan/jar/raw/branch/main/xb/renren.json"
+		},
+		{
+			"key": "Kuaikan",
+			"name": "🐇快看(爬虫)",
+			"type": 3,
+			"api": "csp_Kuaikan",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1
+		},
+		{
+			"key": "Pang",
+			"name": "🐇胖虎(爬虫)",
+			"type": "3",
+			"api": "csp_Dora",
+			"searchable": "1",
+			"quickSearch": "1",
+			"filterable": "1",
+			"ext": "c41fdb671b20925c76fa9b6ff8bad027",
+			"jar": "http://smallmi.xiaohewanwan.love:63/jar/ts.txt;md5;6a9c7cc928036c39dba1ff98400ffa52"
+		},
+		{
+			"key": "Czsapp",
+			"name": "💐厂长(爬虫)",
+			"type": "3",
+			"api": "csp_Czsapp",
+			"searchable": "1",
+			"quickSearch": "1",
+			"filterable": "1"
+		},
+		{
+			"key": "csp_Nmys",
+			"name": "💐农民(爬虫)",
+			"type": 3,
+			"api": "csp_Nmys",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+			"ext": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/sub/Nmys.json"
+		},
+		{
+			"key": "4K",
+			"name": "💐4K网(规则)",
+			"type": 3,
+			"api": "csp_xBPQ",
+			"filterable": 1,
+			"quickSearch": 1,
+			"searchable": 1,
+			"playerType": "1",
+			"ext": "https://agit.ai/xiaohewanwan/atest/raw/branch/master/4kvm.json"
+		},
+		{
+			"key": "Zhaozy",
+			"name": "💮资源(阿里)",
+			"type": "3",
+			"api": "csp_Zhaozy",
+			"searchable": "1",
+			"quickSearch": "1",
+			"filterable": "1",
+			"ext": "http://我不是.肥猫.love:63/token.php",
+			"jar": "http://w.g9.pub:66/2251087869/smallmi/jar/ali.jar;md5;b6cec380ddab899d275cf2fec2ed676a"
+		},
+		{
+			"key": "YiSo",
+			"name": "💮易搜(阿里)",
+			"type": "3",
+			"api": "csp_YiSo",
+			"searchable": "1",
+			"quickSearch": "1",
+			"filterable": "1",
+			"ext": "http://我不是.肥猫.love:63/token.php",
+			"jar": "http://w.g9.pub:66/2251087869/smallmi/jar/ali.jar;md5;b6cec380ddab899d275cf2fec2ed676a"
+		},
+		{
+			"key": "AliPS",
+			"name": "💮盘搜(阿里)",
+			"type": "3",
+			"api": "csp_PanSou",
+			"searchable": "1",
+			"quickSearch": "1",
+			"filterable": "1",
+			"ext": "http://我不是.肥猫.love:63/token.php",
+			"jar": "http://w.g9.pub:66/2251087869/smallmi/jar/ali.jar;md5;b6cec380ddab899d275cf2fec2ed676a"
+		},
+		{
+			"key": "Upso",
+			"name": "💮云搜(阿里)",
+			"type": "3",
+			"api": "csp_UpYun",
+			"searchable": "1",
+			"quickSearch": "1",
+			"filterable": "1",
+			"ext": "http://我不是.肥猫.love:63/token.php",
+			"jar": "http://w.g9.pub:66/2251087869/smallmi/jar/ali.jar;md5;b6cec380ddab899d275cf2fec2ed676a"
+		},
+		{
+			"key": "Gitcafe",
+			"name": "💮纸条(阿里)",
+			"type": "3",
+			"api": "csp_Paper",
+			"searchable": "1",
+			"quickSearch": "1",
+			"filterable": "1",
+			"ext": "http://我不是.肥猫.love:63/token.php"
+		},
+		{
+			"key": "bilisousuo",
+			"name": "💮哔哩(搜索)",
+			"type": 3,
+			"api": "csp_xBPQ",
+			"filterable": 1,
+			"quickSearch": 1,
+			"searchable": 1,
+			"ext": "https://agit.ai/xiaohewanwan/samllmi/raw/branch/master/xinxie/bilisousuo.json"
+		},
+		{
+			"key": "348",
+			"name": "🌸348(规则)",
+			"type": 3,
+			"api": "csp_xBPQ",
+			"filterable": 1,
+			"quickSearch": 1,
+			"searchable": 1,
+			"playerType": "1",
+			"ext": "https://agit.ai/xiaohewanwan/samllmi/raw/branch/master/bb/348languang.json"
+		},
+		{
+			"key": "青年影院",
+			"name": "🌸️青年(规则)",
+			"type": 3,
+			"api": "csp_XYQHiker",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 0,
+			"ext": "https://agit.ai/xiaohewanwan/samllmi/raw/branch/master/XYQ/%e9%9d%92%e5%b9%b4%e5%bd%b1%e8%a7%86.json",
+			"jar": "https://download.kstore.space/download/3450/xl1218.jar;md5;2af04bf70706ec613778c46dcafb8abe"
+		},
 		{
 			"key": "野马",
 			"name": "️💭野马(规则)",
@@ -308,90 +487,8 @@
 			"jar": "https://download.kstore.space/download/3450/xl1218.jar;md5;2af04bf70706ec613778c46dcafb8abe"
 		},
 		{
-			"key": "renren1",
-			"name": "💭人人(规则)",
-			"type": 3,
-			"api": "csp_xBPQ",
-			"filterable": 1,
-			"quickSearch": 1,
-			"searchable": 1,
-			"playerType": "2",
-			"ext": "https://agit.ai/xiaohewanwan/jar/raw/branch/main/xb/renren.json"
-		},
-		{
-			"key": "🌸NT动漫",
-			"name": "💭N T(动漫)",
-			"type": 3,
-			"api": "csp_xBPQ",
-			"filterable": 1,
-			"quickSearch": 1,
-			"searchable": 1,
-			"ext": "https://agit.ai/xiaohewanwan/samllmi/raw/branch/master/xinxie/dongman.json"
-		},
-		{
-			"key": "Kuaikan",
-			"name": "🌸快看(爬虫)",
-			"type": 3,
-			"api": "csp_Kuaikan",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 1
-		},
-		{
-			"key": "Pang",
-			"name": "🌸胖虎(爬虫)",
-			"type": "3",
-			"api": "csp_Dora",
-			"searchable": "1",
-			"quickSearch": "1",
-			"filterable": "1",
-			"ext": "c41fdb671b20925c76fa9b6ff8bad027",
-			"jar": "http://w.g9.pub:66/2251087869/smallmi/jar/custom_spider.jar;md5;97ee205764c3c737804f48f97b3f7be6"
-		},
-		{
-			"key": "Czsapp",
-			"name": "🌸厂长(爬虫)",
-			"type": "3",
-			"api": "csp_Czsapp",
-			"searchable": "1",
-			"quickSearch": "1",
-			"filterable": "1"
-		},
-		{
-			"key": "csp_Nmys",
-			"name": "🌸农民(爬虫)",
-			"type": 3,
-			"api": "csp_Nmys",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 1,
-			"ext": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/sub/Nmys.json"
-		},
-		{
-			"key": "4K",
-			"name": "🌸4 K(规则)",
-			"type": 3,
-			"api": "csp_xBPQ",
-			"filterable": 1,
-			"quickSearch": 1,
-			"searchable": 1,
-			"playerType": "1",
-			"ext": "https://agit.ai/xiaohewanwan/atest/raw/branch/master/4kvm.json"
-		},
-		{
-			"key": "348",
-			"name": "🌸348(规则)",
-			"type": 3,
-			"api": "csp_xBPQ",
-			"filterable": 1,
-			"quickSearch": 1,
-			"searchable": 1,
-			"playerType": "2",
-			"ext": "https://agit.ai/xiaohewanwan/samllmi/raw/branch/master/bb/348languang.json"
-		},
-		{
 			"key": "dami",
-			"name": "🌸大米(规则)",
+			"name": "💭大米(规则)",
 			"type": 3,
 			"api": "csp_xBPQ",
 			"filterable": 1,
@@ -399,125 +496,6 @@
 			"searchable": 1,
 			"playerType": "2",
 			"ext": "https://agit.ai/xiaohewanwan/samllmi/raw/branch/master/xinxie/dami.json"
-		},
-		{
-			"key": "bilisousuo",
-			"name": "🌸哔哩(搜索)",
-			"type": 3,
-			"api": "csp_xBPQ",
-			"filterable": 1,
-			"quickSearch": 1,
-			"searchable": 1,
-			"ext": "https://agit.ai/xiaohewanwan/samllmi/raw/branch/master/xinxie/bilisousuo.json"
-		},
-		{
-			"key": "Zhaozy",
-			"name": "🍀资源(搜索)",
-			"type": "3",
-			"api": "csp_Zhaozy",
-			"searchable": "1",
-			"quickSearch": "1",
-			"filterable": "1",
-			"ext": "http://我不是.肥猫.love:63/token.php",
-			"jar": "http://w.g9.pub:66/2251087869/smallmi/jar/ali.jar;md5;b6cec380ddab899d275cf2fec2ed676a"
-		},
-		{
-			"key": "YiSo",
-			"name": "🍀易搜(搜索)",
-			"type": "3",
-			"api": "csp_YiSo",
-			"searchable": "1",
-			"quickSearch": "1",
-			"filterable": "1",
-			"ext": "http://我不是.肥猫.love:63/token.php",
-			"jar": "http://w.g9.pub:66/2251087869/smallmi/jar/ali.jar;md5;b6cec380ddab899d275cf2fec2ed676a"
-		},
-		{
-			"key": "AliPS",
-			"name": "🍀盘搜(搜索)",
-			"type": "3",
-			"api": "csp_PanSou",
-			"searchable": "1",
-			"quickSearch": "1",
-			"filterable": "1",
-			"ext": "http://我不是.肥猫.love:63/token.php",
-			"jar": "http://w.g9.pub:66/2251087869/smallmi/jar/ali.jar;md5;b6cec380ddab899d275cf2fec2ed676a"
-		},
-		{
-			"key": "Upso",
-			"name": "🍀云搜(搜索)",
-			"type": "3",
-			"api": "csp_UpYun",
-			"searchable": "1",
-			"quickSearch": "1",
-			"filterable": "1",
-			"ext": "http://我不是.肥猫.love:63/token.php",
-			"jar": "http://w.g9.pub:66/2251087869/smallmi/jar/ali.jar;md5;b6cec380ddab899d275cf2fec2ed676a"
-		},
-		{
-			"key": "Dy5551",
-			"name": "555(爬虫)",
-			"type": "3",
-			"api": "csp_Dora",
-			"searchable": "1",
-			"quickSearch": "1",
-			"filterable": "1",
-			"ext": "f41992bd740145ed58cb212dc0876582",
-			"jar": "http://w.g9.pub:66/2251087869/smallmi/jar/custom_spider.jar;md5;97ee205764c3c737804f48f97b3f7be6"
-		},
-		{
-			"key": "IKan",
-			"name": "爱看(爬虫)",
-			"type": "3",
-			"api": "csp_Dora",
-			"searchable": "1",
-			"quickSearch": "1",
-			"filterable": "1",
-			"ext": "a4ce9a4ba7d4f4bced2ff9dfc4ab4e50",
-			"jar": "http://w.g9.pub:66/2251087869/smallmi/jar/custom_spider.jar;md5;97ee205764c3c737804f48f97b3f7be6"
-		},
-		{
-			"key": "Yanet1",
-			"name": "鸭鸭(奈飞)",
-			"type": "3",
-			"api": "csp_Dora",
-			"searchable": "1",
-			"quickSearch": "1",
-			"filterable": "1",
-			"ext": "a369b1f623fe86605f1b029f0cf66349",
-			"jar": "http://w.g9.pub:66/2251087869/smallmi/jar/custom_spider.jar;md5;97ee205764c3c737804f48f97b3f7be6"
-		},
-		{
-			"key": "Hei1",
-			"name": "石榴(爬虫)",
-			"type": "3",
-			"api": "csp_Dora",
-			"searchable": "1",
-			"quickSearch": "1",
-			"filterable": "1",
-			"ext": "3bff500c8b1e06c052a1b0f1f7a62b45",
-			"jar": "http://w.g9.pub:66/2251087869/smallmi/jar/custom_spider.jar;md5;97ee205764c3c737804f48f97b3f7be6"
-		},
-		{
-			"key": "Dm84",
-			"name": "巴士(动漫)",
-			"type": "3",
-			"api": "csp_Dora",
-			"searchable": "1",
-			"quickSearch": "1",
-			"filterable": "1",
-			"ext": "572192a9fe2136041a58e7219a46fb2b",
-			"jar": "http://w.g9.pub:66/2251087869/smallmi/jar/custom_spider.jar;md5;97ee205764c3c737804f48f97b3f7be6"
-		},
-		{
-			"key": "csp_AppTT",
-			"name": "图图(爬虫)",
-			"type": 3,
-			"api": "csp_AppTT",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 1,
-			"ext": "http://124.248.66.107:9955"
 		},
 		{
 			"key": "南柯",
@@ -547,25 +525,32 @@
 			"filterable": "1"
 		},
 		{
+			"key": "csp_Cokemv",
+			"name": "可乐(爬虫)",
+			"type": 3,
+			"api": "csp_Cokemv",
+			"searchable": 1,
+			"quickSearch": 1,
+			"playerType": "2",
+			"filterable": 1
+		},
+		{
 			"key": "Ddys",
 			"name": "低端(爬虫)",
 			"type": 3,
 			"api": "csp_Ddrk",
 			"searchable": 1,
 			"quickSearch": 1,
-			"click": "ddys.tv;#vjsp > button",
 			"filterable": 1
 		},
 		{
 			"key": "Zxzj",
 			"name": "在线(爬虫)",
 			"type": "3",
-			"api": "csp_Dora",
+			"api": "csp_Zxzj",
 			"searchable": "1",
 			"quickSearch": "1",
-			"filterable": "1",
-			"ext": "23a412dda32885ae2bcb97b956cd7ad4",
-			"jar": "http://w.g9.pub:66/2251087869/smallmi/jar/custom_spider.jar;md5;97ee205764c3c737804f48f97b3f7be6"
+			"filterable": "1"
 		},
 		{
 			"key": "Bili1",
@@ -578,23 +563,13 @@
 			"ext": "https://ghproxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/json/bili.json"
 		},
 		{
-			"key": "csp_Vofilx",
-			"name": "VOF(爬虫)",
+			"key": "双十",
+			"name": "双十(爬虫)",
 			"type": 3,
-			"api": "csp_Voflix",
+			"api": "csp_Dy1010",
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1
-		},
-		{
-			"key": "Gitcafe",
-			"name": "纸条(网盘)",
-			"type": "3",
-			"api": "csp_Paper",
-			"searchable": "1",
-			"quickSearch": "1",
-			"filterable": "1",
-			"ext": "http://我不是.肥猫.love:63/token.php"
 		},
 		{
 			"key": "BT",
@@ -616,19 +591,17 @@
 			"playerType": "1"
 		},
 		{
-			"key": "17kan",
-			"name": "17看(体育)",
+			"key": "csp_Vofilx",
+			"name": "Vofl(爬虫)",
 			"type": 3,
-			"api": "csp_XYQBiu",
+			"api": "csp_Voflix",
 			"searchable": 1,
 			"quickSearch": 1,
-			"filterable": 0,
-			"ext": "https://agit.ai/xiaohewanwan/samllmi/raw/branch/master/XYQ/17kan.json",
-			"jar": "https://download.kstore.space/download/3450/xl1218.jar;md5;2af04bf70706ec613778c46dcafb8abe"
+			"filterable": 1
 		},
 		{
 			"key": "csp_Yj1211",
-			"name": "网游(虎牙)",
+			"name": "网游(直播)",
 			"type": 3,
 			"api": "csp_Yj1211",
 			"searchable": 1,
@@ -645,6 +618,81 @@
 			"filterable": 1
 		},
 		{
+			"key": "Dy5551",
+			"name": "555(爬虫)",
+			"type": "3",
+			"api": "csp_Dora",
+			"searchable": "1",
+			"quickSearch": "1",
+			"filterable": "1",
+			"ext": "f41992bd740145ed58cb212dc0876582",
+			"jar": "http://smallmi.xiaohewanwan.love:63/jar/ts.txt;md5;6a9c7cc928036c39dba1ff98400ffa52"
+		},
+		{
+			"key": "IKan",
+			"name": "爱看(爬虫)",
+			"type": "3",
+			"api": "csp_Dora",
+			"searchable": "1",
+			"quickSearch": "1",
+			"filterable": "1",
+			"ext": "a4ce9a4ba7d4f4bced2ff9dfc4ab4e50",
+			"jar": "http://smallmi.xiaohewanwan.love:63/jar/ts.txt;md5;6a9c7cc928036c39dba1ff98400ffa52"
+		},
+		{
+			"key": "Yanet1",
+			"name": "鸭鸭(奈非)",
+			"type": "3",
+			"api": "csp_Dora",
+			"searchable": "1",
+			"quickSearch": "1",
+			"filterable": "1",
+			"ext": "a369b1f623fe86605f1b029f0cf66349",
+			"jar": "http://smallmi.xiaohewanwan.love:63/jar/ts.txt;md5;6a9c7cc928036c39dba1ff98400ffa52"
+		},
+		{
+			"key": "Hei1",
+			"name": "石榴(爬虫)",
+			"type": "3",
+			"api": "csp_Dora",
+			"searchable": "1",
+			"quickSearch": "1",
+			"filterable": "1",
+			"ext": "3bff500c8b1e06c052a1b0f1f7a62b45",
+			"jar": "http://smallmi.xiaohewanwan.love:63/jar/ts.txt;md5;6a9c7cc928036c39dba1ff98400ffa52"
+		},
+		{
+			"key": "Dm84",
+			"name": "巴士(动漫)",
+			"type": "3",
+			"api": "csp_Dm84",
+			"searchable": "1",
+			"quickSearch": "1",
+			"filterable": "1"
+		},
+		{
+			"key": "17kan",
+			"name": "直播(体育)",
+			"type": 3,
+			"api": "csp_XYQBiu",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 0,
+			"ext": "https://agit.ai/xiaohewanwan/samllmi/raw/branch/master/XYQ/17kan.json",
+			"jar": "https://download.kstore.space/download/3450/xl1218.jar;md5;2af04bf70706ec613778c46dcafb8abe"
+		},
+		{
+			"key": "qiaokeli",
+			"name": "点播(体育)",
+			"type": 3,
+			"api": "csp_XYQHiker",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 0,
+			"ext": "https://agit.ai/xiaohewanwan/samllmi/raw/branch/master/XYQ/tiyudianbo.json",
+			"jar": "https://download.kstore.space/download/3450/xl1218.jar;md5;2af04bf70706ec613778c46dcafb8abe"
+		},
+		{
 			"key": "fanqie",
 			"name": "️番茄(动漫)",
 			"type": 3,
@@ -656,35 +704,24 @@
 			"jar": "https://download.kstore.space/download/3450/xl1218.jar;md5;2af04bf70706ec613778c46dcafb8abe"
 		},
 		{
+			"key": "NT动漫",
+			"name": "N T(动漫)",
+			"type": 3,
+			"api": "csp_xBPQ",
+			"filterable": 1,
+			"quickSearch": 1,
+			"searchable": 1,
+			"ext": "https://agit.ai/xiaohewanwan/samllmi/raw/branch/master/xinxie/dongman.json"
+		},
+		{
 			"key": "zzz动漫",
-			"name": "zzz(动漫)",
+			"name": "zzzz(动漫)",
 			"type": 3,
 			"api": "csp_xBPQ",
 			"filterable": 1,
 			"quickSearch": 1,
 			"searchable": 1,
 			"ext": "https://agit.ai/xiaohewanwan/samllmi/raw/branch/master/xinxie/zzzdm1.json"
-		},
-		{
-			"key": "蓝光",
-			"name": "蓝光(规则)",
-			"type": 3,
-			"api": "csp_xBPQ",
-			"filterable": 1,
-			"quickSearch": 1,
-			"searchable": 1,
-			"ext": "https://agit.ai/xiaohewanwan/samllmi/raw/branch/master/xinxie/languang.json"
-		},
-		{
-			"key": "青年影院",
-			"name": "️青年(规则)",
-			"type": 3,
-			"api": "csp_XYQHiker",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 0,
-			"ext": "https://agit.ai/xiaohewanwan/samllmi/raw/branch/master/XYQ/%e9%9d%92%e5%b9%b4%e5%bd%b1%e8%a7%86.json",
-			"jar": "https://download.kstore.space/download/3450/xl1218.jar;md5;2af04bf70706ec613778c46dcafb8abe"
 		},
 		{
 			"key": "maidou",
@@ -697,14 +734,14 @@
 			"ext": "https://agit.ai/xiaohewanwan/samllmi/raw/branch/master/bb/maidou.json"
 		},
 		{
-			"key": "lingdu",
-			"name": "零度(规则)",
+			"key": "蓝光",
+			"name": "蓝光(规则)",
 			"type": 3,
 			"api": "csp_xBPQ",
 			"filterable": 1,
 			"quickSearch": 1,
 			"searchable": 1,
-			"ext": "https://agit.ai/xiaohewanwan/samllmi/raw/branch/master/XYQ/lingdu.json"
+			"ext": "https://agit.ai/xiaohewanwan/samllmi/raw/branch/master/xinxie/languang.json"
 		},
 		{
 			"key": "兄弟",
@@ -717,19 +754,8 @@
 			"ext": "https://agit.ai/xiaohewanwan/jar/raw/branch/main/xb/xiongdi.json"
 		},
 		{
-			"key": "AB",
-			"name": "A B(规则)",
-			"type": 3,
-			"api": "csp_xBPQ",
-			"filterable": 1,
-			"quickSearch": 1,
-			"searchable": 1,
-			"playerType": "2",
-			"ext": "https://agit.ai/xiaohewanwan/samllmi/raw/branch/master/xinxie/abyingyuan.json"
-		},
-		{
 			"key": "91free",
-			"name": "九一(规则)",
+			"name": "free(规则)",
 			"type": 3,
 			"api": "csp_xBPQ",
 			"filterable": 1,
@@ -745,22 +771,22 @@
 			"ext": "https://agit.ai/xiaohewanwan/samllmi/raw/branch/master/js/yunjing.js"
 		},
 		{
-			"key": "1pianku",
-			"name": "️片库(规则)",
-			"type": 3,
-			"api": "csp_XYQHiker",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 0,
-			"ext": "https://agit.ai/xiaohewanwan/samllmi/raw/branch/master/XYQH/pianku.json",
-			"jar": "https://download.kstore.space/download/3450/xl1218.jar;md5;2af04bf70706ec613778c46dcafb8abe"
-		},
-		{
 			"key": "wuyw",
 			"name": "午夜(规则)",
 			"type": 3,
 			"api": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/libs/drpy2.min.js",
 			"ext": "https://agit.ai/xiaohewanwan/samllmi/raw/branch/master/js/wuye.js"
+		},
+		{
+			"key": "外剧",
+			"name": "外剧(规则)",
+			"type": 3,
+			"api": "csp_XYQHiker",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 0,
+			"ext": "https://agit.ai/xiaohewanwan/samllmi/raw/branch/master/xinxie/waiju.json",
+			"jar": "https://download.kstore.space/download/3450/xl1218.jar;md5;2af04bf70706ec613778c46dcafb8abe"
 		},
 		{
 			"key": "188kan",
@@ -785,8 +811,19 @@
 			"jar": "https://download.kstore.space/download/3450/xl1218.jar;md5;2af04bf70706ec613778c46dcafb8abe"
 		},
 		{
+			"key": "xingge",
+			"name": "️星哥(规则)",
+			"type": 3,
+			"api": "csp_XYQHiker",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 0,
+			"ext": "https://agit.ai/xiaohewanwan/samllmi/raw/branch/master/XYQH/xinggeyingshi.json",
+			"jar": "https://download.kstore.space/download/3450/xl1218.jar;md5;2af04bf70706ec613778c46dcafb8abe"
+		},
+		{
 			"key": "kannaifei",
-			"name": "️看看(奈飞)",
+			"name": "️看看(奈非)",
 			"type": 3,
 			"api": "csp_XYQHiker",
 			"searchable": 1,
@@ -807,19 +844,8 @@
 			"jar": "https://download.kstore.space/download/3450/xl1218.jar;md5;2af04bf70706ec613778c46dcafb8abe"
 		},
 		{
-			"key": "mianfei",
-			"name": "️免费(规则)",
-			"type": 3,
-			"api": "csp_XYQHiker",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 0,
-			"ext": "https://agit.ai/xiaohewanwan/samllmi/raw/branch/master/XYQH/maifeiyingshi.json",
-			"jar": "https://download.kstore.space/download/3450/xl1218.jar;md5;2af04bf70706ec613778c46dcafb8abe"
-		},
-		{
 			"key": "naifeigou",
-			"name": "️奈狗(奈飞)",
+			"name": "️奈狗(奈非)",
 			"type": 3,
 			"api": "csp_XYQHiker",
 			"searchable": 1,
@@ -840,6 +866,17 @@
 			"jar": "https://download.kstore.space/download/3450/xl1218.jar;md5;2af04bf70706ec613778c46dcafb8abe"
 		},
 		{
+			"key": "kankan",
+			"name": "️看看(规则)",
+			"type": 3,
+			"api": "csp_XYQHiker",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 0,
+			"ext": "https://agit.ai/xiaohewanwan/samllmi/raw/branch/master/XYQH/cehsi.json",
+			"jar": "https://download.kstore.space/download/3450/xl1218.jar;md5;2af04bf70706ec613778c46dcafb8abe"
+		},
+		{
 			"key": "达达龟",
 			"name": "达龟(规则)",
 			"type": 3,
@@ -848,17 +885,6 @@
 			"quickSearch": 1,
 			"filterable": 0,
 			"ext": "https://agit.ai/xiaohewanwan/samllmi/raw/branch/master/XYQ/dadagui.json",
-			"jar": "https://download.kstore.space/download/3450/xl1218.jar;md5;2af04bf70706ec613778c46dcafb8abe"
-		},
-		{
-			"key": "外剧",
-			"name": "外剧(规则)",
-			"type": 3,
-			"api": "csp_XYQHiker",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 0,
-			"ext": "https://agit.ai/xiaohewanwan/samllmi/raw/branch/master/xinxie/waiju.json",
 			"jar": "https://download.kstore.space/download/3450/xl1218.jar;md5;2af04bf70706ec613778c46dcafb8abe"
 		},
 		{
@@ -924,8 +950,8 @@
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 0,
-			"ext": "https://agit.ai/xiaohewanwan/samllmi/raw/branch/master/XYQ/kanbibi.json",
-			"jar": "http://w.g9.pub:66/2251087869/smallmi/jar/xl.jar;md5;2c31d1eb526abdd120ff3c5de9662c1a"
+			"ext": "http://w.g9.pub:66/2251087869/smallmi/xyq/kanbibi.json",
+			"jar": "https://agit.ai/xiaohewanwan/samllmi/raw/branch/master/XYQ/kanbibi.json"
 		},
 		{
 			"key": "baipiao",
@@ -940,57 +966,13 @@
 		},
 		{
 			"key": "naifeitv",
-			"name": "️奈飞(奈飞)",
+			"name": "️奈飞(奈非)",
 			"type": 3,
 			"api": "csp_XYQHiker",
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 0,
 			"ext": "https://agit.ai/xiaohewanwan/samllmi/raw/branch/master/XYQ/netflytv.json",
-			"jar": "https://download.kstore.space/download/3450/xl1218.jar;md5;2af04bf70706ec613778c46dcafb8abe"
-		},
-		{
-			"key": "imax",
-			"name": "imax(规则)",
-			"type": 3,
-			"api": "csp_XYQHiker",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 1,
-			"ext": "https://agit.ai/xiaohewanwan/samllmi/raw/branch/master/XYQ/imaxw.json",
-			"jar": "https://download.kstore.space/download/3450/xl1218.jar;md5;2af04bf70706ec613778c46dcafb8abe"
-		},
-		{
-			"key": "aifei",
-			"name": "️艾菲(规则)",
-			"type": 3,
-			"api": "csp_XYQHiker",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 0,
-			"ext": "https://agit.ai/xiaohewanwan/samllmi/raw/branch/master/XYQH/aifei.json",
-			"jar": "https://download.kstore.space/download/3450/xl1218.jar;md5;2af04bf70706ec613778c46dcafb8abe"
-		},
-		{
-			"key": "霹雳",
-			"name": "️霹雳(规则)",
-			"type": 3,
-			"api": "csp_XYQHiker",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 0,
-			"ext": "https://agit.ai/xiaohewanwan/samllmi/raw/branch/master/XYQH/%e9%9c%b9%e9%9b%b3%e5%bd%b1%e8%a7%86.json",
-			"jar": "https://download.kstore.space/download/3450/xl1218.jar;md5;2af04bf70706ec613778c46dcafb8abe"
-		},
-		{
-			"key": "影视之光",
-			"name": "️光影(规则)",
-			"type": 3,
-			"api": "csp_XYQHiker",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 0,
-			"ext": "https://agit.ai/xiaohewanwan/samllmi/raw/branch/master/XYQH/yszg.json",
 			"jar": "https://download.kstore.space/download/3450/xl1218.jar;md5;2af04bf70706ec613778c46dcafb8abe"
 		},
 		{
@@ -1016,17 +998,6 @@
 			"jar": "https://download.kstore.space/download/3450/xl1218.jar;md5;2af04bf70706ec613778c46dcafb8abe"
 		},
 		{
-			"key": "kankan",
-			"name": "️看看(规则)",
-			"type": 3,
-			"api": "csp_XYQHiker",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 0,
-			"ext": "https://agit.ai/xiaohewanwan/samllmi/raw/branch/master/XYQH/cehsi.json",
-			"jar": "https://download.kstore.space/download/3450/xl1218.jar;md5;2af04bf70706ec613778c46dcafb8abe"
-		},
-		{
 			"key": "思古",
 			"name": "️思古(规则)",
 			"type": 3,
@@ -1039,13 +1010,24 @@
 		},
 		{
 			"key": "naifei8",
-			"name": "️奶飞(奈飞)",
+			"name": "️奶飞(奈非)",
 			"type": 3,
 			"api": "csp_XYQHiker",
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 0,
 			"ext": "https://agit.ai/xiaohewanwan/samllmi/raw/branch/master/XYQ/naifei8.json",
+			"jar": "https://download.kstore.space/download/3450/xl1218.jar;md5;2af04bf70706ec613778c46dcafb8abe"
+		},
+		{
+			"key": "90影视",
+			"name": "️90ys(规则)",
+			"type": 3,
+			"api": "csp_XYQHiker",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 0,
+			"ext": "https://agit.ai/xiaohewanwan/samllmi/raw/branch/master/XYQH/90rc.json",
 			"jar": "https://download.kstore.space/download/3450/xl1218.jar;md5;2af04bf70706ec613778c46dcafb8abe"
 		},
 		{
@@ -1083,50 +1065,6 @@
 			"jar": "https://download.kstore.space/download/3450/xl1218.jar;md5;2af04bf70706ec613778c46dcafb8abe"
 		},
 		{
-			"key": "纽约影院",
-			"name": "纽约(规则)",
-			"type": 3,
-			"api": "csp_XYQHiker",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 0,
-			"ext": "https://agit.ai/xiaohewanwan/samllmi/raw/branch/master/XYQ/%e7%ba%bd%e7%ba%a6%e5%bd%b1%e9%99%a2.json",
-			"jar": "https://download.kstore.space/download/3450/xl1218.jar;md5;2af04bf70706ec613778c46dcafb8abe"
-		},
-		{
-			"key": "特播",
-			"name": "️特播(规则)",
-			"type": 3,
-			"api": "csp_XYQHiker",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 0,
-			"ext": "https://agit.ai/xiaohewanwan/samllmi/raw/branch/master/XYQ/%e7%89%b9%e6%92%ad%e5%bd%b1%e8%a7%86.json",
-			"jar": "https://download.kstore.space/download/3450/xl1218.jar;md5;2af04bf70706ec613778c46dcafb8abe"
-		},
-		{
-			"key": "90影视",
-			"name": "️90rc(规则)",
-			"type": 3,
-			"api": "csp_XYQHiker",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 0,
-			"ext": "https://agit.ai/xiaohewanwan/samllmi/raw/branch/master/XYQH/90rc.json",
-			"jar": "https://download.kstore.space/download/3450/xl1218.jar;md5;2af04bf70706ec613778c46dcafb8abe"
-		},
-		{
-			"key": "40",
-			"name": "星辰(规则)",
-			"type": 3,
-			"api": "csp_XYQHiker",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 1,
-			"ext": "https://agit.ai/xiaohewanwan/samllmi/raw/branch/master/XYQH/40ys.json",
-			"jar": "https://download.kstore.space/download/3450/xl1218.jar;md5;2af04bf70706ec613778c46dcafb8abe"
-		},
-		{
 			"key": "真不卡",
 			"name": "️不卡(规则)",
 			"type": 3,
@@ -1135,6 +1073,39 @@
 			"quickSearch": 1,
 			"filterable": 0,
 			"ext": "https://ghproxy.com/https://raw.githubusercontent.com/smallmi18/TVB/main/H/zhenbuka.json",
+			"jar": "https://download.kstore.space/download/3450/xl1218.jar;md5;2af04bf70706ec613778c46dcafb8abe"
+		},
+		{
+			"key": "imax",
+			"name": "imax(规则)",
+			"type": 3,
+			"api": "csp_XYQHiker",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+			"ext": "https://agit.ai/xiaohewanwan/samllmi/raw/branch/master/XYQ/imaxw.json",
+			"jar": "https://download.kstore.space/download/3450/xl1218.jar;md5;2af04bf70706ec613778c46dcafb8abe"
+		},
+		{
+			"key": "aifei",
+			"name": "️艾菲(规则)",
+			"type": 3,
+			"api": "csp_XYQHiker",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 0,
+			"ext": "https://agit.ai/xiaohewanwan/samllmi/raw/branch/master/XYQH/aifei.json",
+			"jar": "https://download.kstore.space/download/3450/xl1218.jar;md5;2af04bf70706ec613778c46dcafb8abe"
+		},
+		{
+			"key": "霹雳",
+			"name": "️霹雳(规则)",
+			"type": 3,
+			"api": "csp_XYQHiker",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 0,
+			"ext": "https://agit.ai/xiaohewanwan/samllmi/raw/branch/master/XYQH/%e9%9c%b9%e9%9b%b3%e5%bd%b1%e8%a7%86.json",
 			"jar": "https://download.kstore.space/download/3450/xl1218.jar;md5;2af04bf70706ec613778c46dcafb8abe"
 		},
 		{
@@ -1149,15 +1120,34 @@
 			"jar": "https://download.kstore.space/download/3450/xl1218.jar;md5;2af04bf70706ec613778c46dcafb8abe"
 		},
 		{
-			"key": "大猪蹄子",
-			"name": "️猪蹄(规则)",
-			"type": 3,
-			"api": "csp_XYQHiker",
+			"key": "优质资源",
+			"name": "优质(切片)",
+			"type": 1,
+			"api": "https://api.1080zyku.com/inc/apijson.php/provide/vod/",
 			"searchable": 1,
 			"quickSearch": 1,
-			"filterable": 0,
-			"ext": "https://agit.ai/xiaohewanwan/samllmi/raw/branch/master/XYQ/%E5%A4%A7%E7%8C%AA%E8%B9%84%E5%AD%90.json",
-			"jar": "https://download.kstore.space/download/3450/xl1218.jar;md5;2af04bf70706ec613778c46dcafb8abe"
+			"categories": [
+				"国产剧",
+				"韩国剧",
+				"香港剧",
+				"台湾剧",
+				"欧美剧",
+				"动作片",
+				"科幻片",
+				"战争片",
+				"奇幻片",
+				"喜剧片",
+				"爱情片",
+				"恐怖片",
+				"犯罪片",
+				"悬疑片",
+				"惊悚片",
+				"剧情片",
+				"冒险片",
+				"记录片",
+				"综艺",
+				"动漫"
+			]
 		},
 		{
 			"key": "push_agent",
