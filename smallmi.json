@@ -318,17 +318,6 @@
 			"filterable": 1
 		},
 		{
-			"key": "r饭团",
-			"name": "🐇饭团(规则)",
-			"type": 3,
-			"api": "csp_xBPQ",
-			"filterable": 1,
-			"quickSearch": 1,
-			"searchable": 1,
-			"playerType": "2",
-			"ext": "https://agit.ai/xiaohewanwan/samllmi/raw/branch/master/xinxie/fantuan.json"
-		},
-		{
 			"key": "renren1",
 			"name": "🐇人人(规则)",
 			"type": 3,
