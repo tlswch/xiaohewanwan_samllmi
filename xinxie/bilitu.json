@@ -21,8 +21,8 @@
   "播放数组": "<ul class=\"stui-content__playlist&&</ul>",
   
   "免嗅": "1",
-  "分类": "动漫$4#综艺$3#剧集$2#电影$1",
-  "分类url": "https://www.bilituys.com/bilishow/{cateId}/area/{area}/by/{by}/class/{class}/page/{catePg}/year/{year}.html",
+  "分类": "电影$1#电视剧$2#综艺$3#动漫$4",
+  "分类url": "https://www.bilituys.com/bilishow/{cateId}-{area}-{by}-{class}-{catePg}-{year}.html",
   "搜索模式": "1",
   "搜索url": "/vodsearch/{wd}-/page/1.html", 
   "搜索数组": "module-card-item-class&&referrerpolicy=\"no-referrer\"",
