@@ -339,13 +339,13 @@
 		},
 		{
 			"key": "Pang",
-			"name": "🐇胖虎(爬虫)",
+			"name": "🐇胖虎(规则)",
 			"type": "3",
 			"api": "csp_xBPQ",
 			"searchable": "1",
 			"quickSearch": "1",
 			"filterable": "1",
-			"ext": "https://agit.ai/xiaohewanwan/samllmi/src/branch/master/xinxie/bilitu.json"
+			"ext": "https://agit.ai/xiaohewanwan/samllmi/raw/branch/master/xinxie/bilitu.json"
 		},
 		{
 			"key": "Czsapp",
