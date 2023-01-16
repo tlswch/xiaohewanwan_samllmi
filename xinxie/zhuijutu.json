@@ -989,7 +989,7 @@
 	"分类片单标题": "a&&title",
 	"分类片单链接": "a&&href",
 	"分类片单图片": ".lazy&&data-original",
-	"分类片单副标题": ".list-remarks&&Text'+观看:+'.pack-subtitle.cor3.hidden&&Text",
+	"分类片单副标题": ".list-remarks&&Text",
 	"分类片单链接加前缀": "https://www.zjtu.cc",
 	"分类片单链接加后缀": "",
 	"搜索请求头参数": "手机",
