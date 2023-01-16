@@ -8,7 +8,7 @@
 "图片":"data-original=\"&&\"",
 "标题":"title=\"&&\"",
 "链接":"href=\"&&\"",
-"副标题":"<div class=\"module-item-note\">&&</div>",
+"副标题":"<div class=\"module-item-note\">&&</div>+'+<div class=\"module-item-douban\">&&</div>",
 "搜索url":"https://www.dmxq.me/{wd}----------{pg}---.html",
 "搜索模式":"1",
 "搜索数组":"<li>&&</li>",
