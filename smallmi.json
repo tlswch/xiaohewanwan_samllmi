@@ -158,8 +158,8 @@
 			"quickSearch": 0,
 			"filterable": 0
 		},
-		{"key":"t4豆瓣","name":"豆瓣备用","type":4,"api":"https://t4.secan.icu/vod?sites=voflix&timeout=7","searchable":1,"quickSearch":1,"filterable":1},
-		{
+		{"key":"t4豆瓣","name":"🤖新豆瓣","type":4,"api":"https://t4.secan.icu/vod?sites=voflix&timeout=7","searchable":1,"quickSearch":1,"filterable":1},
+		/*{
 			"key": "js豆瓣2",
 			"name": "🤖新豆瓣",
 			"type": 3,
@@ -168,7 +168,7 @@
 			"searchable": 0,
 			"quickSearch": 0,
 			"filterable": 0
-		},
+		},*/
 		{
 			"key": "js360",
 			"name": "🐼影视聚(360)",
