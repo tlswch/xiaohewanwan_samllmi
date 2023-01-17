@@ -1,6 +1,6 @@
 {
     "规则名": "咕噜影院",
-    "规则作者": "tx",
+    "规则作者": "sm",
     "请求头参数": "User-Agent$Mozilla/5.0 (iPad; CPU OS 10_3_1 like Mac OS X) AppleWebKit/603.1.30 (KHTML, like Gecko) Version/10.0 Mobile/14E304 Safari/602.1",
     "网页编码格式": "UTF-8",
     "图片是否需要代理": "0",
@@ -11,8 +11,8 @@
     "首页片单是否Jsoup写法": "1",
     "分类起始页码": "1",
     "分类链接": "http://freedream.one/index.php/vod/show/area/{area}/class/{class}/id/{cateId}/lang/{lang}/page/{catePg}/year/{year}.html",    
-    "分类名称": "电影&电视剧&综艺&动漫&B站",
-    "分类名称替换词": "1&2&3&4&5",
+    "分类名称": "电影&电视剧&综艺&动漫",
+    "分类名称替换词": "1&2&3&4",
 //  "筛选数据": {},
     "筛选数据": "ext",
     //{cateId}
