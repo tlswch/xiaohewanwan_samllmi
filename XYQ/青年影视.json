@@ -1,7 +1,7 @@
 {
     "规则名": "青年影院",
     "规则作者": "tx",
-    "请求头参数": "User-Agent$PC_UA#WebView#Referer$https://qny4.top/#Cookie$2f1c87153eb192368e04614e88923c42ser=ok",
+    "请求头参数": "User-Agent$PC_UA#WebView#Referer$https://qny4.top/",
     "网页编码格式": "UTF-8",
     "图片是否需要代理": "0",
     "是否开启获取首页数据": "1",
