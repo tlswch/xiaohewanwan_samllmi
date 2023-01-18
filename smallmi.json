@@ -259,6 +259,9 @@
 			"ext": "6deed4548c44b18d268a5d828f04d86e",
 			"jar": "http://smallmi.xiaohewanwan.love:63/jar/ts.txt;md5;6a9c7cc928036c39dba1ff98400ffa52"
 		},
+		{"key":"AppTT2","name":"📍图图影视","type":3,"api":"csp_AppTT2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://124.248.66.89:7788","jar": "https://agit.ai/xiaohewanwan/samllmi/raw/branch/master/2.jar;md5;7f011846f5dd89c66bd6a01e06df1bfd"},
+
+{"key":"csp_LiteApple","name":"🍎小苹果(ijk)","type":3,"api":"csp_LiteApple","searchable":1,"quickSearch":1,"filterable":1,"playerType":1,"jar": "https://agit.ai/xiaohewanwan/samllmi/raw/branch/master/2.jar;7f011846f5dd89c66bd6a01e06df1bfd"},
 		{
 			"key": "jiguang",
 			"name": "🐧腾讯(官源)",
