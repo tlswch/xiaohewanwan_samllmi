@@ -158,17 +158,15 @@
 			"quickSearch": 0,
 			"filterable": 0
 		},
-		{"key":"t4豆瓣","name":"🤖新豆瓣｜幸福安康","type":4,"api":"https://t4.secan.icu/vod?sites=voflix&timeout=7","searchable":1,"quickSearch":1,"filterable":1},
-		/*{
-			"key": "js豆瓣2",
-			"name": "🤖新豆瓣",
-			"type": 3,
-			"api": "http://xn--m7r412advb92j21st65a.tk/dr/影魔.js",
-			"ext": "http://xn--m7r412advb92j21st65a.tk/dr/js/豆瓣.js",
-			"searchable": 0,
-			"quickSearch": 0,
-			"filterable": 0
-		},*/
+		{
+			"key": "t4豆瓣",
+			"name": "🤖新豆瓣｜幸福安康",
+			"type": 4,
+			"api": "https://t4.secan.icu/vod?sites=voflix&timeout=7",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1
+		},
 		{
 			"key": "js360",
 			"name": "🐼影视聚",
@@ -297,6 +295,17 @@
 			"quickSearch": 1,
 			"filterable": 0,
 			"ext": "https://ghproxy.com/https://raw.githubusercontent.com/smallmi18/TVB/main/H/qiyou.json",
+			"jar": "https://download.kstore.space/download/3450/xl1218.jar;md5;2af04bf70706ec613778c46dcafb8abe"
+		},
+		{
+			"key": "咕噜",
+			"name": "🐹咕噜",
+			"type": 3,
+			"api": "csp_XYQHiker",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+			"ext": "https://download.kstore.space/download/3450/ziyong/gulu.json",
 			"jar": "https://download.kstore.space/download/3450/xl1218.jar;md5;2af04bf70706ec613778c46dcafb8abe"
 		},
 		{
@@ -441,17 +450,6 @@
 			"searchable": 1,
 			"playerType": "1",
 			"ext": "https://agit.ai/xiaohewanwan/samllmi/raw/branch/master/bb/348languang.json"
-		},
-		{
-			"key": "青年影院",
-			"name": "🌸️青年",
-			"type": 3,
-			"api": "csp_XYQHiker",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 0,
-			"ext": "https://agit.ai/xiaohewanwan/samllmi/raw/branch/master/XYQ/%e9%9d%92%e5%b9%b4%e5%bd%b1%e8%a7%86.json",
-			"jar": "https://download.kstore.space/download/3450/xl1218.jar;md5;2af04bf70706ec613778c46dcafb8abe"
 		},
 		{
 			"key": "野马",
@@ -1218,16 +1216,16 @@
 			}
 		},
 		{
-		      "name": "布雷",
-		      "type": 0,
-		      "url": "https://bf.bulei.cc/player/?url=",
-		      "ext": {
-		        "flag": [
-		          "qq",
-		          "腾讯"
-		        ]
-		      }
-		    },
+			"name": "布雷",
+			"type": 0,
+			"url": "https://bf.bulei.cc/player/?url=",
+			"ext": {
+				"flag": [
+					"qq",
+					"腾讯"
+				]
+			}
+		},
 		{
 			"name": "兰花解析",
 			"type": 0,
@@ -1261,15 +1259,15 @@
 			}
 		},
 		{
-            "name": "1920",
-            "type": 1,
-            "url": "https://www.1920lgzy.top/json.php?url=",
-            "ext": {
-                "header": {
-                    "User-Agent": "Mozilla/5.0"
-                }
-            }
-        },
+			"name": "1920",
+			"type": 1,
+			"url": "https://www.1920lgzy.top/json.php?url=",
+			"ext": {
+				"header": {
+					"User-Agent": "Mozilla/5.0"
+				}
+			}
+		},
 		{
 			"name": "7080",
 			"type": 0,
@@ -1331,7 +1329,7 @@
 				}
 			}
 		},
-		
+
 		{
 			"name": "阿飞",
 			"type": 0,
