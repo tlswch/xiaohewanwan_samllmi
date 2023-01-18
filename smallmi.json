@@ -1,5 +1,5 @@
 {
-	"spider": "http://smallmi.xiaohewanwan.love:63/jar/xo.jar;md5;a4a90401116d9f1f6a3358c63167ff1f",
+	 "spider": "https://files.zohopublic.com.cn/public/workdrive-public/download/6lbj268a1eea22863420a86ab468eb9fbc4f5;md5;a5ec5bc531df9a9369b480df52b9d008",
 	"wallpaper": "http://www.kf666888.cn/api/tvbox/img",
 	"lives": [{
 		"group": "redirect",
@@ -384,8 +384,7 @@
 			"searchable": "1",
 			"quickSearch": "1",
 			"filterable": "1",
-			"ext": "http://我不是.肥猫.love:63/token.php",
-			"jar": "http://w.g9.pub:66/2251087869/smallmi/jar/ali.jar;md5;b6cec380ddab899d275cf2fec2ed676a"
+			"ext": "http://我不是.肥猫.love:63/token.php"
 		},
 		{
 			"key": "YiSo",
@@ -395,8 +394,7 @@
 			"searchable": "1",
 			"quickSearch": "1",
 			"filterable": "1",
-			"ext": "http://我不是.肥猫.love:63/token.php",
-			"jar": "http://w.g9.pub:66/2251087869/smallmi/jar/ali.jar;md5;b6cec380ddab899d275cf2fec2ed676a"
+			"ext": "http://我不是.肥猫.love:63/token.php"
 		},
 		{
 			"key": "AliPS",
@@ -406,8 +404,7 @@
 			"searchable": "1",
 			"quickSearch": "1",
 			"filterable": "1",
-			"ext": "http://我不是.肥猫.love:63/token.php",
-			"jar": "http://w.g9.pub:66/2251087869/smallmi/jar/ali.jar;md5;b6cec380ddab899d275cf2fec2ed676a"
+			"ext": "http://我不是.肥猫.love:63/token.php"
 		},
 		{
 			"key": "Upso",
@@ -417,8 +414,7 @@
 			"searchable": "1",
 			"quickSearch": "1",
 			"filterable": "1",
-			"ext": "http://我不是.肥猫.love:63/token.php",
-			"jar": "http://w.g9.pub:66/2251087869/smallmi/jar/ali.jar;md5;b6cec380ddab899d275cf2fec2ed676a"
+			"ext": "http://我不是.肥猫.love:63/token.php"
 		},
 		{
 			"key": "Gitcafe",
