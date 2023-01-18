@@ -400,7 +400,7 @@
 			"key": "AliPS",
 			"name": "💮盘搜",
 			"type": "3",
-			"api": "csp_PanSo",
+			"api": "csp_PanSou",
 			"searchable": "1",
 			"quickSearch": "1",
 			"filterable": "1",
