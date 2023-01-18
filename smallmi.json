@@ -150,7 +150,7 @@
 
 		{
 			"key": "js豆瓣1",
-			"name": "🤖老豆瓣",
+			"name": "🤖老豆瓣|新年快乐",
 			"type": 3,
 			"api": "https://agit.ai/767820774/TVBOXZY/raw/branch/main/JS/lib/drpy.min.js",
 			"ext": "http://w.g9.pub:66/2251087869/smallmi/js/drpy.js",
@@ -158,7 +158,7 @@
 			"quickSearch": 0,
 			"filterable": 0
 		},
-		{"key":"t4豆瓣","name":"🤖新豆瓣","type":4,"api":"https://t4.secan.icu/vod?sites=voflix&timeout=7","searchable":1,"quickSearch":1,"filterable":1},
+		{"key":"t4豆瓣","name":"🤖新豆瓣｜幸福安康","type":4,"api":"https://t4.secan.icu/vod?sites=voflix&timeout=7","searchable":1,"quickSearch":1,"filterable":1},
 		/*{
 			"key": "js豆瓣2",
 			"name": "🤖新豆瓣",
@@ -171,7 +171,7 @@
 		},*/
 		{
 			"key": "js360",
-			"name": "🐼影视聚(360)",
+			"name": "🐼影视聚",
 			"type": 3,
 			"api": "https://agit.ai/767820774/TVBOXZY/raw/branch/main/JS/lib/drpy.min.js",
 			"ext": "http://w.g9.pub:66/2251087869/smallmi/js/360%E5%BD%B1%E8%A7%86.js",
@@ -181,7 +181,7 @@
 		},
 		{
 			"key": "一起看",
-			"name": "🐼一起看(APP)",
+			"name": "🐼一起看",
 			"type": "3",
 			"api": "csp_Dora",
 			"searchable": "1",
@@ -192,7 +192,7 @@
 		},
 		{
 			"key": "csp_Alist2",
-			"name": "🐼小丫盘(网盘)",
+			"name": "🐼小丫",
 			"type": 3,
 			"api": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/libs/alist.min.js",
 			"searchable": 1,
@@ -202,7 +202,7 @@
 		},
 		{
 			"key": "AList",
-			"name": "🐼网盘聚(网盘)",
+			"name": "🐼网盘",
 			"type": "3",
 			"api": "csp_AList",
 			"searchable": "1",
@@ -210,7 +210,7 @@
 		},
 		{
 			"key": "Kunyu",
-			"name": "👹七七(手机)",
+			"name": "🦢七七",
 			"type": 3,
 			"api": "csp_Kunyu77",
 			"searchable": 1,
@@ -219,7 +219,7 @@
 		},
 		{
 			"key": "饭团",
-			"name": "👹饭团(规则)",
+			"name": "🐧饭团",
 			"type": 3,
 			"api": "csp_xBPQ",
 			"filterable": 1,
@@ -230,7 +230,7 @@
 		},
 		{
 			"key": "mangguo",
-			"name": "🥭芒果(官源)",
+			"name": "🥭芒果",
 			"type": 3,
 			"api": "csp_Mgtv",
 			"searchable": 1,
@@ -239,7 +239,7 @@
 		},
 		{
 			"key": "AppTT",
-			"name": "🐼图图(APP)",
+			"name": "🐻图图",
 			"type": "3",
 			"api": "csp_Dora",
 			"searchable": "1",
@@ -250,7 +250,7 @@
 		},
 		{
 			"key": "LiteApple",
-			"name": "🍎苹果(APP)",
+			"name": "🍎苹果",
 			"type": "3",
 			"api": "csp_Dora",
 			"searchable": "1",
@@ -261,7 +261,7 @@
 		},
 		{
 			"key": "jiguang",
-			"name": "🐧腾讯(官源)",
+			"name": "🐧腾讯",
 			"type": 3,
 			"api": "csp_QQ",
 			"searchable": 1,
@@ -270,7 +270,7 @@
 		},
 		{
 			"key": "兔兔",
-			"name": "🐇追兔(规则)",
+			"name": "🐇追兔",
 			"type": 3,
 			"api": "csp_XYQHiker",
 			"searchable": 1,
@@ -281,7 +281,7 @@
 		},
 		{
 			"key": "csp_Xinsj",
-			"name": "🐇视觉(爬虫)",
+			"name": "👀视觉",
 			"type": 3,
 			"api": "csp_Xinsj",
 			"searchable": 1,
@@ -290,7 +290,7 @@
 		},
 		{
 			"key": "qiyou",
-			"name": "️🐇奇优(规则)",
+			"name": "️🍓奇优",
 			"type": 3,
 			"api": "csp_XYQHiker",
 			"searchable": 1,
@@ -300,17 +300,8 @@
 			"jar": "https://download.kstore.space/download/3450/xl1218.jar;md5;2af04bf70706ec613778c46dcafb8abe"
 		},
 		{
-			"key": "csp_剧荒",
-			"name": "🐇剧荒(爬虫)",
-			"type": 3,
-			"api": "csp_Juhuang",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 1
-		},
-		{
 			"key": "BULEI1",
-			"name": "🐇布蕾(爬虫)",
+			"name": "🍥布蕾",
 			"type": 3,
 			"api": "csp_BuLei",
 			"searchable": 1,
@@ -319,7 +310,7 @@
 		},
 		{
 			"key": "renren1",
-			"name": "🐇人人(规则)",
+			"name": "🐣人人",
 			"type": 3,
 			"api": "csp_xBPQ",
 			"filterable": 1,
@@ -330,7 +321,7 @@
 		},
 		{
 			"key": "Kuaikan",
-			"name": "🐇快看(爬虫)",
+			"name": "🦚快看",
 			"type": 3,
 			"api": "csp_Kuaikan",
 			"searchable": 1,
@@ -339,7 +330,7 @@
 		},
 		{
 			"key": "Pang",
-			"name": "🐇胖虎(爬虫)",
+			"name": "🐯胖虎",
 			"type": 3,
 			"api": "csp_Panghu",
 			"searchable": 1,
@@ -348,7 +339,7 @@
 		},
 		{
 			"key": "Czsapp",
-			"name": "💐厂长(爬虫)",
+			"name": "💐厂长",
 			"type": "3",
 			"api": "csp_Czsapp",
 			"searchable": "1",
@@ -357,7 +348,7 @@
 		},
 		{
 			"key": "csp_Nmys",
-			"name": "💐农民(爬虫)",
+			"name": "💐农民",
 			"type": 3,
 			"api": "csp_Nmys",
 			"searchable": 1,
@@ -367,7 +358,7 @@
 		},
 		{
 			"key": "4K",
-			"name": "💐4K网(规则)",
+			"name": "💐4K网",
 			"type": 3,
 			"api": "csp_xBPQ",
 			"filterable": 1,
@@ -378,7 +369,7 @@
 		},
 		{
 			"key": "Zhaozy",
-			"name": "💮资源(阿里)",
+			"name": "💮资源",
 			"type": "3",
 			"api": "csp_Zhaozy",
 			"searchable": "1",
@@ -389,7 +380,7 @@
 		},
 		{
 			"key": "YiSo",
-			"name": "💮易搜(阿里)",
+			"name": "💮易搜",
 			"type": "3",
 			"api": "csp_YiSo",
 			"searchable": "1",
@@ -400,7 +391,7 @@
 		},
 		{
 			"key": "AliPS",
-			"name": "💮盘搜(阿里)",
+			"name": "💮盘搜",
 			"type": "3",
 			"api": "csp_PanSou",
 			"searchable": "1",
@@ -411,7 +402,7 @@
 		},
 		{
 			"key": "Upso",
-			"name": "💮云搜(阿里)",
+			"name": "💮云搜",
 			"type": "3",
 			"api": "csp_UpYun",
 			"searchable": "1",
@@ -422,7 +413,7 @@
 		},
 		{
 			"key": "Gitcafe",
-			"name": "💮纸条(阿里)",
+			"name": "💮纸条",
 			"type": "3",
 			"api": "csp_Paper",
 			"searchable": "1",
@@ -432,7 +423,7 @@
 		},
 		{
 			"key": "bilisousuo",
-			"name": "💮哔哩(搜索)",
+			"name": "💮哔哩",
 			"type": 3,
 			"api": "csp_xBPQ",
 			"filterable": 1,
@@ -442,7 +433,7 @@
 		},
 		{
 			"key": "348",
-			"name": "🌸348(规则)",
+			"name": "🌸348",
 			"type": 3,
 			"api": "csp_xBPQ",
 			"filterable": 1,
@@ -453,7 +444,7 @@
 		},
 		{
 			"key": "青年影院",
-			"name": "🌸️青年(规则)",
+			"name": "🌸️青年",
 			"type": 3,
 			"api": "csp_XYQHiker",
 			"searchable": 1,
@@ -464,7 +455,7 @@
 		},
 		{
 			"key": "野马",
-			"name": "️💭野马(规则)",
+			"name": "️💭野马",
 			"type": 3,
 			"api": "csp_XYQHiker",
 			"searchable": 1,
@@ -475,7 +466,7 @@
 		},
 		{
 			"key": "dami",
-			"name": "💭大米(规则)",
+			"name": "💭大米",
 			"type": 3,
 			"api": "csp_xBPQ",
 			"filterable": 1,
@@ -486,7 +477,7 @@
 		},
 		{
 			"key": "蚂蚁",
-			"name": "️💭蚂蚁(规则)",
+			"name": "️🐜蚂蚁",
 			"type": 3,
 			"api": "csp_XYQHiker",
 			"searchable": 1,
@@ -497,7 +488,7 @@
 		},
 		{
 			"key": "南柯",
-			"name": "南柯(爬虫)",
+			"name": "🐻南柯",
 			"type": 3,
 			"api": "csp_Nkdy",
 			"searchable": 1,
@@ -506,7 +497,7 @@
 		},
 		{
 			"key": "Auete",
-			"name": "奥特(爬虫)",
+			"name": "🍊奥特",
 			"type": "3",
 			"api": "csp_Auete",
 			"searchable": "1",
@@ -515,7 +506,7 @@
 		},
 		{
 			"key": "Lib",
-			"name": "利奥(爬虫)",
+			"name": "🍍利奥",
 			"type": "3",
 			"api": "csp_Lib",
 			"searchable": "1",
@@ -524,7 +515,7 @@
 		},
 		{
 			"key": "csp_Cokemv",
-			"name": "可乐(爬虫)",
+			"name": "🥤可乐",
 			"type": 3,
 			"api": "csp_Cokemv",
 			"searchable": 1,
@@ -534,7 +525,7 @@
 		},
 		{
 			"key": "Ddys",
-			"name": "低端(爬虫)",
+			"name": "🇺🇸低端",
 			"type": 3,
 			"api": "csp_Ddrk",
 			"searchable": 1,
@@ -543,7 +534,7 @@
 		},
 		{
 			"key": "Zxzj",
-			"name": "在线(爬虫)",
+			"name": "🥣在线",
 			"type": "3",
 			"api": "csp_Zxzj",
 			"searchable": "1",
@@ -552,7 +543,7 @@
 		},
 		{
 			"key": "Bili1",
-			"name": "哔哩(爬虫)",
+			"name": "👀哔哩",
 			"type": "3",
 			"api": "csp_Bili",
 			"searchable": "1",
@@ -562,7 +553,7 @@
 		},
 		{
 			"key": "双十",
-			"name": "双十(爬虫)",
+			"name": "🔟双十",
 			"type": 3,
 			"api": "csp_Dy1010",
 			"searchable": 1,
@@ -571,7 +562,7 @@
 		},
 		{
 			"key": "BT",
-			"name": "2BT(爬虫)",
+			"name": "🐿️2BT",
 			"type": 3,
 			"api": "csp_Bttoo",
 			"searchable": 1,
@@ -580,7 +571,7 @@
 		},
 		{
 			"key": "bdys",
-			"name": "哔滴(爬虫)",
+			"name": "👀哔滴",
 			"type": 3,
 			"api": "csp_Bdys01",
 			"searchable": 1,
@@ -590,7 +581,7 @@
 		},
 		{
 			"key": "csp_Vofilx",
-			"name": "Vofl(爬虫)",
+			"name": "👍Vofl",
 			"type": 3,
 			"api": "csp_Voflix",
 			"searchable": 1,
@@ -599,7 +590,7 @@
 		},
 		{
 			"key": "csp_Yj1211",
-			"name": "网游(直播)",
+			"name": "🎮网游",
 			"type": 3,
 			"api": "csp_Yj1211",
 			"searchable": 1,
@@ -608,7 +599,7 @@
 		},
 		{
 			"key": "csp_Anime1",
-			"name": "日本(动漫)",
+			"name": "🐶动漫",
 			"type": 3,
 			"api": "csp_Anime1",
 			"searchable": 1,
@@ -617,7 +608,7 @@
 		},
 		{
 			"key": "Dy5551",
-			"name": "555(爬虫)",
+			"name": "5⃣️555",
 			"type": "3",
 			"api": "csp_Dora",
 			"searchable": "1",
@@ -628,7 +619,7 @@
 		},
 		{
 			"key": "IKan",
-			"name": "爱看(爬虫)",
+			"name": "❤️爱看",
 			"type": "3",
 			"api": "csp_Dora",
 			"searchable": "1",
@@ -638,19 +629,8 @@
 			"jar": "http://smallmi.xiaohewanwan.love:63/jar/ts.txt;md5;6a9c7cc928036c39dba1ff98400ffa52"
 		},
 		{
-			"key": "Yanet1",
-			"name": "鸭鸭(奈非)",
-			"type": "3",
-			"api": "csp_Dora",
-			"searchable": "1",
-			"quickSearch": "1",
-			"filterable": "1",
-			"ext": "a369b1f623fe86605f1b029f0cf66349",
-			"jar": "http://smallmi.xiaohewanwan.love:63/jar/ts.txt;md5;6a9c7cc928036c39dba1ff98400ffa52"
-		},
-		{
 			"key": "Hei1",
-			"name": "石榴(爬虫)",
+			"name": "🍅石榴",
 			"type": "3",
 			"api": "csp_Dora",
 			"searchable": "1",
@@ -661,7 +641,7 @@
 		},
 		{
 			"key": "Dm84",
-			"name": "巴士(动漫)",
+			"name": "🚌巴士",
 			"type": "3",
 			"api": "csp_Dm84",
 			"searchable": "1",
@@ -670,7 +650,7 @@
 		},
 		{
 			"key": "17kan",
-			"name": "直播(体育)",
+			"name": "📺直播",
 			"type": 3,
 			"api": "csp_XYQBiu",
 			"searchable": 1,
@@ -681,7 +661,7 @@
 		},
 		{
 			"key": "qiaokeli",
-			"name": "点播(体育)",
+			"name": "🏟️点播",
 			"type": 3,
 			"api": "csp_XYQHiker",
 			"searchable": 1,
@@ -692,7 +672,7 @@
 		},
 		{
 			"key": "fanqie",
-			"name": "️番茄(动漫)",
+			"name": "️🍅番茄",
 			"type": 3,
 			"api": "csp_XYQHiker",
 			"searchable": 1,
@@ -703,7 +683,7 @@
 		},
 		{
 			"key": "NT动漫",
-			"name": "N T(动漫)",
+			"name": "😊N T",
 			"type": 3,
 			"api": "csp_xBPQ",
 			"filterable": 1,
@@ -713,7 +693,7 @@
 		},
 		{
 			"key": "zzz动漫",
-			"name": "zzzz(动漫)",
+			"name": "🦚zzz",
 			"type": 3,
 			"api": "csp_xBPQ",
 			"filterable": 1,
@@ -723,7 +703,7 @@
 		},
 		{
 			"key": "maidou",
-			"name": "麦豆(规则)",
+			"name": "🫘麦豆",
 			"type": 3,
 			"api": "csp_xBPQ",
 			"filterable": 1,
@@ -733,7 +713,7 @@
 		},
 		{
 			"key": "蓝光",
-			"name": "蓝光(规则)",
+			"name": "🎬蓝光",
 			"type": 3,
 			"api": "csp_xBPQ",
 			"filterable": 1,
@@ -743,7 +723,7 @@
 		},
 		{
 			"key": "兄弟",
-			"name": "兄弟(规则)",
+			"name": "👬兄弟",
 			"type": 3,
 			"api": "csp_xBPQ",
 			"filterable": 1,
@@ -753,7 +733,7 @@
 		},
 		{
 			"key": "比图上",
-			"name": "哔兔(规则)",
+			"name": "🐰哔兔",
 			"type": "3",
 			"api": "csp_xBPQ",
 			"searchable": "1",
@@ -763,7 +743,7 @@
 		},
 		{
 			"key": "zmozhatu",
-			"name": "莫兔(规则)",
+			"name": "🐰莫兔",
 			"type": 3,
 			"api": "csp_xBPQ",
 			"filterable": 1,
@@ -773,7 +753,7 @@
 		},
 		{
 			"key": "91free",
-			"name": "free(规则)",
+			"name": "🧧free",
 			"type": 3,
 			"api": "csp_xBPQ",
 			"filterable": 1,
@@ -783,21 +763,21 @@
 		},
 		{
 			"key": "云锦",
-			"name": "云镜(规则)",
+			"name": "🐻云镜",
 			"type": 3,
 			"api": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/libs/drpy2.min.js",
 			"ext": "https://agit.ai/xiaohewanwan/samllmi/raw/branch/master/js/yunjing.js"
 		},
 		{
 			"key": "wuyw",
-			"name": "午夜(规则)",
+			"name": "🐻午夜",
 			"type": 3,
 			"api": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/libs/drpy2.min.js",
 			"ext": "https://agit.ai/xiaohewanwan/samllmi/raw/branch/master/js/wuye.js"
 		},
 		{
 			"key": "外剧",
-			"name": "外剧(规则)",
+			"name": "🐻外剧",
 			"type": 3,
 			"api": "csp_XYQHiker",
 			"searchable": 1,
@@ -808,7 +788,7 @@
 		},
 		{
 			"key": "188kan",
-			"name": "️188(规则)",
+			"name": "🐻️188",
 			"type": 3,
 			"api": "csp_XYQHiker",
 			"searchable": 1,
@@ -819,7 +799,7 @@
 		},
 		{
 			"key": "诺讯",
-			"name": "️诺讯(规则)",
+			"name": "️🐻诺讯",
 			"type": 3,
 			"api": "csp_XYQHiker",
 			"searchable": 1,
@@ -830,7 +810,7 @@
 		},
 		{
 			"key": "xingge",
-			"name": "️星哥(规则)",
+			"name": "🐻️星哥",
 			"type": 3,
 			"api": "csp_XYQHiker",
 			"searchable": 1,
@@ -841,7 +821,7 @@
 		},
 		{
 			"key": "kannaifei",
-			"name": "️看看(奈非)",
+			"name": "️🐻看看",
 			"type": 3,
 			"api": "csp_XYQHiker",
 			"searchable": 1,
@@ -852,7 +832,7 @@
 		},
 		{
 			"key": "饺子",
-			"name": "️饺子(规则)",
+			"name": "️🐻饺子",
 			"type": 3,
 			"api": "csp_XYQHiker",
 			"searchable": 1,
@@ -863,7 +843,7 @@
 		},
 		{
 			"key": "naifeigou",
-			"name": "️奈狗(奈非)",
+			"name": "️🐻奈狗",
 			"type": 3,
 			"api": "csp_XYQHiker",
 			"searchable": 1,
@@ -874,7 +854,7 @@
 		},
 		{
 			"key": "xiaogou",
-			"name": "️小狗(规则)",
+			"name": "️🐻小狗",
 			"type": 3,
 			"api": "csp_XYQHiker",
 			"searchable": 1,
@@ -885,7 +865,7 @@
 		},
 		{
 			"key": "kankan",
-			"name": "️看看(规则)",
+			"name": "️🐻看看",
 			"type": 3,
 			"api": "csp_XYQHiker",
 			"searchable": 1,
@@ -896,7 +876,7 @@
 		},
 		{
 			"key": "达达龟",
-			"name": "达龟(规则)",
+			"name": "🐻达龟",
 			"type": 3,
 			"api": "csp_XYQHiker",
 			"searchable": 1,
@@ -907,7 +887,7 @@
 		},
 		{
 			"key": "素白白",
-			"name": "️素白(规则)",
+			"name": "️🐻素白",
 			"type": 3,
 			"api": "csp_XYQHiker",
 			"searchable": 1,
@@ -918,7 +898,7 @@
 		},
 		{
 			"key": "零度",
-			"name": "️零度(规则)",
+			"name": "️🐻零度",
 			"type": 3,
 			"api": "csp_XYQHiker",
 			"searchable": 1,
@@ -929,7 +909,7 @@
 		},
 		{
 			"key": "007",
-			"name": "️零七(规则)",
+			"name": "️🐻零七",
 			"type": 3,
 			"api": "csp_XYQHiker",
 			"searchable": 1,
@@ -940,7 +920,7 @@
 		},
 		{
 			"key": "荷塘影视",
-			"name": "️荷塘(规则)",
+			"name": "🐻️荷塘",
 			"type": 3,
 			"api": "csp_XYQHiker",
 			"searchable": 1,
@@ -951,7 +931,7 @@
 		},
 		{
 			"key": "um",
-			"name": "️U M(规则)",
+			"name": "🐻️U M",
 			"type": 3,
 			"api": "csp_XYQHiker",
 			"searchable": 1,
@@ -962,7 +942,7 @@
 		},
 		{
 			"key": "看哔哩",
-			"name": "看看(哔哩)",
+			"name": "🐻哔看",
 			"type": 3,
 			"api": "csp_XYQHiker",
 			"searchable": 1,
@@ -973,7 +953,7 @@
 		},
 		{
 			"key": "baipiao",
-			"name": "️白嫖(规则)",
+			"name": "️🐻白嫖",
 			"type": 3,
 			"api": "csp_XYQHiker",
 			"searchable": 1,
@@ -984,7 +964,7 @@
 		},
 		{
 			"key": "naifeitv",
-			"name": "️奈飞(奈非)",
+			"name": "️🐻奈飞",
 			"type": 3,
 			"api": "csp_XYQHiker",
 			"searchable": 1,
@@ -995,7 +975,7 @@
 		},
 		{
 			"key": "伊人",
-			"name": "️伊人(规则)",
+			"name": "🐻️伊人",
 			"type": 3,
 			"api": "csp_XYQHiker",
 			"searchable": 1,
@@ -1006,7 +986,7 @@
 		},
 		{
 			"key": "伊雪湾",
-			"name": "️伊雪(规则)",
+			"name": "️🐻伊雪",
 			"type": 3,
 			"api": "csp_XYQHiker",
 			"searchable": 1,
@@ -1017,7 +997,7 @@
 		},
 		{
 			"key": "思古",
-			"name": "️思古(规则)",
+			"name": "️🐻思古",
 			"type": 3,
 			"api": "csp_XYQHiker",
 			"searchable": 1,
@@ -1028,7 +1008,7 @@
 		},
 		{
 			"key": "naifei8",
-			"name": "️奶飞(奈非)",
+			"name": "🐻️奶飞",
 			"type": 3,
 			"api": "csp_XYQHiker",
 			"searchable": 1,
@@ -1039,7 +1019,7 @@
 		},
 		{
 			"key": "90影视",
-			"name": "️90ys(规则)",
+			"name": "🐻90ys",
 			"type": 3,
 			"api": "csp_XYQHiker",
 			"searchable": 1,
@@ -1050,7 +1030,7 @@
 		},
 		{
 			"key": "往往影视",
-			"name": "️往往(规则)",
+			"name": "🐻️往往",
 			"type": 3,
 			"api": "csp_XYQHiker",
 			"searchable": 1,
@@ -1062,7 +1042,7 @@
 		},
 		{
 			"key": "映迷影视",
-			"name": "️映迷(规则)",
+			"name": "🐻️映迷",
 			"type": 3,
 			"api": "csp_XYQHiker",
 			"searchable": 1,
@@ -1073,7 +1053,7 @@
 		},
 		{
 			"key": "zizi",
-			"name": "️子子(规则)",
+			"name": "️🐻子子",
 			"type": 3,
 			"api": "csp_XYQHiker",
 			"searchable": 1,
@@ -1084,7 +1064,7 @@
 		},
 		{
 			"key": "真不卡",
-			"name": "️不卡(规则)",
+			"name": "🐻️不卡",
 			"type": 3,
 			"api": "csp_XYQHiker",
 			"searchable": 1,
@@ -1095,7 +1075,7 @@
 		},
 		{
 			"key": "imax",
-			"name": "imax(规则)",
+			"name": "🐻imax",
 			"type": 3,
 			"api": "csp_XYQHiker",
 			"searchable": 1,
@@ -1106,7 +1086,7 @@
 		},
 		{
 			"key": "aifei",
-			"name": "️艾菲(规则)",
+			"name": "️🐻艾菲",
 			"type": 3,
 			"api": "csp_XYQHiker",
 			"searchable": 1,
@@ -1117,7 +1097,7 @@
 		},
 		{
 			"key": "霹雳",
-			"name": "️霹雳(规则)",
+			"name": "️🐻霹雳",
 			"type": 3,
 			"api": "csp_XYQHiker",
 			"searchable": 1,
@@ -1128,7 +1108,7 @@
 		},
 		{
 			"key": "看一看",
-			"name": "️看看(影视)",
+			"name": "🐻️一看",
 			"type": 3,
 			"api": "csp_XYQHiker",
 			"searchable": 1,
@@ -1139,7 +1119,7 @@
 		},
 		{
 			"key": "优质资源",
-			"name": "优质(切片)",
+			"name": "🐻优质",
 			"type": 1,
 			"api": "https://api.1080zyku.com/inc/apijson.php/provide/vod/",
 			"searchable": 1,
@@ -1169,7 +1149,7 @@
 		},
 		{
 			"key": "push_agent",
-			"name": "推送(链接)",
+			"name": "推送",
 			"type": 3,
 			"api": "csp_Push",
 			"searchable": 1,
@@ -1237,6 +1217,17 @@
 				}
 			}
 		},
+		{
+		      "name": "布雷",
+		      "type": 0,
+		      "url": "https://bf.bulei.cc/player/?url=",
+		      "ext": {
+		        "flag": [
+		          "qq",
+		          "腾讯"
+		        ]
+		      }
+		    },
 		{
 			"name": "兰花解析",
 			"type": 0,
