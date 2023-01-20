@@ -1,5 +1,5 @@
 {
-	 "spider": "https://files.zohopublic.com.cn/public/workdrive-public/download/6lbj268a1eea22863420a86ab468eb9fbc4f5;md5;a5ec5bc531df9a9369b480df52b9d008",
+	"spider": "http://smallmi.xiaohewanwan.love:63/jar/xo.txt;md5;f50b0f8578e158431ee1747c7a77f4b6",
 	"wallpaper": "http://www.kf666888.cn/api/tvbox/img",
 	"lives": [{
 		"group": "redirect",
@@ -20,6 +20,15 @@
 			"host": "dyxs20.com",
 			"rule": [
 				".m3u8"
+			]
+		},
+		{
+			"host": "piaku.cc",
+			"rule": [
+				".mp4",
+				".m3u8",
+				"?auth_token",
+				"m3u8"
 			]
 		},
 		{
@@ -146,25 +155,24 @@
 		"bilibili",
 		"csm3u8"
 	],
-	"sites": [
-
-		{
+	"sites": [{
 			"key": "js豆瓣1",
-			"name": "🤖老豆瓣｜新年快乐",
+			"name": "🤖新豆瓣",
 			"type": 3,
 			"api": "https://agit.ai/767820774/TVBOXZY/raw/branch/main/JS/lib/drpy.min.js",
 			"ext": "http://w.g9.pub:66/2251087869/smallmi/js/drpy.js",
 			"searchable": 0,
 			"quickSearch": 0,
-			"filterable": 0
+			"filterable": 1
 		},
 		{
-			"key": "t4豆瓣",
-			"name": "🤖新豆瓣｜幸福安康",
-			"type": 4,
-			"api": "https://t4.secan.icu/vod?sites=voflix&timeout=7",
-			"searchable": 1,
-			"quickSearch": 1,
+			"key": "js豆瓣2",
+			"name": "🤖旧豆瓣",
+			"type": 3,
+			"api": "http://xn--m7r412advb92j21st65a.tk/dr/影魔.js",
+			"ext": "http://xn--m7r412advb92j21st65a.tk/dr/js/豆瓣.js",
+			"searchable": 0,
+			"quickSearch": 0,
 			"filterable": 1
 		},
 		{
@@ -186,21 +194,22 @@
 			"quickSearch": "1",
 			"filterable": "1",
 			"ext": "8e3aefcba838d8dc5102ac786719d837",
-			"jar": "http://smallmi.xiaohewanwan.love:63/jar/ts.txt;md5;6a9c7cc928036c39dba1ff98400ffa52"
+			"jar": "http://smallmi.xiaohewanwan.love:63/jar/ts.jar;md5;4ab8ad5008d89d9101204dd5e54c4d47"
 		},
+
 		{
 			"key": "csp_Alist2",
-			"name": "🐼小丫",
+			"name": "🐰小丫盘",
 			"type": 3,
 			"api": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/libs/alist.min.js",
 			"searchable": 1,
 			"quickSearch": 1,
-			"filterable": 0,
+			"filterable": 1,
 			"ext": "http://101.34.67.237/txt/json/alist.json"
 		},
 		{
 			"key": "AList",
-			"name": "🐼网盘",
+			"name": "🐰网盘聚",
 			"type": "3",
 			"api": "csp_AList",
 			"searchable": "1",
@@ -208,7 +217,7 @@
 		},
 		{
 			"key": "Kunyu",
-			"name": "🦢七七",
+			"name": "🐻‍❄️七七",
 			"type": 3,
 			"api": "csp_Kunyu77",
 			"searchable": 1,
@@ -217,7 +226,7 @@
 		},
 		{
 			"key": "饭团",
-			"name": "🐧饭团",
+			"name": "👹饭团",
 			"type": 3,
 			"api": "csp_xBPQ",
 			"filterable": 1,
@@ -237,25 +246,22 @@
 		},
 		{
 			"key": "AppTT",
-			"name": "🐻图图",
+			"name": "🦁图图",
 			"type": "3",
 			"api": "csp_Dora",
 			"searchable": "1",
 			"quickSearch": "1",
 			"filterable": "1",
-			"ext": "110c922de7d69804467fb83d3bb664b5",
-			"jar": "http://smallmi.xiaohewanwan.love:63/jar/ts.txt;md5;6a9c7cc928036c39dba1ff98400ffa52"
+			"ext": "110c922de7d69804467fb83d3bb664b5"
 		},
 		{
 			"key": "LiteApple",
 			"name": "🍎苹果",
 			"type": "3",
-			"api": "csp_Dora",
+			"api": "csp_LiteApple",
 			"searchable": "1",
 			"quickSearch": "1",
-			"filterable": "1",
-			"ext": "6deed4548c44b18d268a5d828f04d86e",
-			"jar": "http://smallmi.xiaohewanwan.love:63/jar/ts.txt;md5;6a9c7cc928036c39dba1ff98400ffa52"
+			"filterable": "1"
 		},
 		{
 			"key": "jiguang",
@@ -273,13 +279,12 @@
 			"api": "csp_XYQHiker",
 			"searchable": 1,
 			"quickSearch": 1,
-			"filterable": 0,
-			"ext": "https://agit.ai/xiaohewanwan/samllmi/raw/branch/master/XYQ/%e8%bf%bd%e5%89%a7%e5%85%94.json",
-			"jar": "https://download.kstore.space/download/3450/xl1218.jar;md5;2af04bf70706ec613778c46dcafb8abe"
+			"filterable": 1,
+			"ext": "https://agit.ai/xiaohewanwan/samllmi/raw/branch/master/XYQ/%e8%bf%bd%e5%89%a7%e5%85%94.json"
 		},
 		{
 			"key": "csp_Xinsj",
-			"name": "👀视觉",
+			"name": "🐡视觉",
 			"type": 3,
 			"api": "csp_Xinsj",
 			"searchable": 1,
@@ -288,29 +293,17 @@
 		},
 		{
 			"key": "qiyou",
-			"name": "️🍓奇优",
-			"type": 3,
-			"api": "csp_XYQHiker",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 0,
-			"ext": "https://ghproxy.com/https://raw.githubusercontent.com/smallmi18/TVB/main/H/qiyou.json",
-			"jar": "https://download.kstore.space/download/3450/xl1218.jar;md5;2af04bf70706ec613778c46dcafb8abe"
-		},
-		{
-			"key": "咕噜",
-			"name": "🐹咕噜",
+			"name": "️🌻奇优",
 			"type": 3,
 			"api": "csp_XYQHiker",
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1,
-			"ext": "https://download.kstore.space/download/3450/ziyong/gulu.json",
-			"jar": "https://download.kstore.space/download/3450/xl1218.jar;md5;2af04bf70706ec613778c46dcafb8abe"
+			"ext": "https://ghproxy.com/https://raw.githubusercontent.com/smallmi18/TVB/main/H/qiyou.json"
 		},
 		{
 			"key": "BULEI1",
-			"name": "🍥布蕾",
+			"name": "🌽布蕾",
 			"type": 3,
 			"api": "csp_BuLei",
 			"searchable": 1,
@@ -319,7 +312,7 @@
 		},
 		{
 			"key": "renren1",
-			"name": "🐣人人",
+			"name": "🌽人人",
 			"type": 3,
 			"api": "csp_xBPQ",
 			"filterable": 1,
@@ -330,7 +323,7 @@
 		},
 		{
 			"key": "Kuaikan",
-			"name": "🦚快看",
+			"name": "😋快看",
 			"type": 3,
 			"api": "csp_Kuaikan",
 			"searchable": 1,
@@ -340,11 +333,11 @@
 		{
 			"key": "Pang",
 			"name": "🐯胖虎",
-			"type": 3,
+			"type": "3",
 			"api": "csp_Panghu",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 1
+			"searchable": "1",
+			"quickSearch": "1",
+			"filterable": "1"
 		},
 		{
 			"key": "Czsapp",
@@ -448,15 +441,34 @@
 			"ext": "https://agit.ai/xiaohewanwan/samllmi/raw/branch/master/bb/348languang.json"
 		},
 		{
+			"key": "咕噜",
+			"name": "🐹咕噜",
+			"type": 3,
+			"api": "csp_XYQHiker",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+			"ext": "https://download.kstore.space/download/3450/ziyong/gulu.json"
+		},
+		{
+			"key": "paku",
+			"name": "️🐹片库",
+			"type": 3,
+			"api": "csp_XYQHiker",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+			"ext": "https://agit.ai/xiaohewanwan/samllmi/raw/branch/master/XYQH/pianku.json"
+		},
+		{
 			"key": "野马",
 			"name": "️💭野马",
 			"type": 3,
 			"api": "csp_XYQHiker",
 			"searchable": 1,
 			"quickSearch": 1,
-			"filterable": 0,
-			"ext": "https://agit.ai/xiaohewanwan/samllmi/raw/branch/master/XYQH/yema.json",
-			"jar": "https://download.kstore.space/download/3450/xl1218.jar;md5;2af04bf70706ec613778c46dcafb8abe"
+			"filterable": 1,
+			"ext": "https://agit.ai/xiaohewanwan/samllmi/raw/branch/master/XYQH/yema.json"
 		},
 		{
 			"key": "dami",
@@ -470,19 +482,8 @@
 			"ext": "https://agit.ai/xiaohewanwan/samllmi/raw/branch/master/xinxie/dami.json"
 		},
 		{
-			"key": "蚂蚁",
-			"name": "️🐜蚂蚁",
-			"type": 3,
-			"api": "csp_XYQHiker",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 0,
-			"ext": "https://agit.ai/xiaohewanwan/samllmi/raw/branch/master/xinxie/mayi.json",
-			"jar": "https://download.kstore.space/download/3450/xl1218.jar;md5;2af04bf70706ec613778c46dcafb8abe"
-		},
-		{
 			"key": "南柯",
-			"name": "🐻南柯",
+			"name": "🧸南柯",
 			"type": 3,
 			"api": "csp_Nkdy",
 			"searchable": 1,
@@ -491,7 +492,7 @@
 		},
 		{
 			"key": "Auete",
-			"name": "🍊奥特",
+			"name": "🧸奥特",
 			"type": "3",
 			"api": "csp_Auete",
 			"searchable": "1",
@@ -500,7 +501,7 @@
 		},
 		{
 			"key": "Lib",
-			"name": "🍍利奥",
+			"name": "🧸利奥",
 			"type": "3",
 			"api": "csp_Lib",
 			"searchable": "1",
@@ -509,7 +510,7 @@
 		},
 		{
 			"key": "csp_Cokemv",
-			"name": "🥤可乐",
+			"name": "🧸可乐",
 			"type": 3,
 			"api": "csp_Cokemv",
 			"searchable": 1,
@@ -519,7 +520,7 @@
 		},
 		{
 			"key": "Ddys",
-			"name": "🇺🇸低端",
+			"name": "🧸低端",
 			"type": 3,
 			"api": "csp_Ddrk",
 			"searchable": 1,
@@ -528,7 +529,7 @@
 		},
 		{
 			"key": "Zxzj",
-			"name": "🥣在线",
+			"name": "🧸在线",
 			"type": "3",
 			"api": "csp_Zxzj",
 			"searchable": "1",
@@ -537,7 +538,7 @@
 		},
 		{
 			"key": "Bili1",
-			"name": "👀哔哩",
+			"name": "🧸哔哩",
 			"type": "3",
 			"api": "csp_Bili",
 			"searchable": "1",
@@ -547,7 +548,7 @@
 		},
 		{
 			"key": "双十",
-			"name": "🔟双十",
+			"name": "🧸双十",
 			"type": 3,
 			"api": "csp_Dy1010",
 			"searchable": 1,
@@ -556,7 +557,7 @@
 		},
 		{
 			"key": "BT",
-			"name": "🐿️2BT",
+			"name": "🧸2BT",
 			"type": 3,
 			"api": "csp_Bttoo",
 			"searchable": 1,
@@ -565,7 +566,7 @@
 		},
 		{
 			"key": "bdys",
-			"name": "👀哔滴",
+			"name": "🧸哔滴",
 			"type": 3,
 			"api": "csp_Bdys01",
 			"searchable": 1,
@@ -575,7 +576,7 @@
 		},
 		{
 			"key": "csp_Vofilx",
-			"name": "👍Vofl",
+			"name": "🧸Vofl",
 			"type": 3,
 			"api": "csp_Voflix",
 			"searchable": 1,
@@ -584,7 +585,7 @@
 		},
 		{
 			"key": "csp_Yj1211",
-			"name": "🎮网游",
+			"name": "🧸网游",
 			"type": 3,
 			"api": "csp_Yj1211",
 			"searchable": 1,
@@ -593,7 +594,7 @@
 		},
 		{
 			"key": "csp_Anime1",
-			"name": "🐶动漫",
+			"name": "🧸动漫",
 			"type": 3,
 			"api": "csp_Anime1",
 			"searchable": 1,
@@ -602,40 +603,40 @@
 		},
 		{
 			"key": "Dy5551",
-			"name": "5⃣️555",
+			"name": "🧸555",
 			"type": "3",
 			"api": "csp_Dora",
 			"searchable": "1",
 			"quickSearch": "1",
 			"filterable": "1",
 			"ext": "f41992bd740145ed58cb212dc0876582",
-			"jar": "http://smallmi.xiaohewanwan.love:63/jar/ts.txt;md5;6a9c7cc928036c39dba1ff98400ffa52"
+			"jar": "http://smallmi.xiaohewanwan.love:63/jar/ts.jar;md5;4ab8ad5008d89d9101204dd5e54c4d47"
 		},
 		{
 			"key": "IKan",
-			"name": "❤️爱看",
+			"name": "🧸爱看",
 			"type": "3",
 			"api": "csp_Dora",
 			"searchable": "1",
 			"quickSearch": "1",
 			"filterable": "1",
 			"ext": "a4ce9a4ba7d4f4bced2ff9dfc4ab4e50",
-			"jar": "http://smallmi.xiaohewanwan.love:63/jar/ts.txt;md5;6a9c7cc928036c39dba1ff98400ffa52"
+			"jar": "http://smallmi.xiaohewanwan.love:63/jar/ts.jar;md5;4ab8ad5008d89d9101204dd5e54c4d47"
 		},
 		{
 			"key": "Hei1",
-			"name": "🍅石榴",
+			"name": "🧸石榴",
 			"type": "3",
 			"api": "csp_Dora",
 			"searchable": "1",
 			"quickSearch": "1",
 			"filterable": "1",
 			"ext": "3bff500c8b1e06c052a1b0f1f7a62b45",
-			"jar": "http://smallmi.xiaohewanwan.love:63/jar/ts.txt;md5;6a9c7cc928036c39dba1ff98400ffa52"
+			"jar": "http://smallmi.xiaohewanwan.love:63/jar/ts.jar;md5;4ab8ad5008d89d9101204dd5e54c4d47"
 		},
 		{
 			"key": "Dm84",
-			"name": "🚌巴士",
+			"name": "🧸巴士",
 			"type": "3",
 			"api": "csp_Dm84",
 			"searchable": "1",
@@ -644,40 +645,37 @@
 		},
 		{
 			"key": "17kan",
-			"name": "📺直播",
+			"name": "🧸体育",
 			"type": 3,
 			"api": "csp_XYQBiu",
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 0,
-			"ext": "https://agit.ai/xiaohewanwan/samllmi/raw/branch/master/XYQ/17kan.json",
-			"jar": "https://download.kstore.space/download/3450/xl1218.jar;md5;2af04bf70706ec613778c46dcafb8abe"
+			"ext": "https://agit.ai/xiaohewanwan/samllmi/raw/branch/master/XYQ/17kan.json"
 		},
 		{
 			"key": "qiaokeli",
-			"name": "🏟️点播",
+			"name": "🧸点播",
 			"type": 3,
 			"api": "csp_XYQHiker",
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 0,
-			"ext": "https://agit.ai/xiaohewanwan/samllmi/raw/branch/master/XYQ/tiyudianbo.json",
-			"jar": "https://download.kstore.space/download/3450/xl1218.jar;md5;2af04bf70706ec613778c46dcafb8abe"
+			"ext": "https://agit.ai/xiaohewanwan/samllmi/raw/branch/master/XYQ/tiyudianbo.json"
 		},
 		{
 			"key": "fanqie",
-			"name": "️🍅番茄",
+			"name": "️🧸番茄",
 			"type": 3,
 			"api": "csp_XYQHiker",
 			"searchable": 1,
 			"quickSearch": 1,
-			"filterable": 0,
-			"ext": "https://agit.ai/xiaohewanwan/samllmi/raw/branch/master/XYQ/%E7%95%AA%E8%8C%84%E5%8A%A8%E6%BC%AB.json",
-			"jar": "https://download.kstore.space/download/3450/xl1218.jar;md5;2af04bf70706ec613778c46dcafb8abe"
+			"filterable": 1,
+			"ext": "https://agit.ai/xiaohewanwan/samllmi/raw/branch/master/XYQ/%E7%95%AA%E8%8C%84%E5%8A%A8%E6%BC%AB.json"
 		},
 		{
 			"key": "NT动漫",
-			"name": "😊N T",
+			"name": "🧸N T",
 			"type": 3,
 			"api": "csp_xBPQ",
 			"filterable": 1,
@@ -687,7 +685,7 @@
 		},
 		{
 			"key": "zzz动漫",
-			"name": "🦚zzz",
+			"name": "🧸zzz",
 			"type": 3,
 			"api": "csp_xBPQ",
 			"filterable": 1,
@@ -697,7 +695,7 @@
 		},
 		{
 			"key": "maidou",
-			"name": "🫘麦豆",
+			"name": "🧸麦豆",
 			"type": 3,
 			"api": "csp_xBPQ",
 			"filterable": 1,
@@ -707,7 +705,7 @@
 		},
 		{
 			"key": "蓝光",
-			"name": "🎬蓝光",
+			"name": "🧸蓝光",
 			"type": 3,
 			"api": "csp_xBPQ",
 			"filterable": 1,
@@ -716,28 +714,8 @@
 			"ext": "https://agit.ai/xiaohewanwan/samllmi/raw/branch/master/xinxie/languang.json"
 		},
 		{
-			"key": "兄弟",
-			"name": "👬兄弟",
-			"type": 3,
-			"api": "csp_xBPQ",
-			"filterable": 1,
-			"quickSearch": 1,
-			"searchable": 1,
-			"ext": "https://agit.ai/xiaohewanwan/jar/raw/branch/main/xb/xiongdi.json"
-		},
-		{
-			"key": "比图上",
-			"name": "🐰哔兔",
-			"type": "3",
-			"api": "csp_xBPQ",
-			"searchable": "1",
-			"quickSearch": "1",
-			"filterable": "1",
-			"ext": "https://agit.ai/xiaohewanwan/samllmi/raw/branch/master/xinxie/bilitu.json"
-		},
-		{
 			"key": "zmozhatu",
-			"name": "🐰莫兔",
+			"name": "🧸莫图",
 			"type": 3,
 			"api": "csp_xBPQ",
 			"filterable": 1,
@@ -746,8 +724,28 @@
 			"ext": "https://agit.ai/xiaohewanwan/samllmi/raw/branch/master/xinxie/mozhatu.json"
 		},
 		{
+			"key": "bitu",
+			"name": "🧸哔兔",
+			"type": "3",
+			"api": "csp_xBPQ",
+			"searchable": "1",
+			"quickSearch": "1",
+			"filterable": "1",
+			"ext": "https://agit.ai/xiaohewanwan/samllmi/raw/branch/master/xinxie/bilitu.json"
+		},
+		{
+			"key": "兄弟",
+			"name": "🧸兄弟",
+			"type": 3,
+			"api": "csp_xBPQ",
+			"filterable": 1,
+			"quickSearch": 1,
+			"searchable": 1,
+			"ext": "https://agit.ai/xiaohewanwan/jar/raw/branch/main/xb/xiongdi.json"
+		},
+		{
 			"key": "91free",
-			"name": "🧧free",
+			"name": "🧸free",
 			"type": 3,
 			"api": "csp_xBPQ",
 			"filterable": 1,
@@ -756,380 +754,377 @@
 			"ext": "https://agit.ai/xiaohewanwan/jar/raw/branch/main/xb/91free.json"
 		},
 		{
-			"key": "100",
-			"name": "💯100",
-			"type": 3,
-			"api": "csp_xBPQ",
-			"filterable": 1,
-			"quickSearch": 1,
-			"searchable": 1,
-			"ext": "https://agit.ai/xiaohewanwan/samllmi/raw/branch/master/xinxie/100.json"
-		},
-		{
-			"key": "云播",
-			"name": "☁️云播",
-			"type": 3,
-			"api": "csp_xBPQ",
-			"filterable": 1,
-			"quickSearch": 1,
-			"searchable": 1,
-			"ext": "https://agit.ai/xiaohewanwan/samllmi/raw/branch/master/xinxie/tvbyunbo.json"
-		},
-		{
 			"key": "云锦",
-			"name": "🐻云镜",
+			"name": "🧸云镜",
 			"type": 3,
 			"api": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/libs/drpy2.min.js",
 			"ext": "https://agit.ai/xiaohewanwan/samllmi/raw/branch/master/js/yunjing.js"
 		},
 		{
 			"key": "wuyw",
-			"name": "🐻午夜",
+			"name": "🧸午夜",
 			"type": 3,
 			"api": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/libs/drpy2.min.js",
 			"ext": "https://agit.ai/xiaohewanwan/samllmi/raw/branch/master/js/wuye.js"
 		},
 		{
 			"key": "外剧",
-			"name": "🐻外剧",
-			"type": 3,
-			"api": "csp_XYQHiker",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 0,
-			"ext": "https://agit.ai/xiaohewanwan/samllmi/raw/branch/master/xinxie/waiju.json",
-			"jar": "https://download.kstore.space/download/3450/xl1218.jar;md5;2af04bf70706ec613778c46dcafb8abe"
-		},
-		{
-			"key": "188kan",
-			"name": "🐻️188",
-			"type": 3,
-			"api": "csp_XYQHiker",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 0,
-			"ext": "https://agit.ai/xiaohewanwan/samllmi/raw/branch/master/XYQH/188ys.json",
-			"jar": "https://download.kstore.space/download/3450/xl1218.jar;md5;2af04bf70706ec613778c46dcafb8abe"
-		},
-		{
-			"key": "诺讯",
-			"name": "️🐻诺讯",
-			"type": 3,
-			"api": "csp_XYQHiker",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 0,
-			"ext": "https://agit.ai/xiaohewanwan/samllmi/raw/branch/master/XYQ/%E8%AF%BA%E8%AE%AF%E8%B5%84%E6%BA%90.json",
-			"jar": "https://download.kstore.space/download/3450/xl1218.jar;md5;2af04bf70706ec613778c46dcafb8abe"
-		},
-		{
-			"key": "xingge",
-			"name": "🐻️星哥",
-			"type": 3,
-			"api": "csp_XYQHiker",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 0,
-			"ext": "https://agit.ai/xiaohewanwan/samllmi/raw/branch/master/XYQH/xinggeyingshi.json",
-			"jar": "https://download.kstore.space/download/3450/xl1218.jar;md5;2af04bf70706ec613778c46dcafb8abe"
-		},
-		{
-			"key": "kannaifei",
-			"name": "️🐻看看",
-			"type": 3,
-			"api": "csp_XYQHiker",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 0,
-			"ext": "https://agit.ai/xiaohewanwan/samllmi/raw/branch/master/XYQ/kannaifei.json",
-			"jar": "https://download.kstore.space/download/3450/xl1218.jar;md5;2af04bf70706ec613778c46dcafb8abe"
-		},
-		{
-			"key": "饺子",
-			"name": "️🐻饺子",
-			"type": 3,
-			"api": "csp_XYQHiker",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 0,
-			"ext": "https://agit.ai/xiaohewanwan/samllmi/raw/branch/master/XYQH/%E9%A5%BA%E5%AD%90.json",
-			"jar": "https://download.kstore.space/download/3450/xl1218.jar;md5;2af04bf70706ec613778c46dcafb8abe"
-		},
-		{
-			"key": "naifeigou",
-			"name": "️🐻奈狗",
-			"type": 3,
-			"api": "csp_XYQHiker",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 0,
-			"ext": "https://agit.ai/xiaohewanwan/samllmi/raw/branch/master/XYQ/naifeigou.json",
-			"jar": "https://download.kstore.space/download/3450/xl1218.jar;md5;2af04bf70706ec613778c46dcafb8abe"
-		},
-		{
-			"key": "xiaogou",
-			"name": "️🐻小狗",
-			"type": 3,
-			"api": "csp_XYQHiker",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 0,
-			"ext": "https://agit.ai/xiaohewanwan/samllmi/raw/branch/master/XYQH/xiaogou.json",
-			"jar": "https://download.kstore.space/download/3450/xl1218.jar;md5;2af04bf70706ec613778c46dcafb8abe"
-		},
-		{
-			"key": "kankan",
-			"name": "️🐻看看",
-			"type": 3,
-			"api": "csp_XYQHiker",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 0,
-			"ext": "https://agit.ai/xiaohewanwan/samllmi/raw/branch/master/XYQH/cehsi.json",
-			"jar": "https://download.kstore.space/download/3450/xl1218.jar;md5;2af04bf70706ec613778c46dcafb8abe"
-		},
-		{
-			"key": "达达龟",
-			"name": "🐻达龟",
-			"type": 3,
-			"api": "csp_XYQHiker",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 0,
-			"ext": "https://agit.ai/xiaohewanwan/samllmi/raw/branch/master/XYQ/dadagui.json",
-			"jar": "https://download.kstore.space/download/3450/xl1218.jar;md5;2af04bf70706ec613778c46dcafb8abe"
-		},
-		{
-			"key": "素白白",
-			"name": "️🐻素白",
-			"type": 3,
-			"api": "csp_XYQHiker",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 0,
-			"ext": "https://agit.ai/xiaohewanwan/samllmi/raw/branch/master/XYQH/subaibai2.json",
-			"jar": "https://download.kstore.space/download/3450/xl1218.jar;md5;2af04bf70706ec613778c46dcafb8abe"
-		},
-		{
-			"key": "零度",
-			"name": "️🐻零度",
-			"type": 3,
-			"api": "csp_XYQHiker",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 0,
-			"ext": "https://agit.ai/xiaohewanwan/samllmi/raw/branch/master/XYQ/lingdu.json",
-			"jar": "https://download.kstore.space/download/3450/xl1218.jar;md5;2af04bf70706ec613778c46dcafb8abe"
-		},
-		{
-			"key": "007",
-			"name": "️🐻零七",
-			"type": 3,
-			"api": "csp_XYQHiker",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 0,
-			"ext": "https://agit.ai/xiaohewanwan/samllmi/raw/branch/master/XYQH/007ys.json",
-			"jar": "https://download.kstore.space/download/3450/xl1218.jar;md5;2af04bf70706ec613778c46dcafb8abe"
-		},
-		{
-			"key": "荷塘影视",
-			"name": "🐻️荷塘",
-			"type": 3,
-			"api": "csp_XYQHiker",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 0,
-			"ext": "https://agit.ai/xiaohewanwan/samllmi/raw/branch/master/XYQH/yehetang.json",
-			"jar": "https://download.kstore.space/download/3450/xl1218.jar;md5;2af04bf70706ec613778c46dcafb8abe"
-		},
-		{
-			"key": "um",
-			"name": "🐻️U M",
-			"type": 3,
-			"api": "csp_XYQHiker",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 0,
-			"ext": "https://agit.ai/xiaohewanwan/samllmi/raw/branch/master/XYQH/um.json",
-			"jar": "https://download.kstore.space/download/3450/xl1218.jar;md5;2af04bf70706ec613778c46dcafb8abe"
-		},
-		{
-			"key": "看哔哩",
-			"name": "🐻哔看",
-			"type": 3,
-			"api": "csp_XYQHiker",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 0,
-			"ext": "https://agit.ai/xiaohewanwan/samllmi/raw/branch/master/XYQ/kanbibi.json",
-			"jar": "https://download.kstore.space/download/3450/xl1218.jar;md5;2af04bf70706ec613778c46dcafb8abe"
-		},
-		{
-			"key": "baipiao",
-			"name": "️🐻白嫖",
-			"type": 3,
-			"api": "csp_XYQHiker",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 0,
-			"ext": "https://agit.ai/xiaohewanwan/samllmi/raw/branch/master/XYQH/baipiao.json",
-			"jar": "https://download.kstore.space/download/3450/xl1218.jar;md5;2af04bf70706ec613778c46dcafb8abe"
-		},
-		{
-			"key": "naifeitv",
-			"name": "️🐻奈飞",
-			"type": 3,
-			"api": "csp_XYQHiker",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 0,
-			"ext": "https://agit.ai/xiaohewanwan/samllmi/raw/branch/master/XYQ/netflytv.json",
-			"jar": "https://download.kstore.space/download/3450/xl1218.jar;md5;2af04bf70706ec613778c46dcafb8abe"
-		},
-		{
-			"key": "伊人",
-			"name": "🐻️伊人",
-			"type": 3,
-			"api": "csp_XYQHiker",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 0,
-			"ext": "https://agit.ai/xiaohewanwan/samllmi/raw/branch/master/XYQ/%e4%bc%8a%e4%ba%ba%e8%bf%bd%e5%89%a7.json",
-			"jar": "https://download.kstore.space/download/3450/xl1218.jar;md5;2af04bf70706ec613778c46dcafb8abe"
-		},
-		{
-			"key": "伊雪湾",
-			"name": "️🐻伊雪",
-			"type": 3,
-			"api": "csp_XYQHiker",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 0,
-			"ext": "https://agit.ai/xiaohewanwan/samllmi/raw/branch/master/XYQ/%E4%BC%8A%E9%9B%AA%E6%B9%BE.json",
-			"jar": "https://download.kstore.space/download/3450/xl1218.jar;md5;2af04bf70706ec613778c46dcafb8abe"
-		},
-		{
-			"key": "思古",
-			"name": "️🐻思古",
-			"type": 3,
-			"api": "csp_XYQHiker",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 0,
-			"ext": "https://agit.ai/xiaohewanwan/samllmi/raw/branch/master/XYQ/siguzhuiju.json",
-			"jar": "https://download.kstore.space/download/3450/xl1218.jar;md5;2af04bf70706ec613778c46dcafb8abe"
-		},
-		{
-			"key": "naifei8",
-			"name": "🐻️奶飞",
-			"type": 3,
-			"api": "csp_XYQHiker",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 0,
-			"ext": "https://agit.ai/xiaohewanwan/samllmi/raw/branch/master/XYQ/naifei8.json",
-			"jar": "https://download.kstore.space/download/3450/xl1218.jar;md5;2af04bf70706ec613778c46dcafb8abe"
-		},
-		{
-			"key": "90影视",
-			"name": "🐻90ys",
-			"type": 3,
-			"api": "csp_XYQHiker",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 0,
-			"ext": "https://agit.ai/xiaohewanwan/samllmi/raw/branch/master/XYQH/90rc.json",
-			"jar": "https://download.kstore.space/download/3450/xl1218.jar;md5;2af04bf70706ec613778c46dcafb8abe"
-		},
-		{
-			"key": "往往影视",
-			"name": "🐻️往往",
-			"type": 3,
-			"api": "csp_XYQHiker",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 0,
-			"playerType": "1",
-			"ext": "https://agit.ai/xiaohewanwan/samllmi/raw/branch/master/XYQ/%e5%be%80%e5%be%80%e5%bd%b1%e8%a7%86.json",
-			"jar": "https://download.kstore.space/download/3450/xl1218.jar;md5;2af04bf70706ec613778c46dcafb8abe"
-		},
-		{
-			"key": "映迷影视",
-			"name": "🐻️映迷",
-			"type": 3,
-			"api": "csp_XYQHiker",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 0,
-			"ext": "http://w.g9.pub:66/2251087869/smallmi/xyq/%E6%98%A0%E8%BF%B7.json",
-			"jar": "https://download.kstore.space/download/3450/xl1218.jar;md5;2af04bf70706ec613778c46dcafb8abe"
-		},
-		{
-			"key": "zizi",
-			"name": "️🐻子子",
-			"type": 3,
-			"api": "csp_XYQHiker",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 0,
-			"ext": "https://agit.ai/xiaohewanwan/samllmi/raw/branch/master/XYQ/zizi.json",
-			"jar": "https://download.kstore.space/download/3450/xl1218.jar;md5;2af04bf70706ec613778c46dcafb8abe"
-		},
-		{
-			"key": "真不卡",
-			"name": "🐻️不卡",
-			"type": 3,
-			"api": "csp_XYQHiker",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 0,
-			"ext": "https://ghproxy.com/https://raw.githubusercontent.com/smallmi18/TVB/main/H/zhenbuka.json",
-			"jar": "https://download.kstore.space/download/3450/xl1218.jar;md5;2af04bf70706ec613778c46dcafb8abe"
-		},
-		{
-			"key": "imax",
-			"name": "🐻imax",
+			"name": "🧸外剧",
 			"type": 3,
 			"api": "csp_XYQHiker",
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1,
-			"ext": "https://agit.ai/xiaohewanwan/samllmi/raw/branch/master/XYQ/imaxw.json",
-			"jar": "https://download.kstore.space/download/3450/xl1218.jar;md5;2af04bf70706ec613778c46dcafb8abe"
+			"ext": "https://agit.ai/xiaohewanwan/samllmi/raw/branch/master/xinxie/waiju.json"
+		},
+		{
+			"key": "188kan",
+			"name": "️🧸188",
+			"type": 3,
+			"api": "csp_XYQHiker",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+			"ext": "https://agit.ai/xiaohewanwan/samllmi/raw/branch/master/XYQH/188ys.json"
+		},
+		{
+			"key": "诺讯",
+			"name": "️🧸诺讯",
+			"type": 3,
+			"api": "csp_XYQHiker",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+			"ext": "https://agit.ai/xiaohewanwan/samllmi/raw/branch/master/XYQ/%E8%AF%BA%E8%AE%AF%E8%B5%84%E6%BA%90.json"
+		},
+		{
+			"key": "xingge",
+			"name": "️🧸星哥",
+			"type": 3,
+			"api": "csp_XYQHiker",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+			"ext": "https://agit.ai/xiaohewanwan/samllmi/raw/branch/master/XYQH/xinggeyingshi.json"
+		},
+		{
+			"key": "kannaifei",
+			"name": "️🧸看菲",
+			"type": 3,
+			"api": "csp_XYQHiker",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+			"ext": "https://agit.ai/xiaohewanwan/samllmi/raw/branch/master/XYQ/kannaifei.json"
+		},
+		{
+			"key": "饺子",
+			"name": "️🧸饺子",
+			"type": 3,
+			"api": "csp_XYQHiker",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+			"ext": "https://agit.ai/xiaohewanwan/samllmi/raw/branch/master/XYQH/%E9%A5%BA%E5%AD%90.json"
+		},
+		{
+			"key": "naifeigou",
+			"name": "️🧸奈狗",
+			"type": 3,
+			"api": "csp_XYQHiker",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+			"ext": "https://agit.ai/xiaohewanwan/samllmi/raw/branch/master/XYQ/naifeigou.json"
+		},
+		{
+			"key": "xiaogou",
+			"name": "️🧸小狗",
+			"type": 3,
+			"api": "csp_XYQHiker",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+			"ext": "https://agit.ai/xiaohewanwan/samllmi/raw/branch/master/XYQH/xiaogou.json"
+		},
+		{
+			"key": "kankan",
+			"name": "️🧸看看",
+			"type": 3,
+			"api": "csp_XYQHiker",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+			"ext": "https://agit.ai/xiaohewanwan/samllmi/raw/branch/master/XYQH/cehsi.json"
+		},
+		{
+			"key": "达达龟",
+			"name": "🧸达龟",
+			"type": 3,
+			"api": "csp_XYQHiker",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+			"ext": "https://agit.ai/xiaohewanwan/samllmi/raw/branch/master/XYQ/dadagui.json"
+
+		},
+		{
+			"key": "素白白",
+			"name": "️🧸素白",
+			"type": 3,
+			"api": "csp_XYQHiker",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+			"ext": "https://agit.ai/xiaohewanwan/samllmi/raw/branch/master/XYQH/subaibai2.json"
+
+		},
+		{
+			"key": "零度",
+			"name": "️🧸零度",
+			"type": 3,
+			"api": "csp_XYQHiker",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+			"ext": "https://agit.ai/xiaohewanwan/samllmi/raw/branch/master/XYQ/lingdu.json"
+
+		},
+		{
+			"key": "007",
+			"name": "️🧸零七",
+			"type": 3,
+			"api": "csp_XYQHiker",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+			"ext": "https://agit.ai/xiaohewanwan/samllmi/raw/branch/master/XYQH/007ys.json"
+
+		},
+		{
+			"key": "荷塘影视",
+			"name": "️🧸荷塘",
+			"type": 3,
+			"api": "csp_XYQHiker",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+			"ext": "https://agit.ai/xiaohewanwan/samllmi/raw/branch/master/XYQH/yehetang.json"
+
+		},
+		{
+			"key": "um",
+			"name": "️🧸U M",
+			"type": 3,
+			"api": "csp_XYQHiker",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+			"ext": "https://agit.ai/xiaohewanwan/samllmi/raw/branch/master/XYQH/um.json"
+
+		},
+		{
+			"key": "看哔哩",
+			"name": "🧸看哔",
+			"type": 3,
+			"api": "csp_XYQHiker",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+			"ext": "https://agit.ai/xiaohewanwan/samllmi/raw/branch/master/XYQ/kanbibi.json"
+
+		},
+		{
+			"key": "baipiao",
+			"name": "️🧸白嫖",
+			"type": 3,
+			"api": "csp_XYQHiker",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+			"ext": "https://agit.ai/xiaohewanwan/samllmi/raw/branch/master/XYQH/baipiao.json"
+
+		},
+		{
+			"key": "naifeitv",
+			"name": "️🧸奈飞",
+			"type": 3,
+			"api": "csp_XYQHiker",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+			"ext": "https://agit.ai/xiaohewanwan/samllmi/raw/branch/master/XYQ/netflytv.json"
+
+		},
+		{
+			"key": "伊人",
+			"name": "️🧸伊人",
+			"type": 3,
+			"api": "csp_XYQHiker",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+			"ext": "https://agit.ai/xiaohewanwan/samllmi/raw/branch/master/XYQ/%e4%bc%8a%e4%ba%ba%e8%bf%bd%e5%89%a7.json"
+
+		},
+		{
+			"key": "伊雪湾",
+			"name": "️🧸伊雪",
+			"type": 3,
+			"api": "csp_XYQHiker",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+			"ext": "https://agit.ai/xiaohewanwan/samllmi/raw/branch/master/XYQ/%E4%BC%8A%E9%9B%AA%E6%B9%BE.json"
+
+		},
+		{
+			"key": "思古",
+			"name": "️🧸思古",
+			"type": 3,
+			"api": "csp_XYQHiker",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+			"ext": "https://agit.ai/xiaohewanwan/samllmi/raw/branch/master/XYQ/siguzhuiju.json"
+
+		},
+		{
+			"key": "naifei8",
+			"name": "️🧸奶啡",
+			"type": 3,
+			"api": "csp_XYQHiker",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+			"ext": "https://agit.ai/xiaohewanwan/samllmi/raw/branch/master/XYQ/naifei8.json"
+
+		},
+		{
+			"key": "90影视",
+			"name": "️🧸90ys",
+			"type": 3,
+			"api": "csp_XYQHiker",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+			"ext": "https://agit.ai/xiaohewanwan/samllmi/raw/branch/master/XYQH/90rc.json"
+
+		},
+		{
+			"key": "往往影视",
+			"name": "️🧸往往",
+			"type": 3,
+			"api": "csp_XYQHiker",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+			"playerType": "1",
+			"ext": "https://agit.ai/xiaohewanwan/samllmi/raw/branch/master/XYQ/%e5%be%80%e5%be%80%e5%bd%b1%e8%a7%86.json"
+
+		},
+		{
+			"key": "映迷影视",
+			"name": "️🧸映迷",
+			"type": 3,
+			"api": "csp_XYQHiker",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+			"ext": "http://w.g9.pub:66/2251087869/smallmi/xyq/%E6%98%A0%E8%BF%B7.json"
+
+		},
+		{
+			"key": "zizi",
+			"name": "️🧸子子",
+			"type": 3,
+			"api": "csp_XYQHiker",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+			"ext": "https://agit.ai/xiaohewanwan/samllmi/raw/branch/master/XYQ/zizi.json"
+
+		},
+		{
+			"key": "真不卡",
+			"name": "️🧸不卡",
+			"type": 3,
+			"api": "csp_XYQHiker",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+			"ext": "https://ghproxy.com/https://raw.githubusercontent.com/smallmi18/TVB/main/H/zhenbuka.json"
+
+		},
+		{
+			"key": "imax",
+			"name": "🧸imax",
+			"type": 3,
+			"api": "csp_XYQHiker",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+			"ext": "https://agit.ai/xiaohewanwan/samllmi/raw/branch/master/XYQ/imaxw.json"
 		},
 		{
 			"key": "aifei",
-			"name": "️🐻艾菲",
+			"name": "️🧸艾菲",
 			"type": 3,
 			"api": "csp_XYQHiker",
 			"searchable": 1,
 			"quickSearch": 1,
-			"filterable": 0,
-			"ext": "https://agit.ai/xiaohewanwan/samllmi/raw/branch/master/XYQH/aifei.json",
-			"jar": "https://download.kstore.space/download/3450/xl1218.jar;md5;2af04bf70706ec613778c46dcafb8abe"
+			"filterable": 1,
+			"ext": "https://agit.ai/xiaohewanwan/samllmi/raw/branch/master/XYQH/aifei.json"
 		},
 		{
 			"key": "霹雳",
-			"name": "️🐻霹雳",
+			"name": "️🧸霹雳",
 			"type": 3,
 			"api": "csp_XYQHiker",
 			"searchable": 1,
 			"quickSearch": 1,
-			"filterable": 0,
-			"ext": "https://agit.ai/xiaohewanwan/samllmi/raw/branch/master/XYQH/%e9%9c%b9%e9%9b%b3%e5%bd%b1%e8%a7%86.json",
-			"jar": "https://download.kstore.space/download/3450/xl1218.jar;md5;2af04bf70706ec613778c46dcafb8abe"
+			"filterable": 1,
+			"ext": "https://agit.ai/xiaohewanwan/samllmi/raw/branch/master/XYQH/%e9%9c%b9%e9%9b%b3%e5%bd%b1%e8%a7%86.json"
 		},
 		{
 			"key": "看一看",
-			"name": "🐻️一看",
+			"name": "️🧸一看",
 			"type": 3,
 			"api": "csp_XYQHiker",
 			"searchable": 1,
 			"quickSearch": 1,
-			"filterable": 0,
-			"ext": "https://agit.ai/xiaohewanwan/samllmi/raw/branch/master/XYQ/%e7%9c%8b%e4%b8%80%e7%9c%8b%e5%bd%b1%e8%a7%86.json",
-			"jar": "https://download.kstore.space/download/3450/xl1218.jar;md5;2af04bf70706ec613778c46dcafb8abe"
+			"filterable": 1,
+			"ext": "https://agit.ai/xiaohewanwan/samllmi/raw/branch/master/XYQ/%e7%9c%8b%e4%b8%80%e7%9c%8b%e5%bd%b1%e8%a7%86.json"
+		},
+		{
+			"key": "优质资源",
+			"name": "📱优质",
+			"type": 1,
+			"api": "https://api.1080zyku.com/inc/apijson.php/provide/vod/",
+			"searchable": 1,
+			"quickSearch": 1,
+			"categories": [
+				"国产剧",
+				"韩国剧",
+				"香港剧",
+				"台湾剧",
+				"欧美剧",
+				"动作片",
+				"科幻片",
+				"战争片",
+				"奇幻片",
+				"喜剧片",
+				"爱情片",
+				"恐怖片",
+				"犯罪片",
+				"悬疑片",
+				"惊悚片",
+				"剧情片",
+				"冒险片",
+				"记录片",
+				"综艺",
+				"动漫"
+			]
 		},
 		{
 			"key": "优质资源",
