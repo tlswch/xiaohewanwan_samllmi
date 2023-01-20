@@ -481,9 +481,9 @@
 			"playerType": "2",
 			"ext": "https://agit.ai/xiaohewanwan/samllmi/raw/branch/master/xinxie/dami.json"
 		},
-		{
+			{
 			"key": "南柯",
-			"name": "🧸南柯",
+			"name": "🤭南柯",
 			"type": 3,
 			"api": "csp_Nkdy",
 			"searchable": 1,
@@ -492,7 +492,7 @@
 		},
 		{
 			"key": "Auete",
-			"name": "🧸奥特",
+			"name": "🤭奥特",
 			"type": "3",
 			"api": "csp_Auete",
 			"searchable": "1",
@@ -501,7 +501,7 @@
 		},
 		{
 			"key": "Lib",
-			"name": "🧸利奥",
+			"name": "😶利奥",
 			"type": "3",
 			"api": "csp_Lib",
 			"searchable": "1",
@@ -510,7 +510,7 @@
 		},
 		{
 			"key": "csp_Cokemv",
-			"name": "🧸可乐",
+			"name": "😶可乐",
 			"type": 3,
 			"api": "csp_Cokemv",
 			"searchable": 1,
@@ -520,7 +520,7 @@
 		},
 		{
 			"key": "Ddys",
-			"name": "🧸低端",
+			"name": "😏低端",
 			"type": 3,
 			"api": "csp_Ddrk",
 			"searchable": 1,
@@ -529,7 +529,7 @@
 		},
 		{
 			"key": "Zxzj",
-			"name": "🧸在线",
+			"name": "😏在线",
 			"type": "3",
 			"api": "csp_Zxzj",
 			"searchable": "1",
@@ -538,7 +538,7 @@
 		},
 		{
 			"key": "Bili1",
-			"name": "🧸哔哩",
+			"name": "🤯哔哩",
 			"type": "3",
 			"api": "csp_Bili",
 			"searchable": "1",
@@ -548,7 +548,7 @@
 		},
 		{
 			"key": "双十",
-			"name": "🧸双十",
+			"name": "🤯双十",
 			"type": 3,
 			"api": "csp_Dy1010",
 			"searchable": 1,
@@ -557,7 +557,7 @@
 		},
 		{
 			"key": "BT",
-			"name": "🧸2BT",
+			"name": "🤠2BT",
 			"type": 3,
 			"api": "csp_Bttoo",
 			"searchable": 1,
@@ -566,7 +566,7 @@
 		},
 		{
 			"key": "bdys",
-			"name": "🧸哔滴",
+			"name": "🤠哔滴",
 			"type": 3,
 			"api": "csp_Bdys01",
 			"searchable": 1,
@@ -576,7 +576,7 @@
 		},
 		{
 			"key": "csp_Vofilx",
-			"name": "🧸Vofl",
+			"name": "🥳Vofl",
 			"type": 3,
 			"api": "csp_Voflix",
 			"searchable": 1,
@@ -585,7 +585,7 @@
 		},
 		{
 			"key": "csp_Yj1211",
-			"name": "🧸网游",
+			"name": "🥳网游",
 			"type": 3,
 			"api": "csp_Yj1211",
 			"searchable": 1,
@@ -594,7 +594,7 @@
 		},
 		{
 			"key": "csp_Anime1",
-			"name": "🧸动漫",
+			"name": "🥸动漫",
 			"type": 3,
 			"api": "csp_Anime1",
 			"searchable": 1,
@@ -603,7 +603,7 @@
 		},
 		{
 			"key": "Dy5551",
-			"name": "🧸555",
+			"name": "🥸555",
 			"type": "3",
 			"api": "csp_Dora",
 			"searchable": "1",
@@ -625,7 +625,7 @@
 		},
 		{
 			"key": "Hei1",
-			"name": "🧸石榴",
+			"name": "😎石榴",
 			"type": "3",
 			"api": "csp_Dora",
 			"searchable": "1",
@@ -636,7 +636,7 @@
 		},
 		{
 			"key": "Dm84",
-			"name": "🧸巴士",
+			"name": "😎巴士",
 			"type": "3",
 			"api": "csp_Dm84",
 			"searchable": "1",
