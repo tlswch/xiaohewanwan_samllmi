@@ -157,7 +157,7 @@
 	],
 	"sites": [{
 			"key": "js豆瓣1",
-			"name": "🤖新豆瓣",
+			"name": "🤖新豆瓣|新年快乐",
 			"type": 3,
 			"api": "https://agit.ai/767820774/TVBOXZY/raw/branch/main/JS/lib/drpy.min.js",
 			"ext": "http://w.g9.pub:66/2251087869/smallmi/js/drpy.js",
@@ -167,7 +167,7 @@
 		},
 		{
 			"key": "js豆瓣2",
-			"name": "🤖旧豆瓣",
+			"name": "🤖旧豆瓣|幸福安康",
 			"type": 3,
 			"api": "http://xn--m7r412advb92j21st65a.tk/dr/影魔.js",
 			"ext": "http://xn--m7r412advb92j21st65a.tk/dr/js/豆瓣.js",
