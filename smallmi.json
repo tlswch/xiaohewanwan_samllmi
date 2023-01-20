@@ -684,6 +684,26 @@
 			"ext": "https://agit.ai/xiaohewanwan/samllmi/raw/branch/master/xinxie/dongman.json"
 		},
 		{
+			"key": "100",
+			"name": "🧸100",
+			"type": 3,
+			"api": "csp_xBPQ",
+			"filterable": 1,
+			"quickSearch": 1,
+			"searchable": 1,
+			"ext": "https://agit.ai/xiaohewanwan/samllmi/raw/branch/master/xinxie/100.json"
+		},
+		{
+			"key": "云播",
+			"name": "🧸云播",
+			"type": 3,
+			"api": "csp_xBPQ",
+			"filterable": 1,
+			"quickSearch": 1,
+			"searchable": 1,
+			"ext": "https://agit.ai/xiaohewanwan/samllmi/raw/branch/master/xinxie/tvbyunbo.json"
+		},
+		{
 			"key": "zzz动漫",
 			"name": "🧸zzz",
 			"type": 3,
