@@ -88,6 +88,13 @@
 			]
 		},
 		{
+			"host": "cj.ffzyapi.com",
+			"rule": [
+				".m3u8",
+				"m3u8?"
+			]
+		},
+		{
 			"host": "www.agemys.cc",
 			"rule": [
 				"cdn-tos",
@@ -157,7 +164,7 @@
 	],
 	"sites": [{
 			"key": "js豆瓣1",
-			"name": "🤖新豆瓣|新年快乐",
+			"name": "🤖新豆瓣",
 			"type": 3,
 			"api": "https://agit.ai/767820774/TVBOXZY/raw/branch/main/JS/lib/drpy.min.js",
 			"ext": "http://w.g9.pub:66/2251087869/smallmi/js/drpy.js",
@@ -167,7 +174,7 @@
 		},
 		{
 			"key": "js豆瓣2",
-			"name": "🤖旧豆瓣|幸福安康",
+			"name": "🤖旧豆瓣",
 			"type": 3,
 			"api": "http://xn--m7r412advb92j21st65a.tk/dr/影魔.js",
 			"ext": "http://xn--m7r412advb92j21st65a.tk/dr/js/豆瓣.js",
@@ -302,15 +309,6 @@
 			"ext": "https://ghproxy.com/https://raw.githubusercontent.com/smallmi18/TVB/main/H/qiyou.json"
 		},
 		{
-			"key": "BULEI1",
-			"name": "🌽布蕾",
-			"type": 3,
-			"api": "csp_BuLei",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 1
-		},
-		{
 			"key": "renren1",
 			"name": "🌽人人",
 			"type": 3,
@@ -441,6 +439,16 @@
 			"ext": "https://agit.ai/xiaohewanwan/samllmi/raw/branch/master/bb/348languang.json"
 		},
 		{
+            "key": "freeok",
+            "name": "🌸FKE",
+            "type": 3,
+            "api": "csp_xBPQ",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "https://agit.ai/xiaohewanwan/samllmi/raw/branch/master/xinxie/freeok.json"
+        },
+		{
 			"key": "咕噜",
 			"name": "🐹咕噜",
 			"type": 3,
@@ -481,7 +489,7 @@
 			"playerType": "2",
 			"ext": "https://agit.ai/xiaohewanwan/samllmi/raw/branch/master/xinxie/dami.json"
 		},
-			{
+		{
 			"key": "南柯",
 			"name": "🤭南柯",
 			"type": 3,
@@ -594,7 +602,7 @@
 		},
 		{
 			"key": "csp_Anime1",
-			"name": "🥸动漫",
+			"name": "🕊️动漫",
 			"type": 3,
 			"api": "csp_Anime1",
 			"searchable": 1,
@@ -603,7 +611,7 @@
 		},
 		{
 			"key": "Dy5551",
-			"name": "🥸555",
+			"name": "🕊️555",
 			"type": "3",
 			"api": "csp_Dora",
 			"searchable": "1",
@@ -684,6 +692,16 @@
 			"ext": "https://agit.ai/xiaohewanwan/samllmi/raw/branch/master/xinxie/dongman.json"
 		},
 		{
+			"key": "zzz动漫",
+			"name": "🧸zzz",
+			"type": 3,
+			"api": "csp_xBPQ",
+			"filterable": 1,
+			"quickSearch": 1,
+			"searchable": 1,
+			"ext": "https://agit.ai/xiaohewanwan/samllmi/raw/branch/master/xinxie/zzzdm1.json"
+		},
+		{
 			"key": "100",
 			"name": "🧸100",
 			"type": 3,
@@ -702,16 +720,6 @@
 			"quickSearch": 1,
 			"searchable": 1,
 			"ext": "https://agit.ai/xiaohewanwan/samllmi/raw/branch/master/xinxie/tvbyunbo.json"
-		},
-		{
-			"key": "zzz动漫",
-			"name": "🧸zzz",
-			"type": 3,
-			"api": "csp_xBPQ",
-			"filterable": 1,
-			"quickSearch": 1,
-			"searchable": 1,
-			"ext": "https://agit.ai/xiaohewanwan/samllmi/raw/branch/master/xinxie/zzzdm1.json"
 		},
 		{
 			"key": "maidou",
@@ -796,6 +804,16 @@
 			"quickSearch": 1,
 			"filterable": 1,
 			"ext": "https://agit.ai/xiaohewanwan/samllmi/raw/branch/master/xinxie/waiju.json"
+		},
+		{
+			"key": "影狗",
+			"name": "🐶影狗",
+			"type": 3,
+			"api": "csp_XYQHiker",
+			"filterable": 1,
+			"quickSearch": 1,
+			"searchable": 1,
+			"ext": "https://agit.ai/xiaohewanwan/samllmi/raw/branch/master/xinxie/yinggou.json"
 		},
 		{
 			"key": "188kan",
@@ -1117,6 +1135,36 @@
 			"ext": "https://agit.ai/xiaohewanwan/samllmi/raw/branch/master/XYQ/%e7%9c%8b%e4%b8%80%e7%9c%8b%e5%bd%b1%e8%a7%86.json"
 		},
 		{
+			"key": "非凡资源",
+			"name": "🐕非凡",
+			"type": 1,
+			"api": "http://cj.ffzyapi.com/api.php/provide/vod/",
+			"searchable": 1,
+			"quickSearch": 1,
+			"categories": [
+				"国产剧",
+				"韩国剧",
+				"香港剧",
+				"台湾剧",
+				"欧美剧",
+				"动作片",
+				"科幻片",
+				"战争片",
+				"奇幻片",
+				"喜剧片",
+				"爱情片",
+				"恐怖片",
+				"犯罪片",
+				"悬疑片",
+				"惊悚片",
+				"剧情片",
+				"冒险片",
+				"记录片",
+				"综艺",
+				"动漫"
+			]
+		},
+		{
 			"key": "优质资源",
 			"name": "📱优质",
 			"type": 1,
@@ -1147,38 +1195,8 @@
 			]
 		},
 		{
-			"key": "优质资源",
-			"name": "🐻优质",
-			"type": 1,
-			"api": "https://api.1080zyku.com/inc/apijson.php/provide/vod/",
-			"searchable": 1,
-			"quickSearch": 1,
-			"categories": [
-				"国产剧",
-				"韩国剧",
-				"香港剧",
-				"台湾剧",
-				"欧美剧",
-				"动作片",
-				"科幻片",
-				"战争片",
-				"奇幻片",
-				"喜剧片",
-				"爱情片",
-				"恐怖片",
-				"犯罪片",
-				"悬疑片",
-				"惊悚片",
-				"剧情片",
-				"冒险片",
-				"记录片",
-				"综艺",
-				"动漫"
-			]
-		},
-		{
 			"key": "push_agent",
-			"name": "推送",
+			"name": "📱推送",
 			"type": 3,
 			"api": "csp_Push",
 			"searchable": 1,
