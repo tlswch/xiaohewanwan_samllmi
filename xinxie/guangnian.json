@@ -1,7 +1,7 @@
 {
 "作者":"sm",
 "站名":"光年",
-"头部集合": "User-Agent$Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.107 Safari/537.36#Referer$https://www1.gntv.live/",
+//"头部集合": "User-Agent$Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.107 Safari/537.36#Referer$https://www1.gntv.live/",
 "主页url":"https://www1.gntv.live/label/new.html",
 "二次截取":"class=\"module-items&&id=\"page",
 "数组":"<a&&no-referrer",
@@ -18,7 +18,7 @@
 "搜索链接":"href=\"&&\"",
 "线路数组":"class=\"module-tab-item tab-item&&</div>",
 "线路标题":"<span>&&</small>[替换:</span><small>>>👉]+集♥",
-"播放数组":"class=\"module-play-list\">&&</div>",
+"播放数组":"class=\"module-play-list-content&&</div>",
 "影片类型":"<div class=\"module-info-tag\"&&立即播放",
 "导演":"导演：&&</div",
 "主演":"主演：&&</div",
