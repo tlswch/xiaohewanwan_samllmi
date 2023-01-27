@@ -1,7 +1,7 @@
 {
 "站名": "电影先生",
 "主页url": "http://dyxs12.com",
-"ua": "手机",
+"头部集合": "User-Agent$Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.107 Safari/537.36#Referer$http://dyxs12.com/",
 "数组": "<div class=\"module-item-cover\">&&/div></div>",
 "图片": "data-src=\"&&\"",
 "标题": "title=\"&&\"",
@@ -16,7 +16,7 @@
 "播放数组": "class=\"scroll-content\">&&</div>",
 "播放列表": "<a&&/a>",
 "播放标题": ">&&</span>",
-"免嗅":"0",
+"免嗅":"1",
 "嗅探词":"",
 "过滤词": "dianying#next=#?url=",
 "搜索url": "http://dyxs12.com/search-{wd}-------------/",
