@@ -18,7 +18,7 @@
 "播放标题": ">&&</span>",
 "免嗅":"0",
 "嗅探词":"",
-"过滤词": "dianying#next=#?url=#=http",
+"过滤词": "dianying#next=#?url=",
 "搜索url": "http://dyxs12.com/search-{wd}-------------/",
 "搜索模式": "1",
 "搜索二次截取": "",
