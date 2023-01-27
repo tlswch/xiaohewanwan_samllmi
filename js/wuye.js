@@ -3,7 +3,7 @@ var rule = {
     host: 'http://rxwuye.com',
     class_name:'电影&电视剧&综艺&动漫',
     class_url:'1&2&3&4',
-    homeUrl: 'http://rxwuye.com',
+    homeUrl: 'https://rxwuye.com',
     searchUrl: '/index.php/ajax/suggest?mid=1&wd=**',
     searchable: 2,
     quickSearch: 1,
