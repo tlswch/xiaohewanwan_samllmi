@@ -1,7 +1,7 @@
 {
 "作者":"sm",
 "站名":"光年",
-"主页url":"https://www1.gntv.live/",
+"主页url":"https://www1.gntv.live/label/new.html",
 "图片":"data-original=\"&&\"",
 "标题":"title=\"&&\"",
 "链接":"href=\"&&\"",
@@ -14,7 +14,7 @@
 "搜索副标题":"module-item-note\">&&</div>+'+module-item-note\"&&</div>",
 "搜索链接":"href=\"&&\"",
 "线路数组":"class=\"module-tab-item tab-item&&</div>",
-"线路标题":"<span>&&</small>[替换:</span><small>>>♡]+集♡",
+"线路标题":"<span>&&</small>[替换:</span><small>>>💤]+集💤",
 "播放数组":"class=\"module-play-list-content&&</div>",
 "影片类型":"<div class=\"module-info-tag\"&&立即播放",
 "导演":"导演：&&</div",
@@ -23,7 +23,7 @@
 "播放列表":"<a&&/a>",
 "播放标题":"<span>&&</span>",
 "播放链接":"href=\"&&\"",
-"免嗅":"0",
+"免嗅":"1",
 "分类":"光年影视$1#光年剧集$2#光年综艺$5#光年动漫$4#光年B站$3",
 "分类url":"https://www1.gntv.live/vod/show/class/{class}/area/{area}/by/{by}/id/{cateId}/page/{catePg}/lang/{lang}/year/{year}.html",
 "筛选":{
