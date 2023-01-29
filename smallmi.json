@@ -1,5 +1,6 @@
+
 {
-	"spider": "http://smallmi.xiaohewanwan.love:63/jar/xo.txt;md5;5ca738b25eff60fe78929fbb56996dce",
+	"spider": "http://smallmi.xiaohewanwan.love:63/jar/xo.txt;md5;7752af3c1172ecb63c2d077fd017d0c3",
 	"wallpaper": "http://www.kf666888.cn/api/tvbox/img",
 	"lives": [{
 		"group": "redirect",
@@ -17,12 +18,6 @@
 			]
 		},
 		{
-			"host": "dyxs20.com",
-			"rule": [
-				".m3u8"
-			]
-		},
-		{
 			"host": "piaku.cc",
 			"rule": [
 				".mp4",
@@ -35,6 +30,14 @@
 			"host": "brovod.com",
 			"rule": [
 				".m3u8"
+			]
+		},
+		{
+			"host": "https://www1.gntv.live",
+			"rule": [
+				".m3u8",
+				"m3u8?",
+				"4k.clyjx.cn:97"
 			]
 		},
 		{
@@ -78,13 +81,6 @@
 				".m3u8",
 				"m3u8?",
 				"vip.ffzy-play4.com"
-			]
-		},
-		{
-			"host": "dadou.pro",
-			"rule": [
-				".m3u8",
-				"m3u8?"
 			]
 		},
 		{
@@ -173,14 +169,13 @@
 			"filterable": 1
 		},
 		{
-			"key": "js豆瓣2",
+			"key": "dr_豆瓣",
 			"name": "🤖旧豆瓣",
-			"type": 3,
-			"api": "http://xn--m7r412advb92j21st65a.tk/dr/影魔.js",
-			"ext": "http://xn--m7r412advb92j21st65a.tk/dr/js/豆瓣.js",
+			"type": 4,
+			"api": "https://t4.secan.icu/vod?sites=all&ali_token=&douban=",
 			"searchable": 0,
 			"quickSearch": 0,
-			"filterable": 1
+			"filterable": 0
 		},
 		{
 			"key": "js360",
@@ -203,24 +198,15 @@
 			"ext": "8e3aefcba838d8dc5102ac786719d837",
 			"jar": "http://smallmi.xiaohewanwan.love:63/jar/ts.jar;md5;4ab8ad5008d89d9101204dd5e54c4d47"
 		},
-
 		{
-			"key": "csp_Alist2",
-			"name": "🐰小丫盘",
-			"type": 3,
-			"api": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/libs/alist.min.js",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 1,
-			"ext": "http://101.34.67.237/txt/json/alist.json"
-		},
-		{
-			"key": "AList",
-			"name": "🐰网盘聚",
+			"key": "AppTT",
+			"name": "🦁图图",
 			"type": "3",
-			"api": "csp_AList",
+			"api": "csp_Dora",
 			"searchable": "1",
-			"ext": "https://agit.ai/xiaohewanwan/samllmi/raw/branch/master/xinxie/alist.json"
+			"quickSearch": "1",
+			"filterable": "1",
+			"ext": "110c922de7d69804467fb83d3bb664b5"
 		},
 		{
 			"key": "Kunyu",
@@ -243,6 +229,15 @@
 			"ext": "https://agit.ai/xiaohewanwan/samllmi/raw/branch/master/xinxie/fantuan.json"
 		},
 		{
+			"key": "jiguang",
+			"name": "🐧腾讯",
+			"type": 3,
+			"api": "csp_QQ",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1
+		},
+		{
 			"key": "mangguo",
 			"name": "🥭芒果",
 			"type": 3,
@@ -252,16 +247,6 @@
 			"filterable": 1
 		},
 		{
-			"key": "AppTT",
-			"name": "🦁图图",
-			"type": "3",
-			"api": "csp_Dora",
-			"searchable": "1",
-			"quickSearch": "1",
-			"filterable": "1",
-			"ext": "110c922de7d69804467fb83d3bb664b5"
-		},
-		{
 			"key": "LiteApple",
 			"name": "🍎苹果",
 			"type": "3",
@@ -269,15 +254,6 @@
 			"searchable": "1",
 			"quickSearch": "1",
 			"filterable": "1"
-		},
-		{
-			"key": "jiguang",
-			"name": "🐧腾讯",
-			"type": 3,
-			"api": "csp_QQ",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 1
 		},
 		{
 			"key": "兔兔",
@@ -368,15 +344,16 @@
 			"ext": "https://agit.ai/xiaohewanwan/atest/raw/branch/master/4kvm.json"
 		},
 		{
-			"key": "Zhaozy",
-			"name": "💮资源",
-			"type": "3",
-			"api": "csp_Zhaozy",
-			"searchable": "1",
-			"quickSearch": "1",
-			"filterable": "1",
-			"ext": "http://我不是.肥猫.love:63/token.php"
-		},
+            "key": "Zhaozy",
+            "name": "💮资源",
+            "type": 3,
+            "api": "csp_Zhaozy",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0,
+			"ext": "http://ali.饭太硬.ml/tok$$$xiaohewanwan$$$122533"
+           
+        },
 		{
 			"key": "YiSo",
 			"name": "💮易搜",
@@ -428,6 +405,24 @@
 			"ext": "https://agit.ai/xiaohewanwan/samllmi/raw/branch/master/xinxie/bilisousuo.json"
 		},
 		{
+			"key": "csp_Alist2",
+			"name": "🐰小丫",
+			"type": 3,
+			"api": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/libs/alist.min.js",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+			"ext": "http://101.34.67.237/txt/json/alist.json"
+		},
+		{
+			"key": "AList",
+			"name": "🐰盘聚",
+			"type": "3",
+			"api": "csp_AList",
+			"searchable": "1",
+			"ext": "https://agit.ai/xiaohewanwan/samllmi/raw/branch/master/xinxie/alist.json"
+		},
+		{
 			"key": "348",
 			"name": "🌸348",
 			"type": 3,
@@ -439,15 +434,15 @@
 			"ext": "https://agit.ai/xiaohewanwan/samllmi/raw/branch/master/bb/348languang.json"
 		},
 		{
-            "key": "freeok",
-            "name": "🌸FKE",
-            "type": 3,
-            "api": "csp_xBPQ",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "https://agit.ai/xiaohewanwan/samllmi/raw/branch/master/xinxie/freeok.json"
-        },
+			"key": "freeok",
+			"name": "🌸FKE",
+			"type": 3,
+			"api": "csp_xBPQ",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+			"ext": "https://agit.ai/xiaohewanwan/samllmi/raw/branch/master/xinxie/freeok.json"
+		},
 		{
 			"key": "咕噜",
 			"name": "🐹咕噜",
@@ -490,8 +485,28 @@
 			"ext": "https://agit.ai/xiaohewanwan/samllmi/raw/branch/master/xinxie/dami.json"
 		},
 		{
+			"key": "shipinku",
+			"name": "🍍影库",
+			"type": 3,
+			"api": "csp_xBPQ",
+			"filterable": 1,
+			"quickSearch": 1,
+			"searchable": 1,
+			"ext": "https://share.nite07.com/api/v3/file/source/38034/shipinku.json?sign=wfELwI-nPW456Gd_3lnnXGgQ7K1eFHZ38sCDGHJGZMQ%3D%3A0"
+		},
+		{
+			"key": "云播",
+			"name": "🦚云播",
+			"type": 3,
+			"api": "csp_xBPQ",
+			"filterable": 1,
+			"quickSearch": 1,
+			"searchable": 1,
+			"ext": "https://agit.ai/xiaohewanwan/samllmi/raw/branch/master/xinxie/tvbyunbo.json"
+		},
+		{
 			"key": "南柯",
-			"name": "🤭南柯",
+			"name": " 🍇南柯",
 			"type": 3,
 			"api": "csp_Nkdy",
 			"searchable": 1,
@@ -500,7 +515,7 @@
 		},
 		{
 			"key": "Auete",
-			"name": "🤭奥特",
+			"name": " 🍇奥特",
 			"type": "3",
 			"api": "csp_Auete",
 			"searchable": "1",
@@ -509,7 +524,7 @@
 		},
 		{
 			"key": "Lib",
-			"name": "😶利奥",
+			"name": " 🍭利奥",
 			"type": "3",
 			"api": "csp_Lib",
 			"searchable": "1",
@@ -518,7 +533,7 @@
 		},
 		{
 			"key": "csp_Cokemv",
-			"name": "😶可乐",
+			"name": " 🍭可乐",
 			"type": 3,
 			"api": "csp_Cokemv",
 			"searchable": 1,
@@ -528,7 +543,7 @@
 		},
 		{
 			"key": "Ddys",
-			"name": "😏低端",
+			"name": " 🍥低端",
 			"type": 3,
 			"api": "csp_Ddrk",
 			"searchable": 1,
@@ -537,7 +552,7 @@
 		},
 		{
 			"key": "Zxzj",
-			"name": "😏在线",
+			"name": " 🍥在线",
 			"type": "3",
 			"api": "csp_Zxzj",
 			"searchable": "1",
@@ -622,7 +637,7 @@
 		},
 		{
 			"key": "IKan",
-			"name": "🧸爱看",
+			"name": "🌼爱看",
 			"type": "3",
 			"api": "csp_Dora",
 			"searchable": "1",
@@ -633,7 +648,7 @@
 		},
 		{
 			"key": "Hei1",
-			"name": "😎石榴",
+			"name": "🌼 石榴",
 			"type": "3",
 			"api": "csp_Dora",
 			"searchable": "1",
@@ -644,7 +659,7 @@
 		},
 		{
 			"key": "Dm84",
-			"name": "😎巴士",
+			"name": "🌻巴士",
 			"type": "3",
 			"api": "csp_Dm84",
 			"searchable": "1",
@@ -653,7 +668,7 @@
 		},
 		{
 			"key": "17kan",
-			"name": "🧸体育",
+			"name": "🌻体育",
 			"type": 3,
 			"api": "csp_XYQBiu",
 			"searchable": 1,
@@ -663,7 +678,7 @@
 		},
 		{
 			"key": "qiaokeli",
-			"name": "🧸点播",
+			"name": "🪴点播",
 			"type": 3,
 			"api": "csp_XYQHiker",
 			"searchable": 1,
@@ -673,7 +688,7 @@
 		},
 		{
 			"key": "fanqie",
-			"name": "️🧸番茄",
+			"name": "️🪴番茄",
 			"type": 3,
 			"api": "csp_XYQHiker",
 			"searchable": 1,
@@ -683,7 +698,7 @@
 		},
 		{
 			"key": "NT动漫",
-			"name": "🧸N T",
+			"name": "🎄N T",
 			"type": 3,
 			"api": "csp_xBPQ",
 			"filterable": 1,
@@ -693,7 +708,7 @@
 		},
 		{
 			"key": "zzz动漫",
-			"name": "🧸zzz",
+			"name": "🎄zzz",
 			"type": 3,
 			"api": "csp_xBPQ",
 			"filterable": 1,
@@ -703,7 +718,7 @@
 		},
 		{
 			"key": "100",
-			"name": "🧸100",
+			"name": "🦚100",
 			"type": 3,
 			"api": "csp_xBPQ",
 			"filterable": 1,
@@ -712,18 +727,8 @@
 			"ext": "https://agit.ai/xiaohewanwan/samllmi/raw/branch/master/xinxie/100.json"
 		},
 		{
-			"key": "云播",
-			"name": "🧸云播",
-			"type": 3,
-			"api": "csp_xBPQ",
-			"filterable": 1,
-			"quickSearch": 1,
-			"searchable": 1,
-			"ext": "https://agit.ai/xiaohewanwan/samllmi/raw/branch/master/xinxie/tvbyunbo.json"
-		},
-		{
 			"key": "maidou",
-			"name": "🧸麦豆",
+			"name": "💐麦豆",
 			"type": 3,
 			"api": "csp_xBPQ",
 			"filterable": 1,
@@ -732,18 +737,18 @@
 			"ext": "https://agit.ai/xiaohewanwan/samllmi/raw/branch/master/bb/maidou.json"
 		},
 		{
-			"key": "蓝光",
-			"name": "🧸蓝光",
+			"key": "ledong",
+			"name": "💐乐动",
 			"type": 3,
 			"api": "csp_xBPQ",
 			"filterable": 1,
 			"quickSearch": 1,
 			"searchable": 1,
-			"ext": "https://agit.ai/xiaohewanwan/samllmi/raw/branch/master/xinxie/languang.json"
+			"ext": "https://share.nite07.com/api/v3/file/source/38022/ledong.json?sign=w1FyxoO_QRngTvSzWawZeHBWSx1agL2Mlnn82dKpzXg%3D%3A0"
 		},
 		{
 			"key": "zmozhatu",
-			"name": "🧸莫图",
+			"name": "🍀莫图",
 			"type": 3,
 			"api": "csp_xBPQ",
 			"filterable": 1,
@@ -752,8 +757,18 @@
 			"ext": "https://agit.ai/xiaohewanwan/samllmi/raw/branch/master/xinxie/mozhatu.json"
 		},
 		{
+			"key": "guangnian",
+			"name": "🍀光年",
+			"type": 3,
+			"api": "csp_xBPQ",
+			"filterable": 1,
+			"quickSearch": 1,
+			"searchable": 1,
+			"ext": "https://share.nite07.com/api/v3/file/source/38023/gn.json?sign=gR8zRlEyE_tf6b9qaHTSEIkBTzZq_c21WEZDZ3TrIkc%3D%3A0"
+		},
+		{
 			"key": "bitu",
-			"name": "🧸哔兔",
+			"name": "🌷哔兔",
 			"type": "3",
 			"api": "csp_xBPQ",
 			"searchable": "1",
@@ -763,7 +778,7 @@
 		},
 		{
 			"key": "兄弟",
-			"name": "🧸兄弟",
+			"name": "🌷兄弟",
 			"type": 3,
 			"api": "csp_xBPQ",
 			"filterable": 1,
@@ -773,7 +788,7 @@
 		},
 		{
 			"key": "91free",
-			"name": "🧸free",
+			"name": "🐰free",
 			"type": 3,
 			"api": "csp_xBPQ",
 			"filterable": 1,
@@ -783,21 +798,21 @@
 		},
 		{
 			"key": "云锦",
-			"name": "🧸云镜",
+			"name": "🐰云镜",
 			"type": 3,
 			"api": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/libs/drpy2.min.js",
 			"ext": "https://agit.ai/xiaohewanwan/samllmi/raw/branch/master/js/yunjing.js"
 		},
 		{
 			"key": "wuyw",
-			"name": "🧸午夜",
+			"name": "🐼午夜",
 			"type": 3,
 			"api": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/libs/drpy2.min.js",
 			"ext": "https://agit.ai/xiaohewanwan/samllmi/raw/branch/master/js/wuye.js"
 		},
 		{
 			"key": "外剧",
-			"name": "🧸外剧",
+			"name": "🐼外剧",
 			"type": 3,
 			"api": "csp_XYQHiker",
 			"searchable": 1,
@@ -817,7 +832,7 @@
 		},
 		{
 			"key": "188kan",
-			"name": "️🧸188",
+			"name": "️🐶188",
 			"type": 3,
 			"api": "csp_XYQHiker",
 			"searchable": 1,
@@ -827,7 +842,7 @@
 		},
 		{
 			"key": "诺讯",
-			"name": "️🧸诺讯",
+			"name": "️🐻‍❄️诺讯",
 			"type": 3,
 			"api": "csp_XYQHiker",
 			"searchable": 1,
@@ -837,7 +852,7 @@
 		},
 		{
 			"key": "xingge",
-			"name": "️🧸星哥",
+			"name": "️🐻‍❄️星哥",
 			"type": 3,
 			"api": "csp_XYQHiker",
 			"searchable": 1,
@@ -847,7 +862,7 @@
 		},
 		{
 			"key": "kannaifei",
-			"name": "️🧸看菲",
+			"name": "️🐧看菲",
 			"type": 3,
 			"api": "csp_XYQHiker",
 			"searchable": 1,
@@ -857,7 +872,7 @@
 		},
 		{
 			"key": "饺子",
-			"name": "️🧸饺子",
+			"name": "️🐧饺子",
 			"type": 3,
 			"api": "csp_XYQHiker",
 			"searchable": 1,
@@ -867,7 +882,7 @@
 		},
 		{
 			"key": "naifeigou",
-			"name": "️🧸奈狗",
+			"name": "️🌽奈狗",
 			"type": 3,
 			"api": "csp_XYQHiker",
 			"searchable": 1,
@@ -877,7 +892,7 @@
 		},
 		{
 			"key": "xiaogou",
-			"name": "️🧸小狗",
+			"name": "️🌽小狗",
 			"type": 3,
 			"api": "csp_XYQHiker",
 			"searchable": 1,
@@ -887,7 +902,7 @@
 		},
 		{
 			"key": "kankan",
-			"name": "️🧸看看",
+			"name": "️🥭看看",
 			"type": 3,
 			"api": "csp_XYQHiker",
 			"searchable": 1,
@@ -897,7 +912,7 @@
 		},
 		{
 			"key": "达达龟",
-			"name": "🧸达龟",
+			"name": "🥭达龟",
 			"type": 3,
 			"api": "csp_XYQHiker",
 			"searchable": 1,
@@ -908,7 +923,7 @@
 		},
 		{
 			"key": "素白白",
-			"name": "️🧸素白",
+			"name": "️🥗素白",
 			"type": 3,
 			"api": "csp_XYQHiker",
 			"searchable": 1,
@@ -919,7 +934,7 @@
 		},
 		{
 			"key": "零度",
-			"name": "️🧸零度",
+			"name": "️🥗零度",
 			"type": 3,
 			"api": "csp_XYQHiker",
 			"searchable": 1,
@@ -930,7 +945,7 @@
 		},
 		{
 			"key": "007",
-			"name": "️🧸零七",
+			"name": "️🦩零七",
 			"type": 3,
 			"api": "csp_XYQHiker",
 			"searchable": 1,
@@ -941,7 +956,7 @@
 		},
 		{
 			"key": "荷塘影视",
-			"name": "️🧸荷塘",
+			"name": "️🦩荷塘",
 			"type": 3,
 			"api": "csp_XYQHiker",
 			"searchable": 1,
@@ -952,7 +967,7 @@
 		},
 		{
 			"key": "um",
-			"name": "️🧸U M",
+			"name": "️🦖U M",
 			"type": 3,
 			"api": "csp_XYQHiker",
 			"searchable": 1,
@@ -962,19 +977,8 @@
 
 		},
 		{
-			"key": "看哔哩",
-			"name": "🧸看哔",
-			"type": 3,
-			"api": "csp_XYQHiker",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 1,
-			"ext": "https://agit.ai/xiaohewanwan/samllmi/raw/branch/master/XYQ/kanbibi.json"
-
-		},
-		{
 			"key": "baipiao",
-			"name": "️🧸白嫖",
+			"name": "️🍈白嫖",
 			"type": 3,
 			"api": "csp_XYQHiker",
 			"searchable": 1,
@@ -985,7 +989,7 @@
 		},
 		{
 			"key": "naifeitv",
-			"name": "️🧸奈飞",
+			"name": "️🍈奈飞",
 			"type": 3,
 			"api": "csp_XYQHiker",
 			"searchable": 1,
@@ -996,7 +1000,7 @@
 		},
 		{
 			"key": "伊人",
-			"name": "️🧸伊人",
+			"name": "️🍬伊人",
 			"type": 3,
 			"api": "csp_XYQHiker",
 			"searchable": 1,
@@ -1007,7 +1011,7 @@
 		},
 		{
 			"key": "伊雪湾",
-			"name": "️🧸伊雪",
+			"name": "️🍬伊雪",
 			"type": 3,
 			"api": "csp_XYQHiker",
 			"searchable": 1,
@@ -1017,30 +1021,8 @@
 
 		},
 		{
-			"key": "思古",
-			"name": "️🧸思古",
-			"type": 3,
-			"api": "csp_XYQHiker",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 1,
-			"ext": "https://agit.ai/xiaohewanwan/samllmi/raw/branch/master/XYQ/siguzhuiju.json"
-
-		},
-		{
-			"key": "naifei8",
-			"name": "️🧸奶啡",
-			"type": 3,
-			"api": "csp_XYQHiker",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 1,
-			"ext": "https://agit.ai/xiaohewanwan/samllmi/raw/branch/master/XYQ/naifei8.json"
-
-		},
-		{
 			"key": "90影视",
-			"name": "️🧸90ys",
+			"name": "️🍥90ys",
 			"type": 3,
 			"api": "csp_XYQHiker",
 			"searchable": 1,
@@ -1051,7 +1033,7 @@
 		},
 		{
 			"key": "往往影视",
-			"name": "️🧸往往",
+			"name": "️🍥往往",
 			"type": 3,
 			"api": "csp_XYQHiker",
 			"searchable": 1,
@@ -1062,19 +1044,8 @@
 
 		},
 		{
-			"key": "映迷影视",
-			"name": "️🧸映迷",
-			"type": 3,
-			"api": "csp_XYQHiker",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 1,
-			"ext": "http://w.g9.pub:66/2251087869/smallmi/xyq/%E6%98%A0%E8%BF%B7.json"
-
-		},
-		{
 			"key": "zizi",
-			"name": "️🧸子子",
+			"name": "️🍿子子",
 			"type": 3,
 			"api": "csp_XYQHiker",
 			"searchable": 1,
@@ -1085,7 +1056,7 @@
 		},
 		{
 			"key": "真不卡",
-			"name": "️🧸不卡",
+			"name": "️🍿不卡",
 			"type": 3,
 			"api": "csp_XYQHiker",
 			"searchable": 1,
@@ -1096,7 +1067,7 @@
 		},
 		{
 			"key": "imax",
-			"name": "🧸imax",
+			"name": "🧃imax",
 			"type": 3,
 			"api": "csp_XYQHiker",
 			"searchable": 1,
@@ -1106,7 +1077,7 @@
 		},
 		{
 			"key": "aifei",
-			"name": "️🧸艾菲",
+			"name": "️🧃艾菲",
 			"type": 3,
 			"api": "csp_XYQHiker",
 			"searchable": 1,
@@ -1116,7 +1087,7 @@
 		},
 		{
 			"key": "霹雳",
-			"name": "️🧸霹雳",
+			"name": "️🍡霹雳",
 			"type": 3,
 			"api": "csp_XYQHiker",
 			"searchable": 1,
@@ -1126,7 +1097,7 @@
 		},
 		{
 			"key": "看一看",
-			"name": "️🧸一看",
+			"name": "️🍡一看",
 			"type": 3,
 			"api": "csp_XYQHiker",
 			"searchable": 1,
@@ -1136,7 +1107,7 @@
 		},
 		{
 			"key": "非凡资源",
-			"name": "🐕非凡",
+			"name": "🎟非凡",
 			"type": 1,
 			"api": "http://cj.ffzyapi.com/api.php/provide/vod/",
 			"searchable": 1,
@@ -1166,7 +1137,7 @@
 		},
 		{
 			"key": "优质资源",
-			"name": "📱优质",
+			"name": "🎟优质",
 			"type": 1,
 			"api": "https://api.1080zyku.com/inc/apijson.php/provide/vod/",
 			"searchable": 1,
@@ -1228,7 +1199,7 @@
 		{
 			"name": "Q1官解",
 			"type": 1,
-			"url": "https://parse.ikunfk.cc/parse/sign/20221230?url=",
+			"url": "http://150.158.175.250:88/parse/sign/38c0c56102aff0059284be4e9f54eb11?url=",
 			"header": {
 				"User-Agent": "Mozilla/5.0"
 			}
