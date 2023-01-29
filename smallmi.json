@@ -1257,6 +1257,14 @@
 			}
 		},
 		{
+            "name": "星辰云解析",
+            "type": 1,
+            "url": "https://json.xn--9kq078cdn3a.cc/api/?key=22ea7ae4746073f5ea13e9079c024c7d&url=",
+            "header": {
+                "User-Agent": "Mozilla/5.0"
+            }
+        },
+		{
 			"name": "gg解析",
 			"type": 0,
 			"url": "http://jx.fuqizhishi.com:63/API.php?appkey=feimao&url=",
@@ -1285,7 +1293,10 @@
 					"xigua",
 					"CL4K",
 					"西瓜"
-				]
+				],
+				 "header": {
+                "User-Agent": "Mozilla/5.0"
+            }
 			}
 		},
 		{
