@@ -296,6 +296,17 @@
 			"ext": "https://agit.ai/xiaohewanwan/jar/raw/branch/main/xb/renren.json"
 		},
 		{
+			"key": "bulei",
+			"name": "🌽布蕾",
+			"type": 3,
+			"api": "csp_xBPQ",
+			"filterable": 1,
+			"quickSearch": 1,
+			"searchable": 1,
+			"playerType": "",
+			"ext": "https://share.nite07.com/api/v3/file/source/38089/bulei.json?sign=SGy-LFcUA7S0A0T72TI4vWecrzd2dg6m-LsWbdqqDqc%3D%3A0"
+		},
+		{
 			"key": "Kuaikan",
 			"name": "😋快看",
 			"type": 3,
@@ -1247,9 +1258,9 @@
 			}
 		},
 		{
-			"name": "兰花解析",
+			"name": "gg解析",
 			"type": 0,
-			"url": "http://pandown.pro/app/ysmjx.php?url=",
+			"url": "http://jx.fuqizhishi.com:63/API.php?appkey=feimao&url=",
 			"ext": {
 				"flag": [
 					"rx",
@@ -1281,7 +1292,7 @@
 		{
 			"name": "1920",
 			"type": 1,
-			"url": "https://www.1920lgzy.top/json.php?url=",
+			"url": "https://tljiaqing.nde.tw/m3u8/?url=",
 			"ext": {
 				"header": {
 					"User-Agent": "Mozilla/5.0"
