@@ -300,12 +300,10 @@
 			"key": "bulei",
 			"name": "🌽布蕾",
 			"type": 3,
-			"api": "csp_xBPQ",
+			"api": "csp_BuLei",
 			"filterable": 1,
 			"quickSearch": 1,
-			"searchable": 1,
-			"playerType": "",
-			"ext": "https://share.nite07.com/api/v3/file/source/38089/bulei.json?sign=SGy-LFcUA7S0A0T72TI4vWecrzd2dg6m-LsWbdqqDqc%3D%3A0"
+			"searchable": 1
 		},
 		{
 			"key": "Kuaikan",
