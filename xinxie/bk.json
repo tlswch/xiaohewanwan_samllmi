@@ -1,5 +1,5 @@
 {
-"作者":"蓝魔",
+"作者":"",
 "站名":"真不卡影视",
 "主页url":"https://www.zbkk.net",
 "免嗅":"1",
@@ -17,7 +17,8 @@
 "搜索图片":"data-original=\"&&\"",
 "搜索标题":"title=\"&&\"",
 "搜索链接":"href=\"&&\"",
-"搜索链接前缀":"https://www.zbkk.net",
+"搜索链接前缀":"https://www.zbkk.net/zbkdetail/",
+"搜索链接后缀":".html",
 "分类":"电影$1#电视剧$2#动漫$4#综艺$3",
 "分类url":"https://www.zbkk.net/vodshow/{cateId}-{area}-{by}-{class}-----{catePg}---{year}.html",
 "筛选": {
