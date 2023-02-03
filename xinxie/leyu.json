@@ -1,6 +1,7 @@
 {
 "作者":"sm",
 "站名":"乐鱼影视",
+
 "主页url":"https://www.leyupro.com",
 "二次截取":"",
 "数组":"class=\"aplusexp&&</a>",
@@ -34,7 +35,7 @@
 {
 "lyMovie":[
 {
-"key":"cateId",
+"key":"",
 "name":"类型",
 "value":[
 {"v":"","n":"全部"},
@@ -165,7 +166,7 @@
 ],
 "lyTv":[
 {
-"key":"cateId",
+"key":"0",
 "name":"类型",
 "value":[
 {"n":"全部","v":""},
@@ -276,7 +277,7 @@
 ],
 "lyVariety":[
 {
-"key":"cateId",
+"key":"",
 "name":"类型",
 "value":[
 {"n":"全部","v":""},
@@ -385,7 +386,7 @@
 ],
 "lyCartoon":[
 {
-"key":"cateId",
+"key":"",
 "name":"类型",
 "value":[
 {"n":"全部","v":""},
