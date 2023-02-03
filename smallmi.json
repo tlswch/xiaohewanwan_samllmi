@@ -504,6 +504,17 @@
 			"ext": "https://agit.ai/xiaohewanwan/samllmi/raw/branch/master/xinxie/dami.json"
 		},
 		{
+			"key": "xiangqu",
+			"name": "👍享趣",
+			"type": 3,
+			"api": "csp_xBPQ",
+			"filterable": 1,
+			"quickSearch": 1,
+			"searchable": 1,
+			"playerType": "",
+			"ext": "https://agit.ai/xiaohewanwan/samllmi/raw/branch/master/xinxie/xiangqu.json"
+		},
+		{
 			"key": "shipinku",
 			"name": "🍍影库",
 			"type": 3,
