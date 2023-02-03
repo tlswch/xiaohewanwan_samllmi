@@ -453,6 +453,16 @@
 			"ext": "https://agit.ai/xiaohewanwan/samllmi/raw/branch/master/xinxie/freeok.json"
 		},
 		{
+			"key": "zzz鱼",
+			"name": "🐟乐鱼",
+			"type": 3,
+			"api": "csp_xBPQ",
+			"filterable": 1,
+			"quickSearch": 1,
+			"searchable": 1,
+			"ext": "https://agit.ai/xiaohewanwan/samllmi/raw/branch/master/xinxie/leyu.json"
+		},
+		{
 			"key": "咕噜",
 			"name": "🐹咕噜",
 			"type": 3,
