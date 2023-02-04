@@ -31,7 +31,7 @@
 "搜索链接":"href=\"&&\"",
 "搜索链接前缀":"https://www.348z.com",	
 "分类":"电影$1#电视剧$2#综艺$3#动漫$4",
-"分类url":"https://www.348z.com/vodshow/{area}/{class}/id/{cateId}/page/{catePg}/{year}.html",
+"分类url":"https://www.348z.com/vodshow/{area}/{class}/id/{cateId}/page/{catePg}/{year}.html;;val",
 "筛选": {
 "1":[
 {"key":"class","name":"剧情","value":[
