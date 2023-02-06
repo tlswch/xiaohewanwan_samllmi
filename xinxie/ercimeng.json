@@ -12,6 +12,7 @@
 "跳转播放链接": "https://player.ccmoe.cc/art.php?danmu=true&p2p=true&url=+Base64(vod_class*url\":\"&&\")",
 "二次次跳转播放链接": "\"url\"*\"&&\"",
 "搜索模式":"1",
+"免嗅":"1",
 "分类":"电影$1#电视剧$2#综艺$3#动漫$4",
 "分类url":"https://ys.ccmoe.cc/vodshow/{cateId}--{by}--{lang}----{catePg}---{year}/;;v",
 "筛选":{
