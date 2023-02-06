@@ -13,7 +13,7 @@
 "二次次跳转播放链接": "\"url\"*\"&&\"",
 "搜索模式":"1",
 "分类":"电影$1#电视剧$2#综艺$3#动漫$4",
-"分类url":"https://ys.ccmoe.cc/vodshow/{cateId}--{by}--{lang}----{catePg}---{year}/",
+"分类url":"https://ys.ccmoe.cc/vodshow/{cateId}--{by}--{lang}----{catePg}---{year}/;;v",
 "筛选":{
   
 "1":[
