@@ -4,7 +4,7 @@
   "主页url": "https://tv1920.com",
   "分类": "电影&电视剧&综艺&动漫&记录",
   "分类值": "1&2&3&4&5",
-  "分类url": "https://tv1920.com/vodshow/{cateId}--------{catePg}---/;;Tval",
+  "分类url": "https://tv1920.com/vodshow/{cateId}-{area}-{by}-{calss}-----{catePg}---{year}/;;Tval",
   "副标题": "module-item-note\">&&</div>",
   "搜索模式": "0",
   "搜索后缀":"/index.php/vod/detail/id/",
