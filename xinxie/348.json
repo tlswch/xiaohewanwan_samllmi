@@ -30,7 +30,7 @@
 
 	
 "分类":"电影$1#电视剧$2#综艺$3#动漫$4",
-"分类url":"https://www.348z.com/vodshow/{area}/{class}/id/{cateId}/page/{catePg}/{year}.html;;val",
+"分类url":"https://www.348z.com/vodshow/{area}/{class}/id/{cateId}/page/{catePg}/{year}.html;;v",
 "筛选": {
 "1":[
 {"key":"class","name":"剧情","value":[
