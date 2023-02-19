@@ -1,27 +1,6 @@
 {
   "drives": [
-    {
-        "name" : "小雅",
-        "server" : "http://alistxy.ganggang.live:5678",
-        "startPage" : "/",
-        "showAll" : false,
-        "search" : true,
-        "params" : {
-            "/abc" : {
-                "password" : "123"
-            },
-            "/abc/abc" : {
-                "password" : "123"
-            }
-        }
-    },
-      {
-        "name": "肥猫",
-      "server": "https://alist.ys-box.repl.co/",
-        "startPage" : "/",
-        "showAll" : false,
-        "search" : true
-    },      
+         
     {
       "name": "資源小站",
       "server": "https://960303.xyz"
