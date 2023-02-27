@@ -15,7 +15,7 @@
 "搜索标题":"alt=\"&&\"",
 "搜索链接":"href='&&'",
 "搜索副标题":"class=\"pic-text text-right\">&&</span>",
-"线路数组":"class=\"title&&/h3>",
+"线路数组":"<h3 class=\"title&&/h3>",
 "线路标题":">&&<",
 "播放数组":"class=\"stui-content__playlist column10 clearfix\">&&</ul>",
 "影片类型":"类型：&&</p>",
