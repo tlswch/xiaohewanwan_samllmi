@@ -29,4 +29,4 @@
 "二次跳转播放链接": "url*'&&'",
 "免嗅":"1",
 "分类":"电影$1#电视剧$2#综艺$3#动漫$4",
-"分类url":"http://zpofuphz.cfd/index.php/vod/show/area/{area}/id/{cateId}/page/{catePg}.html;;Tv"}
+"分类url":"http://zpofuphz.cfd/index.php/vod/show/area/{area}/id/{cateId}/page/{catePg}.html;;v"}
