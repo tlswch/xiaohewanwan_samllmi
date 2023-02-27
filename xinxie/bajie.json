@@ -6,7 +6,7 @@
 "数组":"class=\"stui-vodlist__thumb&&</a",
 "图片":"data-lazysrc=\"&&\"",
 "标题":"title=\"&&\"",
-"链接":"href=\"&&\"",
+"链接":"href=\"&&\"[替换:detail>>play]",
 "副标题":"class=\"pic-text text-right\">&&</span>",
 "搜索url":"http://zpofuphz.cfd/index.php/vod/search/page/1/wd/{wd}.html",
 "搜索模式":"1",
